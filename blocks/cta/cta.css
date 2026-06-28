@@ -1,0 +1,10 @@
+.cta { background: var(--color-ink); color: #fff; padding-block: var(--section-padding); text-align: center; }
+.cta.surface { background: var(--color-surface); color: var(--color-ink); }
+.cta-inner { max-width: 760px; }
+.cta :is(h2,h3) { color: inherit; font-size: clamp(2rem, 5vw, 3.5rem); margin-bottom: var(--spacing-md); }
+.cta.surface :is(h2,h3) { color: var(--color-ink); }
+.cta p { font-size: var(--body-lg); margin-bottom: var(--spacing-lg); opacity: 0.9; }
+.cta .btn-group { justify-content: center; }
+.cta .btn-secondary { color: #fff; border-color: #fff; }
+.cta .btn-secondary:hover { background: #fff; color: var(--color-ink); }
+.cta.surface .btn-secondary { color: var(--color-ink); border-color: var(--color-ink); }

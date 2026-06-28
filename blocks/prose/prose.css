@@ -1,0 +1,10 @@
+.prose { padding-block: var(--section-padding); }
+.prose.surface { background: var(--color-surface); }
+.prose-inner { max-width: 760px; }
+.prose.wide .prose-inner { max-width: var(--max-width); }
+.prose-inner :is(h2,h3) { font-size: clamp(1.6rem, 4vw, 2.6rem); margin: var(--spacing-xl) 0 var(--spacing-sm); }
+.prose-inner h2:first-child, .prose-inner h3:first-child { margin-top: 0; }
+.prose-inner p { font-size: var(--body-lg); margin-bottom: var(--spacing-md); max-width: 68ch; }
+.prose-inner ul, .prose-inner ol { font-size: var(--body); margin: 0 0 var(--spacing-md); padding-left: 1.3em; }
+.prose-inner li { margin-bottom: 8px; }
+.prose-inner img { border-radius: 8px; margin-block: var(--spacing-md); }
