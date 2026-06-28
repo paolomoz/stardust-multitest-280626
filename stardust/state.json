@@ -178,5 +178,27 @@
   "archetypeProtos": {
     "home": "stardust/prototypes/home-proposed.html",
     "article": "stardust/prototypes/article-proposed.html"
+  },
+  "deploy": {
+    "deployedAt": "2026-06-28T11:05:53.496Z",
+    "host": "https://site-samsung--stardust-multitest-280626--paolomoz.aem.live",
+    "daSubfolder": "/samsung/",
+    "pagesDeployed": 34,
+    "templates": 9,
+    "blocks": [
+      "hero",
+      "category-tiles",
+      "cards",
+      "feature-band",
+      "support-links",
+      "article-header",
+      "article-body"
+    ],
+    "verify": {
+      "plainHtml": "34/34 200, 0 about:error",
+      "blockIntegrity": "34/34",
+      "internalLinks": "27/27 resolve 200",
+      "headlessRender": "pass"
+    }
   }
 }
