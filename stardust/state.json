@@ -74,9 +74,9 @@
       "slug": "home",
       "url": "https://www.paypal.com/us/home",
       "type": "home",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/home.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null
     },
     {
