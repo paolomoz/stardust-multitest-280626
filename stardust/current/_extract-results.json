@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "home",
+    "status": 200,
+    "imgs": 41,
+    "bg": 2,
+    "headings": 33
+  },
+  {
+    "slug": "products",
+    "status": 200,
+    "imgs": 20,
+    "bg": 0,
+    "headings": 17
+  },
+  {
+    "slug": "about",
+    "status": 200,
+    "imgs": 16,
+    "bg": 0,
+    "headings": 10
+  },
+  {
+    "slug": "news-press",
+    "status": 200,
+    "imgs": 3,
+    "bg": 0,
+    "headings": 15
+  },
+  {
+    "slug": "message",
+    "status": 200,
+    "imgs": 5,
+    "bg": 0,
+    "headings": 10
+  },
+  {
+    "slug": "design",
+    "status": 200,
+    "imgs": 34,
+    "bg": 0,
+    "headings": 41
+  },
+  {
+    "slug": "technology",
+    "status": 200,
+    "imgs": 21,
+    "bg": 0,
+    "headings": 27
+  },
+  {
+    "slug": "privacy",
+    "status": 200,
+    "imgs": 3,
+    "bg": 0,
+    "headings": 19
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "_provenance": { "extractedAt": "2026-06-28", "pagesAggregated": 8, "source": "https://www.sony.com/en/", "renderedBy": "playwright-headed-chrome", "notes": "Akamai bot-management required headed real Chrome. Aggregated across home, products, about, news, message, design, technology, privacy." },
+  "logo": { "localPath": "assets/logo.svg", "kind": "wordmark-svg", "source": "https://www.sony.com/en/template/2023/img/logo.svg", "intrinsic": "500x88 viewBox", "fillVariant": "white (.cls-1 fill:#fff)", "note": "Black variant needed for white header — set fill:#000; render mono via currentColor." },
+  "palette": {
+    "background": "#ffffff",
+    "surface": "#efefef",
+    "surfaceAlt": "#f5f5f5",
+    "text": "#000000",
+    "textMuted": "#656565",
+    "border": "#cccccc",
+    "primary": "#000000",
+    "accentLink": "#0a5eb2",
+    "headerBlack": "#000000"
+  },
+  "type": {
+    "headingFamily": "SST W20 Bold",
+    "bodyFamily": "SST W20 Roman",
+    "stack": "'SST', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "files": [
+      { "family": "SST W20 Roman", "localPath": "assets/fonts/dcb015ed-475f-4221-9b3c-157c4b6bc4ca.woff2", "licensingFlag": "proprietary-sony", "note": "Sony SST corporate typeface" },
+      { "family": "SST W20 Bold", "localPath": "assets/fonts/f2c57125-0b07-4b47-9b3e-cb9f6f2217aa.woff2", "licensingFlag": "proprietary-sony" }
+    ],
+    "scaleAudit": { "kind": "ad-hoc", "samples": ["16px h2 (card titles)", "20px h3", "30px section h2", "40px hero h2"] }
+  },
+  "motifs": {
+    "borderRadius": "4px (cards/CTAs), 50% (carousel dots)",
+    "shadow": "subtle on cards; flat overall",
+    "patterns": ["full-bleed hero image carousel (swiper)", "play-button overlay on video heroes", "category-tagged news cards", "clean minimal grid", "thin grey hairline dividers"],
+    "aesthetic": "minimalist, editorial, generous whitespace, photography-led, monochrome chrome"
+  },
+  "voice": {
+    "register": "brand",
+    "heroImage": "assets/media/hero-spiderman.jpg",
+    "heroMedium": { "kind": "image-carousel", "mechanism": "swiper.js rotating full-bleed slides with autoplay + play-button video overlays", "note": "Signature motion — reproduce as auto-rotating hero carousel, not a static still." },
+    "headline": "Sony Group Portal — corporate hub",
+    "ctaSamples": ["Read more", "Watch", "Learn More", "View All"],
+    "tagline": "Learn about Sony Group Corporation's Businesses and Products; our initiatives in Technology, Sustainability, and Design."
+  },
+  "systemComponents": {
+    "header": "Black top bar with white Sony wordmark, mega-menu nav (Businesses & Products, About Sony Group, Technology, Sustainability, Design, Employees/Careers, Investor Relations, Contact Us), language/region selector, search.",
+    "footer": "Minimal: Terms and Conditions, Privacy Policy, Cookie Policy, Web Accessibility Statement, About this Site, Site Map; social icons (Instagram, Facebook, X, YouTube, LinkedIn, TikTok); copyright.",
+    "newsRail": "Latest News carousel of category-tagged story cards (Movies & TV, TV, Audio).",
+    "socialRow": "Follow us on social media icon row."
+  }
+}

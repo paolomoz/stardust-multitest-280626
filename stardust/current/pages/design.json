@@ -1,0 +1,1491 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:20.801Z",
+    "waitMs": 2900,
+    "waitMode": "domcontentloaded",
+    "httpStatus": 200,
+    "finalUrl": "https://www.sony.com/en/SonyInfo/design/",
+    "url": "https://www.sony.com/en/SonyInfo/design/"
+  },
+  "slug": "design",
+  "type": "landing",
+  "title": "Sony Design - Sony Group Portal",
+  "description": "This site provides information on Sony Design. Since its inception in 1961, Sony Design has forged its reputation as a leading and award-winning global design team. Today the value and contribution has expanded beyond purely product design, with a growing business portfolio in new domains such as medical, financial, education and entertainment.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "siteName": null
+  },
+  "themeColor": null,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "30px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 1,
+      "text": "Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "30px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "level": 2,
+      "text": "What's New",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 3,
+      "text": "Sakurai Kokeshi x Sony Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Demonstration Test for Live Viewing Calming Booth Held at K-Arena",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "We received 2 awards in Red Dot Award: Product Design 2026.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Politecnico di Milano Design Workshop Week 2026",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "'ESQUISSE - A dialogue with materials for the future' at Milan Design Week",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sony ExploraDream",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sakurai Kokeshi x Sony Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Demonstration Test for Live Viewing Calming Booth Held at K-Arena",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "We received 2 awards in Red Dot Award: Product Design 2026.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Politecnico di Milano Design Workshop Week 2026",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "'ESQUISSE - A dialogue with materials for the future' at Milan Design Week",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sony ExploraDream",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sakurai Kokeshi x Sony Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Demonstration Test for Live Viewing Calming Booth Held at K-Arena",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "We received 2 awards in Red Dot Award: Product Design 2026.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Politecnico di Milano Design Workshop Week 2026",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "'ESQUISSE - A dialogue with materials for the future' at Milan Design Week",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sony ExploraDream",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "About",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 2,
+      "text": "Stories",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 3,
+      "text": "SIGNALS",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "RX1R III digital still camera",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "Sony Semiconductor Solutions",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Interviews & Lectures",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 3,
+      "text": "Naoko Yano\n                    Operating Officer & Head of the Design & Planning Department, Sekisui House, Ltd.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "20px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Gallery",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 2,
+      "text": "More from Sony Design",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "26px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 3,
+      "text": "We received 7 awards in iF Design Award 2026, 2 of which received iF Gold Award.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "\"Guide for QR\" received Gold Award in IAUD International Design Award 2025.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 3,
+      "text": "We received 3 awards in Red Dot Award: Product Design 2025, 1 of which received Red Dot: Best of the Best.",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Related Information",
+      "fontFamily": "\"SST W20 Bold\", Arial, \"Helvetica Neue\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "22px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "level": 2,
+      "text": "Cookie Preference Centre",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "18px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "18px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Performance Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Functional Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Targeting Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 3,
+      "text": "Vendors List",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(105, 105, 105)"
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "header",
+      "role": null,
+      "id": "tmpl-header",
+      "class": "tmpl-header is-open",
+      "text": "Businesses & Products\nopen\nAbout Sony Group\nopen\nTechnology\nopen\nSustainability\nopen\nDesign\nopen\nEmployees / Careers\nopen\nInvestor Relations\nopen\nInvestor Relations Top\nIR News\nIR Library\nCorporate Report\nEarning Announcement\nCorporate Bonds & Ratings\nClose\nContact Us\nClose the search form",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products\n                    open\n                \n                \n                    \n                        \n\n                            Businesses & Products Top\n\n                            \n                                \n                                    \n                                        Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Music\n                                    \n                                \n                                \n                                    \n                                        Pictures: Movies & TV Shows\n                                    \n                                \n\n\n                                \n                                    \n                                        Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Imaging & Sensing Solutions\n                                    \n                                \n\n                                \n                                    \n                                        Financial Services\n                                    \n                                \n                                \n                                    \n                                        New Initiatives\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "About Sony Group\n                    open\n                \n                \n                    \n                        \n                            About Sony Group Top\n                            \n                                \n                                    \n                                        Sony's Purpose & Values\n                                    \n                                \n                                \n                                    \n                                        Message from the CEO\n                                    \n                                \n                                \n                                    \n                                        News Releases\n                                    \n                                \n                                \n                                    \n                                        Sony Corporate Blog\n                                    \n                                \n                                \n                                    \n                                        Creative Entertainment Vision\n                                    \n                                \n                                \n                                    \n                                        Brand\n                                    \n                                \n                                \n                                    \n                                        History\n                                    \n                                \n                                \n                                    \n                                        Corporate Data\n                                    \n                                \n                                \n                                    \n                                        Affiliated Companies\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Technology\n                    open\n                \n                \n                    \n                        \n                            Technology Top\n                            \n                                \n                                   \n                                        Chief Digital Officer Message\n                                    \n                                \n                                \n                                    \n                                        Tech Stories\n                                    \n                                \n                                \n                                    \n                                        Programs & Events\n                                    \n                                \n                                \n                                    \n                                        Corporate Distinguished Engineer\n                                    \n                                \n                                \n                                    \n                                        Publications\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Sustainability\n                    open\n                \n                \n                    \n                        \n                            Sustainability Top\n                            \n                                \n                                    \n                                        Vision of Founder andBasic Policy for Sustainability Initiatives\n                                    \n                                \n                                \n                                    \n                                        Sustainability Report\n                                    \n                                \n                                \n                                    \n                                        Environment\n                                    \n                                \n                                \n                                    \n                                        Social Contribution\n                                    \n                                \n                                \n                                    \n                                        Diversity\n                                    \n                                \n                                \n                                    \n                                        Accessibility\n                                    \n                                \n                                \n                                    \n                                        Response to COVID-19\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Design\n                    open\n                \n                \n                    \n\n                        \n                            Design Top\n                            \n                                \n                                    \n                                        About\n                                    \n                                \n                                \n                                    \n                                        Design Stories\n                                    \n                                \n                                \n                                    \n                                        Interviews & Lectures\n                                    \n                                \n                                \n                                    \n                                        Gallery\n                                    \n                                \n                                \n                                    \n                                        News\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Employees / Careers\n                    open\n                \n                \n                    \n                        \n                            Employees Top\n                            Careers Top\n                        \n                        \n                            Close",
+            "Investor Relations\n                    open\n                \n                \n                    \n                        \n                            Investor Relations Top\n                            \n                                \n                                    \n                                        IR News\n                                    \n                                \n                                \n                                    \n                                        IR Library\n                                    \n                                \n                                \n                                    \n                                        Corporate Report\n                                    \n                                \n                                \n                                    \n                                        Earning Announcement\n                                    \n                                \n                                \n                                    \n                                        Corporate Bonds & Ratings\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Contact Us"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "PlayStation",
+            "Sony Interactive Entertainment"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Consumer Electronics",
+            "Professional Products & Solutions"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sony's Purpose & Values",
+            "Message from the CEO",
+            "News Releases",
+            "Sony Corporate Blog",
+            "Creative Entertainment Vision",
+            "Brand",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Chief Digital Officer Message",
+            "Tech Stories",
+            "Programs & Events",
+            "Corporate Distinguished Engineer",
+            "Publications"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Vision of Founder andBasic Policy for Sustainability Initiatives",
+            "Sustainability Report",
+            "Environment",
+            "Social Contribution",
+            "Diversity",
+            "Accessibility",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earning Announcement",
+            "Corporate Bonds & Ratings"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Contact Us"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": "tmpl-header_nav",
+      "class": "tmpl-header_nav tmpl-headerNav",
+      "text": "Businesses & Products\nopen\nAbout Sony Group\nopen\nTechnology\nopen\nSustainability\nopen\nDesign\nopen\nEmployees / Careers\nopen\nInvestor Relations\nopen\nInvestor Relations Top\nIR News\nIR Library\nCorporate Report\nEarning Announcement\nCorporate Bonds & Ratings\nClose\nContact Us",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products\n                    open\n                \n                \n                    \n                        \n\n                            Businesses & Products Top\n\n                            \n                                \n                                    \n                                        Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Music\n                                    \n                                \n                                \n                                    \n                                        Pictures: Movies & TV Shows\n                                    \n                                \n\n\n                                \n                                    \n                                        Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Imaging & Sensing Solutions\n                                    \n                                \n\n                                \n                                    \n                                        Financial Services\n                                    \n                                \n                                \n                                    \n                                        New Initiatives\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "About Sony Group\n                    open\n                \n                \n                    \n                        \n                            About Sony Group Top\n                            \n                                \n                                    \n                                        Sony's Purpose & Values\n                                    \n                                \n                                \n                                    \n                                        Message from the CEO\n                                    \n                                \n                                \n                                    \n                                        News Releases\n                                    \n                                \n                                \n                                    \n                                        Sony Corporate Blog\n                                    \n                                \n                                \n                                    \n                                        Creative Entertainment Vision\n                                    \n                                \n                                \n                                    \n                                        Brand\n                                    \n                                \n                                \n                                    \n                                        History\n                                    \n                                \n                                \n                                    \n                                        Corporate Data\n                                    \n                                \n                                \n                                    \n                                        Affiliated Companies\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Technology\n                    open\n                \n                \n                    \n                        \n                            Technology Top\n                            \n                                \n                                   \n                                        Chief Digital Officer Message\n                                    \n                                \n                                \n                                    \n                                        Tech Stories\n                                    \n                                \n                                \n                                    \n                                        Programs & Events\n                                    \n                                \n                                \n                                    \n                                        Corporate Distinguished Engineer\n                                    \n                                \n                                \n                                    \n                                        Publications\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Sustainability\n                    open\n                \n                \n                    \n                        \n                            Sustainability Top\n                            \n                                \n                                    \n                                        Vision of Founder andBasic Policy for Sustainability Initiatives\n                                    \n                                \n                                \n                                    \n                                        Sustainability Report\n                                    \n                                \n                                \n                                    \n                                        Environment\n                                    \n                                \n                                \n                                    \n                                        Social Contribution\n                                    \n                                \n                                \n                                    \n                                        Diversity\n                                    \n                                \n                                \n                                    \n                                        Accessibility\n                                    \n                                \n                                \n                                    \n                                        Response to COVID-19\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Design\n                    open\n                \n                \n                    \n\n                        \n                            Design Top\n                            \n                                \n                                    \n                                        About\n                                    \n                                \n                                \n                                    \n                                        Design Stories\n                                    \n                                \n                                \n                                    \n                                        Interviews & Lectures\n                                    \n                                \n                                \n                                    \n                                        Gallery\n                                    \n                                \n                                \n                                    \n                                        News\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Employees / Careers\n                    open\n                \n                \n                    \n                        \n                            Employees Top\n                            Careers Top\n                        \n                        \n                            Close",
+            "Investor Relations\n                    open\n                \n                \n                    \n                        \n                            Investor Relations Top\n                            \n                                \n                                    \n                                        IR News\n                                    \n                                \n                                \n                                    \n                                        IR Library\n                                    \n                                \n                                \n                                    \n                                        Corporate Report\n                                    \n                                \n                                \n                                    \n                                        Earning Announcement\n                                    \n                                \n                                \n                                    \n                                        Corporate Bonds & Ratings\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Contact Us"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "PlayStation",
+            "Sony Interactive Entertainment"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Consumer Electronics",
+            "Professional Products & Solutions"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sony's Purpose & Values",
+            "Message from the CEO",
+            "News Releases",
+            "Sony Corporate Blog",
+            "Creative Entertainment Vision",
+            "Brand",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Chief Digital Officer Message",
+            "Tech Stories",
+            "Programs & Events",
+            "Corporate Distinguished Engineer",
+            "Publications"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Vision of Founder andBasic Policy for Sustainability Initiatives",
+            "Sustainability Report",
+            "Environment",
+            "Social Contribution",
+            "Diversity",
+            "Accessibility",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earning Announcement",
+            "Corporate Bonds & Ratings"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Contact Us"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "lm-content-header__breadcrumbs",
+      "text": "HOME Design",
+      "body": [],
+      "lists": [
+        {
+          "ordered": true,
+          "items": [
+            "HOME",
+            "Design"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "lm-content-header__container-menu",
+      "text": "About\n              Design Stories\n              Interviews & Lectures\n              Gallery\n              News",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "lm-content-header__container-menu",
+      "text": "About\n              Design Stories\n              Interviews & Lectures\n              Gallery\n              News",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "class": "lm-to-top",
+      "text": "",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "footer",
+      "role": null,
+      "id": null,
+      "class": "tmpl-footer-all",
+      "text": "Terms and Conditions\nPrivacy Policy\nCookie Policy\nCustomize Cookies\nWeb Accessibility Statement\nAbout this Site\nSite Map\nCopyright 2026 Sony Group Corporation",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Terms and Conditions",
+            "Privacy Policy",
+            "Cookie Policy",
+            "Customize Cookies",
+            "Web Accessibility Statement",
+            "About this Site",
+            "Site Map"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "tmlp-footer__nav-wrap",
+      "text": "Terms and Conditions\nPrivacy Policy\nCookie Policy\nCustomize Cookies\nWeb Accessibility Statement\nAbout this Site\nSite Map",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Terms and Conditions",
+            "Privacy Policy",
+            "Cookie Policy",
+            "Customize Cookies",
+            "Web Accessibility Statement",
+            "About this Site",
+            "Site Map"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": null,
+      "class": "ot-sdk-row ot-cat-grp",
+      "text": "Manage Consent PreferencesPerformance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.View Vendor DetailsStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.View Vendor DetailsFunctional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalization (for example to remember the choices you make when using our website). They may be set by us or by third party providers whose services we have added to our pages.View Vendor DetailsTargeting Cookies  Targeting Cookies We and certain third party analytics, advertising, social media, and similar companies may collect information from you when you visit our site through cookies in order to build a profile of your interests and show you relevant advertisements on other sites.View Vendor Details",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-pc-lst",
+      "class": "ot-hide ot-pc-scrollbar",
+      "text": "Back ButtonVendors List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "checkbox label label"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-fltr-modal",
+      "class": null,
+      "text": "Clear checkbox label labelApply Cancel",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "checkbox label label"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-lst-cnt",
+      "class": "ot-pc-scrollbar",
+      "text": "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "ctas": [
+    {
+      "label": "MENU",
+      "href": null,
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "MENU",
+      "href": null,
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "see previous panel\n                  see previous panel",
+      "href": "https://www.sony.com/en/SonyInfo/design/#",
+      "bg": "rgba(0, 0, 0, 0.6)",
+      "color": "rgb(0, 0, 238)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "see next panel\n                  see next panel",
+      "href": "https://www.sony.com/en/SonyInfo/design/#",
+      "bg": "rgba(0, 0, 0, 0.6)",
+      "color": "rgb(0, 0, 238)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "return to top of this page.",
+      "href": "https://www.sony.com/en/SonyInfo/design/#top",
+      "bg": "rgba(0, 0, 0, 0.6)",
+      "color": "rgb(0, 0, 238)",
+      "borderRadius": "2px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "bg": "rgb(56, 96, 190)",
+      "color": "rgb(85, 85, 85)",
+      "borderRadius": "17px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Reject All",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Confirm My Choices",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.sony.com/en/",
+      "internal": true,
+      "text": ""
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/products/",
+      "internal": true,
+      "text": "Businesses & Products\n                    open"
+    },
+    {
+      "href": "https://sonyinteractive.com/en/",
+      "internal": false,
+      "text": "Games & Network Services"
+    },
+    {
+      "href": "https://www.playstation.com/",
+      "internal": false,
+      "text": "PlayStation"
+    },
+    {
+      "href": "https://www.sonymusic.com/",
+      "internal": false,
+      "text": "Music"
+    },
+    {
+      "href": "https://www.sonypictures.net/",
+      "internal": false,
+      "text": "Pictures: Movies & TV Shows"
+    },
+    {
+      "href": "https://www.sony.net/",
+      "internal": false,
+      "text": "Electronics: Entertainment Technology & Services"
+    },
+    {
+      "href": "https://www.sony.net/electronics/",
+      "internal": false,
+      "text": "Consumer Electronics"
+    },
+    {
+      "href": "https://pro.sony/",
+      "internal": false,
+      "text": "Professional Products & Solutions"
+    },
+    {
+      "href": "https://www.sony-semicon.com/en/",
+      "internal": false,
+      "text": "Imaging & Sensing Solutions"
+    },
+    {
+      "href": "https://www.sonyfg.co.jp/index_en.html",
+      "internal": false,
+      "text": "Financial Services"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/",
+      "internal": true,
+      "text": "Close"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "internal": true,
+      "text": "About Sony Group\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+      "internal": true,
+      "text": "Sony's Purpose & Values"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/message/",
+      "internal": true,
+      "text": "Message from the CEO"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/",
+      "internal": true,
+      "text": "News Releases"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/blog/",
+      "internal": true,
+      "text": "Sony Corporate Blog"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+      "internal": true,
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "href": "https://www.sony.com/en/brand/",
+      "internal": true,
+      "text": "Brand"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "internal": true,
+      "text": "History"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "internal": true,
+      "text": "Corporate Data"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+      "internal": true,
+      "text": "Affiliated Companies"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/",
+      "internal": true,
+      "text": "Technology\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+      "internal": true,
+      "text": "Chief Digital Officer Message"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/",
+      "internal": true,
+      "text": "Tech Stories"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+      "internal": true,
+      "text": "Programs & Events"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+      "internal": true,
+      "text": "Corporate Distinguished Engineer"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/publications/",
+      "internal": true,
+      "text": "Publications"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/",
+      "internal": true,
+      "text": "Sustainability\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/vision/",
+      "internal": true,
+      "text": "Vision of Founder andBasic Policy for Sustainabili"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr_report/",
+      "internal": true,
+      "text": "Sustainability Report"
+    },
+    {
+      "href": "https://www.sony.net/eco",
+      "internal": false,
+      "text": "Environment"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/community/",
+      "internal": true,
+      "text": "Social Contribution"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/diversity/",
+      "internal": true,
+      "text": "Diversity"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/accessibility/",
+      "internal": true,
+      "text": "Accessibility"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/covid_19_response/",
+      "internal": true,
+      "text": "Response to COVID-19"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/about/",
+      "internal": true,
+      "text": "About"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/",
+      "internal": true,
+      "text": "Design Stories"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+      "internal": true,
+      "text": "Interviews & Lectures"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/gallery/",
+      "internal": true,
+      "text": "Gallery"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/",
+      "internal": true,
+      "text": "News"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Employee/",
+      "internal": true,
+      "text": "Employees / Careers\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Careers/",
+      "internal": true,
+      "text": "Careers Top"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/",
+      "internal": true,
+      "text": "Investor Relations\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+      "internal": true,
+      "text": "IR News"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/",
+      "internal": true,
+      "text": "IR Library"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+      "internal": true,
+      "text": "Corporate Report"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "internal": true,
+      "text": "Earning Announcement"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+      "internal": true,
+      "text": "Corporate Bonds & Ratings"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/SupportAll/",
+      "internal": true,
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://www.sony.com/ja/SonyInfo/design/",
+      "internal": true,
+      "text": "JP"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/kokeshi/",
+      "internal": true,
+      "text": "Sakurai Kokeshi x Sony Design\n                    "
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/event/K-arena/",
+      "internal": true,
+      "text": "Demonstration Test for Live Viewing Calming Booth "
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/awards/rd_design_2026.html",
+      "internal": true,
+      "text": "We received 2 awards in Red Dot Award: Product Des"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/event/milano_workshop2026/",
+      "internal": true,
+      "text": "Politecnico di Milano Design Workshop Week 2026\n  "
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/esquisse/",
+      "internal": true,
+      "text": "'ESQUISSE - A dialogue with materials for the futu"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/ExploraDream/",
+      "internal": true,
+      "text": "Sony ExploraDream\n                    A Creative E"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/CalArts/",
+      "internal": true,
+      "text": "SIGNALS\n                March 9, 2026\n            "
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/RX1RIII/",
+      "internal": true,
+      "text": "RX1R III digital still camera\n                Nove"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/sss/",
+      "internal": true,
+      "text": "Sony Semiconductor Solutions\n                Novem"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/interviews-lectures/yano/",
+      "internal": true,
+      "text": "Naoko Yano\n                    Operating Officer &"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/awards/if_design_2026.html",
+      "internal": true,
+      "text": "We received 7 awards in iF Design Award 2026, 2 of"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/awards/iaud_2025.html",
+      "internal": true,
+      "text": "\"Guide for QR\" received Gold Award in IAUD Interna"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/awards/rd_design_2025.html",
+      "internal": true,
+      "text": "We received 3 awards in Red Dot Award: Product Des"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/xml/news.xml",
+      "internal": true,
+      "text": "RSS"
+    },
+    {
+      "href": "https://www.ginzasonypark.com/e/",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.sonydesignconsulting.com/en/",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/sonydesign_official/",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.sony.com/en/copyright/",
+      "internal": true,
+      "text": "Terms and Conditions"
+    },
+    {
+      "href": "https://www.sony.com/en/privacy/",
+      "internal": true,
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "https://www.sony.com/en/privacy/cookie/",
+      "internal": true,
+      "text": "Cookie Policy"
+    },
+    {
+      "href": "https://www.sony.com/en/web-accessibility-statement/",
+      "internal": true,
+      "text": "Web Accessibility Statement"
+    },
+    {
+      "href": "https://www.sony.com/en/about/",
+      "internal": true,
+      "text": "About this Site"
+    },
+    {
+      "href": "https://www.sony.com/en/sitemap/",
+      "internal": true,
+      "text": "Site Map"
+    },
+    {
+      "href": "https://www.sony.com/ja",
+      "internal": true,
+      "text": "JA"
+    },
+    {
+      "href": "https://www.sony.com/en",
+      "internal": true,
+      "text": "EN"
+    },
+    {
+      "href": "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner",
+      "internal": false,
+      "text": ""
+    }
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+        "alt": "SONY",
+        "w": 300,
+        "h": 53
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/mv.png",
+        "alt": "",
+        "w": 2048,
+        "h": 585
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_kokeshi.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_K-arena.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_rd-design2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_milano_workshop2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/events_esquisse.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_ExploraDream.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_kokeshi.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_K-arena.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_rd-design2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_milano_workshop2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/events_esquisse.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_ExploraDream.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_kokeshi.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_K-arena.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_rd-design2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/news_milano_workshop2026.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/events_esquisse.jpg",
+        "alt": "",
+        "w": 686,
+        "h": 456
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/stories_ExploraDream.jpg",
+        "alt": "",
+        "w": 660,
+        "h": 436
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/about.jpg",
+        "alt": "Create New Standards View More",
+        "w": 2380,
+        "h": 632
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_CalArts.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_RX1RIII.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/stories_sss.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/lectures_yano.jpg",
+        "alt": "",
+        "w": 1394,
+        "h": 648
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/sdtop-src/img/gallery.png",
+        "alt": "Images of Stereo Cassette Player WM-F5 / Trinitron Color Monitor KV-1375 / Entertainment Robot AIBO ERS-110 / Interchangeable Lens Digital Camera α7",
+        "w": 2380,
+        "h": 598
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_ifdesign.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_iaud2025.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/moredesign_rd-design.jpg",
+        "alt": "",
+        "w": 748,
+        "h": 494
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/banner_sonypark.jpg",
+        "alt": "Banner link to Sony Park website",
+        "w": 748,
+        "h": 312
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/banner_sdc.png",
+        "alt": "Banner link to Sony Design Consulting Inc. website",
+        "w": 748,
+        "h": 312
+      },
+      {
+        "src": "https://www.sony.com/en/SonyInfo/design/topassets/img/banner_instagram.jpg",
+        "alt": "Banner link to Sony Design Instagram",
+        "w": 748,
+        "h": 312
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/b7c761bf-8699-4060-8034-00c44deaa47f/0196cd86-2749-7662-b4d0-8e1d0f6d09bf/d94a3ae3-d4dc-4814-8dba-f67a5b71bb62/sony_logo_blue_RGB.png",
+        "alt": "SONY",
+        "w": 654,
+        "h": 235
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "cssBackgrounds": [],
+    "svgCount": 25,
+    "videos": [],
+    "iframes": [
+      {
+        "src": ""
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://www.sony.com/en/search/index.html#/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "hidden",
+          "name": "page"
+        },
+        {
+          "type": "hidden",
+          "name": "d"
+        },
+        {
+          "type": "select-one",
+          "name": "doctype"
+        },
+        {
+          "type": "text",
+          "name": "q"
+        },
+        {
+          "type": "select-one",
+          "name": "sort"
+        },
+        {
+          "type": "select-one",
+          "name": "pagemax"
+        },
+        {
+          "type": "select-one",
+          "name": "imgsize"
+        }
+      ]
+    }
+  ],
+  "cssVars": {},
+  "dedupBgUrls": []
+}

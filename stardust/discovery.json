@@ -1,0 +1,520 @@
+{
+  "status": 200,
+  "finalUrl": "https://www.sony.com/en/",
+  "title": "Home - Sony Group Portal",
+  "h1": null,
+  "navLinks": [
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/",
+      "text": ""
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/products/",
+      "text": "Businesses & Products\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/products/#new-initiatives",
+      "text": "New Initiatives"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/#",
+      "text": "Close"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "text": "About Sony Group\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+      "text": "Sony's Purpose & Values"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/message/",
+      "text": "Message from the CEO"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/",
+      "text": "News Releases"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/blog/",
+      "text": "Sony Corporate Blog"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/brand/",
+      "text": "Brand"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "text": "History"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "text": "Corporate Data"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+      "text": "Affiliated Companies"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/",
+      "text": "Technology\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+      "text": "Chief Digital Officer Message"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/",
+      "text": "Tech Stories"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+      "text": "Programs & Events"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+      "text": "Corporate Distinguished Engineer"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/technology/publications/",
+      "text": "Publications"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/csr/",
+      "text": "Sustainability\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/csr/vision/",
+      "text": "Vision of Founder andBasic Policy for Sustainability Initiat"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/csr_report/",
+      "text": "Sustainability Report"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/csr/community/",
+      "text": "Social Contribution"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/diversity/",
+      "text": "Diversity"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/accessibility/",
+      "text": "Accessibility"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/covid_19_response/",
+      "text": "Response to COVID-19"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/",
+      "text": "Design\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/about/",
+      "text": "About"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/",
+      "text": "Design Stories"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+      "text": "Interviews & Lectures"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/gallery/",
+      "text": "Gallery"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/design/news/",
+      "text": "News"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/Employee/",
+      "text": "Employees / Careers\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/Careers/",
+      "text": "Careers Top"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/",
+      "text": "Investor Relations\n                    open"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+      "text": "IR News"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/",
+      "text": "IR Library"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+      "text": "Corporate Report"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "text": "Earning Announcement"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+      "text": "Corporate Bonds & Ratings"
+    },
+    {
+      "zone": "header",
+      "href": "https://www.sony.com/en/SonyInfo/SupportAll/",
+      "text": "Contact Us"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/copyright/",
+      "text": "Terms and Conditions"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/privacy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/privacy/cookie/",
+      "text": "Cookie Policy"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/web-accessibility-statement/",
+      "text": "Web Accessibility Statement"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/about/",
+      "text": "About this Site"
+    },
+    {
+      "zone": "footer",
+      "href": "https://www.sony.com/en/sitemap/",
+      "text": "Site Map"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/products/",
+      "text": "Businesses & Products\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/products/#new-initiatives",
+      "text": "New Initiatives"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/#",
+      "text": "Close"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "text": "About Sony Group\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+      "text": "Sony's Purpose & Values"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/message/",
+      "text": "Message from the CEO"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/",
+      "text": "News Releases"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/blog/",
+      "text": "Sony Corporate Blog"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/brand/",
+      "text": "Brand"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "text": "History"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "text": "Corporate Data"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+      "text": "Affiliated Companies"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/",
+      "text": "Technology\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+      "text": "Chief Digital Officer Message"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/",
+      "text": "Tech Stories"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+      "text": "Programs & Events"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+      "text": "Corporate Distinguished Engineer"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/technology/publications/",
+      "text": "Publications"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/csr/",
+      "text": "Sustainability\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/csr/vision/",
+      "text": "Vision of Founder andBasic Policy for Sustainability Initiat"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/csr_report/",
+      "text": "Sustainability Report"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/csr/community/",
+      "text": "Social Contribution"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/diversity/",
+      "text": "Diversity"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/accessibility/",
+      "text": "Accessibility"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/covid_19_response/",
+      "text": "Response to COVID-19"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/",
+      "text": "Design\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/about/",
+      "text": "About"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/",
+      "text": "Design Stories"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+      "text": "Interviews & Lectures"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/gallery/",
+      "text": "Gallery"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/design/news/",
+      "text": "News"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/Employee/",
+      "text": "Employees / Careers\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/Careers/",
+      "text": "Careers Top"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/",
+      "text": "Investor Relations\n                    open"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+      "text": "IR News"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/",
+      "text": "IR Library"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+      "text": "Corporate Report"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "text": "Earning Announcement"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+      "text": "Corporate Bonds & Ratings"
+    },
+    {
+      "zone": "nav",
+      "href": "https://www.sony.com/en/SonyInfo/SupportAll/",
+      "text": "Contact Us"
+    }
+  ],
+  "allLinks": [
+    "https://www.sony.com/en/",
+    "https://www.sony.com/en/SonyInfo/products/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+    "https://www.sony.com/en/SonyInfo/message/",
+    "https://www.sony.com/en/SonyInfo/News/Press/",
+    "https://www.sony.com/en/SonyInfo/blog/",
+    "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+    "https://www.sony.com/en/brand/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+    "https://www.sony.com/en/SonyInfo/technology/",
+    "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+    "https://www.sony.com/en/SonyInfo/technology/stories/",
+    "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+    "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+    "https://www.sony.com/en/SonyInfo/technology/publications/",
+    "https://www.sony.com/en/SonyInfo/csr/",
+    "https://www.sony.com/en/SonyInfo/csr/vision/",
+    "https://www.sony.com/en/SonyInfo/csr_report/",
+    "https://www.sony.com/en/SonyInfo/csr/community/",
+    "https://www.sony.com/en/SonyInfo/diversity/",
+    "https://www.sony.com/en/SonyInfo/accessibility/",
+    "https://www.sony.com/en/SonyInfo/covid_19_response/",
+    "https://www.sony.com/en/SonyInfo/design/",
+    "https://www.sony.com/en/SonyInfo/design/about/",
+    "https://www.sony.com/en/SonyInfo/design/stories/",
+    "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+    "https://www.sony.com/en/SonyInfo/design/gallery/",
+    "https://www.sony.com/en/SonyInfo/design/news/",
+    "https://www.sony.com/en/SonyInfo/Employee/",
+    "https://www.sony.com/en/SonyInfo/Careers/",
+    "https://www.sony.com/en/SonyInfo/IR/",
+    "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+    "https://www.sony.com/en/SonyInfo/IR/library/",
+    "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+    "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+    "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+    "https://www.sony.com/en/SonyInfo/SupportAll/",
+    "https://www.sony.com/ja/",
+    "https://www.sony.com/en/SonyInfo/News/Press/202606/26-015E/index.html",
+    "https://www.sony.com/en/SonyInfo/News/Press/202606/26-014E/index.html",
+    "https://www.sony.com/en/SonyInfo/News/ServiceArea/",
+    "https://www.sony.com/en/electronics/",
+    "https://www.sony.com/en/SonyInfo/sony_ai/",
+    "https://www.sony.com/en/SonyInfo/vision-s/",
+    "https://www.sony.com/en/SonyInfo/humancentereddesign/",
+    "https://www.sony.com/en/SonyInfo/Careers/japan/",
+    "https://www.sony.com/en/SonyInfo/Careers/locations/",
+    "https://www.sony.com/en/SonyInfo/csr/eco/",
+    "https://www.sony.com/en/SonyInfo/csr/message/",
+    "https://www.sony.com/en/SonyInfo/design/philosophy/",
+    "https://www.sony.com/en/SonyInfo/design/career/",
+    "https://www.sony.com/en/SonyInfo/IR/news/2020.html",
+    "https://www.sony.com/en/copyright/",
+    "https://www.sony.com/en/privacy/",
+    "https://www.sony.com/en/privacy/cookie/",
+    "https://www.sony.com/en/web-accessibility-statement/",
+    "https://www.sony.com/en/about/",
+    "https://www.sony.com/en/sitemap/",
+    "https://www.sony.com/ja",
+    "https://www.sony.com/en"
+  ],
+  "sitemapFound": "/sitemap_index.xml",
+  "sitemapSample": "<!DOCTYPE html>\n\n\n\n    <html lang='en_US'>\n\n\n\n\n\n\n\n\n<head>\n\t\n\t<meta charset=\"UTF-8\"/>\n\t<meta content=\"text/html;charset=UTF-8\" http-equiv=\"Content-Type\"/>\n    \n    <meta name=\"template\" content=\"sony-generic-page-template\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>\n    \n         \n    \n    \n    \n    \n    \n<script defer=\"defer\" type=\"text/javascript\" src=\"https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js\" data-routing=\"p00000-e000000\"></script>\n<script src=\"/etc.clientlibs/sony/global/clientlibs/clientlib-flow.ACSHASHeb4b09f97a3785c0a87915a88e3789e0.js\"></script>\n\n\n\n    \n    \n    \n<link rel=\"stylesheet\" href=\"/etc.clientlibs/sony/global/clientlibs/clientlib-flow.ACSHASHb51809e20bb5ed5b5fd4757ace69d490.css\" type=\"text/css\">\n\n\n\n\n    \n\n    \n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/>\n\t\n\n\n\t<meta name=\"robots\" content=\"noindex , nofollow\"/>\n\n\n<style>\n\t.xf-content-height {\n\t\tmin-height: 0px !important;\n\t\tmargin: 0 0px !important;\n\t}\n</style>\n\n\n\n\n\n<link href=\"https://www.sony.com/errors/404\" rel=\"canonical\"/>\n\n\n\n\n\t\n\t\n\t\t<meta content=\"Sony Electronics\" name=\"title\"/>\n\t\t<title>Sony Electronics</title>\n\t\t\n\t\t\t<meta content=\"Sony Electronics\" property=\"og:title\"/>\n\t\t\n\t\n\t\n\n\n\n\n\n<meta name=\"description\"/>\n\n\n\t<meta property=\"og:description\"/>\n\n\n\n\n\n\n\n\n\n<meta content=\"https://www.sony.com/errors/404\" property=\"og:URL\"/>\n\n\n<meta content=\"Sony Electronics\" property=\"og:site_name\"/>\n\n\n<link rel=\"preconnect\" href=\"//sonyglobal.akamaized.net\" crossorigin/>\n<meta http-equiv=\"x-dns-prefetch-control\" content=\"on\"/>\n<link rel=\"dns-prefetch\" href=\"//fonts.sony.net\"/>\n<link rel=\"dns-prefetch\" href=\"//tags.tiqcdn.com\"/>\n\n\n<meta name=\"msapplication-TileColor\" content=\"#000000\"/>\n<meta name=\"msapplication-square70x70logo\" content=\"https://sony.scene7.com/is/image/sonyglobalsolutions/windows-icon-small?$S7Product$&amp;fmt=png-alpha\"/>\n<meta name=\"msapplication-square150x150logo\" content=\"https://sony.scene7.com/is/image/sonyglobalsolutions/windows-icon-medium?$S7Product$&amp;fmt=png-alpha\"/>\n<meta name=\"msapplication-wide310x150logo\" content=\"https://sony.scene7.com/is/image/sonyglobalsolutions/windows-icon-wide?$S7Product$&amp;fmt=png-alpha\"/>\n<meta name=\"msapplication-square310x310logo\" content=\"https://sony.scene7.com/is/image/sonyglobalsolutions/windows-icon-large?$S7Product$&amp;fmt=png-alpha\"/>\n\n\n<link rel=\"shortcut icon\" href='https://sony.scene7.com/is/image/sonyglobalsolutions/Favicon_144x144?$localePageFav$&fmt=png-alpha'/>\n\n\t\n<link rel=\"apple-touch-icon\" href='https://sony.scene7.com/is/image/sonyglobalsolutions/apple-touch-icon-57x57?$shortcutIconAppleTouchIcon57$&fmt=png-alpha'/> \n<link rel=\"apple-touch-icon\" sizes=\"72x72\" href='https://sony.scene7.com/is/image/sonyglobalsolutions/apple-touch-icon-72x72?$shortcutIconAppleTouchIcon72$&fmt=png-alpha'/>\n<link rel=\"apple-touch-icon\" sizes=\"114x114\" href='https://sony.scene7.com/is/image/sonyglobalsolutions/apple-touch-icon-114x114?$shortcutIconAppleTouchIcon114"
+}

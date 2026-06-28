@@ -1,0 +1,11 @@
+{
+  "colors": { "background": "#ffffff", "surface": "#efefef", "surfaceAlt": "#f5f5f5", "text": "#000000", "textMuted": "#656565", "border": "#cccccc", "primary": "#000000", "accentLink": "#0a5eb2", "headerBar": "#000000" },
+  "typography": { "headingFamily": "SST, 'Helvetica Neue', Arial, sans-serif", "bodyFamily": "SST, 'Helvetica Neue', Arial, sans-serif", "scale": "ad-hoc", "weights": ["Roman", "Bold"] },
+  "rounded": "4px",
+  "spacing": "generous",
+  "extensions": {
+    "componentStyle": { "card": "4px radius, flat, photo-led, category tag", "button": "minimal, 4px radius, monochrome", "hero": "full-bleed carousel with overlay heading + play button" },
+    "motifs": ["hero-carousel", "category-news-cards", "monochrome-chrome", "thin-hairlines", "generous-whitespace"],
+    "voice": { "register": "brand", "tone": ["precise", "premium", "editorial", "confident"], "heroMedium": "image-carousel" }
+  }
+}

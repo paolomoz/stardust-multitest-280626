@@ -1,0 +1,1925 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:48.174Z",
+    "waitMs": 2900,
+    "waitMode": "domcontentloaded",
+    "httpStatus": 200,
+    "finalUrl": "https://www.sony.com/en/",
+    "url": "https://www.sony.com/en/"
+  },
+  "slug": "home",
+  "type": "landing",
+  "title": "Home - Sony Group Portal",
+  "description": "Learn about Sony Group Corporation's Businesses and Products; our initiatives in Technology, Sustainability, and Design; and recent Press Releases, Career opportunities, and Investor Relations info.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "siteName": null
+  },
+  "themeColor": null,
+  "headings": [
+    {
+      "level": 2,
+      "text": "It's a Brand New Day For Peter Parker",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Message From Founder & CEO, Ned Leeds",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Is This Real?",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Legacy of Sound, Reimagined For the Future",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Celebrating 10 Years of 1000X Series",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "It's a Brand New Day For Peter Parker",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Message From Founder & CEO, Ned Leeds",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Is This Real?",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Legacy of Sound, Reimagined For the Future",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Celebrating 10 Years of 1000X Series",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "It's a Brand New Day For Peter Parker",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Message From Founder & CEO, Ned Leeds",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Is This Real?",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "A Legacy of Sound, Reimagined For the Future",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Celebrating 10 Years of 1000X Series",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 2,
+      "text": "Creative Entertainment Vision",
+      "fontFamily": "\"SST W20 Roman\", \"SST W55 Regular\", \"Yu Gothic Medium\", YuGothic, sans-serif",
+      "fontWeight": "700",
+      "fontSize": "40px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "level": 3,
+      "text": "Follow us on social media",
+      "fontFamily": "\"SST W20 Roman\", \"SST W55 Regular\", \"Yu Gothic Medium\", YuGothic, sans-serif",
+      "fontWeight": "700",
+      "fontSize": "20px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Latest News",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "30px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Site Map",
+      "fontFamily": "\"SST W20 Bold\"",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Businesses & Products",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "About Sony Group",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Technology",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Careers",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Sustainability",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Design",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Investor Relations",
+      "fontFamily": "Times",
+      "fontWeight": "700",
+      "fontSize": "24px",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "level": 2,
+      "text": "Cookie Preference Centre",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "18px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "18px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Performance Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Functional Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 4,
+      "text": "Targeting Cookies",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "600",
+      "fontSize": "14.08px",
+      "color": "rgb(105, 105, 105)"
+    },
+    {
+      "level": 3,
+      "text": "Vendors List",
+      "fontFamily": "\"SST W20 Regular\", \"SST W55 Regular\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "16px",
+      "color": "rgb(105, 105, 105)"
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "header",
+      "role": null,
+      "id": "tmpl-header",
+      "class": "tmpl-header is-open",
+      "text": "Businesses & Products\nopen\nAbout Sony Group\nopen\nTechnology\nopen\nSustainability\nopen\nDesign\nopen\nEmployees / Careers\nopen\nInvestor Relations\nopen\nInvestor Relations Top\nIR News\nIR Library\nCorporate Report\nEarning Announcement\nCorporate Bonds & Ratings\nClose\nContact Us\nClose the search form",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products\n                    open\n                \n                \n                    \n                        \n\n                            Businesses & Products Top\n\n                            \n                                \n                                    \n                                        Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Music\n                                    \n                                \n                                \n                                    \n                                        Pictures: Movies & TV Shows\n                                    \n                                \n\n\n                                \n                                    \n                                        Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Imaging & Sensing Solutions\n                                    \n                                \n\n                                \n                                    \n                                        Financial Services\n                                    \n                                \n                                \n                                    \n                                        New Initiatives\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "About Sony Group\n                    open\n                \n                \n                    \n                        \n                            About Sony Group Top\n                            \n                                \n                                    \n                                        Sony's Purpose & Values\n                                    \n                                \n                                \n                                    \n                                        Message from the CEO\n                                    \n                                \n                                \n                                    \n                                        News Releases\n                                    \n                                \n                                \n                                    \n                                        Sony Corporate Blog\n                                    \n                                \n                                \n                                    \n                                        Creative Entertainment Vision\n                                    \n                                \n                                \n                                    \n                                        Brand\n                                    \n                                \n                                \n                                    \n                                        History\n                                    \n                                \n                                \n                                    \n                                        Corporate Data\n                                    \n                                \n                                \n                                    \n                                        Affiliated Companies\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Technology\n                    open\n                \n                \n                    \n                        \n                            Technology Top\n                            \n                                \n                                   \n                                        Chief Digital Officer Message\n                                    \n                                \n                                \n                                    \n                                        Tech Stories\n                                    \n                                \n                                \n                                    \n                                        Programs & Events\n                                    \n                                \n                                \n                                    \n                                        Corporate Distinguished Engineer\n                                    \n                                \n                                \n                                    \n                                        Publications\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Sustainability\n                    open\n                \n                \n                    \n                        \n                            Sustainability Top\n                            \n                                \n                                    \n                                        Vision of Founder andBasic Policy for Sustainability Initiatives\n                                    \n                                \n                                \n                                    \n                                        Sustainability Report\n                                    \n                                \n                                \n                                    \n                                        Environment\n                                    \n                                \n                                \n                                    \n                                        Social Contribution\n                                    \n                                \n                                \n                                    \n                                        Diversity\n                                    \n                                \n                                \n                                    \n                                        Accessibility\n                                    \n                                \n                                \n                                    \n                                        Response to COVID-19\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Design\n                    open\n                \n                \n                    \n\n                        \n                            Design Top\n                            \n                                \n                                    \n                                        About\n                                    \n                                \n                                \n                                    \n                                        Design Stories\n                                    \n                                \n                                \n                                    \n                                        Interviews & Lectures\n                                    \n                                \n                                \n                                    \n                                        Gallery\n                                    \n                                \n                                \n                                    \n                                        News\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Employees / Careers\n                    open\n                \n                \n                    \n                        \n                            Employees Top\n                            Careers Top\n                        \n                        \n                            Close",
+            "Investor Relations\n                    open\n                \n                \n                    \n                        \n                            Investor Relations Top\n                            \n                                \n                                    \n                                        IR News\n                                    \n                                \n                                \n                                    \n                                        IR Library\n                                    \n                                \n                                \n                                    \n                                        Corporate Report\n                                    \n                                \n                                \n                                    \n                                        Earning Announcement\n                                    \n                                \n                                \n                                    \n                                        Corporate Bonds & Ratings\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Contact Us"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "PlayStation",
+            "Sony Interactive Entertainment"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Consumer Electronics",
+            "Professional Products & Solutions"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sony's Purpose & Values",
+            "Message from the CEO",
+            "News Releases",
+            "Sony Corporate Blog",
+            "Creative Entertainment Vision",
+            "Brand",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Chief Digital Officer Message",
+            "Tech Stories",
+            "Programs & Events",
+            "Corporate Distinguished Engineer",
+            "Publications"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Vision of Founder andBasic Policy for Sustainability Initiatives",
+            "Sustainability Report",
+            "Environment",
+            "Social Contribution",
+            "Diversity",
+            "Accessibility",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earning Announcement",
+            "Corporate Bonds & Ratings"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Contact Us"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": "tmpl-header_nav",
+      "class": "tmpl-header_nav tmpl-headerNav",
+      "text": "Businesses & Products\nopen\nAbout Sony Group\nopen\nTechnology\nopen\nSustainability\nopen\nDesign\nopen\nEmployees / Careers\nopen\nInvestor Relations\nopen\nInvestor Relations Top\nIR News\nIR Library\nCorporate Report\nEarning Announcement\nCorporate Bonds & Ratings\nClose\nContact Us",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products\n                    open\n                \n                \n                    \n                        \n\n                            Businesses & Products Top\n\n                            \n                                \n                                    \n                                        Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Music\n                                    \n                                \n                                \n                                    \n                                        Pictures: Movies & TV Shows\n                                    \n                                \n\n\n                                \n                                    \n                                        Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions\n                                            \n                                        \n                                    \n                                \n                                \n                                    \n                                        Imaging & Sensing Solutions\n                                    \n                                \n\n                                \n                                    \n                                        Financial Services\n                                    \n                                \n                                \n                                    \n                                        New Initiatives\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "About Sony Group\n                    open\n                \n                \n                    \n                        \n                            About Sony Group Top\n                            \n                                \n                                    \n                                        Sony's Purpose & Values\n                                    \n                                \n                                \n                                    \n                                        Message from the CEO\n                                    \n                                \n                                \n                                    \n                                        News Releases\n                                    \n                                \n                                \n                                    \n                                        Sony Corporate Blog\n                                    \n                                \n                                \n                                    \n                                        Creative Entertainment Vision\n                                    \n                                \n                                \n                                    \n                                        Brand\n                                    \n                                \n                                \n                                    \n                                        History\n                                    \n                                \n                                \n                                    \n                                        Corporate Data\n                                    \n                                \n                                \n                                    \n                                        Affiliated Companies\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Technology\n                    open\n                \n                \n                    \n                        \n                            Technology Top\n                            \n                                \n                                   \n                                        Chief Digital Officer Message\n                                    \n                                \n                                \n                                    \n                                        Tech Stories\n                                    \n                                \n                                \n                                    \n                                        Programs & Events\n                                    \n                                \n                                \n                                    \n                                        Corporate Distinguished Engineer\n                                    \n                                \n                                \n                                    \n                                        Publications\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Sustainability\n                    open\n                \n                \n                    \n                        \n                            Sustainability Top\n                            \n                                \n                                    \n                                        Vision of Founder andBasic Policy for Sustainability Initiatives\n                                    \n                                \n                                \n                                    \n                                        Sustainability Report\n                                    \n                                \n                                \n                                    \n                                        Environment\n                                    \n                                \n                                \n                                    \n                                        Social Contribution\n                                    \n                                \n                                \n                                    \n                                        Diversity\n                                    \n                                \n                                \n                                    \n                                        Accessibility\n                                    \n                                \n                                \n                                    \n                                        Response to COVID-19\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Design\n                    open\n                \n                \n                    \n\n                        \n                            Design Top\n                            \n                                \n                                    \n                                        About\n                                    \n                                \n                                \n                                    \n                                        Design Stories\n                                    \n                                \n                                \n                                    \n                                        Interviews & Lectures\n                                    \n                                \n                                \n                                    \n                                        Gallery\n                                    \n                                \n                                \n                                    \n                                        News\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Employees / Careers\n                    open\n                \n                \n                    \n                        \n                            Employees Top\n                            Careers Top\n                        \n                        \n                            Close",
+            "Investor Relations\n                    open\n                \n                \n                    \n                        \n                            Investor Relations Top\n                            \n                                \n                                    \n                                        IR News\n                                    \n                                \n                                \n                                    \n                                        IR Library\n                                    \n                                \n                                \n                                    \n                                        Corporate Report\n                                    \n                                \n                                \n                                    \n                                        Earning Announcement\n                                    \n                                \n                                \n                                    \n                                        Corporate Bonds & Ratings\n                                    \n                                \n                            \n                        \n                        \n                            Close",
+            "Contact Us"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Games & Network Services\n                                    \n                                    \n                                        \n                                            \n                                                PlayStation\n                                            \n                                        \n                                        \n                                            \n                                                Sony Interactive Entertainment",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Electronics: Entertainment Technology & Services\n                                    \n                                    \n                                        \n                                        \n                                            \n                                                Consumer Electronics\n                                            \n                                        \n                                        \n                                            \n                                                Professional Products & Solutions",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "PlayStation",
+            "Sony Interactive Entertainment"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Consumer Electronics",
+            "Professional Products & Solutions"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sony's Purpose & Values",
+            "Message from the CEO",
+            "News Releases",
+            "Sony Corporate Blog",
+            "Creative Entertainment Vision",
+            "Brand",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Chief Digital Officer Message",
+            "Tech Stories",
+            "Programs & Events",
+            "Corporate Distinguished Engineer",
+            "Publications"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Vision of Founder andBasic Policy for Sustainability Initiatives",
+            "Sustainability Report",
+            "Environment",
+            "Social Contribution",
+            "Diversity",
+            "Accessibility",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earning Announcement",
+            "Corporate Bonds & Ratings"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Contact Us"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "main",
+      "role": null,
+      "id": null,
+      "class": "main",
+      "text": "It's a Brand New Day For Peter Parker\nWatch the new trailer for \"Spider-Man: Brand New Day\" in theaters July 31\nMovies & TV\nA Message From Founder & CEO, Ned Leeds\nFollow Spider-Man’s whereabouts with the official Spidey Tracker\nMovies & TV\nIs This Real?\nDiscover the short film created to showcase the full potential of Sony True RGB BRAVIA TV and the BRAVIA Theatre\nTV\nA Legacy of Sound, Reimagined For the Future\nExplore how Sony’s heritage shaped modern audio and how “1000X THE COLLEXION\" marks the next evolution in sound\nAudio\nCelebrating 10 Years of 1000X Series\nTake a deeper look into 10 years of innovation in the 1000X Series\nAudio\nIt's a Brand New Day For Peter Parker\nWatch the new trailer for \"Spider-Man: Brand New Day\" in theaters July 31\nMovies & TV\nA Message From Founder & CEO, Ned Leeds\nFollow Spider-Man’s whereabouts with the official Spidey Tracker\nMovies & TV\nIs This Real?\nDiscover the short film created to showcase the full potential of Sony True RGB BRAVIA TV and the BRAVIA Theatre\nTV\nA Legacy of Sound, Reimagined For the Future\nExplore how Sony’s heritage shaped modern audio and how “1000X THE COLLEXION\" marks the next evolution in sound\nAudio\nCelebrating 10 Years of 1000X Series\nTake a deeper look into 10 years of innovation in the 1000X Series\nAudio\nIt's a Brand New Day For Peter Parker\nWatch the new trailer for \"Spider-Man: Brand New Day\" in theaters July 31\nMovies & TV\nA Message From Founder & CEO, Ned Leeds\nFollow Spider-Man’s whereabouts with the official Spidey Tracker\nMovies & TV\nIs This Real?\nDiscover the short film created to showcase the full potential of Sony True RGB BRAVIA TV and the BRAVIA Theatre\nTV\nA Legacy of Sound, Reimagined For the Future\nExplore how Sony’s heritage shaped modern audio and how “1000X THE COLLEXION\" marks the next evolution in sound\nAudio\nCelebrating 10 Years of 1000X Series\nTake a deeper look into 10 years of innovation in the 1000X Series\nAudio\nslide 1\nslide 2\nslide 3\nslide 4\nslide 5\nsee previous panel\nsee next panel\nEnglish Japanese\nLatest News\nAdvanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure\nCreative Entertainment Vision\nThrough co-creation with creators, we transform ideas into diverse “Realities” where the real and the virtual collide and intertwine.\nBRAND\nSee Powerhouse Performers and Best Friends Caitríona Balfe and Karolina Wydra in Conversation\nSee Powerhouse Performers and Best Friends Caitríona Balfe and Karolina Wydra in Conversation\nCAMERAS\nTomorrow’s Visual Storytellers From Syracuse University Trust Sony’s Cameras Today\nTomorrow’s Visual Storytellers From Syracuse University Trust Sony’s Cameras Today\nBRAND\nDiscover the Ideas Shaping the Future and the Creators Driving Them Forward\nDiscover the Ideas Shaping the Future and the Creators Driving Them Forward\nWatch Kenshi Yonezu’s Live Performance of “Iris Out” from Music Awards Japan 2026\nMUSIC\nWatch Kenshi Yonezu’s Live Performance of “Iris Out” from Music Awards Japan 2026\nSee How FlexStrike Can Help Elevate Your Fighting Game\nGAMING\nSee How FlexStrike Can Help Elevate Your Fighting Game\nWatch The Kid LAROI’s New Music Video for “Girls”\nMUSIC\nWatch The Kid LAROI’s New Music Video for “Girls”\nWatch the Official Music Video For “Do Today” By The Red Clay Strays\nMUSIC\nWatch the Official Music Video For “Do Today” By The Red Clay Strays\n“The Social Reckoning” a Companion Piece to “The Social Network” Is Coming to Theaters October 9\nMOVIES & TV\n“The Social Reckoning” a Companion Piece to “The Social Network” Is Coming to Theaters October 9\nWatch the Official Music Video For “Difficult Love” By Malcolm Todd\nMUSIC\nWatch the Official Music Video For “Difficult Love” By Malcolm Todd\nCheck Out All the Upcoming PlayStation Games Revealed at Summer Game Fest\nGAMING\nCheck Out All the Upcoming PlayStation Games Revealed at Summer Game Fest\nOriginal Blended Material Furniture Tells a Story and Creates a Lot of Dialogue at Milan Design Week\nSUSTAINABILITY\nOriginal Blended Material Furniture Tells a Story and Creates a Lot of Dialogue at Milan Design Week\nWatch the Official Music Video For “Dai Dai” By Shakira\nMUSIC\nWatch the Official Music Video For “Dai Dai” By Shakira\nFollow us on social media\nLatest News\nview index\nJun 24, 2026\nAdvanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure\nJun 23, 2026\nSony Group Corporation Director Appointments\nJun 19, 2026\nSony Partners with UNHCR to Support Emergency Humanitarian Assistance and Higher Education for Refugee Students\nJun 12, 2026\nSony Semiconductor Solutions Corporation Executive Change\nJun 9, 2026\nX-ray CMOS Sensor with Industry's Fastest Imaging and Low-Noise Performance\nImportant Notice",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "see previous panel",
+            "see next panel"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "English",
+            "Japanese"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Jun 24, 2026  Advanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure",
+            "Jun 23, 2026  Sony Group Corporation Director Appointments",
+            "Jun 19, 2026  Sony Partners with UNHCR to Support Emergency Humanitarian Assistance and Higher Education for Refugee Students",
+            "Jun 12, 2026  Sony Semiconductor Solutions Corporation Executive Change",
+            "Jun 9, 2026  X-ray CMOS Sensor with Industry's Fastest Imaging and Low-Noise Performance"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": null,
+      "class": "headline-news",
+      "text": "Latest News\nAdvanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure",
+      "body": [],
+      "lists": [],
+      "bg": "rgb(242, 242, 242)",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "news",
+      "class": "news",
+      "text": "Latest News\nview index\nJun 24, 2026\nAdvanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure\nJun 23, 2026\nSony Group Corporation Director Appointments\nJun 19, 2026\nSony Partners with UNHCR to Support Emergency Humanitarian Assistance and Higher Education for Refugee Students\nJun 12, 2026\nSony Semiconductor Solutions Corporation Executive Change\nJun 9, 2026\nX-ray CMOS Sensor with Industry's Fastest Imaging and Low-Noise Performance\nImportant Notice",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Jun 24, 2026  Advanced 1/2-type CMOS Sensor for Mobile Applications Featuring Industry's First RB2×2 OCL Pixel Structure",
+            "Jun 23, 2026  Sony Group Corporation Director Appointments",
+            "Jun 19, 2026  Sony Partners with UNHCR to Support Emergency Humanitarian Assistance and Higher Education for Refugee Students",
+            "Jun 12, 2026  Sony Semiconductor Solutions Corporation Executive Change",
+            "Jun 9, 2026  X-ray CMOS Sensor with Industry's Fastest Imaging and Low-Noise Performance"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "class": null,
+      "text": "Latest News\nview index",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(101, 101, 101)"
+    },
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "class": "to-top",
+      "text": "",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "class": null,
+      "text": "",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "contents_menu is_desktop_four_col",
+      "text": "Businesses & Products\nBusinesses & Products Top\nGames & Network Services\n- PlayStation\n- Sony Interactive Entertainment\nMusic\nPictures: Movies & TV Shows\nElectronics: Entertainment Technology & Services\n- Consumer Electronics\n- Professional Products & Solutions\nImaging & Sensing Solutions\nFinancial Services\nNew Initiatives\nAbout Sony Group\nAbout Sony Group Top\nSony's Purpose & Values\nMessage from the CEO\nNews Releases\nSony Corporate Blog\nCreative Entertainment Vision\nBrand\nHistory\nCorporate Data\nAffiliated Companies\nTechnology\nTechnology Top\nChief Digital Officer Message\nTech Stories\nPrograms & Events\nCorporate Distinguished Engineer\nPublications\nSustainability\nSustainability Top\nVision of Founder and\nBasic Policy for Sustainability Initiatives\nSustainability Report\nEnvironment\nSocial Contribution\nDiversity\nAccessibility\nResponse to COVID-19\nDesign\nDesign Top\nAbout\nDesign Stories\nInterviews & Lectures\nGallery\nNews\nEmployees / Careers\nEmployees Top\nCareers Top\nInvestor Relations\nInvestor Relations Top\nIR News\nIR Library\nCorporate Report\nEarning Announcement\nCorporate Bonds & Ratings",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products Top",
+            "Games & Network Services\n              \n                - PlayStation\n                - Sony Interactive Entertainment",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Electronics: Entertainment Technology & Services\n              \n                - Consumer Electronics\n                - Professional Products & Solutions",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "- PlayStation",
+            "- Sony Interactive Entertainment"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "- Consumer Electronics",
+            "- Professional Products & Solutions"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About Sony Group Top",
+            "Sony's Purpose & Values",
+            "Message from the CEO",
+            "News Releases",
+            "Sony Corporate Blog",
+            "Creative Entertainment Vision",
+            "Brand",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Technology Top",
+            "Chief Digital Officer Message",
+            "Tech Stories",
+            "Programs & Events",
+            "Corporate Distinguished Engineer",
+            "Publications"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sustainability Top",
+            "Vision of Founder andBasic Policy for Sustainability Initiatives",
+            "Sustainability Report",
+            "Environment",
+            "Social Contribution",
+            "Diversity",
+            "Accessibility",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Design Top",
+            "About",
+            "Design Stories",
+            "Interviews & Lectures",
+            "Gallery",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Employees Top",
+            "Careers Top"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Investor Relations Top",
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earning Announcement",
+            "Corporate Bonds & Ratings"
+          ]
+        }
+      ],
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "contents_menu is_desktop_four_col",
+      "text": "Businesses & Products\n          Businesses & Products\n          PlayStation: Games & Network Services\n          Music\n          Pictures: Movies & TV Shows\n          Consumer Electronics\n          Imaging & Sensing Solutions\n          Financial Services\n          New Initiatives\n        About Sony Group\n          About Sony Group\n          Sony's Purpose & Value\n          News Releases\n          Our Business\n          New Initiatives\n          Brand\n          Corporate Report\n          History\n          Corporate Data\n          Affiliated Companies\n        Technology\n          Technology\n          Imaging and Sensing\n          Sony CSL\n          Sony AI Inc.\n          AI Initiatives\n          Sony Innovation Fund\n          VISION-S\n          Human-Centered Design\n        Careers\n          Careers\n          Japan\n          India\n          United States\n          Europe\n          Locations\n        Sustainability\n          Sustainability\n          Environment\n          Social Contribution\n          Diversity & Inclusion\n          Accessibility\n          Sustainability Report\n          Message from the CEO\n          Response to COVID-19\n        Design\n          Design\n          Philosophy\n          Stories\n          Gallery\n          Career\n          News\n        Investor Relations\n          Investor Relations\n          IR News\n          IR Library\n          Corporate Report\n          Earnings Releases\n          Corporate Bonds & Ratings",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products\n        \n          Businesses & Products\n          PlayStation: Games & Network Services\n          Music\n          Pictures: Movies & TV Shows\n          Consumer Electronics\n          Imaging & Sensing Solutions\n          Financial Services\n          New Initiatives",
+            "About Sony Group\n        \n          About Sony Group\n          Sony's Purpose & Value\n          News Releases\n          Our Business\n          New Initiatives\n          Brand\n          Corporate Report\n          History\n          Corporate Data\n          Affiliated Companies",
+            "Technology\n        \n          Technology\n          Imaging and Sensing\n          Sony CSL\n          Sony AI Inc.\n          AI Initiatives\n          Sony Innovation Fund\n          VISION-S\n          Human-Centered Design",
+            "Careers\n        \n          Careers\n          Japan\n          India\n          United States\n          Europe\n          Locations",
+            "Sustainability\n        \n          Sustainability\n          Environment\n          Social Contribution\n          Diversity & Inclusion\n          Accessibility\n          Sustainability Report\n          Message from the CEO\n          Response to COVID-19",
+            "Design\n        \n          Design\n          Philosophy\n          Stories\n          Gallery\n          Career\n          News",
+            "Investor Relations\n        \n          Investor Relations\n          IR News\n          IR Library\n          Corporate Report\n          Earnings Releases\n          Corporate Bonds & Ratings"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Businesses & Products",
+            "PlayStation: Games & Network Services",
+            "Music",
+            "Pictures: Movies & TV Shows",
+            "Consumer Electronics",
+            "Imaging & Sensing Solutions",
+            "Financial Services",
+            "New Initiatives"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "About Sony Group",
+            "Sony's Purpose & Value",
+            "News Releases",
+            "Our Business",
+            "New Initiatives",
+            "Brand",
+            "Corporate Report",
+            "History",
+            "Corporate Data",
+            "Affiliated Companies"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Technology",
+            "Imaging and Sensing",
+            "Sony CSL",
+            "Sony AI Inc.",
+            "AI Initiatives",
+            "Sony Innovation Fund",
+            "VISION-S",
+            "Human-Centered Design"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Careers",
+            "Japan",
+            "India",
+            "United States",
+            "Europe",
+            "Locations"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Sustainability",
+            "Environment",
+            "Social Contribution",
+            "Diversity & Inclusion",
+            "Accessibility",
+            "Sustainability Report",
+            "Message from the CEO",
+            "Response to COVID-19"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Design",
+            "Philosophy",
+            "Stories",
+            "Gallery",
+            "Career",
+            "News"
+          ]
+        },
+        {
+          "ordered": false,
+          "items": [
+            "Investor Relations",
+            "IR News",
+            "IR Library",
+            "Corporate Report",
+            "Earnings Releases",
+            "Corporate Bonds & Ratings"
+          ]
+        }
+      ],
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "footer",
+      "role": null,
+      "id": null,
+      "class": "tmpl-footer-all",
+      "text": "Terms and Conditions\nPrivacy Policy\nCookie Policy\nCustomize Cookies\nWeb Accessibility Statement\nAbout this Site\nSite Map\nCopyright 2026 Sony Group Corporation",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Terms and Conditions",
+            "Privacy Policy",
+            "Cookie Policy",
+            "Customize Cookies",
+            "Web Accessibility Statement",
+            "About this Site",
+            "Site Map"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "class": "tmlp-footer__nav-wrap",
+      "text": "Terms and Conditions\nPrivacy Policy\nCookie Policy\nCustomize Cookies\nWeb Accessibility Statement\nAbout this Site\nSite Map",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "Terms and Conditions",
+            "Privacy Policy",
+            "Cookie Policy",
+            "Customize Cookies",
+            "Web Accessibility Statement",
+            "About this Site",
+            "Site Map"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": null,
+      "class": "ot-sdk-row ot-cat-grp",
+      "text": "Manage Consent PreferencesPerformance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.View Vendor DetailsStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems.View Vendor DetailsFunctional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalization (for example to remember the choices you make when using our website). They may be set by us or by third party providers whose services we have added to our pages.View Vendor DetailsTargeting Cookies  Targeting Cookies We and certain third party analytics, advertising, social media, and similar companies may collect information from you when you visit our site through cookies in order to build a profile of your interests and show you relevant advertisements on other sites.View Vendor Details",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-pc-lst",
+      "class": "ot-hide ot-pc-scrollbar",
+      "text": "Back ButtonVendors List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "checkbox label label"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-fltr-modal",
+      "class": null,
+      "text": "Clear checkbox label labelApply Cancel",
+      "body": [],
+      "lists": [
+        {
+          "ordered": false,
+          "items": [
+            "checkbox label label"
+          ]
+        }
+      ],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "section",
+      "role": null,
+      "id": "ot-lst-cnt",
+      "class": "ot-pc-scrollbar",
+      "text": "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+      "body": [],
+      "lists": [],
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "ctas": [
+    {
+      "label": "slide 1",
+      "href": "https://www.sony.com/en/#",
+      "bg": "rgba(255, 255, 255, 0.25)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "3px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "slide 2",
+      "href": "https://www.sony.com/en/#",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "slide 3",
+      "href": "https://www.sony.com/en/#",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "slide 4",
+      "href": "https://www.sony.com/en/#",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "slide 5",
+      "href": "https://www.sony.com/en/#",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(101, 101, 101)",
+      "borderRadius": "50%",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Watch Kenshi Yonezu’s Live Performance of “Iris Out” from Mu",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Watch The Kid LAROI’s New Music Video for “Girls” play Watch",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Watch the Official Music Video For “Do Today” By The Red Cla",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "“The Social Reckoning” a Companion Piece to “The Social Netw",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Watch the Official Music Video For “Difficult Love” By Malco",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Watch the Official Music Video For “Dai Dai” By Shakira play",
+      "href": null,
+      "bg": "rgb(239, 239, 239)",
+      "color": "rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "return to top of this page.",
+      "href": "https://www.sony.com/en/#top",
+      "bg": "rgba(0, 0, 0, 0.6)",
+      "color": "rgb(0, 0, 238)",
+      "borderRadius": "2px",
+      "fontWeight": "400"
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "bg": "rgb(56, 96, 190)",
+      "color": "rgb(85, 85, 85)",
+      "borderRadius": "17px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Reject All",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    },
+    {
+      "label": "Confirm My Choices",
+      "href": null,
+      "bg": "rgb(45, 117, 199)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "2px",
+      "fontWeight": "700"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.sony.com/en/",
+      "internal": true,
+      "text": ""
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/products/",
+      "internal": true,
+      "text": "Businesses & Products\n                    open"
+    },
+    {
+      "href": "https://sonyinteractive.com/en/",
+      "internal": false,
+      "text": "Games & Network Services"
+    },
+    {
+      "href": "https://www.playstation.com/",
+      "internal": false,
+      "text": "PlayStation"
+    },
+    {
+      "href": "https://www.sonymusic.com/",
+      "internal": false,
+      "text": "Music"
+    },
+    {
+      "href": "https://www.sonypictures.net/",
+      "internal": false,
+      "text": "Pictures: Movies & TV Shows"
+    },
+    {
+      "href": "https://www.sony.net/",
+      "internal": false,
+      "text": "Electronics: Entertainment Technology & Services"
+    },
+    {
+      "href": "https://www.sony.net/electronics/",
+      "internal": false,
+      "text": "Consumer Electronics"
+    },
+    {
+      "href": "https://pro.sony/",
+      "internal": false,
+      "text": "Professional Products & Solutions"
+    },
+    {
+      "href": "https://www.sony-semicon.com/en/",
+      "internal": false,
+      "text": "Imaging & Sensing Solutions"
+    },
+    {
+      "href": "https://www.sonyfg.co.jp/index_en.html",
+      "internal": false,
+      "text": "Financial Services"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "internal": true,
+      "text": "About Sony Group\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/purpose_and_values/",
+      "internal": true,
+      "text": "Sony's Purpose & Values"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/message/",
+      "internal": true,
+      "text": "Message from the CEO"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/",
+      "internal": true,
+      "text": "News Releases"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/blog/",
+      "internal": true,
+      "text": "Sony Corporate Blog"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/create-infinite-realities/",
+      "internal": true,
+      "text": "Creative Entertainment Vision"
+    },
+    {
+      "href": "https://www.sony.com/en/brand/",
+      "internal": true,
+      "text": "Brand"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "internal": true,
+      "text": "History"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "internal": true,
+      "text": "Corporate Data"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/",
+      "internal": true,
+      "text": "Affiliated Companies"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/",
+      "internal": true,
+      "text": "Technology\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/kodera_message/",
+      "internal": true,
+      "text": "Chief Digital Officer Message"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/stories/",
+      "internal": true,
+      "text": "Tech Stories"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/programs_events/",
+      "internal": true,
+      "text": "Programs & Events"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/activities/distinguished_engineer/",
+      "internal": true,
+      "text": "Corporate Distinguished Engineer"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/technology/publications/",
+      "internal": true,
+      "text": "Publications"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/",
+      "internal": true,
+      "text": "Sustainability\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/vision/",
+      "internal": true,
+      "text": "Vision of Founder andBasic Policy for Sustainabili"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr_report/",
+      "internal": true,
+      "text": "Sustainability Report"
+    },
+    {
+      "href": "https://www.sony.net/eco",
+      "internal": false,
+      "text": "Environment"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/community/",
+      "internal": true,
+      "text": "Social Contribution"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/diversity/",
+      "internal": true,
+      "text": "Diversity"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/accessibility/",
+      "internal": true,
+      "text": "Accessibility"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/covid_19_response/",
+      "internal": true,
+      "text": "Response to COVID-19"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/",
+      "internal": true,
+      "text": "Design\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/about/",
+      "internal": true,
+      "text": "About"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/stories/",
+      "internal": true,
+      "text": "Design Stories"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/interviews-lectures/",
+      "internal": true,
+      "text": "Interviews & Lectures"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/gallery/",
+      "internal": true,
+      "text": "Gallery"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/news/",
+      "internal": true,
+      "text": "News"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Employee/",
+      "internal": true,
+      "text": "Employees / Careers\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Careers/",
+      "internal": true,
+      "text": "Careers Top"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/",
+      "internal": true,
+      "text": "Investor Relations\n                    open"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/news/2026.html",
+      "internal": true,
+      "text": "IR News"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/",
+      "internal": true,
+      "text": "IR Library"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/",
+      "internal": true,
+      "text": "Corporate Report"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html",
+      "internal": true,
+      "text": "Earning Announcement"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/stock/convert.html",
+      "internal": true,
+      "text": "Corporate Bonds & Ratings"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/SupportAll/",
+      "internal": true,
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://spidermanbrandnewday.movie/home/",
+      "internal": false,
+      "text": "It's a Brand New Day For Peter Parker\n            "
+    },
+    {
+      "href": "https://www.youtube.com/watch?v=0ceb-6OoJw8",
+      "internal": false,
+      "text": "A Message From Founder & CEO, Ned Leeds\n          "
+    },
+    {
+      "href": "https://www.sony.net/tv_cinemaiscominghome",
+      "internal": false,
+      "text": "Is This Real? \n            Discover the short film"
+    },
+    {
+      "href": "https://www.youtube.com/watch?v=6YrtD1IJcSU",
+      "internal": false,
+      "text": "A Legacy of Sound, Reimagined For the Future\n     "
+    },
+    {
+      "href": "https://www.sony.co.jp/yy2998/",
+      "internal": false,
+      "text": "Celebrating 10 Years of 1000X Series \n            "
+    },
+    {
+      "href": "https://www.sony.com/ja/",
+      "internal": true,
+      "text": "Japanese"
+    },
+    {
+      "href": "https://www.sony-semicon.com/en/news/2026/2026062401.html",
+      "internal": false,
+      "text": "Advanced 1/2-type CMOS Sensor for Mobile Applicati"
+    },
+    {
+      "href": "https://blog.playstation.com/2026/06/01/hands-on-report-flexstrike-wireless-fight-stick-pulse-elevate-wireless-speakers-playstations-27-gaming-monitor/",
+      "internal": false,
+      "text": "See How FlexStrike Can Help Elevate Your Fighting "
+    },
+    {
+      "href": "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/",
+      "internal": false,
+      "text": "Check Out All the Upcoming PlayStation Games Revea"
+    },
+    {
+      "href": "https://www.sony.com/en/brand/seedsofemotion/esquisse-outro/",
+      "internal": true,
+      "text": "Original Blended Material Furniture Tells a Story "
+    },
+    {
+      "href": "https://www.instagram.com/sony/",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/Sony",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://twitter.com/Sony",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/Sony",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/sony/",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.tiktok.com/@sony",
+      "internal": false,
+      "text": ""
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/202606/26-015E/index.html",
+      "internal": true,
+      "text": "Jun 23, 2026  Sony Group Corporation Director Appo"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/News/Press/202606/26-014E/index.html",
+      "internal": true,
+      "text": "Jun 19, 2026  Sony Partners with UNHCR to Support "
+    },
+    {
+      "href": "https://www.sony-semicon.com/en/news/2026/2026061201.html",
+      "internal": false,
+      "text": "Jun 12, 2026  Sony Semiconductor Solutions Corpora"
+    },
+    {
+      "href": "https://www.sony-semicon.com/en/news/2026/2026060901.html",
+      "internal": false,
+      "text": "Jun 9, 2026  X-ray CMOS Sensor with Industry's Fas"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/News/ServiceArea/",
+      "internal": true,
+      "text": "Important Notice"
+    },
+    {
+      "href": "https://www.sonypictures.com/",
+      "internal": false,
+      "text": "Pictures: Movies & TV Shows"
+    },
+    {
+      "href": "https://www.sony.com/en/electronics/",
+      "internal": true,
+      "text": "Businesses & Products"
+    },
+    {
+      "href": "http://www.sonymusic.com/",
+      "internal": false,
+      "text": "Music"
+    },
+    {
+      "href": "https://www.sony-semicon.co.jp/e/",
+      "internal": false,
+      "text": "Imaging & Sensing Solutions"
+    },
+    {
+      "href": "https://www.sonyfh.co.jp/index_en.html",
+      "internal": false,
+      "text": "Financial Services"
+    },
+    {
+      "href": "https://www.sony-semicon.co.jp/e/technology/",
+      "internal": false,
+      "text": "Imaging and Sensing"
+    },
+    {
+      "href": "https://www.sonycsl.co.jp/",
+      "internal": false,
+      "text": "Sony CSL"
+    },
+    {
+      "href": "https://ai.sony/",
+      "internal": false,
+      "text": "Sony AI Inc."
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/sony_ai/",
+      "internal": true,
+      "text": "AI Initiatives"
+    },
+    {
+      "href": "http://www.sonyinnovationfund.com/",
+      "internal": false,
+      "text": "Sony Innovation Fund"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/vision-s/",
+      "internal": true,
+      "text": "VISION-S"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/humancentereddesign/",
+      "internal": true,
+      "text": "Human-Centered Design"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Careers/japan/",
+      "internal": true,
+      "text": "Japan"
+    },
+    {
+      "href": "https://www.linkedin.com/company/sony-r-d-center-india/",
+      "internal": false,
+      "text": "India"
+    },
+    {
+      "href": "http://www.sonyjobs.com/",
+      "internal": false,
+      "text": "United States"
+    },
+    {
+      "href": "https://www.sony.co.uk/global-careers-at-sony/find-a-job.html",
+      "internal": false,
+      "text": "Europe"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/Careers/locations/",
+      "internal": true,
+      "text": "Locations"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/eco/",
+      "internal": true,
+      "text": "Environment"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/csr/message/",
+      "internal": true,
+      "text": "Message from the CEO"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/philosophy/",
+      "internal": true,
+      "text": "Philosophy"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/design/career/",
+      "internal": true,
+      "text": "Career"
+    },
+    {
+      "href": "https://www.sony.com/en/SonyInfo/IR/news/2020.html",
+      "internal": true,
+      "text": "IR News"
+    },
+    {
+      "href": "https://www.sony.com/en/copyright/",
+      "internal": true,
+      "text": "Terms and Conditions"
+    },
+    {
+      "href": "https://www.sony.com/en/privacy/",
+      "internal": true,
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "https://www.sony.com/en/privacy/cookie/",
+      "internal": true,
+      "text": "Cookie Policy"
+    },
+    {
+      "href": "https://www.sony.com/en/web-accessibility-statement/",
+      "internal": true,
+      "text": "Web Accessibility Statement"
+    },
+    {
+      "href": "https://www.sony.com/en/about/",
+      "internal": true,
+      "text": "About this Site"
+    },
+    {
+      "href": "https://www.sony.com/en/sitemap/",
+      "internal": true,
+      "text": "Site Map"
+    },
+    {
+      "href": "https://www.sony.com/ja",
+      "internal": true,
+      "text": "JA"
+    },
+    {
+      "href": "https://www.sony.com/en",
+      "internal": true,
+      "text": "EN"
+    },
+    {
+      "href": "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner",
+      "internal": false,
+      "text": ""
+    }
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.sony.com/en/template/2023/img/logo.svg",
+        "alt": "Sony Homepage",
+        "w": 300,
+        "h": 53
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpideyTracker_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_BRAVIA-ShortFilm_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_LegacyOfSound_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_1000X-BTS_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpideyTracker_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_BRAVIA-ShortFilm_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_LegacyOfSound_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_1000X-BTS_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpideyTracker_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_BRAVIA-ShortFilm_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_LegacyOfSound_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_1000X-BTS_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpiderMan-BrandNewDayTrailer_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SpideyTracker_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_BRAVIA-ShortFilm_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_LegacyOfSound_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_1000X-BTS_image_l.jpg",
+        "alt": "",
+        "w": 1390,
+        "h": 780
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_C2C-BalfeWydra_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 1414
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SyracuseVisualStorytellers_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 564
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_CEV-PortalLink_image_l.png",
+        "alt": "",
+        "w": 1170,
+        "h": 564
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_Yonezu-IRISOUT-MAJ_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 564
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_FlexStrike_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 564
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_KidLAROI-Girls_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 1414
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_RedClayStrays-DoToday_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 1414
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/en_20260626_SocialReckoningTrailer_image_l.jpg",
+        "alt": "",
+        "w": 1170,
+        "h": 564
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/ic_loading_b.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/ic_loading_b.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/ic_loading_b.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_ig.png",
+        "alt": "Instagram",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_fb.png",
+        "alt": "Facebook",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_x.png",
+        "alt": "X",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_yt.png",
+        "alt": "YouTube",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_li.png",
+        "alt": "LinkedIn",
+        "w": 76,
+        "h": 64
+      },
+      {
+        "src": "https://www.sony.com/en/top/2021/img/sns_tiktok.png",
+        "alt": "TikTok",
+        "w": 64,
+        "h": 63
+      },
+      {
+        "src": "data:image/png;base64,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bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiBleGlmOlBpeGVsWERpbWVuc2lvbj0iMzA2IiBleGlmOlBpeGVsWURpbWVuc2lvbj0iMzA4IiB4bXA6Q3JlYXRlRGF0ZT0iMjAyMS0wMi0wMVQxMTozMjoxNiswOTowMCIgeG1wOk1vZGlmeURhdGU9IjIwMjEtMDItMDFUMTE6MzM6NDIrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjEtMDItMDFUMTE6MzM6NDIrMDk6MDAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0iRGlzcGxheSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyZTJmNDQyMy1mNjc1LTQxYzAtODg1ZC0yNDFhMWQ2MzUyZDciIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MmUyZjQ0MjMtZjY3NS00MWMwLTg4NWQtMjQxYTFkNjM1MmQ3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6MmUyZjQ0MjMtZjY3NS00MWMwLTg4NWQtMjQxYTFkNjM1MmQ3Ij4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MmUyZjQ0MjMtZjY3NS00MWMwLTg4NWQtMjQxYTFkNjM1MmQ3IiBzdEV2dDp3aGVuPSIyMDIxLTAyLTAxVDExOjMzOjQyKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8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",
+        "alt": "",
+        "w": 76,
+        "h": 116
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/b7c761bf-8699-4060-8034-00c44deaa47f/0196cd86-2749-7662-b4d0-8e1d0f6d09bf/d94a3ae3-d4dc-4814-8dba-f67a5b71bb62/sony_logo_blue_RGB.png",
+        "alt": "SONY",
+        "w": 654,
+        "h": 235
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "cssBackgrounds": [
+      {
+        "url": "https://www.sony.com/en/top/2021/img/ic_play.svg",
+        "rect": {
+          "w": 585,
+          "h": 707
+        },
+        "pseudo": "::after",
+        "size": "contain"
+      },
+      {
+        "url": "https://www.sony.com/en/top/2021/img/ic_play.svg",
+        "rect": {
+          "w": 585,
+          "h": 282
+        },
+        "pseudo": "::after",
+        "size": "contain"
+      }
+    ],
+    "svgCount": 42,
+    "videos": [
+      {
+        "src": "https://www.sony.com/en/top/2021/mov/panels_bg.mp4",
+        "poster": null
+      }
+    ],
+    "iframes": [
+      {
+        "src": ""
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://www.sony.com/en/search/index.html#/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "hidden",
+          "name": "page"
+        },
+        {
+          "type": "hidden",
+          "name": "d"
+        },
+        {
+          "type": "select-one",
+          "name": "doctype"
+        },
+        {
+          "type": "text",
+          "name": "q"
+        },
+        {
+          "type": "select-one",
+          "name": "sort"
+        },
+        {
+          "type": "select-one",
+          "name": "pagemax"
+        },
+        {
+          "type": "select-one",
+          "name": "imgsize"
+        }
+      ]
+    }
+  ],
+  "cssVars": {
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "dedupBgUrls": [
+    "https://www.sony.com/en/top/2021/img/ic_play.svg"
+  ]
+}

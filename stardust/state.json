@@ -1,0 +1,22 @@
+{
+  "site": {
+    "originUrl": "https://www.sony.com/en/",
+    "extractedAt": "2026-06-28",
+    "pageCap": 8,
+    "totalDiscovered": 48,
+    "crawled": 8,
+    "name": "sony",
+    "daTarget": { "org": "paolomoz", "repo": "stardust-multitest-280626", "subfolder": "/sony/" },
+    "branch": "site-sony"
+  },
+  "pages": [
+    { "slug": "home", "url": "https://www.sony.com/en/", "type": "landing", "status": "extracted", "currentStatePath": "stardust/current/pages/home.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "products", "url": "https://www.sony.com/en/SonyInfo/products/", "type": "listing", "status": "extracted", "currentStatePath": "stardust/current/pages/products.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "about", "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/", "type": "landing", "status": "extracted", "currentStatePath": "stardust/current/pages/about.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "news-press", "url": "https://www.sony.com/en/SonyInfo/News/Press/", "type": "listing", "status": "extracted", "currentStatePath": "stardust/current/pages/news-press.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "message", "url": "https://www.sony.com/en/SonyInfo/message/", "type": "article", "status": "extracted", "currentStatePath": "stardust/current/pages/message.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "design", "url": "https://www.sony.com/en/SonyInfo/design/", "type": "landing", "status": "extracted", "currentStatePath": "stardust/current/pages/design.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "technology", "url": "https://www.sony.com/en/SonyInfo/technology/", "type": "landing", "status": "extracted", "currentStatePath": "stardust/current/pages/technology.json", "prototypePath": "", "migratedPath": "" },
+    { "slug": "privacy", "url": "https://www.sony.com/en/privacy/", "type": "static", "status": "extracted", "currentStatePath": "stardust/current/pages/privacy.json", "prototypePath": "", "migratedPath": "" }
+  ]
+}
