@@ -1,0 +1,45 @@
+<style>
+header.header{position:sticky;top:0;z-index:100;background:rgb(255 255 255 / 96%);backdrop-filter:blur(8px);border-bottom:1px solid #eee}
+header.header .hdr{max-width:1280px;margin-inline:auto;padding:0 24px;display:flex;align-items:center;gap:24px;height:68px}
+header.header .brand{display:flex;align-items:center;gap:10px;text-decoration:none}
+header.header .brand svg{width:42px;height:42px}
+header.header .brand b{font-size:1rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:#1a1a1a}
+header.header nav.main-nav{display:flex;gap:22px}
+header.header nav.main-nav a{text-decoration:none;font-weight:700;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;color:#1a1a1a;padding:6px 2px;border-bottom:2px solid transparent;transition:border-color .2s,color .2s}
+header.header nav.main-nav a:hover{color:#00754A;border-bottom-color:#00754A}
+header.header .actions{margin-left:auto;display:flex;align-items:center;gap:14px}
+header.header .actions a.link{text-decoration:none;font-weight:600;font-size:.9rem;color:#1a1a1a}
+header.header .actions a.link:hover{color:#00754A}
+header.header .actions a.join{background:#00754A;color:#fff;border-radius:980px;padding:9px 20px;font-weight:600;font-size:.9rem;text-decoration:none}
+header.header .actions a.join:hover{background:#006442}
+header.header #sb-nav-toggle{position:absolute;opacity:0;pointer-events:none}
+header.header .burger{display:none;margin-left:auto;cursor:pointer;padding:8px}
+header.header .burger span{display:block;width:24px;height:2px;background:#1a1a1a;margin:5px 0}
+@media (max-width:860px){
+  header.header nav.main-nav,header.header .actions{position:fixed;inset:68px 0 auto 0;flex-direction:column;background:#fff;gap:0;padding:0;max-height:0;overflow:hidden;transition:max-height .3s ease;border-bottom:1px solid #eee;margin:0}
+  header.header .actions{top:auto}
+  header.header nav.main-nav a,header.header .actions a{padding:16px 24px;border-bottom:1px solid #f0f0f0;width:100%}
+  header.header .actions a.join{border-radius:0;background:#00754A;color:#fff;text-align:center}
+  header.header .burger{display:block}
+  header.header #sb-nav-toggle:checked ~ nav.main-nav{max-height:260px}
+  header.header #sb-nav-toggle:checked ~ .actions{max-height:260px}
+}
+</style>
+<div class="hdr">
+  <input type="checkbox" id="sb-nav-toggle" aria-hidden="true">
+  <a class="brand" href="/starbucks" aria-label="Starbucks home">
+    <svg viewBox="0 0 62 62" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><circle cx="31" cy="31" r="30" fill="#00754A"/><circle cx="31" cy="31" r="24.5" fill="none" stroke="#fff" stroke-width="1.6"/><text x="31" y="38" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#fff">S</text></svg>
+    <b>Starbucks</b>
+  </a>
+  <nav class="main-nav" aria-label="Primary">
+    <a href="/starbucks/menu">Menu</a>
+    <a href="/starbucks/rewards">Rewards</a>
+    <a href="/starbucks/gift">Gift Cards</a>
+  </nav>
+  <div class="actions">
+    <a class="link" href="/starbucks/stores-and-ordering">Find a store</a>
+    <a class="link" href="/starbucks/contact">Sign in</a>
+    <a class="join" href="/starbucks/rewards">Join now</a>
+  </div>
+  <label class="burger" for="sb-nav-toggle" aria-label="Toggle menu"><span></span><span></span><span></span></label>
+</div>
