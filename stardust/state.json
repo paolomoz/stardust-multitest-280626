@@ -1,0 +1,171 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:31:23.514Z",
+    "stardustVersion": "0.13.1"
+  },
+  "site": {
+    "originUrl": "https://www.samsung.com/us/",
+    "extractedAt": "2026-06-28T09:31:23.515Z",
+    "pageCap": 16,
+    "totalDiscovered": "10000+ (sitemap index)",
+    "crawled": 16
+  },
+  "archetypes": {
+    "corporate": "about-us__leadership-and-mission",
+    "category-landing": "accessories",
+    "feature": "ai-living",
+    "explore-landing": "explore",
+    "editorial-article": "explore__life-hacks__how-to-work-from-home-and-win-the-day",
+    "home": "home",
+    "shop-hub": "shop",
+    "support-landing": "support",
+    "support-contact": "support__contact"
+  },
+  "pages": [
+    {
+      "slug": "about-us__leadership-and-mission",
+      "url": "https://www.samsung.com/us/about-us/leadership-and-mission/",
+      "status": "extracted",
+      "type": "corporate",
+      "currentStatePath": "stardust/current/pages/about-us__leadership-and-mission.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "accessories",
+      "url": "https://www.samsung.com/us/accessories/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/accessories.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "ai-living",
+      "url": "https://www.samsung.com/us/ai-living/",
+      "status": "extracted",
+      "type": "feature",
+      "currentStatePath": "stardust/current/pages/ai-living.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "explore",
+      "url": "https://www.samsung.com/us/explore/",
+      "status": "extracted",
+      "type": "explore-landing",
+      "currentStatePath": "stardust/current/pages/explore.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "explore__life-hacks__how-to-work-from-home-and-win-the-day",
+      "url": "https://www.samsung.com/us/explore/life-hacks/how-to-work-from-home-and-win-the-day/",
+      "status": "extracted",
+      "type": "editorial-article",
+      "currentStatePath": "stardust/current/pages/explore__life-hacks__how-to-work-from-home-and-win-the-day.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "home",
+      "url": "https://www.samsung.com/us/",
+      "status": "extracted",
+      "type": "home",
+      "currentStatePath": "stardust/current/pages/home.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "monitors__all-monitors",
+      "url": "https://www.samsung.com/us/monitors/all-monitors/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/monitors__all-monitors.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "refrigerators__all-refrigerators",
+      "url": "https://www.samsung.com/us/refrigerators/all-refrigerators/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/refrigerators__all-refrigerators.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "shop",
+      "url": "https://www.samsung.com/us/shop/",
+      "status": "extracted",
+      "type": "shop-hub",
+      "currentStatePath": "stardust/current/pages/shop.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "smartphones__all-smartphones",
+      "url": "https://www.samsung.com/us/smartphones/all-smartphones/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/smartphones__all-smartphones.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "smartthings",
+      "url": "https://www.samsung.com/us/smartthings/",
+      "status": "extracted",
+      "type": "feature",
+      "currentStatePath": "stardust/current/pages/smartthings.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "support",
+      "url": "https://www.samsung.com/us/support/",
+      "status": "extracted",
+      "type": "support-landing",
+      "currentStatePath": "stardust/current/pages/support.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "support__contact",
+      "url": "https://www.samsung.com/us/support/contact/",
+      "status": "extracted",
+      "type": "support-contact",
+      "currentStatePath": "stardust/current/pages/support__contact.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "sustainability",
+      "url": "https://www.samsung.com/us/sustainability/",
+      "status": "extracted",
+      "type": "corporate",
+      "currentStatePath": "stardust/current/pages/sustainability.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "tvs__all-tvs",
+      "url": "https://www.samsung.com/us/tvs/all-tvs/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/tvs__all-tvs.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "watches__all-watches",
+      "url": "https://www.samsung.com/us/watches/all-watches/",
+      "status": "extracted",
+      "type": "category-landing",
+      "currentStatePath": "stardust/current/pages/watches__all-watches.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "consentMethod": "selector:#truste-consent-button",
+  "header": [
+    {
+      "href": "/us/",
+      "text": "Skip to content"
+    }
+  ],
+  "footer": [
+    {
+      "href": "/us/shop/",
+      "text": "Shop Home"
+    },
+    {
+      "href": "/us/why-buy-direct/",
+      "text": "Buy Direct Get More"
+    },
+    {
+      "href": "/us/ai-living/",
+      "text": "AI Living"
+    },
+    {
+      "href": "/us/smartthings/",
+      "text": "SmartThings"
+    },
+    {
+      "href": "/us/rewards/",
+      "text": "Samsung Rewards"
+    },
+    {
+      "href": "/us/shop/offer-program/",
+      "text": "Samsung Offer Programs"
+    },
+    {
+      "href": "/us/support/samsung-care-plus/",
+      "text": "Samsung Care+"
+    },
+    {
+      "href": "/us/store/",
+      "text": "Samsung Experience Stores"
+    },
+    {
+      "href": "/us/trade-in/",
+      "text": "Samsung Trade-in"
+    },
+    {
+      "href": "/us/apps/",
+      "text": "Apps & Services"
+    },
+    {
+      "href": "/us/explore/certified-re-newed-phones/",
+      "text": "Certified Re-Newed"
+    },
+    {
+      "href": "/us/business/",
+      "text": "For Business"
+    },
+    {
+      "href": "/us/peaceofmind/",
+      "text": "Samsung Authorized Reseller Program"
+    },
+    {
+      "href": "/us/explore/",
+      "text": "Explore"
+    },
+    {
+      "href": "/us/smartphones/all-smartphones/",
+      "text": "Galaxy Smartphone"
+    },
+    {
+      "href": "/us/tablets/all-tablets/",
+      "text": "Galaxy Tab"
+    },
+    {
+      "href": "/us/computers/galaxy-book/",
+      "text": "Galaxy Book"
+    },
+    {
+      "href": "/us/watches/all-watches/",
+      "text": "Galaxy Watch"
+    },
+    {
+      "href": "/us/audio-sound/all-audio-sound/",
+      "text": "Galaxy Buds"
+    },
+    {
+      "href": "/us/tvs/all-tvs/",
+      "text": "TVs"
+    },
+    {
+      "href": "/us/projectors/all-projectors/",
+      "text": "Projectors"
+    },
+    {
+      "href": "/us/audio-devices/all-audio-devices/",
+      "text": "Sound Devices"
+    },
+    {
+      "href": "/us/refrigerators/all-refrigerators/",
+      "text": "Refrigerators"
+    },
+    {
+      "href": "/us/dishwashers/all-dishwashers/",
+      "text": "Dishwashers"
+    },
+    {
+      "href": "/us/laundry/washers/",
+      "text": "Laundry"
+    },
+    {
+      "href": "/us/vacuum-cleaners/all-vacuum-cleaners/",
+      "text": "Vacuum Cleaners"
+    },
+    {
+      "href": "/us/monitors/all-monitors/",
+      "text": "Monitors"
+    },
+    {
+      "href": "/us/memory-storage/all-memory-storage/",
+      "text": "Memory & Storage"
+    },
+    {
+      "href": "/us/accessories/",
+      "text": "Accessories"
+    },
+    {
+      "href": "/us/support/",
+      "text": "Support Home"
+    },
+    {
+      "href": "/us/support/downloads/",
+      "text": "Manual & Software"
+    },
+    {
+      "href": "/us/support/warranty/",
+      "text": "Warranty Information"
+    },
+    {
+      "href": "/us/support/service/",
+      "text": "Service Center"
+    },
+    {
+      "href": "/us/support/service/",
+      "text": "Request a Repair"
+    },
+    {
+      "href": "/us/support/service/",
+      "text": "Track Repair"
+    },
+    {
+      "href": "/us/support/contact/",
+      "text": "Contact Us"
+    },
+    {
+      "href": "/us/support/",
+      "text": "Chat"
+    },
+    {
+      "href": "/us/support/range-knob-kit/",
+      "text": "Slide-in Electric Range Recall"
+    },
+    {
+      "href": "/us/aboutsamsung/sustainability/environment/responsible-recycling/programs/",
+      "text": "How to Recycle"
+    },
+    {
+      "href": "/us/why-samsung-account/",
+      "text": "Why Samsung Account"
+    },
+    {
+      "href": "/us/rewards/",
+      "text": "Samsung Rewards"
+    },
+    {
+      "href": "/us/web/my-orders/",
+      "text": "Orders"
+    },
+    {
+      "href": "/us/support/account/products/",
+      "text": "My Page"
+    },
+    {
+      "href": "/us/support/register/",
+      "text": "Product Registration"
+    },
+    {
+      "href": "/us/support/troubleshoot/TSG10001565/",
+      "text": "Samsung Account FAQ"
+    },
+    {
+      "href": "/us/sustainability/",
+      "text": "Overview"
+    },
+    {
+      "href": "/us/sustainability/environment/",
+      "text": "Environment"
+    },
+    {
+      "href": "/us/about-us/digital-responsibility/",
+      "text": "Digital Responsibility"
+    },
+    {
+      "href": "/us/sustainability/security-and-privacy/",
+      "text": "Security and Privacy"
+    },
+    {
+      "href": "/us/accessibility/",
+      "text": "Accessibility"
+    },
+    {
+      "href": "/us/about-us/labor-and-human-rights/",
+      "text": "Labor & Human Rights"
+    },
+    {
+      "href": "/us/about-us/belonging-and-culture/",
+      "text": "Belonging & Culture"
+    },
+    {
+      "href": "/us/sustainability/sustainable-supply-chain/",
+      "text": "Sustainable Supply Chain"
+    },
+    {
+      "href": "/global/sustainability/main/",
+      "text": "Corporate Sustainability"
+    },
+    {
+      "href": "/us/explore/sustainability/",
+      "text": "U.S. Sustainability"
+    },
+    {
+      "href": "/us/about-us/leadership-and-mission/",
+      "text": "Company Info"
+    },
+    {
+      "href": "/us/about-us/our-business/",
+      "text": "Business Area"
+    },
+    {
+      "href": "/us/about-us/brand-identity/",
+      "text": "Brand Identity"
+    },
+    {
+      "href": "/us/careers/",
+      "text": "Careers"
+    },
+    {
+      "href": "/global/ir/",
+      "text": "Investor Relations"
+    },
+    {
+      "href": "/us/about-us/ethics/",
+      "text": "Ethics"
+    },
+    {
+      "href": "/us/function/ipredirection/ipredirectionLocalList/",
+      "text": "USA/ENGLISH"
+    },
+    {
+      "href": "/us/function/ipredirection/ipredirectionLocalList/",
+      "text": "USA/ENGLISH"
+    },
+    {
+      "href": "/us/privacy/",
+      "text": "Privacy"
+    },
+    {
+      "href": "/us/privacy-policy/consumer-health-data-privacy-statement/",
+      "text": "Consumer Health Data Privacy Statement"
+    },
+    {
+      "href": "/us/common/legal/",
+      "text": "Legal"
+    },
+    {
+      "href": "/us/accessibility/",
+      "text": "Accessibility Help"
+    },
+    {
+      "href": "/us/common/sitemap.html",
+      "text": "Sitemap"
+    }
+  ]
+}

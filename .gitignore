@@ -16,4 +16,7 @@ helix-importer-ui
 .env*
 qa/
 samples/
-stardust/
+stardust/extract.mjs
+stardust/_*.txt
+stardust/_*.json
+stardust/current/assets/screenshots/

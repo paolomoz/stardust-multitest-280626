@@ -1,0 +1,59 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:30:00Z",
+    "readArtifacts": ["stardust/current/pages/*.json (16 pages)"],
+    "synthesizedInputs": ["logo.svg (wordmark recreated — header logo is clientlib-injected, not capturable; see test-notes finding)"],
+    "stardustVersion": "0.13.1",
+    "aggregationScope": "all 16 extracted pages"
+  },
+  "logo": {
+    "source": "synthesized-wordmark",
+    "localPath": "stardust/current/assets/logo.svg",
+    "synthesized": true,
+    "basis": "Header logo is injected via AEM clientlib (a.nv00-gnb-v4__logo, aria-label=Samsung); not present as inline SVG/img at render. Real favicon + square letter logo captured as fallback assets.",
+    "fallbackAssets": ["assets/favicon.png (96x96)", "assets/logo-square.png (500x500)", "assets/apple-touch-icon.png (192x192)"]
+  },
+  "palette": [
+    { "role": "background", "value": "#ffffff", "note": "dominant page background" },
+    { "role": "surface", "value": "#f7f7f7", "note": "secondary card/section surface (rgb 247,247,247)" },
+    { "role": "text", "value": "#000000", "note": "primary text and most CTAs are black" },
+    { "role": "primary", "value": "#2189ff", "note": "Samsung interactive blue (rgb 33,137,255) — links/accents" },
+    { "role": "primary-dark", "value": "#1428a0", "note": "Samsung corporate blue — brand anchor" },
+    { "role": "cta", "value": "#000000", "note": "primary buttons render black pill on white" },
+    { "role": "border", "value": "#dcdcdc", "note": "hairline dividers" }
+  ],
+  "type": {
+    "heading": { "family": "SamsungSharpSans", "weights": [500, 700], "note": "captured woff2: SamsungSharpSansMd, SamsungSharpSansBd" },
+    "body": { "family": "SamsungOne", "weights": [400, 700], "note": "captured woff2: SamsungOne-400, SamsungOneLatinWeb 400/700" },
+    "scaleAudit": { "kind": "modular", "note": "large display headings, generous step ratio" },
+    "files": [
+      { "family": "SamsungSharpSans", "weight": 700, "localPath": "assets/fonts/SamsungSharpSansBd.woff2", "licensingFlag": "proprietary-brand" },
+      { "family": "SamsungSharpSans", "weight": 500, "localPath": "assets/fonts/SamsungSharpSansMd.woff2", "licensingFlag": "proprietary-brand" },
+      { "family": "SamsungOne", "weight": 400, "localPath": "assets/fonts/SamsungOneLatinWeb-400.woff2", "licensingFlag": "proprietary-brand" },
+      { "family": "SamsungOne", "weight": 700, "localPath": "assets/fonts/SamsungOneLatinWeb-700.woff2", "licensingFlag": "proprietary-brand" }
+    ]
+  },
+  "motifs": {
+    "borderRadius": { "dominant": "20px", "secondary": "8px", "pill": "50%", "note": "large rounded cards (20px), pill CTAs, circular product chips" },
+    "shadows": ["minimal — flat design, relies on f7f7f7 surface tinting over shadow"],
+    "gradients": ["subtle hero gradients over product photography"],
+    "patterns": ["full-bleed product hero with large imagery", "rounded product cards in grids", "category tile grid", "black pill CTAs", "horizontal product carousels"]
+  },
+  "voice": {
+    "heroHeadline": "Experience a whole new Galaxy",
+    "firstParagraph": "Samsung US — explore mobile, TV, home appliances and electronics with the latest Galaxy innovation.",
+    "ctaSamples": ["Learn more", "Buy now", "Shop now", "View all", "Experience AI now"],
+    "heroImage": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png",
+    "heroMedium": null,
+    "tone": "confident, aspirational, product-led, accessible-premium"
+  },
+  "systemComponents": [
+    { "kind": "site-header", "note": "GNB mega-nav (nv00-gnb-v4): logo + category nav + utility (search, account, cart). JS-driven mega-menu." },
+    { "kind": "site-footer", "note": "rich footer: product links, support links, account, sustainability/about, legal, locale switch (68 links)" },
+    { "kind": "product-card-grid", "note": "rounded product cards with image, name, price, CTA — repeats across all category pages" },
+    { "kind": "category-tile-row", "note": "shop-by-category circular/rounded tiles" },
+    { "kind": "cta-band", "note": "full-width promotional band with headline + black pill CTA" }
+  ],
+  "register": "brand"
+}

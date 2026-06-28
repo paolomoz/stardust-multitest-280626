@@ -1,0 +1,178 @@
+{
+  "technique": "headless-chromium",
+  "consentMethod": "selector:#truste-consent-button",
+  "fonts": [
+    "SamsungOneLatinWeb-400.woff2",
+    "SamsungOneLatinWeb-700.woff2",
+    "SamsungSharpSansBd.woff2",
+    "SamsungSharpSansBd.woff2",
+    "SamsungOne-400.woff2",
+    "SamsungSharpSansMd.woff2",
+    "SamsungOneLatinWeb-700.woff2",
+    "SamsungSharpSansBd.woff2",
+    "SamsungOneLatinWeb-400.woff2",
+    "SamsungSharpSansBd.woff2"
+  ],
+  "results": [
+    {
+      "slug": "home",
+      "url": "https://www.samsung.com/us/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 5971,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "smartphones__all-smartphones",
+      "url": "https://www.samsung.com/us/smartphones/all-smartphones/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6478,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "tvs__all-tvs",
+      "url": "https://www.samsung.com/us/tvs/all-tvs/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 5832,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "refrigerators__all-refrigerators",
+      "url": "https://www.samsung.com/us/refrigerators/all-refrigerators/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6597,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "monitors__all-monitors",
+      "url": "https://www.samsung.com/us/monitors/all-monitors/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 7216,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "watches__all-watches",
+      "url": "https://www.samsung.com/us/watches/all-watches/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 5438,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "shop",
+      "url": "https://www.samsung.com/us/shop/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6097,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "explore",
+      "url": "https://www.samsung.com/us/explore/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 7257,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "explore__life-hacks__how-to-work-from-home-and-win-the-day",
+      "url": "https://www.samsung.com/us/explore/life-hacks/how-to-work-from-home-and-win-the-day/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 7302,
+      "imgs": 59,
+      "bg": 1,
+      "logoCand": null
+    },
+    {
+      "slug": "support",
+      "url": "https://www.samsung.com/us/support/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6546,
+      "imgs": 59,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "support__contact",
+      "url": "https://www.samsung.com/us/support/contact/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 4864,
+      "imgs": 59,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "smartthings",
+      "url": "https://www.samsung.com/us/smartthings/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6640,
+      "imgs": 60,
+      "bg": 9,
+      "logoCand": null
+    },
+    {
+      "slug": "ai-living",
+      "url": "https://www.samsung.com/us/ai-living/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 8832,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "about-us__leadership-and-mission",
+      "url": "https://www.samsung.com/us/about-us/leadership-and-mission/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6481,
+      "imgs": 27,
+      "bg": 0,
+      "logoCand": null
+    },
+    {
+      "slug": "sustainability",
+      "url": "https://www.samsung.com/us/sustainability/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 6362,
+      "imgs": 25,
+      "bg": 3,
+      "logoCand": null
+    },
+    {
+      "slug": "accessories",
+      "url": "https://www.samsung.com/us/accessories/",
+      "ok": true,
+      "httpStatus": 200,
+      "waitMs": 5001,
+      "imgs": 60,
+      "bg": 0,
+      "logoCand": null
+    }
+  ]
+}

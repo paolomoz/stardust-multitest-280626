@@ -1,0 +1,37 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract", "writtenAt": "2026-06-28T09:30:00Z", "stardustVersion": "0.13.1" },
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f7f7f7",
+    "text": "#000000",
+    "primary": "#2189ff",
+    "primaryDark": "#1428a0",
+    "cta": "#000000",
+    "border": "#dcdcdc"
+  },
+  "typography": {
+    "headingFamily": "SamsungSharpSans",
+    "bodyFamily": "SamsungOne",
+    "headingWeights": [500, 700],
+    "bodyWeights": [400, 700]
+  },
+  "rounded": "20px",
+  "spacing": "generous",
+  "components": ["site-header", "site-footer", "product-card-grid", "category-tile-row", "cta-band", "hero", "carousel"],
+  "extensions": {
+    "componentStyle": {
+      "card": { "radius": "20px", "surface": "#f7f7f7", "shadow": "none" },
+      "button": { "radius": "999px", "primaryBg": "#000000", "primaryColor": "#ffffff", "accent": "#2189ff" },
+      "chip": { "radius": "50%" }
+    },
+    "motifs": {
+      "borderRadius": ["20px", "8px", "50%"],
+      "gradients": ["subtle hero overlays"],
+      "patterns": ["full-bleed product hero", "category tile row", "product card grid", "cta-band", "carousel"]
+    },
+    "voice": {
+      "ctaSamples": ["Learn more", "Buy now", "Shop now", "View all", "Experience AI now"],
+      "tone": "confident, aspirational, product-led, accessible-premium"
+    }
+  }
+}
