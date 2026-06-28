@@ -1,0 +1,6 @@
+.company { display: grid; gap: 1.5rem; max-width: 720px; }
+.company .company-logo { display: flex; }
+.company .company-logo img { max-height: 90px; width: auto; max-width: 260px; object-fit: contain; }
+.company .company-text { font-size: 1.15rem; line-height: 1.7; color: var(--color-text); }
+.company .company-website a { font-family: var(--font-body); font-weight: 600; letter-spacing: 0.02em; }
+.company .company-website { font-size: 0.95rem; }

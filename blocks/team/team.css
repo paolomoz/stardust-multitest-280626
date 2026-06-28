@@ -1,0 +1,11 @@
+.team { display: block; }
+.team .team-group { grid-column: 1 / -1; margin: 2.5rem 0 1.25rem; }
+.team .team-group:first-child { margin-top: 0; }
+.team .team-group h2, .team .team-group h3 { font-size: var(--fs-h3); color: var(--brand-green); border-bottom: 2px solid var(--color-line); padding-bottom: 0.6rem; margin: 0; }
+.team-people-grid, .team .team-person { display: block; }
+.team .team-person { padding: 1.1rem 0; border-bottom: 1px solid var(--color-line); }
+.team .person-name { font-family: var(--font-heading); font-weight: 700; font-size: 1.2rem; color: var(--color-ink); }
+.team .person-title { font-family: var(--font-body); font-size: 0.95rem; color: var(--color-muted); }
+@media (min-width: 700px) {
+  .team .team-person { display: grid; grid-template-columns: 1fr 1.4fr; gap: 1.5rem; align-items: baseline; }
+}
