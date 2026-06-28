@@ -1,0 +1,15 @@
+import { chromium } from 'playwright';
+const file = process.argv[2];
+const out = process.argv[3];
+const browser = await chromium.launch();
+const ctx = await browser.newContext({ viewport:{width:1440,height:900}, deviceScaleFactor:1 });
+const page = await ctx.newPage();
+const errs=[];
+page.on('pageerror',e=>errs.push(String(e)));
+await page.goto('file://'+file,{waitUntil:'networkidle',timeout:30000}).catch(e=>errs.push('nav:'+e));
+await page.waitForTimeout(1500);
+await page.screenshot({ path: out, fullPage:true });
+const sections = await page.evaluate(()=>document.querySelectorAll('main .section, main > section').length);
+const brokenImgs = await page.evaluate(()=>[...document.images].filter(i=>i.complete&&i.naturalWidth===0).map(i=>i.src));
+console.log(JSON.stringify({errs,sections,brokenImgs}));
+await browser.close();
