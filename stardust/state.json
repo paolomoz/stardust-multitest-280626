@@ -18,7 +18,7 @@
       "slug": "home",
       "url": "https://www.sony.com/en/",
       "type": "landing",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/home.json",
       "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": ""
@@ -27,7 +27,7 @@
       "slug": "products",
       "url": "https://www.sony.com/en/SonyInfo/products/",
       "type": "listing",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/products.json",
       "prototypePath": "stardust/prototypes/products-proposed.html",
       "migratedPath": ""
@@ -36,7 +36,7 @@
       "slug": "about",
       "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
       "type": "landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about.json",
       "prototypePath": "",
       "migratedPath": ""
@@ -45,7 +45,7 @@
       "slug": "news-press",
       "url": "https://www.sony.com/en/SonyInfo/News/Press/",
       "type": "listing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/news-press.json",
       "prototypePath": "",
       "migratedPath": ""
@@ -54,7 +54,7 @@
       "slug": "message",
       "url": "https://www.sony.com/en/SonyInfo/message/",
       "type": "article",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/message.json",
       "prototypePath": "stardust/prototypes/message-proposed.html",
       "migratedPath": ""
@@ -63,7 +63,7 @@
       "slug": "design",
       "url": "https://www.sony.com/en/SonyInfo/design/",
       "type": "landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/design.json",
       "prototypePath": "",
       "migratedPath": ""
@@ -72,7 +72,7 @@
       "slug": "technology",
       "url": "https://www.sony.com/en/SonyInfo/technology/",
       "type": "landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/technology.json",
       "prototypePath": "",
       "migratedPath": ""
@@ -81,7 +81,7 @@
       "slug": "privacy",
       "url": "https://www.sony.com/en/privacy/",
       "type": "static",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/privacy.json",
       "prototypePath": "",
       "migratedPath": ""
@@ -93,5 +93,19 @@
     "directionFile": "stardust/direction.md",
     "mode": "A",
     "variantMode": "single"
+  },
+  "deploy": {
+    "deployedAt": "2026-06-28T10:49:55.593Z",
+    "host": "https://site-sony--stardust-multitest-280626--paolomoz.aem.live",
+    "pagesDeployed": 16,
+    "blocks": [
+      "hero-carousel",
+      "banner",
+      "cards",
+      "fragment",
+      "section-metadata"
+    ],
+    "published": true,
+    "verify": "pass"
   }
 }
