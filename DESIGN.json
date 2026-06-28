@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F5F7FA",
+    "surfaceAlt": "#EDF0F2",
+    "ink": "#001435",
+    "inkMuted": "#5A6B82",
+    "brandDeep": "#001C64",
+    "brand": "#003087",
+    "brandBright": "#0070E0",
+    "brandLight": "#60CDFF",
+    "brandPale": "#B8E9FF"
+  },
+  "typography": {
+    "headingFamily": "PayPalOpen, \"PayPal Open\", \"Helvetica Neue\", Arial, sans-serif",
+    "bodyFamily": "PayPalSans, \"Helvetica Neue\", Arial, sans-serif",
+    "scaleRatio": 1.333
+  },
+  "rounded": "pill",
+  "spacing": {
+    "base": "4pt",
+    "sectionPadding": {
+      "desktop": "64px",
+      "tablet": "48px",
+      "mobile": "32px"
+    }
+  },
+  "components": [
+    "button-primary",
+    "button-secondary",
+    "card",
+    "input",
+    "badge",
+    "link"
+  ],
+  "extensions": {
+    "mode": "A-brand-faithful",
+    "colorMeta": {
+      "pinnedFrom": "stardust/current/_brand-extraction.json",
+      "reserve": {
+        "#0070E0": "accents/CTAs on white only"
+      }
+    },
+    "typographyMeta": {
+      "pinnedFrom": "captured brand surface",
+      "fallback": "Helvetica Neue, Arial, sans-serif"
+    },
+    "shadows": [
+      "0 2px 8px rgba(0,20,53,.08)",
+      "0 8px 24px rgba(0,20,53,.12)"
+    ],
+    "motion": {
+      "register": "kinetic-grid",
+      "registerRationale": "PRODUCT.md Brand Personality: product + transactional + modular-catalogue",
+      "easings": {
+        "entrance": "cubic-bezier(.22,1,.36,1)",
+        "transition": "ease",
+        "expo": "cubic-bezier(.16,1,.3,1)"
+      },
+      "durations": {
+        "enter": 600,
+        "stagger": 80
+      },
+      "signature": "animated stat counter (rewards %, send stats)"
+    },
+    "breakpoints": {
+      "tablet": "600px",
+      "desktop": "900px",
+      "wide": "1200px"
+    },
+    "divergence": {
+      "mode": "brand-faithful",
+      "seed": {
+        "font_deck": {
+          "name": "brand-inherited",
+          "picked_by": "user-constraint"
+        },
+        "palette": {
+          "source": "inherited from _brand-extraction.json",
+          "picked_by": "user-constraint"
+        },
+        "ground_family": {
+          "value": "stark-white",
+          "override": "brand-faithful"
+        }
+      },
+      "brand_faithful_inversions": [
+        {
+          "retain": "PayPal blue ladder",
+          "reason": "core brand equity"
+        },
+        {
+          "retain": "pill CTA radius 999px",
+          "reason": "signature control shape"
+        },
+        {
+          "retain": "PayPal Open/Sans",
+          "reason": "brand typeface"
+        }
+      ]
+    },
+    "componentStyle": {
+      "buttons": {
+        "radius": "999px",
+        "primary": "#0070E0 on white / white on #003087",
+        "secondary": "outline/text-link"
+      },
+      "cards": {
+        "radius": "12px",
+        "shadow": "soft"
+      },
+      "inputs": {
+        "radius": "8px",
+        "border": "1px #EDF0F2"
+      },
+      "dualCTAPattern": "one primary pill + one secondary text-link"
+    },
+    "systemComponentRoles": {
+      "header": {
+        "purpose": "global nav, Personal/Business toggle, logo, login/signup",
+        "position": "top sticky"
+      },
+      "footer": {
+        "purpose": "sitemap nav, legal, regional",
+        "position": "page-end"
+      },
+      "cta-band": {
+        "purpose": "sign-up / get-the-app conversion",
+        "position": "recurring"
+      }
+    },
+    "voice": {
+      "do": [
+        "Plain, reassuring, confident",
+        "Lead with the benefit",
+        "Security as calm trust signal"
+      ],
+      "dont": [
+        "Jargon, legalese in primary copy",
+        "Fear-based security messaging",
+        "All-caps shouting headlines"
+      ]
+    },
+    "iaPriorities": [
+      {
+        "signal": "commercial-conversion",
+        "evidence": "home + product pages lead with sign-up / get-app / get-card CTAs",
+        "preserveAs": "first-viewport",
+        "scope": "site-wide",
+        "mutability": "movable"
+      },
+      {
+        "signal": "audience-routing",
+        "evidence": "pages/home.json header Personal/Business toggle",
+        "preserveAs": "global-header",
+        "scope": "site-wide",
+        "mutability": "movable"
+      },
+      {
+        "signal": "trust-affordance",
+        "evidence": "recurring 'Safety and privacy are our priority' section",
+        "preserveAs": "present-on-home",
+        "scope": "home",
+        "mutability": "movable"
+      }
+    ]
+  },
+  "narrative": {
+    "northStar": "Faithful PayPal, executed at a 2026 standard.",
+    "overview": "Brand-faithful modernization of paypal.com US marketing.",
+    "keyCharacteristics": [
+      "photographic heroes",
+      "pill CTAs",
+      "blue ladder",
+      "animated stat counters",
+      "modular scannable sections"
+    ],
+    "rules": [
+      "Mixed-case headlines",
+      "One primary CTA per view",
+      "Legibility scrim under text-over-photo"
+    ],
+    "dos": [
+      "Use real captured imagery",
+      "Reserve bright blue for CTAs"
+    ],
+    "donts": [
+      "No generic-SaaS centered-hero silhouette",
+      "No logo-as-editorial",
+      "No fabricated stats"
+    ]
+  }
+}
