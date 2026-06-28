@@ -1,0 +1,12 @@
+.split .split-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:48px;align-items:center}
+.split.reverse .split-grid{direction:rtl}
+.split.reverse .split-grid > *{direction:ltr}
+.split .split-copy h2{margin-bottom:6px}
+.split .split-copy p{color:var(--ink-muted);font-size:1.12rem;margin-top:14px}
+.split .split-copy .btn-group{margin-top:18px}
+.split .split-media img{border-radius:var(--r-card);box-shadow:var(--sh-2);width:100%;object-fit:cover}
+.split .split-media picture{display:block}
+@media (max-width:900px){
+  .split .split-grid{grid-template-columns:1fr;gap:28px}
+  .split.reverse .split-grid{direction:ltr}
+}

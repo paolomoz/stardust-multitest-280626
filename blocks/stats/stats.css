@@ -1,0 +1,6 @@
+.stats{background:var(--surface)}
+.stats .stat-row{display:flex;gap:48px;flex-wrap:wrap}
+.stats .stat{display:flex;flex-direction:column}
+.stats .stat-num{font-family:var(--font-head);font-weight:700;font-size:clamp(2.6rem,2rem + 2.4vw,4rem);color:var(--brand-bright);line-height:1}
+.stats .stat-lbl{font-weight:600;color:var(--ink);margin-top:6px}
+@media (max-width:600px){.stats .stat-row{gap:28px}}

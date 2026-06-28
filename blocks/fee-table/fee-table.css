@@ -1,0 +1,6 @@
+.fee-table .fee-table-el{width:100%;border-collapse:collapse;font-size:.97rem}
+.fee-table caption{text-align:left;font-family:var(--font-head);font-weight:700;color:var(--brand-deep);font-size:1.3rem;margin-bottom:10px}
+.fee-table th,.fee-table td{text-align:left;padding:13px 16px;border-bottom:1px solid var(--surface-alt);vertical-align:top}
+.fee-table thead th{background:var(--surface);color:var(--brand-deep);font-family:var(--font-head)}
+.fee-table tbody tr:hover{background:var(--surface)}
+.fee-table .wrap{max-width:920px}

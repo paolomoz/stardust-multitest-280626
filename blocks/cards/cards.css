@@ -1,27 +1,13 @@
-.cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
-}
+.cards .card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px}
+.cards .card{background:#fff;border:1px solid var(--surface-alt);border-radius:var(--r-card);padding:28px;box-shadow:var(--sh-1);display:flex;flex-direction:column;gap:10px;transition:box-shadow .2s,transform .2s}
+.cards .card:hover{box-shadow:var(--sh-2);transform:translateY(-2px)}
+.cards .card h3{color:var(--brand-deep)}
+.cards .card p{color:var(--ink-muted);flex:1;max-width:none}
+.cards .card a{align-self:flex-start}
 
-.cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
-}
+/* quartet variant — compact 4-up, surface ground per card */
+.cards.quartet .card-grid{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.cards.quartet .card{background:var(--surface);border:0;box-shadow:none;padding:26px}
+.cards.quartet .card:hover{transform:none;box-shadow:var(--sh-1)}
 
-.cards .cards-card-body {
-  margin: 16px;
-}
-
-.cards .cards-card-image {
-  line-height: 0;
-}
-
-.cards > ul > li img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-}
+@media (prefers-reduced-motion:reduce){.cards .card:hover{transform:none}}
