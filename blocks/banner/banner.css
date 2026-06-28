@@ -1,0 +1,13 @@
+.banner { position: relative; background: #000; color: #fff; overflow: hidden; }
+.banner .banner-bg, .banner > picture { display: block; width: 100%; }
+.banner .banner-bg { height: min(46vh, 440px); object-fit: cover; opacity: 0.85; }
+.banner.banner-noimg { min-height: 220px; display: flex; align-items: flex-end; }
+.banner .banner-cap { position: absolute; left: 0; bottom: 0; width: 100%; padding: 0 24px 44px; }
+.banner.banner-noimg .banner-cap { position: static; padding-block: 48px; }
+.banner .banner-inner { max-width: var(--maxw); margin-inline: auto; }
+.banner .banner-inner h1, .banner .banner-inner h2 { font-size: clamp(32px, 5vw, 56px); color: #fff; }
+.banner .banner-lede { margin-top: 14px; max-width: 56ch; color: #ececec; font-size: 18px; }
+@media (max-width: 640px) {
+  .banner .banner-bg { height: 38vh; }
+  .banner .banner-cap { padding-bottom: 28px; }
+}

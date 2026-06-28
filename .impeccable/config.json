@@ -4,6 +4,13 @@
       "single-font"
     ],
     "ignoreFiles": [],
-    "ignoreValues": []
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "arial",
+        "reason": "fallback for SST",
+        "createdAt": "2026-06-28T09:49:25.756Z"
+      }
+    ]
   }
 }
