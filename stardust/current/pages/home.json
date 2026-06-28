@@ -1,0 +1,1267 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:17.361Z",
+    "waitMode": "medium",
+    "waitMs": 9735,
+    "httpStatus": 200
+  },
+  "slug": "home",
+  "url": "https://www.bankofamerica.com/",
+  "meta": {
+    "title": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing",
+    "description": "What would you like the power to do? At Bank of America, our purpose is to help make financial lives better through the power of every connection.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing",
+    "themeColor": "#ffffff",
+    "favicon": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-favicon-32x32-CSX704d6b21.png",
+    "appleTouchIcon": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "headings": [
+    {
+      "level": 2,
+      "text": "Stay flexible with Bank of America Advantage Banking"
+    },
+    {
+      "level": 2,
+      "text": "Savings made simple and rewarding"
+    },
+    {
+      "level": 2,
+      "text": "Find the perfect credit card from among our most popular options"
+    },
+    {
+      "level": 2,
+      "text": "Reinventing what it means to be a confident investor"
+    },
+    {
+      "level": 2,
+      "text": "Videos and tips to better manage your financial life"
+    },
+    {
+      "level": 4,
+      "text": "Get the Mobile Banking app"
+    },
+    {
+      "level": 3,
+      "text": "Get the mobile banking app"
+    },
+    {
+      "level": 4,
+      "text": "We've sent you a download link"
+    },
+    {
+      "level": 4,
+      "text": "We couldn't send the link"
+    },
+    {
+      "level": 1,
+      "text": "You're continuing to a page that could be in Spanish"
+    },
+    {
+      "level": 4,
+      "text": "Get the Mobile Banking app"
+    },
+    {
+      "level": 3,
+      "text": "Get the mobile banking app"
+    },
+    {
+      "level": 4,
+      "text": "We've sent you a download link"
+    },
+    {
+      "level": 4,
+      "text": "We couldn't send the link"
+    },
+    {
+      "level": 1,
+      "text": "Security & Help"
+    },
+    {
+      "level": 1,
+      "text": "Need help with logging in?"
+    },
+    {
+      "level": 1,
+      "text": "Welcome to Online Banking"
+    },
+    {
+      "level": 2,
+      "text": "Choose the card that works for you"
+    },
+    {
+      "level": 2,
+      "text": "Your financial goals matter"
+    },
+    {
+      "level": 2,
+      "text": "Your news and information"
+    },
+    {
+      "level": 3,
+      "text": "Level up your account security"
+    },
+    {
+      "level": 3,
+      "text": "Convenient banking with our Mobile app"
+    },
+    {
+      "level": 2,
+      "text": "Connect with us"
+    },
+    {
+      "level": 1,
+      "text": "You're leaving our website"
+    },
+    {
+      "level": 2,
+      "text": "Cookie Banner"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    }
+  ],
+  "body": [
+    "Checking accounts to meet you where you are in your journey",
+    "Convenient checking solutions to fit your unique business needs",
+    "Save hundreds on banking fees annually",
+    "Get help with Estate services, Medallion signature guarantee, Elder financial care, Notary services, Account changes, Power of attorney",
+    "Enjoy Benefits that grow as your balances grow— from cash back deals to banking benefits for big milestones.",
+    "Earn a 10%-75% rewards bonus on eligible credit cards",
+    "Get the right mortgage to finance your new home",
+    "Refinance your existing mortgage and get cash out",
+    "Use the value of your home to help pay for something you need",
+    "Check out these videos, articles and more for buying or remodeling a home",
+    "Browse up-to-date listings for the home you want",
+    "Save on your next home loan or HELOC",
+    "Competitive rates on dealer purchase loans",
+    "For customers with a Bank of America login with no credit score impact",
+    "Resources for driving towards a cleaner tomorrow",
+    "Get an interest rate discount of 0.10%-0.50% on auto loans",
+    "Take advantage of flexible, easy-to-use tools with Merrill Edge Self-Directed Investing",
+    "Investment professionals design and manage a portfolio aligned to your goals with Merrill Guided Investing",
+    "Get one-on-one guidance and develop a comprehensive strategy with Merrill Lynch Wealth Management",
+    "Your Bank of America deposits and Merrill investing balances get you more with BofA Rewards",
+    "Get help managing the complexities of substantial wealth",
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.",
+    "By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically.",
+    "Apple, the Apple logo, iPhone, iPad, Apple Watch and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.",
+    "Android is a trademark of Google Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd.",
+    "If you don't see an app for your device, you may still be able to access our mobile website by typing bankofamerica.com in your mobile web browser.",
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their polices.",
+    "Continue Go back to Bank of America",
+    "We sent an email with the download link to",
+    "We sent a text message with the download link to",
+    "It's possible that the content, applications and other documents related with specific products and services on that page may only be available in English. Before choosing a product or service, please make sure you have read and understood all terms and conditions provided.",
+    "If you don't recognize the user ID on the login page, you can clear it by selecting the box and using the backspace or delete key. Then enter user ID in the box.",
+    "If you're using a trusted device (such as your home computer), select Save user ID to simplify future logins.",
+    "Make sure you've typed in your password correctly. Remember, it's case-sensitive.",
+    "These questions help confirm your identity. This extra layer of authentication helps protect you if your user IDand/or password are compromised.",
+    "You may be asked to answer personal challenge questions during login if you:",
+    "Be sure to answer the questions exactly as you entered them when you first chose the questions. Any punctuationused during the setup process must be included in your responses to these questions.",
+    "For example, if you answered St. Mary's, you should enter St. Mary's, not StMarys.",
+    "If you have forgotten your answers, contact us.",
+    "If you can't log in and need to change your personal challenge questions, contact us.",
+    "If you're logged in and want to change your security questions, visit the Help & Support menu and selectSecurity Center. After you've confirmed your identity by entering your password, select Personal challenge questions to make changes.",
+    "Login help and support contact information:",
+    "Save time managing finances, so you can spend more time living your life.",
+    "Customized Cash Rewards \n                      Customized Cash Rewards",
+    "No annual fee. \n                      No annual fee.",
+    "cash back offer \n                          cash back offer",
+    "Unlimited Cash Rewards \n                      Unlimited Cash Rewards",
+    "Travel Rewards \n                      Travel Rewards",
+    "1.5 \n                        1.5",
+    "points for every $1 \n                          points for every $1",
+    "BankAmericard® \n                      BankAmericard®",
+    "intro APR offer \n                          intro APR offer",
+    "We can help you achieve them through Better Money Habits® financial education and programs that make communities stronger.",
+    "Click to read\nMoney Confessions ‐ real people share their experiences and get helpful guidance",
+    "Click to read\nHow does a home equity line of credit work—and how can it help?",
+    "Click to read\nSavings accounts and CDs (certificates of deposit): Which should I choose?",
+    "Click to read\nRetrain your brain for savings success with these money-saving challenges",
+    "Click to read  Money Confessions ‐ real people share their experiences and get helpful guidance",
+    "Click to read  How does a home equity line of credit work—and how can it help?",
+    "Click to read  Savings accounts and CDs (certificates of deposit): Which should I choose?",
+    "Click to read  Retrain your brain for savings success with these money-saving challenges",
+    "Explore more topics and build your financial know‑how.",
+    "Watch your security meter rise as you take action to help protect against fraud. See it in the Security Center in Mobile and Online Banking.",
+    "Investment and insurance products:",
+    "Online Banking Service Agreement",
+    "Investing in securities involves risks, and there is always the potential of losing money when you invest in securities. You should review any planned financial transactions that may have tax or legal implications with your personal tax or legal advisor.",
+    "Securities products are provided by Merrill Lynch, Pierce, Fenner & Smith Incorporated (also referred to as \"MLPF&S\", or \"Merrill\"), a registered broker-dealer, registered investment adviser, Member SIPC, and a wholly-owned subsidiary of Bank of America Corporation. MLPF&S makes available certain investment products sponsored, managed, distributed or provided by companies that are affiliates of Bank of America Corporation.",
+    "Bank of America Private Bank is a division of Bank of America, N.A., Member FDIC and a wholly owned subsidiary of Bank of America Corporation. Trust and fiduciary services are provided by Bank of America, N.A. and U.S. Trust Company of Delaware. Both are indirect subsidiaries of Bank of America Corporation.",
+    "Insurance Products are offered through Merrill Lynch Life Agency Inc. (MLLA) and/or Banc of America Insurance Services, Inc., both of which are licensed insurance agencies and wholly-owned subsidiaries of Bank of America Corporation.",
+    "Banking, credit card, automobile loans, mortgage and home equity products are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation. Credit and collateral are subject to approval. Terms and conditions apply. This is not a commitment to lend. Programs, rates, terms and conditions are subject to change without notice.",
+    "You're going to a website not owned or operated by Bank of America or Merrill. That website is solely responsible for its content, offerings, availability, viewpoints, products or services, and level of security. For more information, refer to its posted privacy policy and terms of use.",
+    "This feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us.\n\n\n Local Privacy Notices and Requirements\n\nThe Privacy Choices displayed are specific to  your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the  Opens in a new windowInstitutional Privacy and the  Opens in a new windowConsumer Privacy pages.\n\n\nMarketing Preferences\n\nTo manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our  Opens in a new windowPrivacy Page.\n\n\nCalifornia Residents\n\nTo learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our  Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection.",
+    "Bank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. \n \nBank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. \n \nHow to opt-out of sharing your information: \nWe offer two (2) methods for opting out:\n\n 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. \n 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests.  \n \nAn authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.",
+    "Bank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data.\n\nFor sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website.\n\nThis setting  blocks the collection and use of sensitive information. \n\nTo learn more about Children’s Privacy, see our  \nChildren's Privacy Page.",
+    "Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information.\n\nBy switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities.\n\nIf you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.\n\nAt any time, you may change your preference setting using the toggle bar.  Any manual adjustment will override previous settings."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Explore checking solutions",
+      "href": "https://www.bankofamerica.com/deposits/checking/advantage-banking/"
+    },
+    {
+      "label": "Shop all credit cards",
+      "href": "https://www.bankofamerica.com/credit-cards/"
+    },
+    {
+      "label": "Get started",
+      "href": "https://www.merrilledge.com/investing/ways-to-manage-investments?src_cd=bac_hp_l1_desktop"
+    },
+    {
+      "label": "Visit BetterMoneyHabits.com",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    },
+    {
+      "label": "Get the app",
+      "href": "https://www.bankofamerica.com/#"
+    },
+    {
+      "label": "Open an account",
+      "href": "https://promo.bankofamerica.com/hp-oaa2/"
+    },
+    {
+      "label": "$200\nonline bonus offer\nwith the Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn"
+    },
+    {
+      "label": "$200online bonus offer with the Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn"
+    },
+    {
+      "label": "6% choice category cash back offer",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR02_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1Cta"
+    },
+    {
+      "label": "$200\nonline bonus offer\nwith the Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn"
+    },
+    {
+      "label": "$200online bonus offer with the Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn"
+    },
+    {
+      "label": "2% unlimited cashback offer",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR04_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2Cta"
+    },
+    {
+      "label": "25,000 online\nbonus points offer\nwith the Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn"
+    },
+    {
+      "label": "25,000 onlinebonus points offer with the Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn"
+    },
+    {
+      "label": "Unlimited 1.5 pointsfor every $1 spent onall purchases",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR06_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3Cta"
+    },
+    {
+      "label": "Intro APR offer for\n21 billing cycles\nwith the BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn"
+    },
+    {
+      "label": "Intro APR offer for21 billing cycles with the BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn"
+    },
+    {
+      "label": "Intro APR offer for21 billing cycles",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR08_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4Cta"
+    },
+    {
+      "label": "$200online bonus offer with the Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn"
+    },
+    {
+      "label": "$200online bonus offer with the Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn"
+    },
+    {
+      "label": "6% choice category cash back offer",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR02_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1Cta"
+    },
+    {
+      "label": "$200online bonus offer with the Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn"
+    },
+    {
+      "label": "$200online bonus offer with the Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn"
+    },
+    {
+      "label": "2% unlimited cashback offer",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR04_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2Cta"
+    },
+    {
+      "label": "25,000 onlinebonus points offer with the Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn"
+    },
+    {
+      "label": "25,000 onlinebonus points offer with the Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn"
+    },
+    {
+      "label": "Unlimited 1.5 pointsfor every $1 spent onall purchases",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR06_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3Cta"
+    },
+    {
+      "label": "Intro APR offer for21 billing cycles with the BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn"
+    },
+    {
+      "label": "Intro APR offer for21 billing cycles with the BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn"
+    },
+    {
+      "label": "Intro APR offer for21 billing cycles",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR08_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4Cta"
+    },
+    {
+      "label": "CASH OFFER UP TO $500 for new checking customers See details >\nSee details about the cash offer for new checking customers.",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1HXHT01_Engagement_Banner_DEPCHA_0526_2HDDA100500_EN_EB_CMS_depcha2hdda500EnEbCta#500"
+    },
+    {
+      "label": "×",
+      "href": "javascript:void(0);"
+    },
+    {
+      "label": "See details\nabout the cash offer for new checking customers",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1SZHQ01_SuperHighlights_DEPCHA_0526_2HDDA100500_EN_SHL_CMS_depcha2hdda500EnShlCta#500"
+    },
+    {
+      "label": "Get Involved\nto help bring soccer to schools.",
+      "href": "http://bofa.com/socceratschools?cm_sp=EBZ-Corp_SocialResponsibility-_-SocceratSchools-_-EIT6SXCP01_SuperHighlights_Brand_SAS_Girl_Jun26_CMS_SHL2_brand0626FwcGirlEnShlCta"
+    },
+    {
+      "label": "Apply now\nfor a Customized Cash Rewards credit card.",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079184&productOfferCode=2K&cm_sp=Cons-CC-_-FIFA2026-_-CCA1QSQT01_Highlights_NH_Card_Pricing_Update_Feb26_CMS_HL_ca0226CcrHl"
+    },
+    {
+      "label": "See details\nabout the cash offer for new checking customers",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1QTHR01_Highlights_NH_DEPCHA_0526_2HDDA100500_EN_HL_CMS_depcha2hdda500Enhl#500"
+    },
+    {
+      "label": "Click to\nGet the app",
+      "href": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking/?cm_sp=MobileAlerts-_-Default-_-MAY4QU6W01_Highlights_NH_2024DefaultmobilealertHL3_mobileAcquisitionQ1RefreshHl"
+    },
+    {
+      "label": "Get started\nStart exploring investment solutions",
+      "href": "https://www.merrill.com/?cm_sp=GWM-SelfDirectedBrokerage-_-Default-_-G2C1QVEC01_Highlights_NH_Edge_0604_Solutions_Default_HL_meddt0424Hl4SolutionsEnHl"
+    },
+    {
+      "label": "See details about the cash offer for new checking customers",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1SZHQ01_SuperHighlights_DEPCHA_0526_2HDDA100500_EN_SHL_CMS_depcha2hdda500EnShlCta#500"
+    },
+    {
+      "label": "Get Involved to help bring soccer to schools.",
+      "href": "http://bofa.com/socceratschools?cm_sp=EBZ-Corp_SocialResponsibility-_-SocceratSchools-_-EIT6SXCP01_SuperHighlights_Brand_SAS_Girl_Jun26_CMS_SHL2_brand0626FwcGirlEnShlCta"
+    },
+    {
+      "label": "Apply now for a Customized Cash Rewards credit card.",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079184&productOfferCode=2K&cm_sp=Cons-CC-_-FIFA2026-_-CCA1QSQT01_Highlights_NH_Card_Pricing_Update_Feb26_CMS_HL_ca0226CcrHl"
+    },
+    {
+      "label": "See details about the cash offer for new checking customers",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1QTHR01_Highlights_NH_DEPCHA_0526_2HDDA100500_EN_HL_CMS_depcha2hdda500Enhl#500"
+    },
+    {
+      "label": "Click to Get the app",
+      "href": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking/?cm_sp=MobileAlerts-_-Default-_-MAY4QU6W01_Highlights_NH_2024DefaultmobilealertHL3_mobileAcquisitionQ1RefreshHl"
+    },
+    {
+      "label": "Get started Start exploring investment solutions",
+      "href": "https://www.merrill.com/?cm_sp=GWM-SelfDirectedBrokerage-_-Default-_-G2C1QVEC01_Highlights_NH_Edge_0604_Solutions_Default_HL_meddt0424Hl4SolutionsEnHl"
+    },
+    {
+      "label": "Pause",
+      "href": "https://www.bankofamerica.com/#"
+    },
+    {
+      "label": "Play",
+      "href": "https://www.bankofamerica.com/#"
+    },
+    {
+      "label": "Click to read\nMoney Confessions ‐ real people share their experiences and get helpful guidance",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-confessions?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N6_BMH_Homepage-Tile-1-Q22026-_-BAC.com-Education-Tiles"
+    },
+    {
+      "label": "Visit Better Money Habits®",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    },
+    {
+      "label": "Visit Better Money Habits®",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    },
+    {
+      "label": "Check your account security level",
+      "href": "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=securitycenter&version=21.09&screen=ProfileAndSettings:SecurityCenterHome&channel=desktop&cm_sp=MobileSecurity-_-NotAssigned-_-M1T0LT7101_YNISecurityMeter2023_YNICta"
+    },
+    {
+      "label": "Check your\n account security\n level",
+      "href": "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=securitycenter&version=21.09&screen=ProfileAndSettings:SecurityCenterHome&channel=desktop&cm_sp=MobileSecurity-_-NotAssigned-_-M1T0LT7101_YNISecurityMeter2023_YNICta"
+    },
+    {
+      "label": "Explore our mobile app",
+      "href": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking?cm_sp=MobileOmnibus-_-NotAssigned-_-MJY4LT2K01_YNIMobileGeneral2023_YNICta"
+    },
+    {
+      "label": "Explore our\nmobile\n app",
+      "href": "https://promotions.bankofamerica.com/digitalbanking/mobilebanking?cm_sp=MobileOmnibus-_-NotAssigned-_-MJY4LT2K01_YNIMobileGeneral2023_YNICta"
+    },
+    {
+      "label": "Schedule an appointment",
+      "href": "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/"
+    },
+    {
+      "label": "Find a location",
+      "href": "https://locators.bankofamerica.com/"
+    }
+  ],
+  "internal": [
+    "https://www.bankofamerica.com/#mastheadContainerModule",
+    "https://www.bankofamerica.com/#",
+    "https://www.bankofamerica.com/business",
+    "https://www.bankofamerica.com/security-center/overview/",
+    "https://about.bankofamerica.com/",
+    "https://www.bankofamerica.com/es/",
+    "https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US",
+    "https://www.bankofamerica.com/help/overview/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+    "https://www.bankofamerica.com/student-banking/",
+    "https://business.bankofamerica.com/en/deposits/checking-accounts",
+    "https://www.bankofamerica.com/onlinebanking/online-banking.go?request_locale=en_US",
+    "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/",
+    "https://www.bankofamerica.com/deposits/checking/debit-card/",
+    "https://info.bankofamerica.com/en/bofa-rewards",
+    "https://www.bankofamerica.com/signature-services/",
+    "https://www.bankofamerica.com/",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=HPCS_ECBBA_A1000",
+    "https://www.bankofamerica.com/deposits/savings/savings-accounts/",
+    "https://www.bankofamerica.com/deposits/bank-cds/cd-accounts/",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/",
+    "https://www.bankofamerica.com/credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/travel-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/low-interest-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/point-rewards-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/credit-cards-to-build-credit/",
+    "https://www.bankofamerica.com/credit-cards/student-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/manage-your-credit-card-account/",
+    "https://mynewcard2.bankofamerica.com/USCCapp/Ctl/entry?pid=padm_prefill&tk=21&to=16&cc=DM",
+    "https://www.bankofamerica.com/mortgage/home-mortgage/",
+    "https://www.bankofamerica.com/mortgage/refinance/",
+    "https://www.bankofamerica.com/home-equity/",
+    "https://promotions.bankofamerica.com/homeloans/homeresourcecenter/preparingtobuy?subCampCode=94362&dmcode=18098621553",
+    "https://realestatecenter.bankofamerica.com/",
+    "https://homeloanhelp.bankofamerica.com/en/index.html",
+    "https://www.bankofamerica.com/mortgage/servicing/",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=HPHL_ECBBA_A5000",
+    "https://www.bankofamerica.com/auto-loans/",
+    "https://www.bankofamerica.com/auto-loans/auto-prequalification-experience/",
+    "https://promotions.bankofamerica.com/autoloans/electricvehicleresources",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-rates/",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-calculator/",
+    "https://www.bankofamerica.com/auto-loans/shop-and-finance/",
+    "https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=VLSTATUS",
+    "https://www.bankofamerica.com/deeplink/redirect.go?target=ESECart&screen=Products:ShoppingCart&version=7.9.0",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=HPAL_ECBBA_A1000",
+    "https://www.privatebank.bankofamerica.com/?src_cd=bac_hp_nav_private",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=HPINV_ECBBA_A3000",
+    "https://bettermoneyhabits.bankofamerica.com/en",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit",
+    "https://bettermoneyhabits.bankofamerica.com/en/debt",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting",
+    "https://bettermoneyhabits.bankofamerica.com/en/home-ownership",
+    "https://bettermoneyhabits.bankofamerica.com/en/auto",
+    "https://bettermoneyhabits.bankofamerica.com/en/retirement",
+    "https://bettermoneyhabits.bankofamerica.com/en/college",
+    "https://bettermoneyhabits.bankofamerica.com/en/privacy-security",
+    "https://bettermoneyhabits.bankofamerica.com/en/personal-banking",
+    "https://bettermoneyhabits.bankofamerica.com/en/taxes-income",
+    "https://www.bankofamerica.com/online-banking/iphone-banking-app.go",
+    "https://secure.bankofamerica.com/auth/retrieve/#/acctssn",
+    "https://secure.bankofamerica.com/auth/enroll/enroll-entry/",
+    "https://www.bankofamerica.com/security-center/online-privacy-notice/",
+    "https://www.bankofamerica.com/security",
+    "https://healthaccounts.bankofamerica.com/",
+    "https://www.privatebank.bankofamerica.com/",
+    "https://promo.bankofamerica.com/hp-oaa2/",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR01_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1CtaBtn",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079170&productOfferCode=YH&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR02_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product1Cta",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR03_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2CtaBtn",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079290&productOfferCode=43&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR04_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product2Cta",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR05_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3CtaBtn",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079353&productOfferCode=S8&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR06_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product3Cta",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR07_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4CtaBtn",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079426&productOfferCode=AP&locale=en_US&cm_sp=Cons-CC-_-FIFA2026-_-CCA1HZQR08_Hero_NH_Card_Pricing_Update_Feb26_CMS_MH_product4Cta",
+    "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1HXHT01_Engagement_Banner_DEPCHA_0526_2HDDA100500_EN_EB_CMS_depcha2hdda500EnEbCta#500",
+    "https://www.bankofamerica.com/deposits/checking/checking-accounts/",
+    "https://www.bankofamerica.com/smallbusiness/",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=NEWHP_ECHMPG",
+    "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1SZHQ01_SuperHighlights_DEPCHA_0526_2HDDA100500_EN_SHL_CMS_depcha2hdda500EnShlCta#500",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079184&productOfferCode=2K&cm_sp=Cons-CC-_-FIFA2026-_-CCA1QSQT01_Highlights_NH_Card_Pricing_Update_Feb26_CMS_HL_ca0226CcrHl",
+    "https://promotions.bankofamerica.com/en/offers/2026t2unauth?cm_sp=DEP-Checking-_-NotAssigned-_-DCB1QTHR01_Highlights_NH_DEPCHA_0526_2HDDA100500_EN_HL_CMS_depcha2hdda500Enhl#500",
+    "https://promotions.bankofamerica.com/digitalbanking/mobilebanking/?cm_sp=MobileAlerts-_-Default-_-MAY4QU6W01_Highlights_NH_2024DefaultmobilealertHL3_mobileAcquisitionQ1RefreshHl",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-confessions?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N6_BMH_Homepage-Tile-1-Q22026-_-BAC.com-Education-Tiles",
+    "https://bettermoneyhabits.bankofamerica.com/en/home-ownership/benefits-of-using-home-equity?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N7_BMH_Homepage-Tile-2-Q22026-_-BAC.com-Education-Tiles",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-market-vs-cd-vs-savings?cm_mmc=EBZ-FinancialEducation-_-Other-_-EF16LT00N8_BMH_Homepage-Tile-3-Q22026-_-BAC.com-Education-Tiles",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/money-saving-challenges?cm_mmc=EBZ-FinancialEducation-_-Module-Ad-_-EF16LT00D2_BMH_Homepage-Tile-4-_-BAC.com-Education-Tiles",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=securitycenter&version=21.09&screen=ProfileAndSettings:SecurityCenterHome&channel=desktop&cm_sp=MobileSecurity-_-NotAssigned-_-M1T0LT7101_YNISecurityMeter2023_YNICta",
+    "https://promotions.bankofamerica.com/digitalbanking/mobilebanking?cm_sp=MobileOmnibus-_-NotAssigned-_-MJY4LT2K01_YNIMobileGeneral2023_YNICta",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/customer-service/contact-us/",
+    "https://www.bankofamerica.com/help/overview/",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en_US",
+    "https://www.bankofamerica.com/contactus/contactus.go?request_locale=en_US",
+    "https://www.bankofamerica.com/help/overview.go?request_locale=en_US",
+    "https://www.bankofamerica.com/accessible-banking/overview",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-US",
+    "https://www.bankofamerica.com/sitemap/personal.go?request_locale=en_US",
+    "https://careers.bankofamerica.com/",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?request_locale=en-us",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+  ],
+  "external": [
+    "https://www.ml.com/wealthmanagement.html",
+    "https://business.bofa.com/content/boaml/en_us/home.html",
+    "https://www.merrilledge.com/investing/ways-to-manage-investments?src_cd=bac_hp_l1_desktop",
+    "https://www.merrilledge.com/investing/online-trading?src_cd=bac_hp_nav_mesd",
+    "https://www.merrilledge.com/guided-investing?src_cd=bac_hp_nav_mgi",
+    "https://www.ml.com/working-with-merrill-lynch-financial-advisor.html?src_cd=bac_hp_nav_mlwm",
+    "https://www.merrilledge.com/investing/ways-to-manage-investments?src_cd=bac_hp_nav_compare",
+    "https://itunes.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8%27",
+    "https://itunes.apple.com/us/app/bank-of-america-mobile-banking/id284847138?mt=8",
+    "https://play.google.com/store/apps/details?id=com.infonow.bofa",
+    "https://www.benefits.ml.com/",
+    "https://www.merrilledge.com/",
+    "https://www.ml.com/",
+    "https://www.merrilledge.com/investing/ways-to-manage-investments?src_cd=bac_hp_l1_mobile",
+    "https://www.merrilledge.com/investing/ways-to-manage-investments?src_cd=bac_hp_l1_tablet",
+    "http://bofa.com/socceratschools?cm_sp=EBZ-Corp_SocialResponsibility-_-SocceratSchools-_-EIT6SXCP01_SuperHighlights_Brand_SAS_Girl_Jun26_CMS_SHL2_brand0626FwcGirlEnShlCta",
+    "https://www.merrill.com/?cm_sp=GWM-SelfDirectedBrokerage-_-Default-_-G2C1QVEC01_Highlights_NH_Edge_0604_Solutions_Default_HL_meddt0424Hl4SolutionsEnHl",
+    "http://www.sipc.org/",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-digital-sign-CSX37f66a3e.svg",
+      "alt": "FDIC-Insured - Backed by the full faith and credit of the U.S. Government",
+      "w": 300,
+      "h": 12,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-wealth-banner-smalldevice-en-CSX7f123629.svg",
+      "alt": "Bank of America Deposit products:FDIC Insured - Backed by the full faith and credit of the US Government. Investment products are NOT FDIC insured",
+      "w": 375,
+      "h": 60,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-google-play-badge-CSX89f9024.svg",
+      "alt": "Download the Bank of America App",
+      "w": 135,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-get-app-modal-google-play-badge-CSX89f9024.svg",
+      "alt": "Download the Bank of America App",
+      "w": 135,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-background-images-mh_6pcent_1440_8478822_e.webp",
+      "alt": "",
+      "w": 1440,
+      "h": 703,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_cust_newcrd2_8478822_e.webp",
+      "alt": "Customized Cash Rewards credit card with new card design now available",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_un_newcrd2_8478822_e.webp",
+      "alt": "Unlimited Cash Rewards credit card with new card design now available",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-5779014_Travel_3.webp",
+      "alt": "Travel Rewards credit card",
+      "w": 1013,
+      "h": 638,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_bac_no_8694270_e.webp",
+      "alt": "BankAmericard® credit card with new offer",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_cust_newcrd2_8478822_e.webp",
+      "alt": "Customized Cash Rewards credit card with new card design now available",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_un_newcrd2_8478822_e.webp",
+      "alt": "Unlimited Cash Rewards credit card with new card design now available",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-5779014_Travel_3.webp",
+      "alt": "Travel Rewards credit card",
+      "w": 1013,
+      "h": 638,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_bac_no_8694270_e.webp",
+      "alt": "BankAmericard® credit card with new offer",
+      "w": 500,
+      "h": 315,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-deposits-en-icon_cash-CSXce66388d.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_shl_dda_722_8080371_e.webp",
+      "alt": "",
+      "w": 722,
+      "h": 352,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_722_8080371_e.svg",
+      "alt": "$100 cash offer, $300 cash offer, $500 cash offer.",
+      "w": 124,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_375_8080371_e.png",
+      "alt": "$100, $300, $500",
+      "w": 253,
+      "h": 145,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_375_8080371_e.png",
+      "alt": "$100, $300, $500",
+      "w": 253,
+      "h": 145,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-ent_shl_sasgirl_8935991_718_gc.webp",
+      "alt": "",
+      "w": 1432,
+      "h": 578,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-cards-en-bofa_icon_card1_186.svg",
+      "alt": "",
+      "w": 216,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-deposits-en-icon_cash.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-mobile-banking-bofa_icon_reminder-1.svg",
+      "alt": "",
+      "w": 135,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-merrill-en-merrill_lo1_rgb.svg",
+      "alt": "",
+      "w": 300,
+      "h": 86,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_shl_dda_722_8080371_e.webp",
+      "alt": "",
+      "w": 722,
+      "h": 352,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_722_8080371_e.svg",
+      "alt": "$100 cash offer, $300 cash offer, $500 cash offer.",
+      "w": 124,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_375_8080371_e.png",
+      "alt": "$100, $300, $500",
+      "w": 253,
+      "h": 145,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_375_8080371_e.png",
+      "alt": "$100, $300, $500",
+      "w": 253,
+      "h": 145,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-ent_shl_sasgirl_8935991_718_gc.webp",
+      "alt": "",
+      "w": 1432,
+      "h": 578,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-enterprise-en-logos-ent_shl_sasgirl_8935991_logo_gc.svg",
+      "alt": "Bank of America and Soccer at Schools logo",
+      "w": 1149,
+      "h": 844,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-cards-en-bofa_icon_card1_186.svg",
+      "alt": "",
+      "w": 216,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-deposits-en-icon_cash.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-mobile-banking-bofa_icon_reminder-1.svg",
+      "alt": "",
+      "w": 135,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-highlights-consumer-merrill-en-merrill_lo1_rgb.svg",
+      "alt": "",
+      "w": 300,
+      "h": 86,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-319x363-desktop-1-q2-CSXb35d6c2d.jpg",
+      "alt": " ",
+      "w": 638,
+      "h": 726,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_4953168_icon_gc_d-CSX7684a6de.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-319x363-desktop-1-new-CSX71f0a17b.jpg",
+      "alt": " ",
+      "w": 319,
+      "h": 363,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_3782311_icon_gc_c-CSX182beee.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-319x363-desktop-3-q2-CSX872fbcfc.jpg",
+      "alt": " ",
+      "w": 638,
+      "h": 726,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_7701865_icon_gc_c-CSX55809c59.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-319x363-desktop-4-new-CSX88717b40.jpg",
+      "alt": " ",
+      "w": 319,
+      "h": 363,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_3782311_icon_gc_a-CSXe06a7caa.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-397x360-tablet-1-q2-new-CSX4ac217ce.jpg",
+      "alt": "",
+      "w": 794,
+      "h": 720,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_4953168_icon_gc_d-CSX7684a6de.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-397x360-tablet-1-new-CSXf09a6c23.jpg",
+      "alt": "",
+      "w": 397,
+      "h": 360,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_3782311_icon_gc_c-CSX182beee.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile-397x360-tablet-3-q2-CSX378d7c3d.jpg",
+      "alt": "",
+      "w": 794,
+      "h": 720,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_7701865_icon_gc_c-CSX55809c59.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-icons-ent_edu_bac_3782311_icon_gc_a-CSXe06a7caa.svg",
+      "alt": " ",
+      "w": 75,
+      "h": 75,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-news-life-services-yni_sec_phone_4657392_e-CSX8c7d2691.webp",
+      "alt": "",
+      "w": 1318,
+      "h": 2745,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-news-mobileAppIPhone-CSX16b160ab.png",
+      "alt": "",
+      "w": 331,
+      "h": 769,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-connect-with-us-icon-calendar-black-CSX14dc7e2f.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-connect-with-us-icon-location-black-CSX4d415ed5.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-connect-with-us-icon-contact-black-CSXcce2d264.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-connect-with-us-icon-help-black-CSX12141305.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+      "alt": "Bank of America Logo ",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www1.bac-assets.com//homepage/spa-assets/images/logo-bofa-flagscape-18ad22ccaf518c47d77b.svg",
+    "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/calendar-8d272017d8fb1d25d023.svg",
+    "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/new_merrill_desktop_logo-b31fbc07662c3688d84f.svg",
+    "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-login-common-Blue-CSX8c4cd8e5.svg",
+    "https://www1.bac-assets.com//homepage/spa-assets/images/mb_yni_bb_3034668_1440-4d2b065272ea1845378f.jpg",
+    "https://cdn.cookielaw.org/logos/static/ot_close.svg"
+  ],
+  "inlineSvg": 38,
+  "forms": [
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "getAppDeviceSelect"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "email",
+          "name": "emailAddressField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "getAppDeviceSelect"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "email",
+          "name": "emailAddressField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    }
+  ],
+  "videos": [],
+  "iframes": [
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/",
+    "about:blank",
+    "about:blank",
+    "about:blank",
+    "about:blank",
+    "about:blank"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-consumer-deposits-en-checking-cd_overlay_dda_722_8080371_e.svg",
+    "alt": "$100 cash offer, $300 cash offer, $500 cash offer."
+  },
+  "sections": [
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stay flexible with Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "sans-serif"
+  }
+}

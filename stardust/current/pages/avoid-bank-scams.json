@@ -1,0 +1,819 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:41.064Z",
+    "waitMode": "medium",
+    "waitMs": 9053,
+    "httpStatus": 200
+  },
+  "slug": "avoid-bank-scams",
+  "url": "https://www.bankofamerica.com/security-center/avoid-bank-scams/",
+  "meta": {
+    "title": "Scam Prevention: Trending Scams and Their Red Flags",
+    "description": "See what scams are trending and the red flags to be aware of to help protect yourself and your money.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Scam Prevention: Trending Scams and Their Red Flags",
+    "themeColor": "",
+    "favicon": "",
+    "appleTouchIcon": ""
+  },
+  "headings": [
+    {
+      "level": 1,
+      "text": "Menu"
+    },
+    {
+      "level": 1,
+      "text": "You're continuing to a page that could be in Spanish"
+    },
+    {
+      "level": 1,
+      "text": "Scam Prevention"
+    },
+    {
+      "level": 2,
+      "text": "Trending scams"
+    },
+    {
+      "level": 3,
+      "text": "Scammers pretend to be toll agencies"
+    },
+    {
+      "level": 3,
+      "text": "Spot charity scams before you donate"
+    },
+    {
+      "level": 3,
+      "text": "Scammers prey on excited fans by selling fake tickets"
+    },
+    {
+      "level": 2,
+      "text": "Scam red flags"
+    },
+    {
+      "level": 3,
+      "text": "Impersonation"
+    },
+    {
+      "level": 3,
+      "text": "Emotion"
+    },
+    {
+      "level": 3,
+      "text": "False sense of urgency"
+    },
+    {
+      "level": 3,
+      "text": "Rewards or threats"
+    },
+    {
+      "level": 3,
+      "text": "Deception"
+    },
+    {
+      "level": 3,
+      "text": "Unusual payment methods"
+    },
+    {
+      "level": 2,
+      "text": "Actions to take"
+    },
+    {
+      "level": 3,
+      "text": "Stop"
+    },
+    {
+      "level": 3,
+      "text": "Verify"
+    },
+    {
+      "level": 3,
+      "text": "Prevent & protect"
+    },
+    {
+      "level": 3,
+      "text": "Transcript"
+    },
+    {
+      "level": 2,
+      "text": "We're committed to cybersecurity"
+    },
+    {
+      "level": 2,
+      "text": "Common scams"
+    },
+    {
+      "level": 3,
+      "text": "Social media"
+    },
+    {
+      "level": 3,
+      "text": "Internet sales"
+    },
+    {
+      "level": 3,
+      "text": "Imposter"
+    },
+    {
+      "level": 3,
+      "text": "Real estate"
+    },
+    {
+      "level": 3,
+      "text": "Employment"
+    },
+    {
+      "level": 3,
+      "text": "Investment"
+    },
+    {
+      "level": 3,
+      "text": "Romance"
+    },
+    {
+      "level": 3,
+      "text": "Tech"
+    },
+    {
+      "level": 2,
+      "text": "What to do if you experience fraud or a scam"
+    },
+    {
+      "level": 2,
+      "text": "Explore more"
+    },
+    {
+      "level": 3,
+      "text": "How to stay safe on social media"
+    },
+    {
+      "level": 3,
+      "text": "10 online and mobile security tips"
+    },
+    {
+      "level": 3,
+      "text": "Go digital to help protect yourself"
+    },
+    {
+      "level": 3,
+      "text": "Connect with us:"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on Facebook"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on Instagram"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on LinkedIn"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on Pinterest"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on X"
+    },
+    {
+      "level": 1,
+      "text": "Connect with us on our YouTube channel"
+    },
+    {
+      "level": 1,
+      "text": "Advertising Practices"
+    },
+    {
+      "level": 1,
+      "text": "You're continuing to another website"
+    },
+    {
+      "level": 1,
+      "text": "You're continuing to another website"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    }
+  ],
+  "body": [
+    "It's possible that the content, applications and other documents related with specific products and services on that page may only be available in Spanish. Before choosing a product or service, please make sure you have read and understood all terms and conditions provided.",
+    "See what’s trending and how to recognize red flags.",
+    "Stopping scams is everyone’s responsibility. Together, we can help keep your accounts protected.",
+    "Don’t click links in emails or reply to texts about an “unpaid toll”",
+    "Review quick tips to help protect your money",
+    "Always use verified sites and watch out for offers that sound too good to be true",
+    "Scam details change, but red flags remain the same. Even if a story seems to make sense, verify the information through a trusted source.",
+    "Scammers may pretend to be someone you trust, like an official, someone from a familiar organization, a bank employee, a friend or a family member.",
+    "They may tell you stories to make you feel fear, sympathy or love. They may urge you to ignore your instincts or lie about why you’re moving money.",
+    "Scammers may say there’s a problem that needs immediate attention to make you act before you think and rush you into making hasty decisions without consulting anyone you trust.",
+    "They may offer money, a job, or a prize, make claims of an emergency, or threaten you with legal action or notifying law enforcement.",
+    "They may tell you not to trust Bank of America employees, say to ignore warning messages or coach you on what to say — including to lie.",
+    "Scammers may tell you to send money or payment in less common ways, such as a wire transfer, gift cards or non-traditional forms of payment like gold, cryptocurrency or pre-loaded debit cards.",
+    "Imposters are real, but their requests are not. Their goal is to deceive. Yours is to detect — and protect.",
+    "Don’t rush. If someone asks for money or personal info and it feels off, trust your instincts and don’t engage.",
+    "Even if the request appears legitimate, talk it over with someone you trust - like a friend or family member - or call a trusted and known number like from your card or statement.",
+    "Create complex passwords, use multi-factor authentication and biometrics like Face ID to help prevent and protect from scams.",
+    "[Music in background throughout]",
+    "Every year, data breaches expose millions of records. Cybercrime costs the global economy trillions of dollars, and the threat landscape changes as criminals exploit new gaps in the expanding digital space.",
+    "Managing these risks requires acquiring or building the right tools, and then putting them in the hands of the most innovative and committed cybersecurity teams.",
+    "These teams are equipped with a top-to-bottom view of our operations and the information we use, as well as a robust framework that allows them to respond at any time.",
+    "Bank of America is deeply committed to protecting our company and our client's information and assets from persistent and emerging cybersecurity threats.",
+    "We're also creating new dynamic cybersecurity solutions that help our colleagues and our clients around the globe prepare for, prevent, detect, mitigate, and then respond to and recover from cyber events.",
+    "We're invested in powerful cutting-edge technology to ensure that our more than 3,600 cybersecurity teammates have global reach and always-on visibility into our network and our operations.",
+    "We look inward as well as outward. Our cybersecurity processes and guidelines cover our internal operations, and we're constantly designing new ways to keep the criminals out, detecting them before they exploit vulnerabilities and containing incidents while improving defenses through our collective experiences.",
+    "Our cybersecurity team collaborates to create new strategies for data protection, regulatory compliance, and third-party management, while always staying vigilant against cybercrime.",
+    "The Bank's Global Information Security program brings together some of cybersecurity's brightest talents. People with diverse backgrounds and deep experience across a variety of traditional and non-traditional industries. We all benefit when established leaders in the field work together with the sharpest minds across generations.",
+    "Our customers and clients are innovating, breaking new ground, and solving problems constantly. The Global Information Security team at Bank of America provides the comprehensive security and insights they need to succeed.",
+    "We are better when we're together. With the right framework, tools and people, we're able to be always on to engage in the present while preparing for the future and empowering our customers and clients with the confidence to set and attain their most ambitious goals in today's dynamic and digital marketplace.",
+    "What would you like the power to do?",
+    "Bank of America’s Global Information Security",
+    "Neither Bank of America nor its affiliates provide information security or information technology (IT) consulting services. This material is provided “as is,” with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this material, and without warranty of any kind, express or implied, including but not limited to warranties of performance, quality and fitness for a particular purpose. This material should be regarded as general information on information security and IT considerations and is not intended to provide specific information security or IT advice nor is it any substitute for your own independent investigations. If you have any questions regarding your particular IT system or information secukrity concerns, please contact your IT or information security advisor.",
+    "“Bank of America” and “BofA Securities” are the marketing names used by the Global Banking and Global Markets divisions of Bank of America Corporation. Lending, derivatives, other commercial banking activities, and trading in certain financial instruments are performed globally by banking affiliates of Bank of America Corporation, including Bank of America, N.A., Member FDIC. Trading in securities and financial instruments, and strategic advisory, and other investment banking activities, are performed globally by investment banking affiliates of Bank of America Corporation (“Investment Banking Affiliates”), including, in the United States, BofA Securities, Inc., which is a registered broker-dealer and Members of SIPC, and, in other jurisdictions, by locally registered entities. BofA Securities, Inc. is a registered as futures commission merchant with the CFTC and are members of the NFA.",
+    "Investment products offered by Investment Banking Affiliates:",
+    "Are Not FDIC Insured | Are Not Bank Guaranteed | May Lose Value",
+    "© 2025 Bank of America Corporation. All rights reserved.",
+    "Learn how we're safeguarding your information",
+    "Cybercriminals are getting crafty on social media—using posts to trick you into sharing personal info or even money. Consider keeping profiles private, avoid suspicious links and never share sensitive details in posts, comments or direct messages.",
+    "Scammers post fake listings, advertise unreal low prices or sell counterfeit goods. They often demand upfront payment — then vanish, leaving you empty-handed. Ensure you verify sellers and use secure payment methods.",
+    "Imposters pose as bankers, advisors or other trusted figures using fake phone numbers, websites, emails and social media to steal your info. They may access your accounts or open products in your name. Verify who you’re talking to and don’t click links.",
+    "Imagine showing up to your new home or vacation rental to find out it doesn't exist. Scammers may take over listings and change contact information. Book through trusted platforms and verify the listing and owner.",
+    "Scammers may pose as recruiters, promising high pay for little effort, pressuring you to respond fast. They may ask for money upfront or send an advance but ask for part of the money back. Always research companies.",
+    "“Investment managers” who contact you with news of “opportunities” promising to double your money or guarantee returns are almost always scams. Be skeptical of get-rich-quick offers and never share info with strangers.",
+    "Scammers use dating apps and social media to build trust fast — then exploit it with emotional pleas that end in requests for money. Don’t send money to someone you’ve only met online and be cautious of urgent or emotional requests.",
+    "A pop-up warning, with a convenient tech support number, is likely a scam. These fake warnings are designed to scare you, and the unsolicited support could cause you to lose money. Close the pop-up immediately and don’t call the number.",
+    "Cybercriminals are becoming more creative",
+    "Internet security is more important now than ever",
+    "Digital banking can help protect against fraud and scams",
+    "Bank of America, N.A. Member FDIC. Equal Housing Lender\n(opens in a new tab)",
+    "© 2026 Bank of America Corporation. All rights reserved.",
+    "Patent: patents.bankofamerica.com\n(opens in a new tab)",
+    "Before you go, we want you to know we're only responsible for the content we post. Facebook is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "Before you go, we want you to know we're only responsible for the content we post. Instagram is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "Before you go, we want you to know we're only responsible for the content we post. LinkedIn is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "Before you go, we want you to know we're only responsible for the content we post. Pinterest is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "Before you go, we want you to know we're only responsible for the content we post. X is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "Before you go, we want you to know we're only responsible for the content we post. YouTube is responsible for their content and offerings on their site, and their level of security may be different from ours. Please refer to their privacy policy and terms of use for details.",
+    "We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.",
+    "Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices.com/control layer powered by the DAA or through the Network Advertising Initiative's Opt-Out Tool layer. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.",
+    "To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs(opens in a new tab).",
+    "You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.",
+    "This feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us.\n\n\n Local Privacy Notices and Requirements\n\nThe Privacy Choices displayed are specific to  your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the  Opens in a new windowInstitutional Privacy and the  Opens in a new windowConsumer Privacy pages.\n\n\nMarketing Preferences\n\nTo manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our  Opens in a new windowPrivacy Page.\n\n\nCalifornia Residents\n\nTo learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our  Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection.",
+    "Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information.\n\nBy switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities.\n\nIf you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.\n\nAt any time, you may change your preference setting using the toggle bar.  Any manual adjustment will override previous settings.",
+    "Bank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. \n \nBank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. \n \nHow to opt-out of sharing your information: \nWe offer two (2) methods for opting out:\n\n 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. \n 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests.  \n \nAn authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt."
+  ],
+  "lists": [
+    [
+      "Impersonation\n\nScammers may pretend to be someone you trust, like an official, someone from a familiar organization, a bank employee, a friend or a family member.",
+      "Emotion\n\nThey may tell you stories to make you feel fear, sympathy or love. They may urge you to ignore your instincts or lie about why you’re moving money.",
+      "False sense of urgency\n\nScammers may say there’s a problem that needs immediate attention to make you act before you think and rush you into making hasty decisions without consulting anyone you trust.",
+      "Rewards or threats\n\nThey may offer money, a job, or a prize, make claims of an emergency, or threaten you with legal action or notifying law enforcement.",
+      "Deception\n\nThey may tell you not to trust Bank of America employees, say to ignore warning messages or coach you on what to say — including to lie.",
+      "Unusual payment methods\n\nScammers may tell you to send money or payment in less common ways, such as a wire transfer, gift cards or non-traditional forms of payment like gold, cryptocurrency or pre-loaded debit cards."
+    ]
+  ],
+  "ctas": [
+    {
+      "label": "(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/"
+    },
+    {
+      "label": "Bank of America\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/"
+    },
+    {
+      "label": "Locations\n(opens in a new tab)",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "Search\nHow can we help you?\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/global-search-public/results"
+    },
+    {
+      "label": "Search\n                    \n                        \n                            \n                        \n                    \n                    How can we help you?\n                (opens in a new tab)",
+      "href": "https://www.bankofamerica.com/global-search-public/results"
+    },
+    {
+      "label": "Help & Support\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/help/overview.go"
+    },
+    {
+      "label": "Accessible Banking\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/accessiblebanking/overview.go"
+    },
+    {
+      "label": "Children’s Privacy\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/childrens-privacy"
+    },
+    {
+      "label": "Online Banking Service Agreement\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us"
+    },
+    {
+      "label": "Advertising Practices\n(opens in a new tab)",
+      "href": "https://web.bankofamerica.com/en/security/scam-prevention#advertisingPracticesModal"
+    },
+    {
+      "label": "Equal Housing Lender\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup/"
+    },
+    {
+      "label": "Patent: patents.bankofamerica.com\n(opens in a new tab)",
+      "href": "https://www.bankofamerica.com/company/patents/"
+    }
+  ],
+  "internal": [
+    "https://web.bankofamerica.com/en/security/scam-prevention#",
+    "https://www.bankofamerica.com/",
+    "https://www.bankofamerica.com/online-banking/sign-in",
+    "https://locators.bankofamerica.com/",
+    "https://web.bankofamerica.com/content/consumer/web/us/es/security/scam-prevention.html",
+    "https://www.bankofamerica.com/help/overview/?request_locale=en_US",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/scam-prevention.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/fraud-protection.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/report-suspicious-activity.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/tools-resources.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/tools-resources/take-your-security-to-the-next-level.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/tools-resources/third-party-app-service-data-sharing.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/tools-resources/trusteer.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/tools-resources/usb-security-key.html",
+    "https://www.bankofamerica.com/global-search-public/results",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library/different-types-of-scams.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library/steps-if-targeted-by-fraud-scam.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library/stay-safe-social-media.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library/online-and-mobile-security-tips.html",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/security/library/go-digital-to-help-protect-from-fraud-scams.html/",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://www.bankofamerica.com/contactus/contactus.go",
+    "https://www.bankofamerica.com/help/overview.go",
+    "https://www.bankofamerica.com/accessiblebanking/overview.go",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/privacy.html",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us",
+    "https://web.bankofamerica.com/en/security/scam-prevention#advertisingPracticesModal",
+    "https://www.bankofamerica.com/information/personal/",
+    "https://careers.bankofamerica.com/",
+    "https://web.bankofamerica.com/en/security/scam-prevention#facebook-modal",
+    "https://web.bankofamerica.com/en/security/scam-prevention#instagram-modal",
+    "https://web.bankofamerica.com/en/security/scam-prevention#linkedin-modal",
+    "https://web.bankofamerica.com/en/security/scam-prevention#pinterest-modal",
+    "https://web.bankofamerica.com/en/security/scam-prevention#x-modal",
+    "https://web.bankofamerica.com/en/security/scam-prevention#youtube-modal",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://www.bankofamerica.com/company/patents/",
+    "https://web.bankofamerica.com/content/consumer/web/us/en/privacy/online-privacy-notice.html",
+    "https://www.bankofamerica.com/security-center/faq/online-privacy/",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/"
+  ],
+  "external": [
+    "https://youradchoices.com/control",
+    "https://thenai.org/how-to-opt-out/",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/images/bofa_logo_new.svg",
+      "alt": "",
+      "w": 1440,
+      "h": 144,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/images/bofa_logo_new.svg",
+      "alt": "",
+      "w": 1440,
+      "h": 144,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam-Prevention-Header-Image-Desktop.png",
+      "alt": "",
+      "w": 1232,
+      "h": 203,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Trending_Scams_1_Tolls_704x364.jpg",
+      "alt": "",
+      "w": 704,
+      "h": 364,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Trending_Scams_2_352x182.png",
+      "alt": "",
+      "w": 352,
+      "h": 182,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Trending_Scams_3_Tickets_704x364.jpg",
+      "alt": "",
+      "w": 704,
+      "h": 364,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/icons/flag%20icon.png",
+      "alt": "",
+      "w": 864,
+      "h": 864,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/scam-prevention/scam_prevention_image.png",
+      "alt": "",
+      "w": 704,
+      "h": 364,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/scam-prevention/scam_prevention_image_1.png",
+      "alt": "",
+      "w": 704,
+      "h": 364,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/scam-prevention/scam_prevention_image_2.png",
+      "alt": "",
+      "w": 704,
+      "h": 364,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Experience_Fraud_Scam_576x280.png",
+      "alt": "",
+      "w": 576,
+      "h": 280,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Explore_More_1_352x182.png",
+      "alt": "",
+      "w": 352,
+      "h": 182,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/10_mobile_tips_352x182.png",
+      "alt": "",
+      "w": 352,
+      "h": 182,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/web/security/images/Scam_Prevention_Explore_More_3_352x182.png",
+      "alt": "",
+      "w": 352,
+      "h": 182,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/facebook.svg",
+      "alt": "Facebook",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/instagram.svg",
+      "alt": "Instagram",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/linkedin-circle-white.svg",
+      "alt": "Linkedin",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/pinterest.svg",
+      "alt": "Pinterest",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/X-no-bg.svg",
+      "alt": "X",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://web.bankofamerica.com/content/dam/consumer/youtube.svg",
+      "alt": "Youtube",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/01958b0e-1d21-7698-a84b-f84fbdb837be/eaea1618-d679-47fc-bdaa-ab746227886f/BOA.PNG",
+      "alt": "Bank of America Logo",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://cfvod.kaltura.com/p/4699762/sp/469976200/thumbnail/entry_id/1_15ty925w/version/100001/height/443/width/788",
+    "https://web.bankofamerica.com/content/dam/consumer/web/icons/housing-lender.svg"
+  ],
+  "inlineSvg": 15,
+  "forms": [],
+  "videos": [
+    {
+      "src": "",
+      "poster": ""
+    }
+  ],
+  "iframes": [
+    "https://web.bankofamerica.com/en/security/scam-prevention"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://web.bankofamerica.com/content/dam/consumer/web/images/bofa_logo_new.svg",
+    "alt": ""
+  },
+  "sections": [
+    {
+      "heading": "Menu",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Menu",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Menu",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scam Prevention",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scam Prevention",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scam Prevention",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Trending scams",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Trending scams",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scammers pretend to be toll agencies",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scammers pretend to be toll agencies",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scammers pretend to be toll agencies",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "12px"
+    },
+    {
+      "heading": "Scammers pretend to be toll agencies",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Spot charity scams before you donate",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scammers prey on excited fans by selling fake tickets",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Scam red flags",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Impersonation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Actions to take",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stop",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stop",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stop",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Stop",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "12px"
+    },
+    {
+      "heading": "Stop",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Verify",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Prevent & protect",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Transcript",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyColor": "rgb(51, 51, 51)",
+    "bodyFont": "roboto-regular"
+  }
+}

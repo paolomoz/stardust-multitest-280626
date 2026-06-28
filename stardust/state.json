@@ -1,0 +1,21 @@
+{
+  "site": {
+    "originUrl": "https://www.bankofamerica.com/",
+    "sitename": "bankofamerica",
+    "extractedAt": "2026-06-28",
+    "pageCap": 6,
+    "totalDiscovered": 200,
+    "crawled": 6,
+    "edsProject": "paolomoz/stardust-multitest-280626",
+    "branch": "site-bankofamerica",
+    "daFolder": "/paolomoz/stardust-multitest-280626/bankofamerica/"
+  },
+  "pages": [
+    { "slug": "home", "url": "https://www.bankofamerica.com/", "status": "extracted", "type": "landing", "currentStatePath": "stardust/current/pages/home.json" },
+    { "slug": "cash-back-credit-cards", "url": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/", "status": "extracted", "type": "landing", "currentStatePath": "stardust/current/pages/cash-back-credit-cards.json" },
+    { "slug": "auto-loans", "url": "https://www.bankofamerica.com/auto-loans/", "status": "extracted", "type": "listing", "currentStatePath": "stardust/current/pages/auto-loans.json" },
+    { "slug": "avoid-bank-scams", "url": "https://www.bankofamerica.com/security-center/avoid-bank-scams/", "status": "extracted", "type": "article", "currentStatePath": "stardust/current/pages/avoid-bank-scams.json" },
+    { "slug": "deposits", "url": "https://www.bankofamerica.com/deposits/", "status": "extracted", "type": "listing", "currentStatePath": "stardust/current/pages/deposits.json" },
+    { "slug": "compare-credit-cards", "url": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/", "status": "extracted", "type": "landing", "currentStatePath": "stardust/current/pages/compare-credit-cards.json" }
+  ]
+}

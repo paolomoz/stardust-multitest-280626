@@ -1,0 +1,66 @@
+{
+  "_provenance": {
+    "tool": "stardust:extract",
+    "renderedBy": "playwright",
+    "extractedAt": "2026-06-28",
+    "pages": ["home", "cash-back-credit-cards", "auto-loans", "avoid-bank-scams", "deposits", "compare-credit-cards"],
+    "notes": "Palette aggregated from screenshots + brand canon (body computed styles were thin because the site is a SPA injecting scoped styles). Logo corrected to header flagscape (CSS background) — see test-notes finding."
+  },
+  "logo": {
+    "primary": "assets/logo.svg",
+    "source": "https://www1.bac-assets.com/homepage/spa-assets/images/logo-bofa-flagscape-18ad22ccaf518c47d77b.svg",
+    "form": "flagscape mark + 'BANK OF AMERICA' wordmark",
+    "note": "Wordmark navy #012169; flagscape stripes red/white/blue. Mono/white variant needed for navy header bands."
+  },
+  "favicon": {
+    "icon32": "assets/favicon-32.png",
+    "appleTouchIcon": "assets/apple-touch-icon.png"
+  },
+  "palette": {
+    "primary": "#012169",
+    "primaryName": "Bank of America navy",
+    "accent": "#e31837",
+    "accentName": "BofA red (flagscape)",
+    "heroBlue": "#1668c9",
+    "heroBlueDeep": "#0a3bb0",
+    "link": "#1564bf",
+    "background": "#ffffff",
+    "surface": "#f4f6f8",
+    "surfaceAlt": "#eef1f5",
+    "text": "#1a1a1a",
+    "textMuted": "#5a6470",
+    "border": "#d4dae1"
+  },
+  "type": {
+    "headingFamily": "system grotesk sans (rendered fallback for proprietary BofA typeface)",
+    "bodyFamily": "sans-serif",
+    "scaleAudit": { "kind": "ad-hoc" },
+    "note": "Headlines are large, light-weight, near-black on white; hero headline white on royal blue."
+  },
+  "motifs": {
+    "radius": "12px cards, pill buttons (fully rounded), 4px on inputs",
+    "shadow": ["0 1px 3px rgba(0,0,0,.08)", "0 4px 16px rgba(0,0,0,.10)"],
+    "patterns": ["card-with-image", "credit-card-showcase", "login-panel", "pill-cta", "trust-strip (FDIC band)", "card grid 3-up"]
+  },
+  "voice": {
+    "tagline": "What would you like the power to do?",
+    "heroHeadline": "Choose the card that works for you",
+    "purpose": "At Bank of America, our purpose is to help make financial lives better through the power of every connection.",
+    "ctaSamples": ["Open an account", "Shop all credit cards", "Explore checking solutions", "Get started", "Apply now", "Compare cards"],
+    "heroImage": "https://www1.bac-assets.com/homepage/spa-assets/images/mb_yni_bb_3034668_1440-4d2b065272ea1845378f.jpg",
+    "heroMedium": null,
+    "register": "brand"
+  },
+  "systemComponents": {
+    "header": {
+      "utilityNav": ["Personal", "Wealth Management", "Business", "Corporations & Institutions", "Security", "About Us", "En espanol", "Contact Us", "Help"],
+      "mainNav": ["Checking", "Savings & CDs", "Credit Cards", "Home Loans", "Auto Loans", "Merrill Investing", "Better Money Habits"],
+      "hasSearch": true,
+      "hasLogin": true
+    },
+    "footer": {
+      "note": "Standard BofA footer: product columns, legal links (Privacy, Security, Online Privacy Notice, Equal Housing), FDIC + copyright."
+    },
+    "trustStrip": "FDIC-Insured — Backed by the full faith and credit of the U.S. Government"
+  }
+}

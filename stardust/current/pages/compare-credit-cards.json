@@ -1,0 +1,542 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:57.041Z",
+    "waitMode": "medium",
+    "waitMs": 4844,
+    "httpStatus": 200
+  },
+  "slug": "compare-credit-cards",
+  "url": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+  "meta": {
+    "title": "Compare Credit Cards with the Credit Card Comparison Tool",
+    "description": "Compare credit cards side by side with the convenient Bank of America® Credit Card Comparison Tool.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Compare Credit Cards with the Credit Card Comparison Tool",
+    "themeColor": "#ffffff",
+    "favicon": "https://www.bankofamerica.com/credit-cards/spa-assets/images/assets-images-global-favicon-favicon-32x32-CSX704d6b21.png",
+    "appleTouchIcon": "https://www.bankofamerica.com/credit-cards/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "headings": [
+    {
+      "level": 1,
+      "text": "Compare Credit Cards"
+    },
+    {
+      "level": 2,
+      "text": "The Bank of America® credit card comparison tool lets you compare credit cards side by side to find the card that's right for your lifestyle."
+    },
+    {
+      "level": 1,
+      "text": "Unavailable"
+    },
+    {
+      "level": 1,
+      "text": "Add a Card"
+    },
+    {
+      "level": 2,
+      "text": "Card Overview"
+    },
+    {
+      "level": 2,
+      "text": "Special Offer"
+    },
+    {
+      "level": 2,
+      "text": "Relationship Bonus"
+    },
+    {
+      "level": 2,
+      "text": "Interest Rates & Fees Summary †"
+    },
+    {
+      "level": 3,
+      "text": "Annual Fee"
+    },
+    {
+      "level": 3,
+      "text": "Intro APR"
+    },
+    {
+      "level": 3,
+      "text": "Standard APRs"
+    },
+    {
+      "level": 3,
+      "text": "Balance Transfer Fee"
+    },
+    {
+      "level": 3,
+      "text": "Foreign Transaction Fee"
+    },
+    {
+      "level": 1,
+      "text": "Standard Features"
+    },
+    {
+      "level": 3,
+      "text": "Connect one on one with a credit card specialist"
+    },
+    {
+      "level": 3,
+      "text": "Credit Cards"
+    },
+    {
+      "level": 3,
+      "text": "Credit Card Categories"
+    },
+    {
+      "level": 3,
+      "text": "Learn About Credit"
+    },
+    {
+      "level": 3,
+      "text": "Manage Your Credit Card"
+    },
+    {
+      "level": 3,
+      "text": "Advertising Practices"
+    },
+    {
+      "level": 2,
+      "text": "Live chat Survey Chat"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    }
+  ],
+  "body": [
+    "Whether you're looking to earn travel and airline rewards, cash back, a credit card that offers lower interest rates or special services, you can easily compare features to find the card that's best for you. Compare credit cards and make a more informed decision today.",
+    "We're sorry, this page is temporarily unavailable. We apologize for the inconvenience.",
+    "One or more of the cards you chose to compare are not serviced in English.",
+    "Continue in English Go back to Spanish",
+    "Results currently unavailable. Please try again later.",
+    "†Please see the Terms & Conditions for additional rate and fee information, including APRs and fees that apply to other transaction types not described in this chart.",
+    "Every Bank of America® credit card offers you...",
+    "We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.",
+    "Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the DAA or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.",
+    "To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.",
+    "Bank of America, N.A. Member FDIC. Equal Housing Lender",
+    "© 2026 Bank of America Corporation. All Rights Reserved.",
+    "Patent: patents.bankofamerica.com",
+    "This feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us.\n\n\n Local Privacy Notices and Requirements\n\nThe Privacy Choices displayed are specific to  your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the  Opens in a new windowInstitutional Privacy and the  Opens in a new windowConsumer Privacy pages.\n\n\nMarketing Preferences\n\nTo manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our  Opens in a new windowPrivacy Page.\n\n\nCalifornia Residents\n\nTo learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our  Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection.",
+    "Bank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. \n \nBank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. \n \nHow to opt-out of sharing your information: \nWe offer two (2) methods for opting out:\n\n 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. \n 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests.  \n \nAn authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.",
+    "Bank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data.\n\nFor sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website.\n\nThis setting  blocks the collection and use of sensitive information. \n\nTo learn more about Children’s Privacy, see our  \nChildren's Privacy Page.",
+    "Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information.\n\nBy switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities.\n\nIf you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.\n\nAt any time, you may change your preference setting using the toggle bar.  Any manual adjustment will override previous settings."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Continue in English",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#"
+    },
+    {
+      "label": "Go back to Spanish",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#"
+    },
+    {
+      "label": "Can't find the card you're looking for? View more credit cards",
+      "href": "https://www.bankofamerica.com/credit-cards/"
+    },
+    {
+      "label": "Schedule an appointment",
+      "href": "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=CARDCOMP_ECBBA_A1000&comment=I%20am%20interested%20in%20a%20Bank%20of%20America%AE%20credit%20card"
+    },
+    {
+      "label": "Compare Credit Cards\n current page",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/"
+    },
+    {
+      "label": "Compare Credit Cards",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/"
+    },
+    {
+      "label": "Get Payment & Debt Management Tips",
+      "href": "https://www.bankofamerica.com/banking-information/assistance/credit-cards/credit-cards-assistance-overview.go?request_locale=en_US"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#"
+    },
+    {
+      "label": "Share Your Feedback",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#"
+    }
+  ],
+  "internal": [
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#skip-to-h1",
+    "https://www.bankofamerica.com/",
+    "https://staticweb.bankofamerica.com/cavmwebbactouch/common/index.html#home?app=signon",
+    "https://www.bankofamerica.com/sitemap/hub/signin.go",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/es/",
+    "https://www.bankofamerica.com/contactus/contactus.go",
+    "https://www.bankofamerica.com/credit-cards/credit-card-account-information-faq/",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/loc.go",
+    "https://www.bankofamerica.com/credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/application-status-center/",
+    "https://secure.bankofamerica.com/secure-offers/public/customizedOffers/?subchannel=ECCSLC&request_locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/manage-your-credit-card-account/",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/credit-cards-to-build-credit/",
+    "https://www.bankofamerica.com/credit-cards/student-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/low-interest-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/point-rewards-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/travel-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/airline-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/credit-card-with-no-annual-fee/",
+    "https://www.bankofamerica.com/credit-cards/promo-rate-balance-transfers-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/promo-rate-purchases-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/no-foreign-transaction-fee-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+    "https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=snr&flow=cards",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit",
+    "https://mynewcard2.bankofamerica.com/USCCapp/Ctl/entry?pid=padm_prefill&tk=21&to=16&cc=DM",
+    "https://www.bankofamerica.com/credit-cards/credit-card-agreements/",
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/%7B%7B%7BlearnMoreUrl%20cardInfo.learnMore%20campaign.ID%20site%7D%7D%7D",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=CARDCOMP_ECBBA_A1000&comment=I%20am%20interested%20in%20a%20Bank%20of%20America%AE%20credit%20card",
+    "https://www.bankofamerica.com/?request_locale=en_US",
+    "https://www.bankofamerica.com/credit-cards",
+    "https://secure.bankofamerica.com/secure-offers/public/customizedOffers?subchannel=ECCSPF&request_locale=en-us",
+    "https://secure.bankofamerica.com/apply-credit-cards/public/application-status/",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=choosing-a-credit-card",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=managing-credit-cards",
+    "https://bettermoneyhabits.bankofamerica.com/en/debt",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=credit-score",
+    "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/overview/?request_locale=en_US",
+    "https://www.bankofamerica.com/online-banking/sign-in/?request_locale=en_US",
+    "https://www.bankofamerica.com/security-center/fraud-prevention-checklist/",
+    "https://www.bankofamerica.com/banking-information/assistance/credit-cards/credit-cards-assistance-overview.go?request_locale=en_US",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://www.bankofamerica.com/help/overview.go",
+    "https://www.bankofamerica.com/accessiblebanking/overview.go",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us",
+    "https://www.bankofamerica.com/information/personal/",
+    "https://careers.bankofamerica.com/",
+    "https://www.bankofamerica.com/security-center/online-privacy-notice/",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+  ],
+  "external": [
+    "https://optout.aboutads.info/?c=2&lang=EN",
+    "https://www.networkadvertising.org/choices",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+      "alt": "Bank of America Logo",
+      "w": 300,
+      "h": 30,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-connect-with-cc-module-calendar_icon_black-CSX6500c792.svg",
+      "alt": "",
+      "w": 40,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bofa_icon_optout1_ko-CSX2fdcab0b.png",
+      "alt": "",
+      "w": 42,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+      "alt": "Bank of America Logo ",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www1.bac-assets.com//credit-cards/spa-assets/images/flagscape_red-72e2f860ce91a18efbf2.svg",
+    "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-icons-loading_46x46-CSXae20c9f9.gif",
+    "https://www1.bac-assets.com//credit-cards/spa-assets/images/icon-success-8a049ade1f5e70e5be03.png",
+    "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-icon-ehl-white-CSX189e8f4c.svg"
+  ],
+  "inlineSvg": 20,
+  "forms": [
+    {
+      "action": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/POST",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "category-select"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/#,,",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "zipCodeGatingModalInput"
+        }
+      ]
+    }
+  ],
+  "videos": [],
+  "iframes": [
+    "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=consu959;cat=2016_0;ord=1;num=6325576168225.684;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3ACredit_Cards%3Bcompare-credit-cards;ps=1;pcor=343580422;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcompare-credit-cards%2F?",
+    "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=1359940;type=consu959;cat=2016_0;ord=1;num=6325576168225.684;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3ACredit_Cards%3Bcompare-credit-cards;ps=1;pcor=343580422;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcompare-credit-cards%2F?",
+    "https://www.bankofamerica.com/gt-chat/?_language_code=en-us&_page_id=36532448&_customer_lob=co&_account_type=creditcards",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+    "alt": "Bank of America Logo"
+  },
+  "sections": [
+    {
+      "heading": "Compare Credit Cards",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Compare Credit Cards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Compare Credit Cards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "The Bank of America® credit card comparison tool lets you compare credit cards s",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "The Bank of America® credit card comparison tool lets you compare credit cards s",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Unavailable",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Add a Card",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Card Overview",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Standard Features",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Connect one on one with a credit card specialist",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Connect one on one with a credit card specialist",
+      "bg": "rgb(245, 245, 245)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Credit Cards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Live chat Survey Chat",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Live chat Survey Chat",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Live chat Survey Chat",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "widget-cnx-regular, Connections, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "sans-serif"
+  }
+}

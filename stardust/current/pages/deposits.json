@@ -1,0 +1,1013 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:50.485Z",
+    "waitMode": "medium",
+    "waitMs": 6266,
+    "httpStatus": 200
+  },
+  "slug": "deposits",
+  "url": "https://www.bankofamerica.com/deposits/",
+  "meta": {
+    "title": "Bank of America Advantage Banking: Open a Checking Account Today",
+    "description": "Explore checking account options designed to fit your changing needs. Open a Bank of America Advantage Banking account online today.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Bank of America Advantage Banking: Open a Checking Account Today",
+    "themeColor": "#ffffff",
+    "favicon": "https://www.bankofamerica.com/deposits/spa-assets/images/assets-images-global-favicon-favicon-32x32-CSX704d6b21.png",
+    "appleTouchIcon": "https://www.bankofamerica.com/deposits/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "headings": [
+    {
+      "level": 4,
+      "text": "Get the Mobile Banking app"
+    },
+    {
+      "level": 3,
+      "text": "Get the mobile banking app"
+    },
+    {
+      "level": 4,
+      "text": "We've sent you a download link"
+    },
+    {
+      "level": 4,
+      "text": "We couldn't send the link"
+    },
+    {
+      "level": 1,
+      "text": "Bank of America Advantage Banking"
+    },
+    {
+      "level": 2,
+      "text": "SafeBalance Banking® for Family Banking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage SafeBalance Banking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage Plus\nBanking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage Relationship Banking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage Plus Banking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage Relationship Banking"
+    },
+    {
+      "level": 2,
+      "text": "SafeBalance Banking® for Family Banking"
+    },
+    {
+      "level": 2,
+      "text": "Advantage SafeBalance Banking"
+    },
+    {
+      "level": 2,
+      "text": "Helping keep your account secure"
+    },
+    {
+      "level": 3,
+      "text": "$0 Liability Guarantee fraud protection"
+    },
+    {
+      "level": 3,
+      "text": "Fast, secure sign-in"
+    },
+    {
+      "level": 3,
+      "text": "Custom alerts"
+    },
+    {
+      "level": 3,
+      "text": "Debit card controls"
+    },
+    {
+      "level": 2,
+      "text": "Digital tools to help you in your day-to-day"
+    },
+    {
+      "level": 3,
+      "text": "Better budgeting"
+    },
+    {
+      "level": 3,
+      "text": "Mobile deposits"
+    },
+    {
+      "level": 3,
+      "text": "Erica® virtual assistant"
+    },
+    {
+      "level": 3,
+      "text": "Manage your account on the go with our mobile app \nFootnote\n[21]"
+    },
+    {
+      "level": 2,
+      "text": "Earn rewards and save with Bank of America"
+    },
+    {
+      "level": 3,
+      "text": "BofA Rewards™"
+    },
+    {
+      "level": 3,
+      "text": "Keep the Change®"
+    },
+    {
+      "level": 3,
+      "text": "Cash Back Deals"
+    },
+    {
+      "level": 2,
+      "text": "Just starting out?"
+    },
+    {
+      "level": 2,
+      "text": "Resources to help you achieve your financial goals"
+    },
+    {
+      "level": 3,
+      "text": "Online Banking"
+    },
+    {
+      "level": 3,
+      "text": "Better Money Habits®"
+    },
+    {
+      "level": 3,
+      "text": "New to the U.S.?"
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": 1,
+      "text": "Please select your county"
+    },
+    {
+      "level": 2,
+      "text": "Connect with us"
+    },
+    {
+      "level": 1,
+      "text": "You're leaving our website"
+    },
+    {
+      "level": 1,
+      "text": "Enter your zip code"
+    },
+    {
+      "level": 1,
+      "text": "Monthly maintenance fee"
+    },
+    {
+      "level": 1,
+      "text": "Direct deposit"
+    },
+    {
+      "level": 1,
+      "text": "Zelle®"
+    },
+    {
+      "level": 1,
+      "text": "Balance Connect® for overdraft protection"
+    },
+    {
+      "level": 1,
+      "text": "Overdraft settings:Standard or Decline All"
+    },
+    {
+      "level": 1,
+      "text": "Monthly maintenance fee"
+    },
+    {
+      "level": 1,
+      "text": "Direct deposit"
+    },
+    {
+      "level": 1,
+      "text": "Earns interest"
+    },
+    {
+      "level": 1,
+      "text": "Select banking services"
+    },
+    {
+      "level": 1,
+      "text": "Zelle®"
+    },
+    {
+      "level": 1,
+      "text": "Balance Connect® for overdraft protection"
+    },
+    {
+      "level": 1,
+      "text": "Overdraft settings:Standard or Decline All"
+    },
+    {
+      "level": 1,
+      "text": "Monthly maintenance fee"
+    },
+    {
+      "level": 1,
+      "text": "Parental controls"
+    },
+    {
+      "level": 1,
+      "text": "Limitations on parent deposits"
+    },
+    {
+      "level": 1,
+      "text": "Child login at age 6 or older with limitations"
+    },
+    {
+      "level": 1,
+      "text": "Eligible Bank of America account and login"
+    },
+    {
+      "level": 1,
+      "text": "Monthly maintenance fee"
+    },
+    {
+      "level": 1,
+      "text": "Direct deposit"
+    },
+    {
+      "level": 1,
+      "text": "Zelle®"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "level": 2,
+      "text": "Live chat Survey Chat"
+    }
+  ],
+  "body": [
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.",
+    "By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically.",
+    "Apple, the Apple logo, iPhone, iPad, Apple Watch and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.",
+    "Android is a trademark of Google Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd.",
+    "If you don't see an app for your device, you may still be able to access our mobile website by typing bankofamerica.com in your mobile web browser.",
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their polices.",
+    "Continue Go back to Bank of America",
+    "We sent an email with the download link to",
+    "We sent a text message with the download link to",
+    "Get the flexibility you deserve. Choose a checking account to meet you where you are in your journey.",
+    "A parent-owned account that your child can use",
+    "Open now\n- SafeBalance Banking for Family Banking",
+    "Monthly maintenance fee\n- SafeBalance Banking for Family Banking",
+    "For existing customers\nFootnote\n[2], online application only",
+    "Simple banking with an easy-to-use experience",
+    "Open now\n- Advantage SafeBalance Banking",
+    "Monthly maintenance fee\n- Advantage SafeBalance Banking",
+    "Flexible banking to meet your needs",
+    "Open now\n- Advantage Plus Banking",
+    "Monthly maintenance fee\n- Advantage Plus Banking",
+    "Comprehensive banking to make the most of your banking relationship",
+    "Open now\n- Advantage Relationship Banking",
+    "Monthly maintenance fee\n- Advantage Relationship Banking",
+    "To view fees, see the Personal Schedule of Fees (PDF) and Clarity Statement.",
+    "SafeBalance Banking® for Family Banking",
+    "Bank of America Advantage SafeBalance Banking® for Family Banking$0 Liability GuaranteeFootnote[7]Custom alerts Footnote[8]Erica® virtual financial assistant age 13+ Footnote[9]Parental controlsStart of dialog contentParental controlsAs the parent owner, you can set limits on your child's spending for amounts and certain categories.End of dialog contentParent can withdraw and deposit money with limitations on depositsStart of dialog contentLimitations on parent depositsAs the parent, you can add money to this account by:Transfer from your Bank of America checking or savings accountsMobile check depositATMThis account does not offer external money transfers into the account, including direct deposit, wires, ACH transactions and transfers from other banks.End of dialog contentOptional child debit card and Online Banking login with limitationsStart of dialog contentChild login at age 6 or older with limitationsThis account provides a limited online experience for your child.Children age 6 or older can have their own Online Banking login and can:View account balancesMonitor transactionsSet alertsHere are some things they can't do:See or access your other Bank of America accountsDeposit moneyLock or unlock their debit cardFor a full list of what your child can do with this account, refer to the Personal Schedule of Fees (PDF).End of dialog contentChild can withdraw, but not deposit money",
+    "Bank of America Advantage SafeBalance Banking® for Family Banking",
+    "Parental controlsStart of dialog contentParental controlsAs the parent owner, you can set limits on your child's spending for amounts and certain categories.End of dialog content",
+    "Parent can withdraw and deposit money with limitations on depositsStart of dialog contentLimitations on parent depositsAs the parent, you can add money to this account by:Transfer from your Bank of America checking or savings accountsMobile check depositATMThis account does not offer external money transfers into the account, including direct deposit, wires, ACH transactions and transfers from other banks.End of dialog content",
+    "Optional child debit card and Online Banking login with limitationsStart of dialog contentChild login at age 6 or older with limitationsThis account provides a limited online experience for your child.Children age 6 or older can have their own Online Banking login and can:View account balancesMonitor transactionsSet alertsHere are some things they can't do:See or access your other Bank of America accountsDeposit moneyLock or unlock their debit cardFor a full list of what your child can do with this account, refer to the Personal Schedule of Fees (PDF).End of dialog content",
+    "Bank of America Advantage SafeBalance Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistantFootnote[9]Direct depositStart of dialog contentDirect depositWhen you set up direct deposit, your paycheck or other recurring deposits are sent to your account automatically.End of dialog contentBank On certifiedSafeBalance® is certified as meeting Bank On National Account Standards for safe and affordable bank accounts.",
+    "Bank of America Advantage SafeBalance Banking®",
+    "Direct depositStart of dialog contentDirect depositWhen you set up direct deposit, your paycheck or other recurring deposits are sent to your account automatically.End of dialog content",
+    "Bank of America Advantage Plus Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistantFootnote[9]Direct depositStart of dialog contentDirect depositWhen you set up direct deposit, your paycheck or other recurring deposits are sent to your account automatically.End of dialog content",
+    "Bank of America Advantage Plus Banking®",
+    "Bank of America Advantage Relationship Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistant Footnote[9]Direct depositStart of dialog contentDirect depositWhen you set up direct deposit, your paycheck or other recurring deposits are sent to your account automatically.End of dialog contentEarns interestStart of dialog contentEarns interestAPY (Annual Percentage Yield)Balance: Less than $50,000APY: 0.01%Balance: $50,000 and overAPY: 0.02%End of dialog content Footnote[10]No fees on select banking servicesStart of dialog contentSelect banking servicesSelect banking services include:Standard checksIncoming domestic wiresStop paymentsOutgoing wires sent in foreign currencyStatement paper copiesSee the Personal Schedule of Fees (PDF) for detailsEnd of dialog contentNo monthly maintenance fee on select additional consumer checking or savings accounts you ownFootnote[5]",
+    "Bank of America Advantage Relationship Banking®",
+    "Earns interestStart of dialog contentEarns interestAPY (Annual Percentage Yield)Balance: Less than $50,000APY: 0.01%Balance: $50,000 and overAPY: 0.02%End of dialog content Footnote[10]",
+    "No fees on select banking servicesStart of dialog contentSelect banking servicesSelect banking services include:Standard checksIncoming domestic wiresStop paymentsOutgoing wires sent in foreign currencyStatement paper copiesSee the Personal Schedule of Fees (PDF) for detailsEnd of dialog content",
+    "$XXXX or $0$0 for each statement cycle that:You maintain a minimum daily balance of $500 or more in your accountORYour child is under age 25Footnote[1]ORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "$0 for each statement cycle that:",
+    "You maintain a minimum daily balance of $500 or more in your accountORYour child is under age 25Footnote[1]ORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "$XXXX or $0$0 for each statement cycle that:You maintain a minimum daily balance of $500 or more in your accountORAn account owner is under age 25Footnote[1]ORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "You maintain a minimum daily balance of $500 or more in your accountORAn account owner is under age 25Footnote[1]ORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "$XXXX or $0$0 for each statement cycle that:You maintain a minimum daily balance of $1,500 or more in your accountORYou have at least 1 qualifying direct deposit of $250 or more made to your accountORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "You maintain a minimum daily balance of $1,500 or more in your accountORYou have at least 1 qualifying direct deposit of $250 or more made to your accountORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "$XXXX or $0$0 for each statement cycle that:You maintain a minimum daily balance of $20,000 or more in your accountORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "You maintain a minimum daily balance of $20,000 or more in your accountORAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tierFootnote[11].",
+    "Parent-owned1 parent and 1 child per account  Footnote[12]Parent must be age 18 or older, and have aneligible Bank of America account and loginStart of dialog contentEligible Bank of America account and loginTo open a SafeBalance for Family Banking account, you must already have a personal Bank of America checking or savings account. Business and Merrill accounts do not qualify.You must also have an Online Banking login.End of dialog contentChild must be under age 18 at account opening",
+    "Parent must be age 18 or older, and have aneligible Bank of America account and loginStart of dialog contentEligible Bank of America account and loginTo open a SafeBalance for Family Banking account, you must already have a personal Bank of America checking or savings account. Business and Merrill accounts do not qualify.You must also have an Online Banking login.End of dialog content",
+    "Age 16 or olderUnder age 16 must co-own with adultSchedule an appointment at a financial center to open an account with someone under age 13",
+    "Age 18 or olderUnder age 18 must co-own with an adult Schedule an appointment at a financial center to open an account with someone under age 13",
+    "Debit card for parent and childDigital wallet",
+    "Debit cardDigital walletZelle®Start of dialog contentZelle®A fast and easy way to send and receive money online with friends and family.End of dialog content Footnote[13]",
+    "Zelle®Start of dialog contentZelle®A fast and easy way to send and receive money online with friends and family.End of dialog content Footnote[13]",
+    "Debit cardDigital walletZelle®Start of dialog contentZelle®A fast and easy way to send and receive money online with friends and family.End of dialog content Footnote[13]Paper checks",
+    "This account is set to the Decline All overdraft setting. Transactions are declined or returned unpaid when they exceed your available balance. We won’t charge you an overdraft fee, but the payee may charge fees.Footnote[14]",
+    "Option to enroll in:Balance Connect® for overdraft protectionStart of dialog contentBalance Connect® for overdraft protectionYou can link up to 5 eligible Bank of America accounts to this checking account to cover transactions. When there isn't enough money in your checking account to pay for an item, available funds are automatically transferred from the linked backup accounts to your checking account. There’s no transfer fee, but other charges may apply. For example, transfers from a linked credit card or HELOC may result in interest charges.End of dialog content Footnote[4]And choice of overdraft setting Footnote[15]:Standard or Decline AllStart of dialog contentOverdraft settings:Standard or Decline AllChoose how you want us to handle checks and scheduled payments when there isn’t enough money in your checking account to cover transactions.We won't authorize ATM withdrawals or debit card purchases when there’s not enough money in your account to cover the transactions. For other payments, at our discretion, we may authorize and pay the item and overdraw your account (an overdraft item), or decline or return the item unpaid (a returned item). Review the Deposit Agreement and Disclosures (PDF) and Personal Schedule of Fees (PDF) for details.Standard settingYour checks and scheduled payments may be paid and cause an overdraft. There’s a $10 feeFootnote 1 when we make the payment and overdraw your account. We won’t charge a fee for the returned items, but the payee may.Decline All settingYour checks and scheduled payments will be declined or returned unpaid. We won’t charge a fee for returned items, but the payee may.We’ll charge an Overdraft Item Fee for each item that we authorize and pay, including recurring debit card payments. We will not charge a fee to your account when we decline or return an item unpaid; however, you may be charged a fee by the payee. Please see the Personal Schedule of Fees (PDF) for your account for more details.End of dialog content",
+    "Option to enroll in:Balance Connect® for overdraft protectionStart of dialog contentBalance Connect® for overdraft protectionYou can link up to 5 eligible Bank of America accounts to this checking account to cover transactions. When there isn't enough money in your checking account to pay for an item, available funds are automatically transferred from the linked backup accounts to your checking account. There’s no transfer fee, but other charges may apply. For example, transfers from a linked credit card or HELOC may result in interest charges.End of dialog content Footnote[4]",
+    "And choice of overdraft setting Footnote[15]:Standard or Decline AllStart of dialog contentOverdraft settings:Standard or Decline AllChoose how you want us to handle checks and scheduled payments when there isn’t enough money in your checking account to cover transactions.We won't authorize ATM withdrawals or debit card purchases when there’s not enough money in your account to cover the transactions. For other payments, at our discretion, we may authorize and pay the item and overdraw your account (an overdraft item), or decline or return the item unpaid (a returned item). Review the Deposit Agreement and Disclosures (PDF) and Personal Schedule of Fees (PDF) for details.Standard settingYour checks and scheduled payments may be paid and cause an overdraft. There’s a $10 feeFootnote 1 when we make the payment and overdraw your account. We won’t charge a fee for the returned items, but the payee may.Decline All settingYour checks and scheduled payments will be declined or returned unpaid. We won’t charge a fee for returned items, but the payee may.We’ll charge an Overdraft Item Fee for each item that we authorize and pay, including recurring debit card payments. We will not charge a fee to your account when we decline or return an item unpaid; however, you may be charged a fee by the payee. Please see the Personal Schedule of Fees (PDF) for your account for more details.End of dialog content",
+    "Open now - Advantage Plus Banking",
+    "Monthly maintenance fee - Advantage Plus Banking",
+    "Bank of America Advantage Plus Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistantFootnote[9]Direct deposit",
+    "Debit cardDigital walletZelle® Footnote[13]Paper checks",
+    "Option to enroll in:Balance Connect® for overdraft protection Footnote[4]And choice of overdraft setting Footnote[15]:Standard or Decline All",
+    "Option to enroll in:Balance Connect® for overdraft protection Footnote[4]",
+    "And choice of overdraft setting Footnote[15]:Standard or Decline All",
+    "Open now - Advantage Relationship Banking",
+    "Monthly maintenance fee - Advantage Relationship Banking",
+    "Bank of America Advantage Relationship Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistant Footnote[9]Direct depositEarns interest Footnote[10]No fees on select banking servicesNo monthly maintenance fee on select additional consumer checking or savings accounts you ownFootnote[5]",
+    "No fees on select banking services",
+    "Open now - SafeBalance Banking for Family Banking",
+    "Monthly maintenance fee - SafeBalance Banking for Family Banking",
+    "For existing customersFootnote[2], online application only",
+    "Bank of America Advantage SafeBalance Banking® for Family Banking$0 Liability GuaranteeFootnote[7]Custom alerts Footnote[8]Erica® virtual financial assistant age 13+ Footnote[9]Parental controlsParent can withdraw and deposit money with limitations on depositsOptional child debit card and Online Banking login with limitationsChild can withdraw, but not deposit money",
+    "Parent can withdraw and deposit money with limitations on deposits",
+    "Optional child debit card and Online Banking login with limitations",
+    "Parent-owned1 parent and 1 child per account  Footnote[12]Parent must be age 18 or older, and have aneligible Bank of America account and loginChild must be under age 18 at account opening",
+    "Parent must be age 18 or older, and have aneligible Bank of America account and login",
+    "Open now - Advantage SafeBalance Banking",
+    "Monthly maintenance fee - Advantage SafeBalance Banking",
+    "Bank of America Advantage SafeBalance Banking®$0 Liability GuaranteeFootnote[7]Custom alertsFootnote[8]Erica® virtual financial assistantFootnote[9]Direct depositBank On certifiedSafeBalance® is certified as meeting Bank On National Account Standards for safe and affordable bank accounts.",
+    "Debit cardDigital walletZelle® Footnote[13]",
+    "Promptly tell us if your debit card is lost or stolen, and we'll credit unauthorized transactions back to your account. You could see credits as soon as the next business day.\nFootnote\n[7]",
+    "Log in to our mobile app with Touch ID®, Face ID® or your fingerprint.\nFootnote\n[16]",
+    "Set alerts \nFootnote\n[8] for account changes, like unusual activity, payments and more.",
+    "Lock a debit card \nFootnote\n[17] to prevent unauthorized use, request a digital card \nFootnote\n[18] and more.",
+    "Track your spending with our interactive Spending and Budgeting tool.\nFootnote\n[19]",
+    "Deposit checks with the camera on your device and our mobile app.\nFootnote\n[20]",
+    "Erica \nFootnote\n[9] makes it easy for you to stay on top of your finances.",
+    "Enjoy benefits that grow as your balances grow—from cash back deals to banking benefits for big milestones. There’s no fee to enroll; all you need is a Bank of America personal checking account.",
+    "Build your savings with Keep the Change. We'll round up your Bank of America debit card purchases to the nearest dollar and transfer the difference to savings.\nFootnote\n[22]",
+    "Learn more about Keep the Change®",
+    "Find deals on top brands for shopping, dining, travel and more\nFootnote\n[23]. Get cash back when you pay with your Bank of America debit or credit card.",
+    "There is no monthly maintenance fee on our Advantage Savings account if you're under age 25.\nFootnote\n[1]",
+    "Learn more about banking for students and young adults",
+    "Have an account with us, but need online access? Enroll in Online Banking today.",
+    "Find videos, articles and tips to help you better manage your financial life.",
+    "Better Money Habits has resources on navigating your finances.",
+    "A checking account is a bank account where you can deposit and withdraw your money when you want. It’s the account you’ll likely use to deposit paychecks, pay bills, get cash and transfer funds. Checking accounts usually offer a debit card to use online, at stores and at ATMs. Some checking accounts offer paper checks for making payments. Some checking accounts may earn interest.",
+    "A checking account is for using your money for everyday needs, like making purchases or payments. Checking accounts usually offer a debit card to use online, at stores and at ATMs. Some checking accounts offer paper checks for making payments. A savings account is for setting aside money for longer-term goals. Savings accounts earn interest and may offer an ATM card for making deposits and getting cash. If you have a Bank of America checking and savings account, you can link them together and access both accounts at ATMs with your debit card. However, debit card payments and purchases withdraw from your checking account. A certificate of deposit (CD) account is for setting aside money for a set time — from 1 month to several years. CDs may pay more interest, but your access to your money is limited until the end of the set time.",
+    "A checking account is for using your money for everyday needs, like making purchases or payments. Checking accounts usually offer a debit card to use online, at stores and at ATMs. Some checking accounts offer paper checks for making payments.",
+    "A savings account is for setting aside money for longer-term goals. Savings accounts earn interest and may offer an ATM card for making deposits and getting cash.",
+    "If you have a Bank of America checking and savings account, you can link them together and access both accounts at ATMs with your debit card. However, debit card payments and purchases withdraw from your checking account.",
+    "A certificate of deposit (CD) account is for setting aside money for a set time — from 1 month to several years. CDs may pay more interest, but your access to your money is limited until the end of the set time.",
+    "You can apply for a Bank of America checking account online or at a financial center, with a few exceptions. For SafeBalance Banking® for Family Banking You can only apply online. This account is for existing Bank of America customers. You must already have a personal checking or savings account with us and an Online Banking account login.For all other Bank of America checking accounts If you’re applying with someone under age 13, you must apply at a financial center. Otherwise, you can apply online.How to apply online Select an account and choose Open now to go to the application.Enter and verify your information.Choose features you want to add, like a debit card.Once approved, make the minimum opening deposit of $25 or $100, depending on the account.Check your email for next steps.How to find a financial center We have thousands of financial centers and ATMs across the U.S. Find a financial center or ATM",
+    "You can apply for a Bank of America checking account online or at a financial center, with a few exceptions.",
+    "For SafeBalance Banking® for Family Banking You can only apply online. This account is for existing Bank of America customers. You must already have a personal checking or savings account with us and an Online Banking account login.",
+    "For all other Bank of America checking accounts If you’re applying with someone under age 13, you must apply at a financial center. Otherwise, you can apply online.",
+    "How to find a financial center We have thousands of financial centers and ATMs across the U.S. Find a financial center or ATM",
+    "The Federal Deposit Insurance Corporation (FDIC) is an independent agency of the United States government. If an FDIC-insured bank or savings association fails, the FDIC protects depositors against the loss of their insured deposits. Deposits are automatically insured up to at least $250,000 per depositor, per FDIC-insured bank, per ownership category. FDIC deposit insurance is backed by the United States government. FDIC insurance covers all types of deposit accounts — checking, savings, money market savings and CDs — as well as bank individual retirement accounts (IRAs). Visit the FDIC for more information.",
+    "The Federal Deposit Insurance Corporation (FDIC) is an independent agency of the United States government. If an FDIC-insured bank or savings association fails, the FDIC protects depositors against the loss of their insured deposits. Deposits are automatically insured up to at least $250,000 per depositor, per FDIC-insured bank, per ownership category.",
+    "FDIC deposit insurance is backed by the United States government. FDIC insurance covers all types of deposit accounts — checking, savings, money market savings and CDs — as well as bank individual retirement accounts (IRAs).",
+    "Visit the FDIC for more information.",
+    "Have more questions? Find answers at Bank of America Help",
+    "Investment and insurance products:",
+    "Online Banking Service Agreement",
+    "Investing in securities involves risks, and there is always the potential of losing money when you invest in securities. You should review any planned financial transactions that may have tax or legal implications with your personal tax or legal advisor.",
+    "Securities products are provided by Merrill Lynch, Pierce, Fenner & Smith Incorporated (also referred to as \"MLPF&S\", or \"Merrill\"), a registered broker-dealer, registered investment adviser, Member SIPC, and a wholly-owned subsidiary of Bank of America Corporation. MLPF&S makes available certain investment products sponsored, managed, distributed or provided by companies that are affiliates of Bank of America Corporation.",
+    "Bank of America Private Bank is a division of Bank of America, N.A., Member FDIC and a wholly owned subsidiary of Bank of America Corporation. Trust and fiduciary services are provided by Bank of America, N.A. and U.S. Trust Company of Delaware. Both are indirect subsidiaries of Bank of America Corporation."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Open now\n- SafeBalance Banking for Family Banking",
+      "href": "https://www.bankofamerica.com/deposits/checking/safebalance-familybanking-account/before-you-apply/"
+    },
+    {
+      "label": "Open now\n- Advantage SafeBalance Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0W3HNUFL1"
+    },
+    {
+      "label": "Open now\n- Advantage Plus Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00PC07DJGB3H1"
+    },
+    {
+      "label": "Open now\n- Advantage Relationship Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0HDKJ0N41"
+    },
+    {
+      "label": "Personal Schedule of Fees (PDF)",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go?request_locale=en_US"
+    },
+    {
+      "label": "Open now - Advantage Plus Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00PC07DJGB3H1"
+    },
+    {
+      "label": "Open now - Advantage Relationship Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0HDKJ0N41"
+    },
+    {
+      "label": "Open now - SafeBalance Banking for Family Banking",
+      "href": "https://www.bankofamerica.com/deposits/checking/safebalance-familybanking-account/before-you-apply/"
+    },
+    {
+      "label": "Open now - Advantage SafeBalance Banking",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0W3HNUFL1"
+    },
+    {
+      "label": "Learn more about BofA Rewards",
+      "href": "https://info.bankofamerica.com/en/bofa-rewards"
+    },
+    {
+      "label": "Learn more about Keep the Change®",
+      "href": "https://www.bankofamerica.com/deposits/keep-the-change/"
+    },
+    {
+      "label": "Learn more about Cash Back Deals",
+      "href": "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/bankamerideals-cash-back-deals/"
+    },
+    {
+      "label": "Learn more about banking for students and young adults",
+      "href": "https://www.bankofamerica.com/student-banking/"
+    },
+    {
+      "label": "Learn more\n about Better Money Habits",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    },
+    {
+      "label": "Learn more\n about resources on navigating your finances",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en/moving-to-the-us-banking-guide"
+    },
+    {
+      "label": "Schedule an appointment",
+      "href": "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/"
+    },
+    {
+      "label": "Find a location",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/"
+    },
+    {
+      "label": "Personal Schedule of Fees (PDF)",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/?request_locale=en_US"
+    },
+    {
+      "label": "Personal Schedule of Fees (PDF)",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/?request_locale=en_US"
+    },
+    {
+      "label": "Budgeting & Saving",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go?request_locale=en_US"
+    }
+  ],
+  "internal": [
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#skip-to-h1",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#",
+    "https://www.bankofamerica.com/",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/online-banking/sign-in/",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/es/",
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/",
+    "https://www.bankofamerica.com/deposits/account-fees/",
+    "https://www.bankofamerica.com/deposits/checking/checking-clarity-statement/",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/access-your-accounts.go?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+    "https://www.bankofamerica.com/deposits/savings/savings-accounts/",
+    "https://www.bankofamerica.com/deposits/bank-cds/cd-accounts/",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/",
+    "https://www.bankofamerica.com/deposits/checking/debit-card/",
+    "https://www.bankofamerica.com/deposits/bank-accounts/",
+    "https://www.bankofamerica.com/customer-service/contact-us/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/applying-for-accounts-faqs/",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/",
+    "https://www.bankofamerica.com/online-banking/iphone-banking-app.go",
+    "https://www.bankofamerica.com/deposits/checking/safebalance-familybanking-account/before-you-apply/",
+    "https://info.bankofamerica.com/en/bofa-rewards",
+    "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_fiduciaryAccounts",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_advantageFamilyBanking",
+    "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0W3HNUFL1",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_overDraftItemFee",
+    "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00PC07DJGB3H1",
+    "https://www.bankofamerica.com/deposits/account-rates-fees-faqs/#qualifying-direct-deposits",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_overDraftProtectionBalanceConnect",
+    "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0HDKJ0N41",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_primaryAdvantageRelationshipBanking",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_noFees",
+    "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_liabilityGuarentee",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_alertsReceivedTextMessages",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_ericaVirtualAssistance",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_annualPercentageYield",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_bofaRewardsFootnote",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_parentOwned",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_zelleWaysToPay",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_advantageMoneyAvailable",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_depositAgreement",
+    "https://www.bankofamerica.com/salesservices/deposits/resources/deposit-agreements/",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_fingerPrintScannerEnrollment",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_debitCardControls",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_digitalDebitControl",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_budgetingTool",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_mobileDeposits",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_mobileBanking",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_keepTheChange",
+    "https://www.bankofamerica.com/deposits/keep-the-change/",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/#ftn_earnRewards",
+    "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/bankamerideals-cash-back-deals/",
+    "https://www.bankofamerica.com/student-banking/",
+    "https://secure.bankofamerica.com/auth/enroll/enroll-entry/",
+    "https://bettermoneyhabits.bankofamerica.com/en",
+    "https://bettermoneyhabits.bankofamerica.com/en/moving-to-the-us-banking-guide",
+    "https://www.bankofamerica.com/help/overview/?request/_locale=en/_US",
+    "https://www.bankofamerica.com/customer-service/contact-us/",
+    "https://www.bankofamerica.com/help/overview/",
+    "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en_US",
+    "https://promo.bankofamerica.com/international-banking/",
+    "https://business.bankofamerica.com/en/deposits/checking-accounts",
+    "https://www.bankofamerica.com/deposits/bank-cds/featured-cd/",
+    "https://www.bankofamerica.com/deposits/bank-cds/standard-term-cd/",
+    "https://www.bankofamerica.com/deposits/bank-cds/flexible-cd/",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/savings-iras/",
+    "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting",
+    "https://bettermoneyhabits.bankofamerica.com/en/personal-banking",
+    "https://www.bankofamerica.com/deposits/routing-number-faqs/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/manage/glossary",
+    "https://www.bankofamerica.com/deposits/savings/savings-goal-calculator/",
+    "https://promotions.bankofamerica.com/en/deals",
+    "https://www.bankofamerica.com/deposits/keep-the-change/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/switch-banks",
+    "https://www.bankofamerica.com/online-banking/sign-in/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/access/setting-up-direct-deposit/",
+    "https://www.bankofamerica.com/deposits/access/request-debit-card/?request_locale=en_US",
+    "https://www.bankofamerica.com/deposits/resources/deposit-agreements.go?request_locale=en_US",
+    "https://www.bankofamerica.com/contactus/contactus.go?request_locale=en_US",
+    "https://www.bankofamerica.com/help/overview.go?request_locale=en_US",
+    "https://www.bankofamerica.com/accessible-banking/overview",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-US",
+    "https://www.bankofamerica.com/sitemap/personal.go?request_locale=en_US",
+    "https://careers.bankofamerica.com/",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?request_locale=en-us",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+  ],
+  "external": [
+    "https://itunes.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8%27",
+    "https://itunes.apple.com/us/app/bank-of-america-mobile-banking/id284847138?mt=8",
+    "https://play.google.com/store/apps/details?id=com.infonow.bofa",
+    "https://apps.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8",
+    "https://www.fdic.gov/",
+    "http://www.sipc.org/",
+    "https://www.merrilledge.com/retirement-planning",
+    "https://www.merrilledge.com/m/pages/mobile/retirement-planning-mobile.aspx?src_cd=bac_ira",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-digital-sign-CSX37f66a3e.svg",
+      "alt": "FDIC-Insured - Backed by the full faith and credit of the U.S. Government",
+      "w": 300,
+      "h": 12,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-fdic-fdic-wealth-banner-smalldevice-en-CSX7f123629.svg",
+      "alt": "Bank of America Deposit products:FDIC Insured - Backed by the full faith and credit of the US Government. Investment products are NOT FDIC insured",
+      "w": 375,
+      "h": 60,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://secure1.bac-assets.com/spa/widgets/gt-nav-unauth-secure-bofa-widget/1.0.0/spa-assets/images/assets-images-global-get-app-modal-google-play-badge-CSX89f9024.svg",
+      "alt": "Download the Bank of America App",
+      "w": 135,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-engagement-template-advantage-banking-large-CSXba3e8209.png",
+      "alt": "",
+      "w": 1440,
+      "h": 506,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-product-details-module-Bank-of-America-SafeBalance-Banking_2025-2026-CSXc754b260.svg",
+      "alt": "",
+      "w": 65,
+      "h": 66,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-product-details-module-Bank-of-America-SafeBalance-Banking_2025-2026-CSXc754b260.svg",
+      "alt": "",
+      "w": 65,
+      "h": 66,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-liability_guarantee_computer-CSX9a9c634c.svg",
+      "alt": "",
+      "w": 504,
+      "h": 250,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-iilustration-secure-sign-in-CSX2c0b36f5.svg",
+      "alt": "",
+      "w": 142,
+      "h": 141,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-illustration-custom-alerts-CSX79b7463f.svg",
+      "alt": "",
+      "w": 141,
+      "h": 141,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-illustration-debit-card-controls-CSX4f4bc321.svg",
+      "alt": "",
+      "w": 141,
+      "h": 141,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-mobile-app-better-budgeting-CSX72c6e9d.svg",
+      "alt": "",
+      "w": 390,
+      "h": 490,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-mobile-app-mobile-deposits-CSXaf1fcb90.svg",
+      "alt": "",
+      "w": 390,
+      "h": 490,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-mobile-app-erica-CSX36e76b49.svg",
+      "alt": "",
+      "w": 391,
+      "h": 484,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-icon-apple-app-store-CSXa3b17e7b.svg",
+      "alt": "Download from Apple App Store",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-icon-google-play-CSXbc4bc060.svg",
+      "alt": "Download from Google Play",
+      "w": 135,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-site-deposits-v6-advantage-banking-page-module-student-hub-section-CSXc7166690.png",
+      "alt": "",
+      "w": 590,
+      "h": 340,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-calendar-black-CSX14dc7e2f.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-location-black-CSX4d415ed5.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-contact-black-CSXcce2d264.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-help-black-CSX12141305.svg",
+      "alt": "",
+      "w": 32,
+      "h": 32,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+      "alt": "Bank of America Logo ",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www1.bac-assets.com//deposits/spa-assets/images/logo-bofa-flagscape-18ad22ccaf518c47d77b.svg"
+  ],
+  "inlineSvg": 27,
+  "forms": [
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "getAppDeviceSelect"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "email",
+          "name": "emailAddressField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "zipCodeInput"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "countySelectModalSelect"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "zipCodeInput"
+        }
+      ]
+    }
+  ],
+  "videos": [],
+  "iframes": [
+    "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=check839;cat=2018_00;ord=1;num=2640034899658.261;npa=0;auiddc=2112632541.1782638429;u30=Dep%3AProd%3AViewAccountTypes%3AChecking%3Bchecking-advantage-banking;ps=1;pcor=2093385974;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fdeposits%2Fchecking%2Fadvantage-banking%2F?",
+    "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=1359940;type=check839;cat=2018_00;ord=1;num=2640034899658.261;npa=0;auiddc=2112632541.1782638429;u30=Dep%3AProd%3AViewAccountTypes%3AChecking%3Bchecking-advantage-banking;ps=1;pcor=2093385974;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fdeposits%2Fchecking%2Fadvantage-banking%2F?",
+    "https://www.bankofamerica.com/deposits/checking/advantage-banking/",
+    "https://www.bankofamerica.com/gt-chat/?_language_code=en-us&_page_id=37000813&_customer_lob=co&_account_type=deposits"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+    "alt": "Bank of America Logo "
+  },
+  "sections": [
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America Advantage Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "SafeBalance Banking® for Family Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Advantage SafeBalance Banking",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "sans-serif"
+  }
+}

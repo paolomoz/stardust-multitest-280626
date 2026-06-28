@@ -1,0 +1,61 @@
+{
+  "_provenance": {
+    "tool": "playwright",
+    "at": "2026-06-28T09:21:02.028Z",
+    "headed": false
+  },
+  "discovery": {
+    "sitemap": "https://www.bankofamerica.com/content/sitemap_index.xml",
+    "fetchTechnique": "headless-chromium"
+  },
+  "results": [
+    {
+      "slug": "home",
+      "live": "yes",
+      "waitMs": 9735,
+      "status": 200,
+      "imgs": 65,
+      "bg": 6
+    },
+    {
+      "slug": "cash-back-credit-cards",
+      "live": "yes",
+      "waitMs": 8388,
+      "status": 200,
+      "imgs": 20,
+      "bg": 3
+    },
+    {
+      "slug": "auto-loans",
+      "live": "yes",
+      "waitMs": 4907,
+      "status": 200,
+      "imgs": 26,
+      "bg": 7
+    },
+    {
+      "slug": "avoid-bank-scams",
+      "live": "yes",
+      "waitMs": 9053,
+      "status": 200,
+      "imgs": 27,
+      "bg": 2
+    },
+    {
+      "slug": "deposits",
+      "live": "yes",
+      "waitMs": 6266,
+      "status": 200,
+      "imgs": 24,
+      "bg": 1
+    },
+    {
+      "slug": "compare-credit-cards",
+      "live": "yes",
+      "waitMs": 4844,
+      "status": 200,
+      "imgs": 13,
+      "bg": 4
+    }
+  ]
+}

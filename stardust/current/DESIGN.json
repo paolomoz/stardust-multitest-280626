@@ -1,0 +1,34 @@
+{
+  "colors": {
+    "primary": "#012169",
+    "accent": "#e31837",
+    "heroBlue": "#1668c9",
+    "heroBlueDeep": "#0a3bb0",
+    "link": "#1564bf",
+    "background": "#ffffff",
+    "surface": "#f4f6f8",
+    "surfaceAlt": "#eef1f5",
+    "text": "#1a1a1a",
+    "textMuted": "#5a6470",
+    "border": "#d4dae1"
+  },
+  "typography": {
+    "heading": "system-grotesk",
+    "body": "system-sans",
+    "scale": "ad-hoc"
+  },
+  "rounded": "12px",
+  "spacing": "generous",
+  "extensions": {
+    "componentStyle": {
+      "button": "pill, navy fill or white outline; link CTAs underlined blue",
+      "card": "white, 12px radius, soft shadow, image top",
+      "trustStrip": "thin gray band, FDIC mark + statement"
+    },
+    "motifs": ["flagscape", "credit-card-showcase", "login-panel", "card-grid-3up", "big-numeral-benefit", "trust-strip"],
+    "voice": {
+      "tagline": "What would you like the power to do?",
+      "ctas": ["Open an account", "Shop all credit cards", "Get started", "Apply now", "Compare cards"]
+    }
+  }
+}

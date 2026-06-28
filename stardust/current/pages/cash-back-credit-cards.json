@@ -1,0 +1,1168 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:27.341Z",
+    "waitMode": "medium",
+    "waitMs": 8388,
+    "httpStatus": 200
+  },
+  "slug": "cash-back-credit-cards",
+  "url": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+  "meta": {
+    "title": "Cash Back Credit Cards & Cash Rewards Credit Cards",
+    "description": "Cash back credit cards from Bank of America allow you to earn cash rewards on all of your purchases. Apply online.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Cash Back Credit Cards & Cash Rewards Credit Cards",
+    "themeColor": "#ffffff",
+    "favicon": "https://www.bankofamerica.com/credit-cards/spa-assets/images/assets-images-global-favicon-favicon-32x32-CSX704d6b21.png",
+    "appleTouchIcon": "https://www.bankofamerica.com/credit-cards/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cash Back Credit Cards"
+    },
+    {
+      "level": 2,
+      "text": "Earn cash back on all your purchases with a cash rewards credit card from Bank of America®."
+    },
+    {
+      "level": 1,
+      "text": "Unavailable"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Customized Cash Rewards"
+    },
+    {
+      "level": 3,
+      "text": "6% cash back in the category of your choice – for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Customized Cash Rewards"
+    },
+    {
+      "level": 3,
+      "text": "6% cash back in the category of your choice – for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Unlimited Cash Rewards"
+    },
+    {
+      "level": 3,
+      "text": "Unlimited 2% cash back on purchases for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Unlimited Cash Rewards"
+    },
+    {
+      "level": 3,
+      "text": "Unlimited 2% cash back on purchases for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "BankAmericard®"
+    },
+    {
+      "level": 3,
+      "text": "Save money on interest"
+    },
+    {
+      "level": 2,
+      "text": "BankAmericard®"
+    },
+    {
+      "level": 3,
+      "text": "Save money on interest"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Travel Rewards"
+    },
+    {
+      "level": 3,
+      "text": "25,000 online bonus points offer – a $250 value"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Travel Rewards"
+    },
+    {
+      "level": 3,
+      "text": "25,000 online bonus points offer – a $250 value"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Premium Rewards®"
+    },
+    {
+      "level": 3,
+      "text": "60,000 online bonus points offer — a $600 value"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Premium Rewards®"
+    },
+    {
+      "level": 3,
+      "text": "60,000 online bonus points offer — a $600 value"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Premium Rewards® Elite"
+    },
+    {
+      "level": 3,
+      "text": "75,000 online bonus points offer — a $750 value"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Customized Cash Rewards for Students"
+    },
+    {
+      "level": 3,
+      "text": "6% cash back in the category of your choice – for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Unlimited Cash Rewards for Students"
+    },
+    {
+      "level": 3,
+      "text": "Start building your financial future while earning unlimited 2% cash back on purchases for the first year"
+    },
+    {
+      "level": 2,
+      "text": "BankAmericard® for Students"
+    },
+    {
+      "level": 3,
+      "text": "Save money on interest, a great choice when you’re just starting out"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Travel Rewards for Students"
+    },
+    {
+      "level": 3,
+      "text": "Start building your financial future"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Customized Cash Rewards Secured"
+    },
+    {
+      "level": 3,
+      "text": "Help build your credit while earning 6% cash back in the category of your choice – for the first year"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Unlimited Cash Rewards Secured"
+    },
+    {
+      "level": 3,
+      "text": "Help strengthen or build your credit while earning unlimited 2% cash back on purchases for the first year"
+    },
+    {
+      "level": 2,
+      "text": "BankAmericard® Secured"
+    },
+    {
+      "level": 3,
+      "text": "Help establish, strengthen - or even rebuild your credit with a card that's simple and convenient"
+    },
+    {
+      "level": 2,
+      "text": "Bank of America® Travel Rewards Secured"
+    },
+    {
+      "level": 3,
+      "text": "Help strengthen or build your credit and earn unlimited points"
+    },
+    {
+      "level": 2,
+      "text": "Atmos™ Rewards Ascent Visa Signature®"
+    },
+    {
+      "level": 3,
+      "text": "Limited-time online offer — Buy One, Get One + 50,000 bonus points"
+    },
+    {
+      "level": 2,
+      "text": "Atmos™ Rewards Summit Visa Infinite®"
+    },
+    {
+      "level": 3,
+      "text": "Limited-time online offer – 100,000 bonus points + a 50% flight discount code"
+    },
+    {
+      "level": 2,
+      "text": "Royal ONE™ Visa Signature®"
+    },
+    {
+      "level": 3,
+      "text": "Limited-time online offer: 45,000 bonus points – a $450 value"
+    },
+    {
+      "level": 2,
+      "text": "Royal ONE Plus™ Visa Signature®"
+    },
+    {
+      "level": 3,
+      "text": "Limited-time online offer: 70,000 bonus points – a $700 value"
+    },
+    {
+      "level": 2,
+      "text": "Susan G. Komen® Customized Cash Rewards credit card"
+    },
+    {
+      "level": 3,
+      "text": "Help fight breast cancer with 6% cash back in the category of your choice – for the first year. Plus, a $200 online cash rewards bonus offer."
+    },
+    {
+      "level": 2,
+      "text": "Allways Rewards Visa®"
+    },
+    {
+      "level": 3,
+      "text": "Online Offer: 30,000 Bonus Points"
+    },
+    {
+      "level": 2,
+      "text": "Air France KLM Visa Signature®"
+    },
+    {
+      "level": 3,
+      "text": "Online Offer: 50,000 Bonus Miles + 100 Experience Points (XP)"
+    },
+    {
+      "level": 2,
+      "text": "Norwegian Cruise Line® World Mastercard®"
+    },
+    {
+      "level": 3,
+      "text": "Online Offer: 20,000 bonus points"
+    },
+    {
+      "level": 2,
+      "text": "Rewards for every ambition"
+    },
+    {
+      "level": 2,
+      "text": "Check for personalized credit card offers"
+    },
+    {
+      "level": 3,
+      "text": "Understanding credit is key to your financial health"
+    },
+    {
+      "level": 4,
+      "text": "Selecting a credit card"
+    },
+    {
+      "level": 4,
+      "text": "Managing your credit card"
+    },
+    {
+      "level": 4,
+      "text": "Paying down your debt"
+    },
+    {
+      "level": 4,
+      "text": "Improving your credit"
+    },
+    {
+      "level": 3,
+      "text": "Connect one on one with a credit card specialist"
+    },
+    {
+      "level": 3,
+      "text": "Credit Cards"
+    },
+    {
+      "level": 3,
+      "text": "Credit Card Categories"
+    },
+    {
+      "level": 3,
+      "text": "Learn About Credit"
+    },
+    {
+      "level": 3,
+      "text": "Manage Your Credit Card"
+    },
+    {
+      "level": 3,
+      "text": "Advertising Practices"
+    },
+    {
+      "level": 2,
+      "text": "Cookie Banner"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "level": 2,
+      "text": "Live chat Survey Chat"
+    }
+  ],
+  "body": [
+    "Earn cash back on everyday purchases, including grocery store and gas purchases. Plus, some cash back credit cards give you the option to help support a special cause in addition to earning cash back for every purchase. For details, explore the cash back cards on this page.",
+    "We're sorry, this page is temporarily unavailable. We apologize for the inconvenience.",
+    "One or more of the cards you chose to compare are not serviced in English.",
+    "Continue in English Go back to Spanish",
+    "Bank of America® Customized Cash Rewards credit cardNo annual fee†",
+    "Bank of America® Customized Cash Rewards credit cardTap to Pay",
+    "Bank of America® Customized Cash Rewards credit card\nNo annual fee†",
+    "Bank of America® Customized Cash Rewards credit card\nTap to Pay",
+    "3% cash back + 3% first-year cash back bonus in the category of your choice, automatic 2% cash back at grocery stores and wholesale clubs and unlimited 1% cash back on all other purchases.",
+    "Earn 6% and 2% cash back on the first $2,500 in combined purchases each quarter in the choice category, and at grocery stores and wholesale clubs, then earn unlimited 1% thereafter. After the 3% first-year bonus offer ends, you will earn 3% and 2% cash back on these purchases up to the quarterly maximum.",
+    "Choose which category you want to earn 6% cash back in – for the first year: gas and EV charging stations; online shopping, including cable, internet, phone plans and streaming; dining; travel; drug stores and pharmacies; or home improvement and furnishings. After the first year from account opening, you’ll earn 3% cash back on purchases in your choice category.",
+    "To change your choice category for future purchases, you must go to Online Banking, or use the Mobile Banking app. You can change it once each calendar month, or make no change and it stays the same.",
+    "† Terms & Conditions \nfor Bank of America® Customized Cash Rewards credit card",
+    "† Terms & Conditions for Bank of America® Customized Cash Rewards credit card",
+    "Bank of America® Unlimited Cash Rewards credit cardNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards credit cardTap to Pay",
+    "Bank of America® Unlimited Cash Rewards credit card\nNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards credit card\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Unlimited Cash Rewards credit card",
+    "† Terms & Conditions for Bank of America® Unlimited Cash Rewards credit card",
+    "BankAmericard® credit cardNo annual fee†",
+    "BankAmericard® credit cardTap to Pay",
+    "† Terms & Conditions for BankAmericard® credit card",
+    "Bank of America® Travel Rewards credit cardNo annual fee† and no foreign transaction fees†",
+    "Bank of America® Travel Rewards credit cardTap to Pay",
+    "† Terms & Conditions for Bank of America® Travel Rewards credit card",
+    "Bank of America® Premium Rewards® credit cardLow $95 annual fee† and no foreign transaction fees†",
+    "Bank of America® Premium Rewards® credit cardTap to Pay",
+    "Bank of America® Premium Rewards® credit card\nLow $95 annual fee† and no foreign transaction fees†",
+    "Bank of America® Premium Rewards® credit card\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Premium Rewards® credit card",
+    "† Terms & Conditions for Bank of America® Premium Rewards® credit card",
+    "Bank of America® Premium Rewards® Elite credit card$550 annual fee† and no foreign transaction fees†",
+    "Bank of America® Premium Rewards® Elite credit cardTap to Pay",
+    "Bank of America® Premium Rewards® Elite credit card\n$550 annual fee† and no foreign transaction fees†",
+    "Bank of America® Premium Rewards® Elite credit card\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Premium Rewards® Elite credit card",
+    "Bank of America® Customized Cash Rewards credit card for StudentsNo annual fee†",
+    "Bank of America® Customized Cash Rewards credit card for StudentsTap to Pay",
+    "Bank of America® Customized Cash Rewards credit card for Students\nNo annual fee†",
+    "Bank of America® Customized Cash Rewards credit card for Students\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Customized Cash Rewards credit card for Students",
+    "Bank of America® Unlimited Cash Rewards credit card for StudentsNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards credit card for StudentsTap to Pay",
+    "Bank of America® Unlimited Cash Rewards credit card for Students\nNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards credit card for Students\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Unlimited Cash Rewards credit card for Students",
+    "BankAmericard® Credit Card for StudentsNo annual fee†",
+    "BankAmericard® Credit Card for StudentsTap to Pay",
+    "† Terms & Conditions for BankAmericard® Credit Card for Students",
+    "Bank of America® Travel Rewards Credit Card for StudentsNo annual fee† and no foreign transaction fees†",
+    "Bank of America® Travel Rewards Credit Card for StudentsTap to Pay",
+    "† Terms & Conditions for Bank of America® Travel Rewards Credit Card for Students",
+    "Bank of America® Customized Cash Rewards secured credit cardNo annual fee†",
+    "Bank of America® Customized Cash Rewards secured credit cardTap to Pay",
+    "Bank of America® Customized Cash Rewards secured credit card\nNo annual fee†",
+    "Bank of America® Customized Cash Rewards secured credit card\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Customized Cash Rewards secured credit card",
+    "Bank of America® Unlimited Cash Rewards secured credit cardNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards secured credit cardTap to Pay",
+    "Bank of America® Unlimited Cash Rewards secured credit card\nNo annual fee†",
+    "Bank of America® Unlimited Cash Rewards secured credit card\nTap to Pay",
+    "† Terms & Conditions \nfor Bank of America® Unlimited Cash Rewards secured credit card",
+    "BankAmericard® secured credit cardNo annual fee†",
+    "BankAmericard® secured credit cardTap to Pay",
+    "† Terms & Conditions for BankAmericard® secured credit card",
+    "Bank of America® Travel Rewards Visa® secured credit cardNo annual fee† and no foreign transaction fees†",
+    "Bank of America® Travel Rewards Visa® secured credit cardTap to Pay",
+    "† Terms & Conditions for Bank of America® Travel Rewards Visa® secured credit card",
+    "Atmos™ Rewards Ascent Visa Signature® Credit CardLow $95 annual fee† and no foreign transaction fees†",
+    "Atmos™ Rewards Ascent Visa Signature® Credit CardTap to Pay",
+    "† Terms & Conditions for Atmos™ Rewards Ascent Visa Signature® Credit Card",
+    "Atmos™ Rewards Summit Visa Infinite® Credit Card$395 annual fee† and no foreign transaction fees†",
+    "Atmos™ Rewards Summit Visa Infinite® Credit CardTap to Pay",
+    "† Terms & Conditions for Atmos™ Rewards Summit Visa Infinite® Credit Card",
+    "Royal ONE™ Visa Signature® Credit CardNo annual fee† and no foreign transaction fees†",
+    "Royal ONE™ Visa Signature® Credit CardTap to Pay",
+    "† Terms & Conditions for Royal ONE™ Visa Signature® Credit Card",
+    "Royal ONE Plus™ Visa Signature® Credit CardLow $99 annual fee† and no foreign transaction fees†",
+    "Royal ONE Plus™ Visa Signature® Credit CardTap to Pay",
+    "† Terms & Conditions for Royal ONE Plus™ Visa Signature® Credit Card",
+    "Susan G. Komen® Customized Cash Rewards credit cardNo annual fee†",
+    "Susan G. Komen® Customized Cash Rewards credit cardTap to Pay",
+    "Susan G. Komen® Customized Cash Rewards credit card\nNo annual fee†",
+    "Susan G. Komen® Customized Cash Rewards credit card\nTap to Pay",
+    "Choose which category you want to earn 6% cash back in – for the first year: gas and EV charging stations; online shopping, including cable, internet, phone plans and streaming; dining; travel; drug stores and pharmacies; or home improvement and furnishings. After the first year from account opening, you'll earn 3% cash back on purchases in your choice category.",
+    "† Terms & Conditions \nfor Susan G. Komen® Customized Cash Rewards credit card",
+    "Allways Rewards Visa® cardLow $59 annual fee† and no foreign transaction fees†",
+    "Allways Rewards Visa® cardTap to Pay",
+    "† Terms & Conditions for Allways Rewards Visa® card",
+    "Air France KLM Visa Signature® Credit CardLow $89 annual fee† and no foreign transaction fees†",
+    "Air France KLM Visa Signature® Credit CardTap to Pay",
+    "† Terms & Conditions for Air France KLM Visa Signature® Credit Card",
+    "Norwegian Cruise Line® World Mastercard®No annual fee† and no foreign transaction fees†",
+    "Norwegian Cruise Line® World Mastercard®Tap to Pay",
+    "† Terms & Conditions for Norwegian Cruise Line® World Mastercard®",
+    "Credit card rewards bonus: When you join BofA Rewards™, you can earn bonus rewards on the purchase you already make using eligible Bank of America® credit cards.",
+    "Learn more about the program, and see how to join. Visit BofA Rewards",
+    "Answer a few quick questions to see what offers are waiting for you.",
+    "It will only take a minute and won’t impact your credit score.",
+    "Choosing a credit card can be overwhelming. We’ve compiled some important considerations to help you pick the best credit card for you.",
+    "Get the most out of your credit card. Find out how you can take advantage of all the opportunities that may be available to you as a cardholder.",
+    "By following a few simple steps, you can help ensure you’re headed in the right direction when it comes to managing your credit card debt.",
+    "Better credit habits can lead to a better credit score. If you’re looking to improve your credit, check out some of our helpful tips.",
+    "Important Disclosures and Information",
+    "Merrill Lynch, Pierce, Fenner & Smith Incorporated (also referred to as “MLPF&S” or “Merrill”) makes available certain investment products sponsored, managed, distributed or provided by companies that are affiliates of Bank of America Corporation (“BofA Corp.”). MLPF&S is a registered broker-dealer, registered investment adviser, Member SIPC and a wholly owned subsidiary of BofA Corp.",
+    "Banking products are provided by Bank of America, N.A., and affiliated banks, Members FDIC and wholly owned subsidiaries of BofA Corp.",
+    "We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.",
+    "Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the DAA or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.",
+    "To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.",
+    "Bank of America, N.A. Member FDIC. Equal Housing Lender",
+    "© 2026 Bank of America Corporation. All Rights Reserved.",
+    "Patent: patents.bankofamerica.com",
+    "This feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us.\n\n\n Local Privacy Notices and Requirements\n\nThe Privacy Choices displayed are specific to  your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the  Opens in a new windowInstitutional Privacy and the  Opens in a new windowConsumer Privacy pages.\n\n\nMarketing Preferences\n\nTo manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our  Opens in a new windowPrivacy Page.\n\n\nCalifornia Residents\n\nTo learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our  Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection.",
+    "Bank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. \n \nBank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. \n \nHow to opt-out of sharing your information: \nWe offer two (2) methods for opting out:\n\n 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. \n 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests.  \n \nAn authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.",
+    "Bank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data.\n\nFor sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website.\n\nThis setting  blocks the collection and use of sensitive information. \n\nTo learn more about Children’s Privacy, see our  \nChildren's Privacy Page.",
+    "Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information.\n\nBy switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities.\n\nIf you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.\n\nAt any time, you may change your preference setting using the toggle bar.  Any manual adjustment will override previous settings."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Continue in English",
+      "href": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/#"
+    },
+    {
+      "label": "Go back to Spanish",
+      "href": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/#"
+    },
+    {
+      "label": "Compare",
+      "href": "https://www.bankofamerica.com/credit-cards/compare-credit-cards/"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079538~DY~en_US"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079538&productOfferCode=DY"
+    },
+    {
+      "label": "Learn More  about Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079538~DY~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079538&productOfferCode=DY"
+    },
+    {
+      "label": "Learn More  about Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079537~8H~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079537&productOfferCode=8H"
+    },
+    {
+      "label": "Learn More  about Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079537~8H~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Customized Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079537&productOfferCode=8H"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079262~G6~en_US"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079262&productOfferCode=G6"
+    },
+    {
+      "label": "Learn More  about Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079262~G6~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079262&productOfferCode=G6"
+    },
+    {
+      "label": "Learn More  about Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079261~2G~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079261&productOfferCode=2G"
+    },
+    {
+      "label": "Learn More  about Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079261~2G~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Unlimited Cash Rewards credit card",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079261&productOfferCode=2G"
+    },
+    {
+      "label": "Learn More  about BankAmericard® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079406~5Y~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079406&productOfferCode=5Y&locale=en_US"
+    },
+    {
+      "label": "Learn More  about BankAmericard® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079406~5Y~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079406&productOfferCode=5Y&locale=en_US"
+    },
+    {
+      "label": "Learn More  about BankAmericard® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079405~5F~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079405&productOfferCode=5F&locale=en_US"
+    },
+    {
+      "label": "Learn More  about BankAmericard® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079405~5F~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079405&productOfferCode=5F&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Travel Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079333~75~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079333&productOfferCode=75&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Travel Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079333~75~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079333&productOfferCode=75&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Travel Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079332~92~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079332&productOfferCode=92&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Travel Rewards credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079332~92~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Travel Rewards credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079332&productOfferCode=92&locale=en_US"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Premium Rewards® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079485~UN~en_US"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Premium Rewards® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079485&productOfferCode=UN&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Premium Rewards® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079485~UN~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Premium Rewards® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079485&productOfferCode=UN&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Premium Rewards® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079484~D9~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Premium Rewards® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079484&productOfferCode=D9&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Premium Rewards® credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079484~D9~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Premium Rewards® credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079484&productOfferCode=D9&locale=en_US"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Premium Rewards® Elite credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/?campaign=4079322~R9~en_US"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Premium Rewards® Elite credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079322&productOfferCode=R9&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Premium Rewards® Elite credit card",
+      "href": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/?campaign=4079322~R9~en_US"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Premium Rewards® Elite credit card",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079322&productOfferCode=R9&locale=en_US"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Customized Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Customized Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079543&productOfferCode=V7"
+    },
+    {
+      "label": "Learn More  about Bank of America® Customized Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Customized Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079543&productOfferCode=V7"
+    },
+    {
+      "label": "Learn More \nabout Bank of America® Unlimited Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/"
+    },
+    {
+      "label": "Apply Now \nfor Bank of America® Unlimited Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079267&productOfferCode=2A"
+    },
+    {
+      "label": "Learn More  about Bank of America® Unlimited Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/"
+    },
+    {
+      "label": "Apply Now  for Bank of America® Unlimited Cash Rewards credit card for Students",
+      "href": "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079267&productOfferCode=2A"
+    },
+    {
+      "label": "Learn More  about BankAmericard® Credit Card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/low-interest-student-credit-card/?campaign=4079408~42~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® Credit Card for Students",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079408&productOfferCode=42&locale=en_US"
+    },
+    {
+      "label": "Learn More  about BankAmericard® Credit Card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/low-interest-student-credit-card/?campaign=4079408~42~en_US"
+    },
+    {
+      "label": "Apply Now  for BankAmericard® Credit Card for Students",
+      "href": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079408&productOfferCode=42&locale=en_US"
+    },
+    {
+      "label": "Learn More  about Bank of America® Travel Rewards Credit Card for Students",
+      "href": "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/"
+    }
+  ],
+  "internal": [
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/#skip-to-h1",
+    "https://www.bankofamerica.com/",
+    "https://staticweb.bankofamerica.com/cavmwebbactouch/common/index.html#home?app=signon",
+    "https://www.bankofamerica.com/sitemap/hub/signin.go",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/es/",
+    "https://www.bankofamerica.com/contactus/contactus.go",
+    "https://www.bankofamerica.com/credit-cards/credit-card-account-information-faq/",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/loc.go",
+    "https://www.bankofamerica.com/credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/application-status-center/",
+    "https://secure.bankofamerica.com/secure-offers/public/customizedOffers/?subchannel=ECCSLC&request_locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/manage-your-credit-card-account/",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/credit-cards-to-build-credit/",
+    "https://www.bankofamerica.com/credit-cards/student-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/low-interest-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/point-rewards-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/travel-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/airline-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/credit-card-with-no-annual-fee/",
+    "https://www.bankofamerica.com/credit-cards/promo-rate-balance-transfers-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/promo-rate-purchases-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/no-foreign-transaction-fee-credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/compare-credit-cards/",
+    "https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=snr&flow=cards",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit",
+    "https://mynewcard2.bankofamerica.com/USCCapp/Ctl/entry?pid=padm_prefill&tk=21&to=16&cc=DM",
+    "https://www.bankofamerica.com/credit-cards/credit-card-agreements/",
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/#",
+    "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079538~DY~en_US",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079538&productoffercode=DY&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079538&productOfferCode=DY",
+    "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079537~8H~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079537&productoffercode=8H&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079537&productOfferCode=8H",
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079262~G6~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079262&productoffercode=G6&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079262&productOfferCode=G6",
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/?campaign=4079261~2G~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079261&productoffercode=2G&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079261&productOfferCode=2G",
+    "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079406~5Y~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079406&productoffercode=5Y&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079406&productOfferCode=5Y&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/?campaign=4079405~5F~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079405&productoffercode=5F&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079405&productOfferCode=5F&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079333~75~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079333&productoffercode=75&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079333&productOfferCode=75&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079332~92~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079332&productoffercode=92&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079332&productOfferCode=92&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079485~UN~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079485&productoffercode=UN&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079485&productOfferCode=UN&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079484~D9~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079484&productoffercode=D9&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079484&productOfferCode=D9&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/?campaign=4079322~R9~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079322&productoffercode=R9&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079322&productOfferCode=R9&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079543&productoffercode=V7&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079543&productOfferCode=V7",
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079267&productoffercode=2A&locale=en_US",
+    "https://www.bankofamerica.com/upac/#/get-started?campaignId=4079267&productOfferCode=2A",
+    "https://www.bankofamerica.com/credit-cards/products/low-interest-student-credit-card/?campaign=4079408~42~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079408&productoffercode=42&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079408&productOfferCode=42&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079335&productoffercode=A4&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079335&productOfferCode=A4&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079151&productoffercode=6S&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079151&productOfferCode=6S&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079271&productoffercode=Q3&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079271&productOfferCode=Q3&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/secured-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079410&productoffercode=SP&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079410&productOfferCode=SP&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079337&productoffercode=5S&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079337&productOfferCode=5S&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4080708&productoffercode=VG&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4080708&productOfferCode=VG&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4080259&productoffercode=86&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4080259&productOfferCode=86&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079822&productoffercode=F9&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079822&productOfferCode=F9&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079784&productoffercode=6T&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079784&productOfferCode=6T&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079144&productoffercode=WH&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079144&productOfferCode=WH&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079148&productoffercode=MP&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079148&productOfferCode=MP&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/?campaign=4079102~8S~en_US",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079102&productoffercode=8S&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079102&productOfferCode=8S&locale=en_US",
+    "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079074&productoffercode=9Y&locale=en_US",
+    "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079074&productOfferCode=9Y&locale=en_US",
+    "https://www.bankofamerica.com/BofARewards",
+    "https://secure.bankofamerica.com/secure-offers/public/customizedOffers?subchannel=ECCSHL&request_locale=en-us",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=choosing-a-credit-card",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=managing-credit-cards",
+    "https://bettermoneyhabits.bankofamerica.com/en/debt",
+    "https://bettermoneyhabits.bankofamerica.com/en/credit?subTopicId=credit-score",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=CARDCASHBK_ECBBA_A1000&comment=I%20am%20interested%20in%20a%20credit%20card%20that%20earns%20cash%20back",
+    "https://www.bankofamerica.com/?request_locale=en_US",
+    "https://www.bankofamerica.com/credit-cards",
+    "https://secure.bankofamerica.com/secure-offers/public/customizedOffers?subchannel=ECCSPF&request_locale=en-us",
+    "https://secure.bankofamerica.com/apply-credit-cards/public/application-status/",
+    "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/overview/?request_locale=en_US",
+    "https://www.bankofamerica.com/online-banking/sign-in/?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/accounts-cards/credit-debit-card-security.go?request_locale=en_US",
+    "https://www.bankofamerica.com/banking-information/assistance/credit-cards/credit-cards-assistance-overview.go?request_locale=en_US",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://www.bankofamerica.com/help/overview.go",
+    "https://www.bankofamerica.com/accessiblebanking/overview.go",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us",
+    "https://www.bankofamerica.com/information/personal/",
+    "https://careers.bankofamerica.com/",
+    "https://www.bankofamerica.com/security-center/online-privacy-notice/",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://www.bankofamerica.com/content/documents/privacy/Cookie_Guide_eng.pdf",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+  ],
+  "external": [
+    "https://www.sipc.org/",
+    "https://optout.aboutads.info/?c=2&lang=EN",
+    "https://www.networkadvertising.org/choices",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+      "alt": "Bank of America Logo",
+      "w": 300,
+      "h": 30,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_300x188.png",
+      "alt": "Bank of America® Cash Rewards Credit Card",
+      "w": 300,
+      "h": 189,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/bofa_ucr_fifa_8284155_e_300.png",
+      "alt": "",
+      "w": 300,
+      "h": 189,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/bofa_prmsigcm_255x158.png",
+      "alt": "Bank of America® Premium Rewards® Credit Card",
+      "w": 255,
+      "h": 161,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/prmeltcm_v_infinite_250px.png",
+      "alt": "",
+      "w": 250,
+      "h": 158,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_300x188.png",
+      "alt": "Bank of America® Cash Rewards Credit Card for Students",
+      "w": 300,
+      "h": 189,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/bofa_ucr_fifa_8284155_e_300.png",
+      "alt": "Bank of America® Unlimited Cash Rewards Credit Card for Students",
+      "w": 300,
+      "h": 189,
+      "srcset": ""
+    },
+    {
+      "src": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Instructional/en_US/creditcards/rfid_universal_instruction_symbol_k100.svg",
+      "alt": "",
+      "w": 213,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-secure-payments-bill-bofa_icon_prefrew2_blk-CSX5fd63dd0.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-banner-content-cc-module-optimized-dinner_party_BofARewards_2x-CSXfb2f66cd.jpg",
+      "alt": "",
+      "w": 525,
+      "h": 525,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-banner-content-cc-module-optimized-bofa_rewards_logo-CSX39c33592.png",
+      "alt": "",
+      "w": 150,
+      "h": 21,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-connect-with-cc-module-calendar_icon_black-CSX6500c792.svg",
+      "alt": "",
+      "w": 40,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bofa_icon_optout1_ko-CSX2fdcab0b.png",
+      "alt": "",
+      "w": 42,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+      "alt": "Bank of America Logo ",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www1.bac-assets.com//credit-cards/spa-assets/images/flagscape_red-72e2f860ce91a18efbf2.svg",
+    "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-icon-ehl-white-CSX189e8f4c.svg",
+    "https://cdn.cookielaw.org/logos/static/ot_close.svg"
+  ],
+  "inlineSvg": 21,
+  "forms": [
+    {
+      "action": "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "zipCodeGatingModalInput"
+        }
+      ]
+    }
+  ],
+  "videos": [],
+  "iframes": [
+    "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=consu959;cat=2016_004;ord=1;num=6395380821427.814;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3AView_Cards%3Bcash-back-credit-cards;ps=1;pcor=1743981039;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcash-back-credit-cards%2F?",
+    "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=1359940;type=consu959;cat=2016_004;ord=1;num=6395380821427.814;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3AView_Cards%3Bcash-back-credit-cards;ps=1;pcor=1743981039;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcash-back-credit-cards%2F?",
+    "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=consu959;cat=2016_0;ord=1;num=1945306726390.1301;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3AView_Cards%3Bcash-back-credit-cards;ps=1;pcor=235999067;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcash-back-credit-cards%2F?",
+    "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=1359940;type=consu959;cat=2016_0;ord=1;num=1945306726390.1301;npa=0;auiddc=2112632541.1782638429;u30=cards%3AProd%3AView_Cards%3Bcash-back-credit-cards;ps=1;pcor=235999067;pscdl=noapi;gtm=45fe42s0za200;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fcredit-cards%2Fcash-back-credit-cards%2F?",
+    "https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/",
+    "https://www.bankofamerica.com/gt-chat/?_language_code=en-us&_page_id=36532445&_customer_lob=co&_account_type=creditcards"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+    "alt": "Bank of America Logo"
+  },
+  "sections": [
+    {
+      "heading": "Cash Back Credit Cards",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Cash Back Credit Cards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Cash Back Credit Cards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Earn cash back on all your purchases with a cash rewards credit card from Bank o",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Earn cash back on all your purchases with a cash rewards credit card from Bank o",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Unavailable",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Bank of America® Customized Cash Rewards",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(100, 100, 100)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Rewards for every ambition",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Rewards for every ambition",
+      "bg": "rgb(245, 245, 245)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Rewards for every ambition",
+      "bg": "rgb(245, 245, 245)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Check for personalized credit card offers",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(107, 94, 81)",
+      "font": "roboto-regular, Arial, Helvetica, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Understanding credit is key to your financial health",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Understanding credit is key to your financial health",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Connect one on one with a credit card specialist",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "sans-serif"
+  }
+}

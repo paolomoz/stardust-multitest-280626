@@ -1,0 +1,770 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:20:35.901Z",
+    "waitMode": "medium",
+    "waitMs": 4907,
+    "httpStatus": 200
+  },
+  "slug": "auto-loans",
+  "url": "https://www.bankofamerica.com/auto-loans/",
+  "meta": {
+    "title": "Auto Loans & Car Financing from Bank of America",
+    "description": "Fast Application, Competitive Rates and Quick Decisions. Apply for a new or used car loan at Bank of America.",
+    "ogImage": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "ogTitle": "Auto Loans & Car Financing from Bank of America",
+    "themeColor": "#ffffff",
+    "favicon": "https://www.bankofamerica.com/auto-loans/spa-assets/images/assets-images-global-favicon-favicon-32x32-CSX704d6b21.png",
+    "appleTouchIcon": "https://www.bankofamerica.com/auto-loans/spa-assets/images/assets-images-global-favicon-apple-touch-icon-CSX889b28c.png"
+  },
+  "headings": [
+    {
+      "level": 4,
+      "text": "Get the Mobile Banking app"
+    },
+    {
+      "level": 3,
+      "text": "Get the mobile banking app"
+    },
+    {
+      "level": 4,
+      "text": "We've sent you a download link"
+    },
+    {
+      "level": 4,
+      "text": "We couldn't send the link"
+    },
+    {
+      "level": 1,
+      "text": "Auto Loans"
+    },
+    {
+      "level": 2,
+      "text": "Page unavailable. We're sorry, the Bank of America page you are trying to reach is temporarily unavailable. We apologize for the inconvenience."
+    },
+    {
+      "level": 2,
+      "text": "Lock in your rate today"
+    },
+    {
+      "level": 3,
+      "text": "Not ready to apply? Start a prequalification \nFootnote\n[2]"
+    },
+    {
+      "level": 3,
+      "text": "More terms available"
+    },
+    {
+      "level": 3,
+      "text": "Shop for a car and apply online"
+    },
+    {
+      "level": 3,
+      "text": "Financing is easier at authorized dealers"
+    },
+    {
+      "level": 2,
+      "text": "Estimate your monthly car payment"
+    },
+    {
+      "level": 3,
+      "text": "Enter loan amount and loan type"
+    },
+    {
+      "level": 3,
+      "text": "Calculate other finance terms"
+    },
+    {
+      "level": 3,
+      "text": "Whether you’re upgrading your ride or hitting the road in something new, BofA Rewards helps you with discounts \nFootnote\n[5] on auto loan interest rates."
+    },
+    {
+      "level": 4,
+      "text": "Member"
+    },
+    {
+      "level": 4,
+      "text": "Preferred Plus tier"
+    },
+    {
+      "level": 4,
+      "text": "Preferred Honors tier"
+    },
+    {
+      "level": 4,
+      "text": "Premier tier"
+    },
+    {
+      "level": 3,
+      "text": "Electric vehicle financing"
+    },
+    {
+      "level": 3,
+      "text": "Accessible vehicle loans"
+    },
+    {
+      "level": 3,
+      "text": "Small business vehicle loans"
+    },
+    {
+      "level": 2,
+      "text": "Learning center"
+    },
+    {
+      "level": 3,
+      "text": "How car loans work"
+    },
+    {
+      "level": 3,
+      "text": "Financing a car"
+    },
+    {
+      "level": 3,
+      "text": "When you're ready to go electric"
+    },
+    {
+      "level": 3,
+      "text": "FAQs"
+    },
+    {
+      "level": 2,
+      "text": "Connect with us"
+    },
+    {
+      "level": 3,
+      "text": "Auto Loans & Rates"
+    },
+    {
+      "level": 3,
+      "text": "Calculator"
+    },
+    {
+      "level": 3,
+      "text": "Auto Loan Basics"
+    },
+    {
+      "level": 3,
+      "text": "Manage Your Loan"
+    },
+    {
+      "level": 3,
+      "text": "Advertising Practices"
+    },
+    {
+      "level": 1,
+      "text": "Select Your State"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 2,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 3,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 3,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 3,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 4,
+      "text": "Your Privacy Choices"
+    },
+    {
+      "level": 4,
+      "text": "Local Privacy Notices and Requirements"
+    },
+    {
+      "level": 4,
+      "text": "Marketing Preferences"
+    },
+    {
+      "level": 4,
+      "text": "California Residents"
+    },
+    {
+      "level": 4,
+      "text": "California Notice of Right to Opt-Out from Sale/Sharing"
+    },
+    {
+      "level": 4,
+      "text": "Children's Privacy"
+    },
+    {
+      "level": 4,
+      "text": "Sharing and Selling of Personal Data"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    },
+    {
+      "level": 2,
+      "text": "Live chat Survey Chat"
+    }
+  ],
+  "body": [
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.",
+    "By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically.",
+    "Apple, the Apple logo, iPhone, iPad, Apple Watch and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.",
+    "Android is a trademark of Google Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd.",
+    "If you don't see an app for your device, you may still be able to access our mobile website by typing bankofamerica.com in your mobile web browser.",
+    "Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their polices.",
+    "Continue Go back to Bank of America",
+    "We sent an email with the download link to",
+    "We sent a text message with the download link to",
+    "Fast application. Fast credit decision. 30-day rate lock. \nFootnote\n[1]",
+    "Shop with confidence. In only minutes, see what you may be able to borrow with no credit score impact. Bank of America login required.*",
+    "*If you don't have a Bank of America login, you may apply for a loan. \nFootnote\n[3]",
+    "*If you don't have a Bank of America login, you may apply for a loan. \n        \n          Footnote\n        [3]",
+    "navigate toOur online application allows you to select term lengths of 48, 60 or 72 months; dependent on loan type and subject to collateral, terms and conditions. You can discuss other term lengths with your loan officer after your application is submitted.",
+    "View our navigate toBank of America auto loan eligibility requirements for information about minimum amounts financed, applicant eligibility and more.",
+    "Important note: If you're not currently enrolled in Online Banking, please visit a financial center or click to schedule an appointment to apply for your private party loan.",
+    "Important note about this calculator",
+    "Plug-in to the latest research, offers and financing terms.",
+    "Flexible financing terms for customers with disabilities or access needs.",
+    "Purchase cars, vans and light trucks to keep your business rolling.",
+    "A lower monthly payment doesn't always mean you're saving money",
+    "Find out what you should know before applying for financing",
+    "Bank of America offers streamlined auto financing for electric vehicles",
+    "We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.",
+    "Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the DAA or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.",
+    "To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs.",
+    "Bank of America, N.A. Member FDIC. Equal Housing Lender",
+    "© 2026 Bank of America Corporation. All rights reserved. Credit and collateral are subject to approval. Terms and conditions apply. This is not a commitment to lend. Programs, rates, terms and conditions are subject to change without notice.",
+    "Patent: patents.bankofamerica.com",
+    "Please tell us where you bank so we can give you accurate rate and fee information for your location.",
+    "This feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us.\n\n\n Local Privacy Notices and Requirements\n\nThe Privacy Choices displayed are specific to  your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the  Opens in a new windowInstitutional Privacy and the  Opens in a new windowConsumer Privacy pages.\n\n\nMarketing Preferences\n\nTo manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our  Opens in a new windowPrivacy Page.\n\n\nCalifornia Residents\n\nTo learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our  Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection.",
+    "Bank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. \n \nBank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. \n \nHow to opt-out of sharing your information: \nWe offer two (2) methods for opting out:\n\n 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. \n 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests.  \n \nAn authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.",
+    "Bank of America is committed to protecting children’s privacy and limiting the collection and use of minor’s data.\n\nFor sites where we offer products or content to persons under 18 years of age, the privacy settings are set to the highest level, limiting data collection to what is required to run our website.\n\nThis setting  blocks the collection and use of sensitive information. \n\nTo learn more about Children’s Privacy, see our  \nChildren's Privacy Page.",
+    "Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information.\n\nBy switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities.\n\nIf you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.\n\nAt any time, you may change your preference setting using the toggle bar.  Any manual adjustment will override previous settings."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Apply now",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Contact us",
+      "href": "javascript:void(0);"
+    },
+    {
+      "label": "Apply now for Auto loan",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Apply now for Auto loan",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Apply now\nfor Auto loan",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Get prequalified",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize-vlpq/v1/init?requesttype=VLPQ&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Learn more\nabout an auto prequalification with Bank of America.",
+      "href": "https://www.bankofamerica.com/auto-loans/auto-prequalification-experience/"
+    },
+    {
+      "label": "Get prequalified",
+      "href": "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize-vlpq/v1/init?requesttype=VLPQ&product=auto&source=1&channel=11"
+    },
+    {
+      "label": "Learn more about an auto prequalification with Bank of America.",
+      "href": "https://www.bankofamerica.com/auto-loans/auto-prequalification-experience/"
+    },
+    {
+      "label": "open\nMore terms available\ninformation tooltip layer",
+      "href": "https://www.bankofamerica.com/auto-loans/#"
+    },
+    {
+      "label": "Navigate to\nShop for your car\npage",
+      "href": "https://www.bankofamerica.com/auto-loans/shop-and-finance"
+    },
+    {
+      "label": "click to\nFind nearby dealers",
+      "href": "https://dealer-network.bankofamerica.com/"
+    },
+    {
+      "label": "Learn more about BofA Rewards\nLearn more about BofA Rewards",
+      "href": "https://info.bankofamerica.com/en/bofa-rewards"
+    },
+    {
+      "label": "Learn more about how loan works\nARTICLE\nHow car loans work\n\nA lower monthly payment doesn't always mean you're saving money",
+      "href": "https://www.bankofamerica.com/auto-loans/how-car-loans-work/"
+    },
+    {
+      "label": "Learn more about financing a car\nARTICLE\nFinancing a car\n\nFind out what you should know before applying for financing",
+      "href": "https://www.bankofamerica.com/auto-loans/financing-car/"
+    },
+    {
+      "label": "Learn more about Bank of America offers streamlined auto financing for electric vehicles\nARTICLE\nWhen you're ready to go electric\n\nBank of America offers streamlined auto financing for electric vehicles",
+      "href": "https://promotions.bankofamerica.com/autoloans/electricvehicleresources"
+    },
+    {
+      "label": "click to know about\nHow long does it take to get approved for an auto loan?",
+      "href": "https://www.bankofamerica.com/auto-loans/auto-loan-faq/#getting-a-car-loan__time-for-knowing-if-auto-loan-approved"
+    },
+    {
+      "label": "View all auto loan FAQs",
+      "href": "https://www.bankofamerica.com/auto-loans/auto-loan-faq/"
+    },
+    {
+      "label": "Schedule an appointment",
+      "href": "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=BBASBCRP15_ECBBA_A1000&comment=I%20want%20to%20talk%20about%20getting%20a%20car%20loan%20with%20Bank%20of%20America"
+    },
+    {
+      "label": "Find a location",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "open\nChange your state\nmodal layer",
+      "href": "https://www.bankofamerica.com/auto-loans/#"
+    },
+    {
+      "label": "Find an Authorized Dealer",
+      "href": "https://dealer-network.bankofamerica.com/"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "https://www.bankofamerica.com/auto-loans/#"
+    },
+    {
+      "label": "Share Your Feedback",
+      "href": "https://www.bankofamerica.com/auto-loans/#"
+    }
+  ],
+  "internal": [
+    "https://www.bankofamerica.com/auto-loans/#skip-to-h1",
+    "https://www.bankofamerica.com/online-banking/iphone-banking-app.go",
+    "https://www.bankofamerica.com/",
+    "https://staticweb.bankofamerica.com/cavmwebbactouch/common/index.html#home?app=signon",
+    "https://www.bankofamerica.com/sitemap/hub/signin.go",
+    "https://locators.bankofamerica.com/",
+    "https://www.bankofamerica.com/auto-loans/es",
+    "https://www.bankofamerica.com/customer-service/contact-us/auto-loans/?topicId=vehicle_oth_loans",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-faq/",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/",
+    "https://www.bankofamerica.com/auto-loans/",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-rates/",
+    "https://www.bankofamerica.com/auto-loans/disability-access-loans/",
+    "https://promotions.bankofamerica.com/autoloans/electricvehicleresources",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-calculator/",
+    "https://www.bankofamerica.com/auto-loans/how-car-loans-work/",
+    "https://www.bankofamerica.com/auto-loans/financing-car/",
+    "https://www.bankofamerica.com/auto-loans/buying-new-or-used-cars/",
+    "https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=VLSTATUS",
+    "https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=SNR&flow=AUTO",
+    "https://dealer-network.bankofamerica.com/",
+    "https://www.bankofamerica.com/myaccounts/brain/redirect.go?target=accountsoverview&source=secureautoLoan",
+    "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize/v1/init?requesttype=VL&product=auto&source=1&channel=11",
+    "https://secure.bankofamerica.com/secure-mycommunications/public/appointments/?marketingCode=BBASBCRP15_ECBBA_A1000&comment=I%20want%20to%20talk%20about%20getting%20a%20car%20loan%20with%20Bank%20of%20America",
+    "https://www.bankofamerica.com/auto-loans/#ftn_disclosures.manifests.salesonb.auto-loans.footnotes.30-day-rate-validity.html_content",
+    "https://www.bankofamerica.com/auto-loans/#",
+    "https://www.bankofamerica.com/auto-loans/#ftn_prequalAutoExperience_content",
+    "https://secure.bankofamerica.com/apply-now-services/auto-loans/initialize-vlpq/v1/init?requesttype=VLPQ&product=auto&source=1&channel=11",
+    "https://www.bankofamerica.com/auto-loans/auto-prequalification-experience/",
+    "https://www.bankofamerica.com/auto-loans/#ftn_prequalOnlyAvailableToCustomers_content",
+    "https://info.bankofamerica.com/en/bofa-rewards",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-faq/#car-loan-eligibility",
+    "https://www.bankofamerica.com/auto-loans/shop-and-finance",
+    "https://www.bankofamerica.com/auto-loans/#ftn_disclosures.manifests.salesonb.auto-loans.footnotes.auto-dealerships-disclaimer.html_content",
+    "https://www.bankofamerica.com/auto-loans/#ftn_dualInterestRateDiscount_content",
+    "https://www.bankofamerica.com/smallbusiness/business-financing/auto-loans/",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-faq/#getting-a-car-loan__time-for-knowing-if-auto-loan-approved",
+    "https://www.bankofamerica.com/auto-loans/#ftn_disclosures_manifests_salesonb_auto-loans_footnotes_30-day-rate-validity_html_link1_0",
+    "https://www.bankofamerica.com/auto-loans/auto-loan-faq/#prequalifying-for-an-auto-loan",
+    "https://www.bankofamerica.com/auto-loans/#ftn_prequalAutoExperience_link1_1",
+    "https://www.bankofamerica.com/auto-loans/#ftn_prequalOnlyAvailableToCustomers_link2_2",
+    "https://www.bankofamerica.com/auto-loans/#ftn_disclosures_manifests_salesonb_auto-loans_footnotes_auto-dealerships-disclaimer_html_link1_4",
+    "https://www.bankofamerica.com/auto-loans/#ftn_dualInterestRateDiscount_link1_5",
+    "https://www.bankofamerica.com/?request_locale=en_US",
+    "https://dealer-network.bankofamerica.com/rv-dealers/",
+    "https://www.bankofamerica.com/auto-loans/what-to-know-when-buying-car/",
+    "https://www.bankofamerica.com/auto-loans/car-buying-process/",
+    "https://locators.bankofamerica.com/locator/locator/LocatorAction.do",
+    "https://www.bankofamerica.com/contactus/contactus.go",
+    "https://www.bankofamerica.com/help/overview.go",
+    "https://www.bankofamerica.com/accessiblebanking/overview.go",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://www.bankofamerica.com/childrens-privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us",
+    "https://www.bankofamerica.com/information/personal/",
+    "https://careers.bankofamerica.com/",
+    "https://www.bankofamerica.com/security-center/online-privacy-notice/",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go",
+    "https://www.bankofamerica.com/help/equalhousing-popup/",
+    "https://patents.bankofamerica.com/",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+  ],
+  "external": [
+    "https://itunes.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8%27",
+    "https://itunes.apple.com/us/app/bank-of-america-mobile-banking/id284847138?mt=8",
+    "https://play.google.com/store/apps/details?id=com.infonow.bofa",
+    "https://optout.aboutads.info/?c=2&lang=EN",
+    "https://www.networkadvertising.org/choices",
+    "https://www.facebook.com/BankofAmerica",
+    "https://instagram.com/bankofamerica/",
+    "https://www.linkedin.com/company/bank-of-america",
+    "https://www.pinterest.com/bankofamerica/",
+    "https://x.com/BankofAmerica",
+    "https://www.youtube.com/user/bankofamerica",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "imgs": [
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-get-app-modal-Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-CSXd8fd3663.svg",
+      "alt": "Download the Bank of America App",
+      "w": 120,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-get-app-modal-google-play-badge-CSX89f9024.svg",
+      "alt": "Download the Bank of America App",
+      "w": 135,
+      "h": 40,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+      "alt": "Bank of America Logo",
+      "w": 300,
+      "h": 30,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-engagement-auto-module-purchase-header-large-2x-CSXf1eb3be2.webp",
+      "alt": "Engagement banner image",
+      "w": 1440,
+      "h": 340,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-get-prequalified-module-contract-icon-large-CSXeac9a2e2.png",
+      "alt": "",
+      "w": 595,
+      "h": 442,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-core_illus_car_in_computer_270-CSXa757004a.svg",
+      "alt": "",
+      "w": 270,
+      "h": 270,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-core_illus_car_in_computer_140-CSX698f4bfb.svg",
+      "alt": "",
+      "w": 140,
+      "h": 140,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-core_illus_car_in_computer_120-CSX5c68efc5.svg",
+      "alt": "",
+      "w": 120,
+      "h": 120,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-purchase-hand-and-key-large-CSX99d5e27e.svg",
+      "alt": "",
+      "w": 270,
+      "h": 270,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-purchase-hand-and-key-med-CSXd2a08d3d.svg",
+      "alt": "",
+      "w": 140,
+      "h": 140,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-two-column-with-image-module-purchase-hand-and-key-small-CSX7c1ec75b.svg",
+      "alt": "",
+      "w": 120,
+      "h": 120,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-preferred-rewards-module-CVL-FamilyImg_BofARewards-CSXbd568466.png",
+      "alt": "BOFA Rewards",
+      "w": 728,
+      "h": 644,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-jumbotron-2col-auto-module-bofa_icon_paperless2_186rgb-CSX5bd81ff1.svg",
+      "alt": "",
+      "w": 24,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-jumbotron-2col-auto-module-accessible-loans-icon-CSXe5157f04.svg",
+      "alt": "",
+      "w": 24,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-jumbotron-2col-auto-module-small-business-loans-icon-CSX305b81.svg",
+      "alt": "",
+      "w": 24,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-learning-center-module-purchase-learning-center-large-CSX20281fb7.webp",
+      "alt": "Lady with Laptop",
+      "w": 1442,
+      "h": 954,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-learning-center-module-Article-CSXf1334343.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-learning-center-module-Article-CSXf1334343.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-learning-center-module-Article-CSXf1334343.svg",
+      "alt": "",
+      "w": 150,
+      "h": 150,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-contact-us-auto-module-icon_calendar_red-CSX7c6b90ff.svg",
+      "alt": "",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-contact-us-auto-module-icon_location_red-CSXda85b236.svg",
+      "alt": "",
+      "w": 17,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-contact-us-auto-module-icon_contact_red-CSXe8a49adb.svg",
+      "alt": "",
+      "w": 24,
+      "h": 24,
+      "srcset": ""
+    },
+    {
+      "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-logos-bofa_icon_optout1_ko-CSX2fdcab0b.png",
+      "alt": "",
+      "w": 42,
+      "h": 22,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+      "alt": "Bank of America Logo ",
+      "w": 849,
+      "h": 84,
+      "srcset": ""
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "w": 568,
+      "h": 53,
+      "srcset": ""
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www1.bac-assets.com//auto-loans/spa-assets/images/flagscape_red-72e2f860ce91a18efbf2.svg",
+    "https://www1.bac-assets.com//auto-loans/spa-assets/images/error_icon-87ece5bb4ce5f24511b2.svg",
+    "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-sticky-cta-auto-module-callus_micro_icon-CSX8ccdf0f4.svg",
+    "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-site-auto-loans-sticky-cta-auto-module-oneonone_micro_icon-CSX62ec0874.svg",
+    "https://www1.bac-assets.com//auto-loans/spa-assets/images/msg-icon-sprite-fsd-9f165324f380003fca92.png",
+    "https://www1.bac-assets.com//auto-loans/spa-assets/images/bofa_dimpattern3_rgb_neutral_light-8f3b897f7255a5390ff2.svg",
+    "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-logos-icon-ehl-white-CSX189e8f4c.svg"
+  ],
+  "inlineSvg": 21,
+  "forms": [
+    {
+      "action": "https://www.bankofamerica.com/auto-loans/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": "getAppDeviceSelect"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/auto-loans/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/auto-loans/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "email",
+          "name": "emailAddressField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/auto-loans/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "text",
+          "name": "phoneNumberField"
+        }
+      ]
+    },
+    {
+      "action": "https://www.bankofamerica.com/auto-loans/",
+      "method": "get",
+      "fields": [
+        {
+          "type": "select-one",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "videos": [],
+  "iframes": [
+    "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=ddtlp125;cat=2017_00p;ord=1;num=2091699748747.2444;npa=0;auiddc=2112632541.1782638429;u30=DFS%3AProd%3AAuto%3Bauto-loans-financing;ps=1;pcor=2031032615;pscdl=noapi;gtm=45fe42s0za220;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fauto-loans%2F?",
+    "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=1359940;type=ddtlp125;cat=2017_00p;ord=1;num=2091699748747.2444;npa=0;auiddc=2112632541.1782638429;u30=DFS%3AProd%3AAuto%3Bauto-loans-financing;ps=1;pcor=2031032615;pscdl=noapi;gtm=45fe42s0za220;gcd=13l3l3l3l1;dma=0;uaa=x86;uab=64;uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;epver=2;~oref=https%3A%2F%2Fwww.bankofamerica.com%2Fauto-loans%2F?",
+    "https://www.bankofamerica.com/auto-loans/",
+    "https://www.bankofamerica.com/gt-chat/?_language_code=en-us&_page_id=36532365&_customer_lob=co&_account_type=null"
+  ],
+  "logo": {
+    "type": "img",
+    "src": "https://www1.bac-assets.com/auto-loans/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg",
+    "alt": "Bank of America Logo"
+  },
+  "sections": [
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Get the mobile banking app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Auto Loans",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Page unavailable. We're sorry, the Bank of America page you are trying to reach ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "roboto-regular",
+      "radius": "0px"
+    },
+    {
+      "heading": "Lock in your rate today",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Lock in your rate today",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Not ready to apply? Start a prequalification \nFootnote\n[2]",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    },
+    {
+      "heading": "Not ready to apply? Start a prequalification \nFootnote\n[2]",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "font": "roboto-regular, Arial, \"Helvetica Neue\", Helvetica, Roboto, sans-serif",
+      "radius": "0px"
+    }
+  ],
+  "palette": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "sans-serif"
+  }
+}
