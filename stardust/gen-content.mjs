@@ -133,10 +133,10 @@ function featureBand(eyebrow, h2, body, cta, ctaLabel, img) {
 }
 
 function articleBody(lede, sections, cta) {
-  let inner = `<div>${esc(lede)}</div>\n`;
-  sections.forEach(([h, body]) => { inner += `<div><h2>${esc(h)}</h2></div>\n<div>${esc(body)}</div>\n`; });
-  if (cta) inner += `<div><strong><a href="${cta[1]}">${esc(cta[0])}</a></strong></div>\n`;
-  return `<div>\n<div class="article-body">\n${inner}</div>\n</div>`;
+  let inner = `<p>${esc(lede)}</p>\n`;
+  sections.forEach(([h, body]) => { inner += `<h2>${esc(h)}</h2>\n<p>${esc(body)}</p>\n`; });
+  if (cta) inner += `<p><strong><a href="${cta[1]}">${esc(cta[0])}</a></strong></p>\n`;
+  return `<div>\n<div class="article-body">\n<div><div>\n${inner}</div></div>\n</div>\n</div>`;
 }
 
 function page(...blocks) {
