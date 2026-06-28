@@ -39,89 +39,89 @@
     {
       "slug": "home",
       "template": "home",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/home.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-at-home-coffee-whole-bean",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-at-home-coffee-whole-bean.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-bottled-beverages",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-bottled-beverages.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-cold-coffee",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-coffee.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-cold-tea",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-tea.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-frappuccino-blended-beverage",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-frappuccino-blended-beverage.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-hot-chocolate-lemonade-more",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-chocolate-lemonade-more.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-hot-coffee",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-coffee.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-hot-tea",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-tea.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-protein-beverages",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-protein-beverages.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-drinks-refreshers",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-drinks-refreshers.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
@@ -135,41 +135,41 @@
     {
       "slug": "menu-food-bakery",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-food-bakery.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-food-breakfast",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-food-breakfast.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-food-lunch",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-food-lunch.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-food-snacks",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-food-snacks.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "menu-food-treats",
       "template": "menu-category",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/menu-food-treats.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/menu-category-proposed.html",
       "migratedPath": null
     },
     {

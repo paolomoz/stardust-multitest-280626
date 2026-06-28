@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+_provenance:
+  writtenBy: impeccable craft (via stardust:prototype Phase 2) — template archetype
+  mode: A (brand-faithful); reuses home design canon
+  contentSource: stardust/current/pages/menu-drinks-hot-coffee.json (captured-verbatim)
+  imageSource: cloudassets.starbucks.com (product renditions, reused at semantic position)
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hot Coffee: Starbucks Coffee Company</title>
+<meta name="description" content="Check out Starbucks menu and get nutritional information about each menu item.">
+<link rel="icon" href="https://www.starbucks.com/weblx/images/icons/favicon-32x32.png">
+<style>
+:root{
+  --bg:#FFFFFF;--surface:#F7F0E4;--surface-deep:#1E3932;--ink:#1A1A1A;--ink-muted:#4A4A4A;
+  --green:#00754A;--green-dark:#006442;--gold:#CBA258;
+  --font:'SoDo Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  --radius:16px;--radius-pill:980px;--pad-section:56px;--maxw:1280px;
+  --shadow-card:0 6px 24px rgba(0,0,0,.10);--ease:cubic-bezier(.22,1,.36,1);--z-sticky:100;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:var(--font);color:var(--ink);background:var(--bg);line-height:1.5;font-size:17px}
+img{display:block;max-width:100%;height:auto}
+a{color:inherit}
+h1,h2,h3{text-wrap:balance;letter-spacing:-.02em;line-height:1.1;margin:0}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:24px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:var(--radius-pill);font-weight:600;font-size:1rem;padding:10px 22px;text-decoration:none;border:2px solid transparent;transition:background .2s,transform .2s}
+.btn-primary{background:var(--green);color:#fff}.btn-primary:hover{background:var(--green-dark);transform:translateY(-1px)}
+.site-header{position:sticky;top:0;z-index:var(--z-sticky);background:rgba(255,255,255,.96);backdrop-filter:blur(8px);border-bottom:1px solid #eee}
+.site-header .wrap{display:flex;align-items:center;gap:24px;height:68px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none}
+.brand svg{width:44px;height:44px}.brand b{font-size:1rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
+.main-nav{display:flex;gap:22px}.main-nav a{text-decoration:none;font-weight:700;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;padding:6px 2px;border-bottom:2px solid transparent}
+.main-nav a:hover{color:var(--green);border-bottom-color:var(--green)}
+.header-actions{margin-left:auto;display:flex;align-items:center;gap:14px}
+.header-actions a.link{text-decoration:none;font-weight:600;font-size:.9rem}.header-actions a.link:hover{color:var(--green)}
+.nav-burger{display:none;margin-left:auto;background:none;border:0;padding:8px;cursor:pointer}.nav-burger span{display:block;width:24px;height:2px;background:var(--ink);margin:5px 0}
+.cat-hero{background:var(--surface-deep);color:#fff}
+.cat-hero .wrap{padding-block:52px}
+.cat-hero .crumb{font-size:.85rem;color:rgba(255,255,255,.7);text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px}
+.cat-hero h1{font-size:clamp(2.2rem,5vw,3.4rem)}
+.cat-section{padding-block:var(--pad-section)}
+.cat-section h2{font-size:clamp(1.5rem,3vw,2rem);margin-bottom:24px}
+.product-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}
+.product{text-align:center;text-decoration:none;color:inherit}
+.product .ph{aspect-ratio:1/1;border-radius:50%;overflow:hidden;background:var(--surface);margin-bottom:14px;box-shadow:var(--shadow-card);transition:transform .25s var(--ease)}
+.product .ph img{width:100%;height:100%;object-fit:cover}
+.product:hover .ph{transform:translateY(-4px)}
+.product .name{font-weight:600;font-size:1rem}
+.site-footer{background:#0c0c0c;color:#cfcfcf;padding-block:56px 28px;font-size:.92rem}
+.footer-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:28px}
+.footer-cols h4{color:#fff;font-size:.86rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 14px}
+.footer-cols ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+.footer-cols a{color:#cfcfcf;text-decoration:none}.footer-cols a:hover{color:#fff;text-decoration:underline}
+.footer-legal{border-top:1px solid #2a2a2a;margin-top:40px;padding-top:22px;display:flex;flex-wrap:wrap;gap:8px 22px;font-size:.82rem;color:#9a9a9a}
+.footer-legal .copy{margin-left:auto}
+@media (max-width:900px){.product-grid{grid-template-columns:repeat(3,1fr)}.footer-cols{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){:root{--pad-section:40px}.main-nav,.header-actions{display:none}.nav-burger{display:block}.product-grid{grid-template-columns:1fr 1fr}.footer-cols{grid-template-columns:1fr}}
+</style>
+</head>
+<body class="session">
+<header class="site-header" data-section="header">
+  <div class="wrap">
+    <a class="brand" href="/starbucks" aria-label="Starbucks home">
+      <svg viewBox="0 0 62 62" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><circle cx="31" cy="31" r="30" fill="#00754A"/><circle cx="31" cy="31" r="24.5" fill="none" stroke="#fff" stroke-width="1.6"/><text x="31" y="38" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#fff">S</text></svg>
+      <b>Starbucks</b>
+    </a>
+    <nav class="main-nav" aria-label="Primary"><a href="/starbucks/menu">Menu</a><a href="/starbucks/rewards">Rewards</a><a href="/starbucks/gift">Gift Cards</a></nav>
+    <div class="header-actions"><a class="link" href="/starbucks/stores-and-ordering">Find a store</a><a class="link" href="/starbucks/account/signin">Sign in</a><a class="btn btn-primary" href="/starbucks/rewards">Join now</a></div>
+    <button class="nav-burger" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<main>
+<section class="cat-hero" data-section="category-hero">
+  <div class="wrap"><div class="crumb"><a href="/starbucks/menu" style="color:inherit">Menu</a> / Drinks</div><h1>Hot Coffee</h1></div>
+</section>
+<section class="cat-section" data-section="product-list">
+  <div class="wrap">
+    <h2>Brewed Coffee</h2>
+    <div class="product-grid">
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/Veranda_Blend_Hot?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Blonde Roast - Starbucks® Sunsera Blend"></div><div class="name">Blonde Roast</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/BrewedCoffee?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Medium Roast - Pike Place® Roast"></div><div class="name">Pike Place® Roast</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_DecafPikePlaceRoast?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Decaf Roast - Pike Place® Roast"></div><div class="name">Decaf Pike Place® Roast</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeMisto?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Caffè Misto"></div><div class="name">Caffè Misto</div></a>
+    </div>
+  </div>
+</section>
+<section class="cat-section" data-section="product-list" style="background:var(--surface)">
+  <div class="wrap">
+    <h2>Espresso Drinks</h2>
+    <div class="product-grid">
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeAmericano?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Caffè Americano"></div><div class="name">Caffè Americano</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/CaffeLatte?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Caffè Latte"></div><div class="name">Caffè Latte</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/PistachioLatte?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Pistachio Latte"></div><div class="name">Pistachio Latte</div></a>
+      <a class="product" href="/starbucks/menu"><div class="ph"><img src="https://cloudassets.starbucks.com/is/image/sbuxcorp/CinnamonDolceLatte?impolicy=1by1_tight_288&crop=495,495,1011,1011" alt="Cinnamon Dolce Latte"></div><div class="name">Cinnamon Dolce Latte</div></a>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer" data-section="footer">
+  <div class="wrap">
+    <div class="footer-cols">
+      <div><h4>About Us</h4><ul><li><a href="/starbucks/about-us">Our Company</a></li><li><a href="/starbucks/about-us">Our Coffee</a></li><li><a href="/starbucks/contact">Customer Service</a></li><li><a href="/starbucks/contact">Contact Us</a></li></ul></div>
+      <div><h4>Careers</h4><ul><li><a href="/starbucks/contact">Culture and Values</a></li><li><a href="/starbucks/contact">U.S. Careers</a></li></ul></div>
+      <div><h4>Social Impact</h4><ul><li><a href="/starbucks/about-us">Communities</a></li><li><a href="/starbucks/about-us">Sustainability</a></li></ul></div>
+      <div><h4>For Business Partners</h4><ul><li><a href="/starbucks/gift">Corporate Gift Cards</a></li><li><a href="/starbucks/contact">Suppliers</a></li></ul></div>
+      <div><h4>Order and Pick Up</h4><ul><li><a href="/starbucks/menu">Order on the Web</a></li><li><a href="/starbucks/stores-and-ordering">Delivery</a></li></ul></div>
+    </div>
+    <div class="footer-legal"><a href="/starbucks/contact">Privacy Notice</a><a href="/starbucks/contact">Terms of Use</a><a href="/starbucks/contact">Accessibility</a><span class="copy">© 2026 Starbucks Coffee Company. All rights reserved.</span></div>
+  </div>
+</footer>
+</body>
+</html>
