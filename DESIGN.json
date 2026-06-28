@@ -1,0 +1,75 @@
+{
+  "_provenance": { "writtenBy": "stardust:direct", "writtenAt": "2026-06-28T09:40:00Z", "stardustVersion": "0.13.1", "mode": "A-brand-faithful", "variantId": "A" },
+  "schemaVersion": 2,
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#f7f7f7",
+    "text": "#000000",
+    "muted": "#6b6b6b",
+    "primary": "#2189ff",
+    "primaryDark": "#1428a0",
+    "cta": "#000000",
+    "border": "#dcdcdc"
+  },
+  "typography": {
+    "headingFamily": "SamsungSharpSans, 'Helvetica Neue', Arial, sans-serif",
+    "bodyFamily": "SamsungOne, 'Helvetica Neue', Arial, sans-serif",
+    "headingWeights": [500, 700],
+    "bodyWeights": [400, 700],
+    "scaleRatio": 1.333
+  },
+  "rounded": "20px",
+  "spacing": { "base": 4, "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "components": ["button-primary", "button-secondary", "card", "link", "badge", "input"],
+  "extensions": {
+    "colorMeta": { "accent": "#2189ff", "ctaBg": "#000000", "ctaText": "#ffffff" },
+    "typographyMeta": { "displayClamp": "clamp(2rem, 5vw, 3.25rem)", "h2Clamp": "clamp(1.5rem, 3vw, 2.25rem)" },
+    "motion": {
+      "register": "kinetic-grid",
+      "registerRationale": "PRODUCT.md Brand Personality is product / modular-catalogue / transactional",
+      "easings": { "entrance": "cubic-bezier(0.16,1,0.3,1)", "transition": "cubic-bezier(0.4,0,0.2,1)" },
+      "durations": { "enter": 600, "stagger": 80 },
+      "parallax": { "translate": 6, "fade": 0.2, "rangeStart": 0, "range": 60 }
+    },
+    "componentStyle": {
+      "buttons": { "primary": { "bg": "#000000", "color": "#ffffff", "radius": "999px", "font": "SamsungOne 700" }, "secondary": { "color": "#2189ff", "style": "text-link" } },
+      "cards": { "radius": "20px", "surface": "#f7f7f7", "shadow": "none" },
+      "chip": { "radius": "50%" }
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "global nav (GNB): logo + category nav + utility", "position": "sticky-top" },
+      "footer": { "purpose": "product/support/account/corporate/legal links + locale", "position": "page-end" },
+      "cta-band": { "purpose": "full-width promo headline + one primary CTA", "position": "inline-section" },
+      "product-card-grid": { "purpose": "responsive scannable product catalog", "position": "inline-section" },
+      "category-tile-row": { "purpose": "shop-by-category orientation row", "position": "inline-section" }
+    },
+    "divergence": {
+      "mode": "A",
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "seed": { "ground_family": { "value": "stark-white", "override": "brand-faithful" } },
+      "brand_faithful_inversions": [
+        "Promote text-in-image to semantic headings (a11y/SEO)",
+        "Replace primary carousel with responsive product-card grid",
+        "Standardize CTA to one black primary pill + one text link per section"
+      ]
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "pages/home.json + category pages: pervasive Buy/Shop now CTAs and product grids", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "audience-routing", "evidence": "footer + GNB route to product / support / business / about tracks", "preserveAs": "global-nav", "scope": "site-wide", "mutability": "movable" }
+    ],
+    "voice": {
+      "examples": {
+        "do": ["Experience a whole new Galaxy", "Shop now", "Learn more →", "Built for the way you live"],
+        "dont": ["BUY NOW!!! LIMITED TIME", "uppercase paragraphs", "four different verbs for one action"]
+      },
+      "tone": "confident, aspirational, product-led, accessible-premium"
+    }
+  },
+  "narrative": {
+    "northStar": "Faithful, modernized Samsung US — same identity, real semantic headings, scannable card-grid catalog, one decisive CTA system.",
+    "rules": ["Mixed-case headlines (uppercase only for eyebrows/short CTAs)", "Legibility scrim under any text-on-photo", "One primary CTA per section"],
+    "dos": ["Use real headings over photography", "Black pill primary, blue text-link secondary", "20px rounded cards on f7f7f7"],
+    "donts": ["Bake copy into images", "Stack full-bleed promos with no rhythm", "Drop-shadow skeuomorphism"]
+  }
+}
