@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "skill": "stardust:extract",
+    "descriptive": true,
+    "at": "2026-06-28T09:29:27.461Z"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F7F0E4",
+    "text": "#000000",
+    "primary": "#00754A",
+    "primaryDark": "#006442",
+    "secondary": "#1E3932",
+    "accent": "#CBA258"
+  },
+  "typography": {
+    "heading": "SoDoSans, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "body": "SoDoSans, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+  },
+  "rounded": "lg",
+  "spacing": "generous",
+  "extensions": {
+    "componentStyle": {
+      "button": "pill",
+      "card": "rounded-16-soft-shadow"
+    },
+    "motifs": [
+      "pill-button",
+      "product-card",
+      "category-grid",
+      "hero-card",
+      "editorial-band"
+    ],
+    "voice": [
+      "It's a great day for coffee",
+      "Start an order",
+      "Join now",
+      "Find a store"
+    ]
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:27.850Z",
+    "waitMs": 11419,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.starbucks.com/"
+  },
+  "title": "Starbucks Coffee Company",
+  "description": "Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks® Rewards, manage your gift card and more.",
+  "ogImage": "/next_static/icons/summary_square.png",
+  "ogTitle": "Starbucks Coffee Company",
+  "themeColor": "#006341",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "This site uses cookies, but not the kind you eat"
+    },
+    {
+      "level": "h2",
+      "text": "It's a great day for coffee Start an order"
+    },
+    {
+      "level": "h1",
+      "text": "New: Blue coconut for a cause"
+    },
+    {
+      "level": "h2",
+      "text": "It’s Starbucks summer"
+    },
+    {
+      "level": "h2",
+      "text": "Bold, iced and deliciously classic"
+    },
+    {
+      "level": "h2",
+      "text": "Good energy in every sip"
+    },
+    {
+      "level": "h2",
+      "text": "One night with Myles Smith"
+    },
+    {
+      "level": "h2",
+      "text": "About Us"
+    },
+    {
+      "level": "h2",
+      "text": "About Us"
+    },
+    {
+      "level": "h2",
+      "text": "Careers"
+    },
+    {
+      "level": "h2",
+      "text": "Careers"
+    },
+    {
+      "level": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "level": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "level": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "level": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "level": "h2",
+      "text": "Order and Pick Up"
+    },
+    {
+      "level": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "sections": [
+    {
+      "tag": "header",
+      "cls": "sb-globalNav",
+      "text": "MENU\nREWARDS\nGIFT CARDS\nFind a store\nSign in\nJoin now",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "It's a great day for coffee Start an order",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "New: Blue coconut for a cause\nHelp support clean water access for people in need with the new Blue Coconut Lemonade Energy Refresher and Iced Blue Coconut Matcha.* Available for a limited time.\nOrder now",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "It’s Starbucks summer\nEnticing new flavors and returning favorites are here so you can savor the season to the very last drop. Experience new Tropical Butterfly Refreshers, reunite with Horchata and more.\nExplore the summer menu",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "Bold, iced and deliciously classic\nTry a cold-coffee favorite like Iced Brown Sugar Oatmilk Shaken Espresso, Toasted Coconut Cream Cold Brew or Vanilla Sweet Cream Cold Brew.\nOrder a cold coffee",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "Good energy in every sip\nHandcrafted with B vitamins and extra caffeine sourced from nature, our Energy Refreshers are here to quench your thirst and boost your afternoon.\nTry one now",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "One night with Myles Smith\nWin exclusive access to see singer-songwriter Myles Smith live at the Starbucks Reserve Roastery in NYC on August 14, 2026.**\nEnter sweepstakes",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "*For all modifications of Iced Blue Coconut Matcha and Blue Coconut Refresher purchased between June 16, 2026, and July 7, 2026, in participating U.S. stores and on the Starbucks® app, Starbucks will donate $0.25 to Water.org (www.water.org). This donation will be used to help provide lasting access to clean water and sanitation for people around the world, providing up to 195,000 people with access to clean water or sanitation through a maximum donation of $975,000.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "text": "**NO PURCHASE NECESSARY. Legal residents of the 50 U.S. (D.C.) 21 years or older. Ends 7/14/26. To enter and for Official Rules, including odds, and prize descriptions, visit MylesSmith.MarriottBonvoy.Starbucks.com. Void where prohibited.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "footer",
+      "cls": "py4 relative footer_footer__WFGdy",
+      "text": "About Us\nOur Company\nOur Coffee\nAbout Starbucks\nStarbucks Archive\nInvestor Relations\nCustomer Service\nContact Us\nCareers\nCulture and Values\nBelonging at Starbucks\nCollege Achievement Plan\nAlumni Community\nU.S. Careers\nInternational Careers\nSocial Impact\nCommunities\nStarbucks Foundation\nSustainability\nEnvironmental and Social Impact Reporting\nFor Business Partners\nLandlord Support Center\nSuppliers\nCorporate Gift Card Sales\nOffice and Foodservice Coffee\nOrder and Pick Up\nOrder on the App\nOrder on the Web\nDelivery\nOrder and Pick Up Options\nExplore and Find Coffee for Home\nPrivacy Notice\nConsumer Health Privacy Notice\nTerms of Use\nDo Not Sell or Share My Personal Information\nStarbucks Transparency in Supply Chains Statement\nAccessibility\nCookie Preferences\n© 2026 Starbucks Coffee Company. All rights reserved.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    }
+  ],
+  "body": [
+    "It's a great day for coffee Start an order"
+  ],
+  "ctas": [
+    {
+      "label": "Change cookie settings",
+      "href": null
+    },
+    {
+      "label": "Agree",
+      "href": null
+    },
+    {
+      "label": "Privacy Notice",
+      "href": "https://www.starbucks.com/terms/privacy-notice/"
+    },
+    {
+      "label": "Skip to main content",
+      "href": "https://www.starbucks.com/#primary-content"
+    },
+    {
+      "label": "MENU",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "REWARDS",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "GIFT CARDS",
+      "href": "https://www.starbucks.com/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": "https://www.starbucks.com/account/signin?ReturnUrl=%2F"
+    },
+    {
+      "label": "Join now",
+      "href": "https://www.starbucks.com/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "https://www.starbucks.com/gift"
+    },
+    {
+      "label": "Sign in",
+      "href": "https://www.starbucks.com/account/signin?ReturnUrl=%2F"
+    },
+    {
+      "label": "Join now",
+      "href": "https://www.starbucks.com/account/create"
+    },
+    {
+      "label": "Find a store",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "Account",
+      "href": null
+    },
+    {
+      "label": "Card management",
+      "href": "https://www.starbucks.com/account/cards"
+    },
+    {
+      "label": "My Rewards",
+      "href": "https://www.starbucks.com/rewards/my-rewards"
+    },
+    {
+      "label": "History",
+      "href": "https://www.starbucks.com/account/history"
+    },
+    {
+      "label": "Personal info",
+      "href": "https://www.starbucks.com/account/personal"
+    },
+    {
+      "label": "Payment methods",
+      "href": "https://www.starbucks.com/account/payment-method"
+    },
+    {
+      "label": "Privacy and data",
+      "href": "https://www.starbucks.com/account/settings/privacy"
+    },
+    {
+      "label": "Settings",
+      "href": "https://www.starbucks.com/account/settings"
+    },
+    {
+      "label": "Sign out",
+      "href": "https://www.starbucks.com/account/signout?ReturnUrl=%2F"
+    },
+    {
+      "label": "Start an order",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Order now",
+      "href": "https://www.starbucks.com/menu/featured/"
+    },
+    {
+      "label": "Explore the summer menu",
+      "href": "https://www.starbucks.com/menu/featured/"
+    },
+    {
+      "label": "Order a cold coffee",
+      "href": "https://www.starbucks.com/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Try one now",
+      "href": "https://www.starbucks.com/menu/drinks/refreshers/energy-refreshers/"
+    },
+    {
+      "label": "Enter sweepstakes",
+      "href": "https://mylessmith.marriottbonvoy.starbucks.com/"
+    },
+    {
+      "label": "www.water.org",
+      "href": "https://water.org/"
+    },
+    {
+      "label": "MylesSmith.MarriottBonvoy.Starbucks.com",
+      "href": "https://mylessmith.marriottbonvoy.starbucks.com/"
+    },
+    {
+      "label": "About Us",
+      "href": null
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com/"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com/"
+    },
+    {
+      "label": "Customer Service",
+      "href": "https://customerservice.starbucks.com/"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.starbucks.com/contact/"
+    },
+    {
+      "label": "Careers",
+      "href": null
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    },
+    {
+      "label": "International Careers",
+      "href": "https://careers.starbucks.com/discover-opportunities/international-careers/"
+    },
+    {
+      "label": "Culture and Values",
+      "href": "https://careers.starbucks.com/culture/"
+    },
+    {
+      "label": "Belonging at Starbucks",
+      "href": "https://about.starbucks.com/belonging-at-starbucks/"
+    },
+    {
+      "label": "College Achievement Plan",
+      "href": "https://careers.starbucks.com/benefits/education/"
+    },
+    {
+      "label": "Alumni Community",
+      "href": "https://alumni.starbucks.com/"
+    },
+    {
+      "label": "U.S. Careers",
+      "href": "https://careers.starbucks.com/"
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/#primary-content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/signin?ReturnUrl=%2F",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/account/signout?ReturnUrl=%2F",
+    "https://www.starbucks.com/menu/featured/",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/refreshers/energy-refreshers/",
+    "https://mylessmith.marriottbonvoy.starbucks.com/",
+    "https://water.org/",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/"
+  ],
+  "imgs": [
+    {
+      "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108864.jpg",
+      "alt": "An iced blue drink next to an iced matcha with light-blue cold foam on a light-gray surface. Blue script that reads “Get Blue” sits above the drinks.",
+      "w": 1440,
+      "h": 840
+    },
+    {
+      "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108640.jpg",
+      "alt": "Three pink, purple and orange layered drinks, an iced coffee with milk and a blended drink with whipped cream in glassware on a sun-drenched table outside.",
+      "w": 1440,
+      "h": 840
+    },
+    {
+      "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108405.jpg",
+      "alt": "Three cold coffee drinks in glasses on a café table by a window.",
+      "w": 1440,
+      "h": 840
+    },
+    {
+      "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108664.jpg",
+      "alt": "A Mango Dragonfruit Lemonade Energy Refresher and a Strawberry Açaí Energy Refresher on a café table.",
+      "w": 1440,
+      "h": 840
+    },
+    {
+      "src": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-109052.jpg",
+      "alt": "The top half of a person looking outward in front of a round spotlight glow.",
+      "w": 1440,
+      "h": 840
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "SoDoSans",
+    "SodoSans_Normal"
+  ],
+  "palette": [
+    {
+      "color": "rgba(0, 0, 0, 0.87)",
+      "count": 337
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "count": 77
+    },
+    {
+      "color": "rgba(0, 0, 0, 0.58)",
+      "count": 53
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 36
+    },
+    {
+      "color": "rgb(0, 98, 66)",
+      "count": 4
+    },
+    {
+      "color": "rgb(0, 99, 66)",
+      "count": 4
+    },
+    {
+      "color": "rgb(0, 130, 72)",
+      "count": 3
+    },
+    {
+      "color": "rgb(0, 117, 74)",
+      "count": 2
+    },
+    {
+      "color": "rgb(128, 128, 128)",
+      "count": 2
+    },
+    {
+      "color": "rgb(50, 70, 47)",
+      "count": 2
+    },
+    {
+      "color": "rgb(249, 249, 249)",
+      "count": 1
+    }
+  ],
+  "logo": "<svg aria-hidden=\"true\" focusable=\"false\" height=\"100%\" viewBox=\"0 0 62 62\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle class=\"logo__circle\" cx=\"31\" cy=\"31\" fill=\"#ffffff\" r=\"30.002\"></circle><path d=\"M34.017 13.969c-.263-.047-1.531-.26-3.017-.26s-2.754.212-3.017.26c-.151.027-.209-.121-.094-.207.104-.077 3.11-2.365 3.11-2.365l3.109 2.365c.117.086.06.234-.091.207zm-5.194 14.856s-.159.057-.201.197c.63.484 1.064 1.585 2.378 1.585s1.748-1.101 2.377-1.585c-.041-.141-.2-.197-.2-.197s-.823.194-2.177.194-2.177-.194-2.177-.194zm2.177-1.853c-.365 0-.445-.138-.694-.137-.237.001-.697.19-.797.363.007.088.039.167.103.237.532.08.772.376 1.389.376s.856-.296 1.389-.376c.062-.07.096-.148.103-.237-.099-.173-.56-.361-.798-.363-.25-.002-.331.137-.695.137zm29.956 5.673c-.038.717-.102 1.428-.19 2.131-3.396.562-4.61-2.464-8.089-2.312.208.738.377 1.49.507 2.258 2.869-.002 4.025 2.68 7.217 2.285-.168.82-.37 1.629-.603 2.426-2.524.248-3.413-2.26-6.334-2.191.024.416.037.836.037 1.26l-.012.701 5.672 2.164c-.297.807-.629 1.596-.991 2.369-1.705-.094-2.293-2.281-4.887-2.107-.078.561-.177 1.115-.295 1.662 2.253-.158 2.738 1.916 4.352 2.084-.411.75-.854 1.48-1.325 2.191-.956-.512-1.785-2.057-3.598-2.152.186-.574.349-1.156.487-1.748-1.608 0-3.447-.627-4.989-2.031.5-2.846-3.917-5.744-3.917-7.828 0-2.264 1.145-3.517 1.145-6.569 0-2.265-1.1-4.722-2.759-6.401-.321-.326-.65-.59-1.028-.827 1.524 1.886 2.694 4.122 2.694 6.712 0 2.874-1.337 4.391-1.337 7.044 0 2.652 3.88 4.947 3.88 7.682 0 1.076-.344 2.127-1.478 4.191 1.742 1.74 4.011 2.689 5.475 2.689.475 0 .73-.145.9-.518.146-.322.285-.648.416-.977 1.577.061 2.299 1.494 3.172 2.066-.479.643-.982 1.264-1.509 1.865-.585-.648-1.371-1.738-2.522-2.041-.206.4-.424.795-.653 1.182.991.27 1.669 1.27 2.194 1.928-.566.586-1.155 1.148-1.768 1.688-.383-.596-.979-1.352-1.647-1.76-.247.334-.504.66-.769.977.568.385 1.069 1.078 1.396 1.643-.708.568-1.44 1.107-2.198 1.611-.374-3.047-4.533-5.135-3.412-8.67-.368.623-.807 1.402-.807 2.34 0 2.559 2.726 4.59 2.943 7.133-.565.338-1.143.656-1.732.957-.098-2.795-2.984-5.854-2.984-8.148 0-2.561 3.354-5.133 3.354-8.156 0-3.025-3.87-5.119-3.87-7.775 0-2.654 1.646-4.181 1.646-7.583 0-2.492-1.184-5.014-3.013-6.625-.324-.286-.643-.513-1.026-.712 1.725 2.069 2.725 3.946 2.725 6.794 0 3.199-1.886 4.975-1.886 8.107 0 3.133 3.798 4.875 3.798 7.795s-3.535 5.381-3.535 8.381c0 2.729 3.116 5.453 3.162 8.691-.681.297-1.375.568-2.081.814.396-3.271-3.111-6.645-3.111-9.314 0-2.918 3.667-5.426 3.667-8.572 0-3.148-3.728-4.611-3.728-7.842 0-3.229 2.287-5.017 2.287-8.585 0-2.781-1.373-5.282-3.379-6.832l-.127-.096c-.189-.14-.345.029-.211.195 1.42 1.773 2.179 3.566 2.179 6.221 0 3.264-2.627 5.916-2.627 9.078 0 3.732 3.528 4.799 3.528 7.861 0 3.061-3.783 5.51-3.783 8.76 0 3.014 3.58 6.359 2.966 9.838-.718.186-1.446.348-2.185.48.672-4.332-2.84-7.443-2.84-10.277 0-3.068 3.918-5.803 3.918-8.801 0-2.828-2.812-3.752-3.182-6.645-.051-.395-.368-.688-.805-.615-.571.104-1.303.48-2.453.48s-1.882-.377-2.454-.48c-.436-.072-.753.221-.804.615-.369 2.893-3.183 3.816-3.183 6.645 0 2.998 3.919 5.732 3.919 8.801 0 2.834-3.512 5.945-2.841 10.277-.738-.133-1.467-.295-2.185-.48-.614-3.479 2.967-6.824 2.967-9.838 0-3.25-3.784-5.699-3.784-8.76 0-3.062 3.529-4.129 3.529-7.861 0-3.162-2.628-5.813-2.628-9.078 0-2.654.759-4.447 2.18-6.221.133-.166-.022-.335-.212-.195l-.126.096c-2.004 1.546-3.376 4.047-3.376 6.828 0 3.568 2.287 5.356 2.287 8.585 0 3.23-3.728 4.693-3.728 7.842 0 3.146 3.667 5.654 3.667 8.572 0 2.67-3.507 6.043-3.11 9.314-.707-.246-1.401-.518-2.082-.814.047-3.238 3.161-5.963 3.161-8.691 0-3-3.533-5.461-3.533-8.381s3.796-4.662 3.796-7.795c0-3.132-1.885-4.908-1.885-8.107 0-2.848.999-4.725 2.724-6.794-.384.199-.702.426-1.025.712-1.829 1.611-3.012 4.133-3.012 6.625 0 3.402 1.646 4.929 1.646 7.583 0 2.656-3.87 4.75-3.87 7.775 0 3.023 3.354 5.596 3.354 8.156 0 2.295-2.888 5.354-2.985 8.148-.589-.301-1.167-.619-1.732-.957.218-2.543 2.943-4.574 2.943-7.133 0-.938-.438-1.717-.807-2.34 1.121 3.535-3.038 5.623-3.412 8.67-.758-.5",
+  "favicon": "https://www.starbucks.com/favicon-16x16.png",
+  "appleIcon": "https://www.starbucks.com/apple-touch-icon.png",
+  "hasVideo": false,
+  "hasCanvas": false,
+  "h1count": 1
+}

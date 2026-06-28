@@ -1,0 +1,614 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:23:22.194Z",
+    "waitMs": 11320,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more"
+  },
+  "title": "Hot Chocolate, Lemonade & More: Starbucks Coffee Company",
+  "description": "Check out Starbucks menu and get nutritional information about each menu item.",
+  "ogImage": "https://www.starbucks.com/weblx/images/social/summary_square.png",
+  "ogTitle": "Starbucks®",
+  "themeColor": "#006341",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Hot Chocolate, Lemonade & More"
+    },
+    {
+      "level": "h2",
+      "text": "Hot Chocolate"
+    },
+    {
+      "level": "h2",
+      "text": "Lemonade"
+    },
+    {
+      "level": "h2",
+      "text": "Milk & Steamers"
+    },
+    {
+      "level": "h2",
+      "text": "About Us"
+    },
+    {
+      "level": "h2",
+      "text": "About Us"
+    },
+    {
+      "level": "h2",
+      "text": "Careers"
+    },
+    {
+      "level": "h2",
+      "text": "Careers"
+    },
+    {
+      "level": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "level": "h2",
+      "text": "Social Impact"
+    },
+    {
+      "level": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "level": "h2",
+      "text": "For Business Partners"
+    },
+    {
+      "level": "h2",
+      "text": "Order and Pick Up"
+    },
+    {
+      "level": "h2",
+      "text": "Order and Pick Up"
+    }
+  ],
+  "sections": [
+    {
+      "tag": "header",
+      "cls": "sb-globalNav globalNav___rVvlM",
+      "text": "MENU\nREWARDS\nGIFT CARDS\nFind a store\nSign in\nJoin now",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "sb-global-gutters sb-global-gutters--logoOffset sb-global-subnav-containerLight globalSubnav___a1RiG",
+      "text": "Menu\nFeatured\nPrevious\nFavorites",
+      "bg": "rgb(249, 249, 249)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "div",
+      "cls": "lg-flex menuWithSideNav___izNx1",
+      "text": "The Latest\nTrending\nEnergy Refreshers\nDrinks\nProtein Beverages\nHot Coffee\nCold Coffee\nMatcha\nHot Tea\nCold Tea\nRefreshers\nFrappuccino® Blended Beverage\nHot Chocolate, Lemonade & More\nBottled Beverages\nFood\nBreakfast\nBakery\nTreats\nLunch\nLite Bites\nAt Home Coffee\nWhole Bean\nStarbucks VIA® Instant\nShopping Bag\nMenu /\nHot Chocolate, Lemonade & More\nHot Chocolate, Lemonade & More\nHot Chocolate\nHot Chocolate\nHot Chocolate\nLemonade\nLemonade\nLemonade\nBlended Strawberry Lemonade\nBlended Strawberry Lemonade\nMilk & Steamers\nCold Milk\nCold Milk\nSteamed Milk\nSteamed Milk\nVanilla Crème\nVanilla Crème\nPistachio Crème\nPistachio Crème",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "section",
+      "cls": "pb4 lg-pb6 ",
+      "text": "Hot Chocolate\nHot Chocolate\nHot Chocolate",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "section",
+      "cls": "pb4 lg-pb6 ",
+      "text": "Lemonade\nLemonade\nLemonade\nBlended Strawberry Lemonade\nBlended Strawberry Lemonade",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "section",
+      "cls": "pb4 lg-pb6 ",
+      "text": "Milk & Steamers\nCold Milk\nCold Milk\nSteamed Milk\nSteamed Milk\nVanilla Crème\nVanilla Crème\nPistachio Crème\nPistachio Crème",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    },
+    {
+      "tag": "footer",
+      "cls": "bg-white lg-pt7 footer___U8D9C frapPaddingDouble",
+      "text": "About Us\nOur Company\nOur Coffee\nAbout Starbucks\nStarbucks Archive\nInvestor Relations\nCustomer Service\nContact Us\nCareers\nCulture and Values\nBelonging at Starbucks\nCollege Achievement Plan\nAlumni Community\nU.S. Careers\nInternational Careers\nSocial Impact\nCommunities\nStarbucks Foundation\nSustainability\nEnvironmental and Social Impact Reporting\nFor Business Partners\nLandlord Support Center\nSuppliers\nCorporate Gift Card Sales\nOffice and Foodservice Coffee\nOrder and Pick Up\nOrder on the App\nOrder on the Web\nDelivery\nOrder and Pick Up Options\nExplore and Find Coffee for Home\nPrivacy Notice\nConsumer Health Privacy Notice\nTerms of Use\nDo Not Sell or Share My Personal Information\nStarbucks Transparency in Supply Chains Statement\nAccessibility\nCookie Preferences\n© 2026 Starbucks Coffee Company. All rights reserved.",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgba(0, 0, 0, 0.87)",
+      "font": "SoDoSans"
+    }
+  ],
+  "body": [
+    "The Latest\nTrending\nEnergy Refreshers",
+    "Drinks\nProtein Beverages\nHot Coffee\nCold Coffee\nMatcha\nHot Tea\nCold Tea\nRefreshers\nFrappuccino® Blended Beverage\nHot Chocolate, Lemonade & More\nBottled Beverages",
+    "Frappuccino® Blended Beverage",
+    "Hot Chocolate, Lemonade & More",
+    "Food\nBreakfast\nBakery\nTreats\nLunch\nLite Bites",
+    "At Home Coffee\nWhole Bean\nStarbucks VIA® Instant\nShopping Bag",
+    "Starbucks VIA® Instant",
+    "Hot Chocolate, Lemonade & More",
+    "Hot Chocolate\nHot Chocolate",
+    "Blended Strawberry Lemonade\nBlended Strawberry Lemonade",
+    "Steamed Milk\nSteamed Milk",
+    "Vanilla Crème\nVanilla Crème",
+    "Pistachio Crème\nPistachio Crème"
+  ],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more#content"
+    },
+    {
+      "label": "MENU",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "REWARDS",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "GIFT CARDS",
+      "href": "https://www.starbucks.com/gift"
+    },
+    {
+      "label": "Find a store",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "https://www.starbucks.com/account/create"
+    },
+    {
+      "label": "Menu",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Rewards",
+      "href": "https://www.starbucks.com/rewards"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "https://www.starbucks.com/gift"
+    },
+    {
+      "label": "Sign in",
+      "href": null
+    },
+    {
+      "label": "Join now",
+      "href": "https://www.starbucks.com/account/create"
+    },
+    {
+      "label": "Find a store",
+      "href": "https://www.starbucks.com/store-locator"
+    },
+    {
+      "label": "Account",
+      "href": null
+    },
+    {
+      "label": "Card management",
+      "href": "https://www.starbucks.com/account/cards"
+    },
+    {
+      "label": "My Rewards",
+      "href": "https://www.starbucks.com/rewards/my-rewards"
+    },
+    {
+      "label": "History",
+      "href": "https://www.starbucks.com/account/history"
+    },
+    {
+      "label": "Personal info",
+      "href": "https://www.starbucks.com/account/personal"
+    },
+    {
+      "label": "Payment methods",
+      "href": "https://www.starbucks.com/account/payment-method"
+    },
+    {
+      "label": "Privacy and data",
+      "href": "https://www.starbucks.com/account/settings/privacy"
+    },
+    {
+      "label": "Settings",
+      "href": "https://www.starbucks.com/account/settings"
+    },
+    {
+      "label": "Sign out",
+      "href": null
+    },
+    {
+      "label": "Menu",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Featured",
+      "href": "https://www.starbucks.com/menu/featured"
+    },
+    {
+      "label": "Previous",
+      "href": "https://www.starbucks.com/menu/previous"
+    },
+    {
+      "label": "Favorites",
+      "href": "https://www.starbucks.com/menu/favorites"
+    },
+    {
+      "label": "Trending",
+      "href": "https://www.starbucks.com/menu/the-latest/trending"
+    },
+    {
+      "label": "Energy Refreshers",
+      "href": "https://www.starbucks.com/menu/the-latest/energy-refreshers"
+    },
+    {
+      "label": "Protein Beverages",
+      "href": "https://www.starbucks.com/menu/drinks/protein-beverages"
+    },
+    {
+      "label": "Hot Coffee",
+      "href": "https://www.starbucks.com/menu/drinks/hot-coffee"
+    },
+    {
+      "label": "Cold Coffee",
+      "href": "https://www.starbucks.com/menu/drinks/cold-coffee"
+    },
+    {
+      "label": "Matcha",
+      "href": "https://www.starbucks.com/menu/drinks/matcha"
+    },
+    {
+      "label": "Hot Tea",
+      "href": "https://www.starbucks.com/menu/drinks/hot-tea"
+    },
+    {
+      "label": "Cold Tea",
+      "href": "https://www.starbucks.com/menu/drinks/cold-tea"
+    },
+    {
+      "label": "Refreshers",
+      "href": "https://www.starbucks.com/menu/drinks/refreshers"
+    },
+    {
+      "label": "Frappuccino® Blended Beverage",
+      "href": "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage"
+    },
+    {
+      "label": "Hot Chocolate, Lemonade & More",
+      "href": "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more"
+    },
+    {
+      "label": "Bottled Beverages",
+      "href": "https://www.starbucks.com/menu/drinks/bottled-beverages"
+    },
+    {
+      "label": "Breakfast",
+      "href": "https://www.starbucks.com/menu/food/breakfast"
+    },
+    {
+      "label": "Bakery",
+      "href": "https://www.starbucks.com/menu/food/bakery"
+    },
+    {
+      "label": "Treats",
+      "href": "https://www.starbucks.com/menu/food/treats"
+    },
+    {
+      "label": "Lunch",
+      "href": "https://www.starbucks.com/menu/food/lunch"
+    },
+    {
+      "label": "Lite Bites",
+      "href": "https://www.starbucks.com/menu/food/lite-bites"
+    },
+    {
+      "label": "Whole Bean",
+      "href": "https://www.starbucks.com/menu/at-home-coffee/whole-bean"
+    },
+    {
+      "label": "Starbucks VIA® Instant",
+      "href": "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant"
+    },
+    {
+      "label": "Shopping Bag",
+      "href": "https://www.starbucks.com/menu/at-home-coffee/shopping-bag"
+    },
+    {
+      "label": "Menu",
+      "href": "https://www.starbucks.com/menu"
+    },
+    {
+      "label": "Hot Chocolate",
+      "href": "https://www.starbucks.com/menu/product/471/hot"
+    },
+    {
+      "label": "Lemonade",
+      "href": "https://www.starbucks.com/menu/product/873068639/iced"
+    },
+    {
+      "label": "Blended Strawberry Lemonade",
+      "href": "https://www.starbucks.com/menu/product/873068641/iced"
+    },
+    {
+      "label": "Cold Milk",
+      "href": "https://www.starbucks.com/menu/product/490/iced"
+    },
+    {
+      "label": "Steamed Milk",
+      "href": "https://www.starbucks.com/menu/product/747/hot"
+    },
+    {
+      "label": "Vanilla Crème",
+      "href": "https://www.starbucks.com/menu/product/873068652/hot"
+    },
+    {
+      "label": "Pistachio Crème",
+      "href": "https://www.starbucks.com/menu/product/2123366/hot"
+    },
+    {
+      "label": "About Us",
+      "href": null
+    },
+    {
+      "label": "Our Company",
+      "href": "https://www.starbucks.com/about-us/"
+    },
+    {
+      "label": "Our Coffee",
+      "href": "https://about.starbucks.com/stories/category/coffee-products/coffee/"
+    },
+    {
+      "label": "About Starbucks",
+      "href": "https://about.starbucks.com/"
+    },
+    {
+      "label": "Starbucks Archive",
+      "href": "https://archive.starbucks.com/"
+    },
+    {
+      "label": "Investor Relations",
+      "href": "https://investor.starbucks.com/"
+    }
+  ],
+  "links": [
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more#content",
+    "https://www.starbucks.com/",
+    "https://www.starbucks.com/menu",
+    "https://www.starbucks.com/rewards",
+    "https://www.starbucks.com/gift",
+    "https://www.starbucks.com/store-locator",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/account/cards",
+    "https://www.starbucks.com/rewards/my-rewards",
+    "https://www.starbucks.com/account/history",
+    "https://www.starbucks.com/account/personal",
+    "https://www.starbucks.com/account/payment-method",
+    "https://www.starbucks.com/account/settings/privacy",
+    "https://www.starbucks.com/account/settings",
+    "https://www.starbucks.com/menu/featured",
+    "https://www.starbucks.com/menu/previous",
+    "https://www.starbucks.com/menu/favorites",
+    "https://www.starbucks.com/menu/the-latest/trending",
+    "https://www.starbucks.com/menu/the-latest/energy-refreshers",
+    "https://www.starbucks.com/menu/drinks/protein-beverages",
+    "https://www.starbucks.com/menu/drinks/hot-coffee",
+    "https://www.starbucks.com/menu/drinks/cold-coffee",
+    "https://www.starbucks.com/menu/drinks/matcha",
+    "https://www.starbucks.com/menu/drinks/hot-tea",
+    "https://www.starbucks.com/menu/drinks/cold-tea",
+    "https://www.starbucks.com/menu/drinks/refreshers",
+    "https://www.starbucks.com/menu/drinks/frappuccino-blended-beverage",
+    "https://www.starbucks.com/menu/drinks/hot-chocolate-lemonade-more",
+    "https://www.starbucks.com/menu/drinks/bottled-beverages",
+    "https://www.starbucks.com/menu/food/breakfast",
+    "https://www.starbucks.com/menu/food/bakery",
+    "https://www.starbucks.com/menu/food/treats",
+    "https://www.starbucks.com/menu/food/lunch",
+    "https://www.starbucks.com/menu/food/lite-bites",
+    "https://www.starbucks.com/menu/at-home-coffee/whole-bean",
+    "https://www.starbucks.com/menu/at-home-coffee/starbucks-via-instant",
+    "https://www.starbucks.com/menu/at-home-coffee/shopping-bag",
+    "https://www.starbucks.com/menu/product/471/hot",
+    "https://www.starbucks.com/menu/product/873068639/iced",
+    "https://www.starbucks.com/menu/product/873068641/iced",
+    "https://www.starbucks.com/menu/product/490/iced",
+    "https://www.starbucks.com/menu/product/747/hot",
+    "https://www.starbucks.com/menu/product/873068652/hot",
+    "https://www.starbucks.com/menu/product/2123366/hot",
+    "https://www.starbucks.com/about-us/",
+    "https://about.starbucks.com/stories/category/coffee-products/coffee/",
+    "https://about.starbucks.com/",
+    "https://archive.starbucks.com/",
+    "https://investor.starbucks.com/",
+    "https://customerservice.starbucks.com/",
+    "https://www.starbucks.com/contact/",
+    "https://careers.starbucks.com/culture/",
+    "https://about.starbucks.com/belonging-at-starbucks/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/",
+    "https://about.starbucks.com/communities/",
+    "https://about.starbucks.com/the-starbucks-foundation/",
+    "https://about.starbucks.com/sustainability/",
+    "https://www.starbucks.com/responsibility/reporting-hub/",
+    "https://www.starbucks.com/business/landlord-faq/",
+    "https://www.starbucks.com/business/suppliers/",
+    "https://www.starbuckscardb2b.com/",
+    "https://www.nestlecoffeepartnerssl.com/our-brands/we-proudly-serve-starbucks",
+    "https://www.starbucks.com/rewards/mobile-apps/",
+    "https://www.starbucks.com/stores-and-ordering/delivery/",
+    "https://www.starbucks.com/stores-and-ordering/",
+    "https://athome.starbucks.com/?utm_source=starbucks.com&utm_medium=referral&utm_campaign=footer",
+    "https://open.spotify.com/user/starbucks",
+    "https://facebook.com/starbucks",
+    "https://www.pinterest.com/starbucks/",
+    "https://instagram.com/starbucks",
+    "https://www.youtube.com/starbucks",
+    "https://x.com/starbucks/",
+    "https://www.starbucks.com/terms/privacy-notice/",
+    "https://www.starbucks.com/consumer-health-data-privacy-notice/",
+    "https://www.starbucks.com/terms/starbucks-terms-of-use/",
+    "https://www.starbucks.com/personal-information",
+    "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-107200.pdf",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://www.starbucks.com/store-locator?source=menu"
+  ],
+  "imgs": [
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/HotChocolate?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Hot Chocolate",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190624_Lemonade?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Lemonade",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/BlendedStrawberryLemonade1?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Blended Strawberry Lemonade",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190607_Milk?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Cold Milk",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/SBX20190617_SteamedMilk?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Steamed Milk",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/VanillaCreme%E2%80%8BSteamer?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Vanilla Crème",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://cloudassets.starbucks.com/is/image/sbuxcorp/PistachioCreme?impolicy=1by1_tight_288&crop=495,495,810,810&wid=288&hei=288&qlt=85",
+      "alt": "Pistachio Crème",
+      "w": 288,
+      "h": 288
+    },
+    {
+      "src": "https://www.starbucks.com/weblx/images/product-placeholder.png",
+      "alt": "",
+      "w": 316,
+      "h": 316
+    },
+    {
+      "src": "https://bat.bing.net/action/0?ti=5104519&tm=gtm002&Ver=2&mid=5ac6e374-6d3c-46ac-8cc8-098f2a59808e&bo=2&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&p=https%3A%2F%2Fwww.starbucks.com%2Fmenu%2Fdrinks%2Fhot-chocolate-lemonade-more&r=&lt=1672&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=954000",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    }
+  ],
+  "cssBackgrounds": [
+    "https://www.starbucks.com/app-assets/d21adfaa60a934de88eb.svg"
+  ],
+  "fonts": [
+    "SoDoSans"
+  ],
+  "palette": [
+    {
+      "color": "rgba(0, 0, 0, 0.87)",
+      "count": 442
+    },
+    {
+      "color": "rgba(0, 0, 0, 0.58)",
+      "count": 80
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "count": 70
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 22
+    },
+    {
+      "color": "rgb(128, 128, 128)",
+      "count": 5
+    },
+    {
+      "color": "rgb(0, 117, 74)",
+      "count": 2
+    },
+    {
+      "color": "rgb(249, 249, 249)",
+      "count": 2
+    },
+    {
+      "color": "rgb(30, 57, 50)",
+      "count": 1
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.7)",
+      "count": 1
+    }
+  ],
+  "logo": "<svg aria-hidden=\"true\" focusable=\"false\" height=\"100%\" viewBox=\"0 0 62 62\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><circle class=\"logo__circle\" cx=\"31\" cy=\"31\" fill=\"#ffffff\" r=\"30.002\"></circle><path d=\"M34.017 13.969c-.263-.047-1.531-.26-3.017-.26s-2.754.212-3.017.26c-.151.027-.209-.121-.094-.207.104-.077 3.11-2.365 3.11-2.365l3.109 2.365c.117.086.06.234-.091.207zm-5.194 14.856s-.159.057-.201.197c.63.484 1.064 1.585 2.378 1.585s1.748-1.101 2.377-1.585c-.041-.141-.2-.197-.2-.197s-.823.194-2.177.194-2.177-.194-2.177-.194zm2.177-1.853c-.365 0-.445-.138-.694-.137-.237.001-.697.19-.797.363.007.088.039.167.103.237.532.08.772.376 1.389.376s.856-.296 1.389-.376c.062-.07.096-.148.103-.237-.099-.173-.56-.361-.798-.363-.25-.002-.331.137-.695.137zm29.956 5.673c-.038.717-.102 1.428-.19 2.131-3.396.562-4.61-2.464-8.089-2.312.208.738.377 1.49.507 2.258 2.869-.002 4.025 2.68 7.217 2.285-.168.82-.37 1.629-.603 2.426-2.524.248-3.413-2.26-6.334-2.191.024.416.037.836.037 1.26l-.012.701 5.672 2.164c-.297.807-.629 1.596-.991 2.369-1.705-.094-2.293-2.281-4.887-2.107-.078.561-.177 1.115-.295 1.662 2.253-.158 2.738 1.916 4.352 2.084-.411.75-.854 1.48-1.325 2.191-.956-.512-1.785-2.057-3.598-2.152.186-.574.349-1.156.487-1.748-1.608 0-3.447-.627-4.989-2.031.5-2.846-3.917-5.744-3.917-7.828 0-2.264 1.145-3.517 1.145-6.569 0-2.265-1.1-4.722-2.759-6.401-.321-.326-.65-.59-1.028-.827 1.524 1.886 2.694 4.122 2.694 6.712 0 2.874-1.337 4.391-1.337 7.044 0 2.652 3.88 4.947 3.88 7.682 0 1.076-.344 2.127-1.478 4.191 1.742 1.74 4.011 2.689 5.475 2.689.475 0 .73-.145.9-.518.146-.322.285-.648.416-.977 1.577.061 2.299 1.494 3.172 2.066-.479.643-.982 1.264-1.509 1.865-.585-.648-1.371-1.738-2.522-2.041-.206.4-.424.795-.653 1.182.991.27 1.669 1.27 2.194 1.928-.566.586-1.155 1.148-1.768 1.688-.383-.596-.979-1.352-1.647-1.76-.247.334-.504.66-.769.977.568.385 1.069 1.078 1.396 1.643-.708.568-1.44 1.107-2.198 1.611-.374-3.047-4.533-5.135-3.412-8.67-.368.623-.807 1.402-.807 2.34 0 2.559 2.726 4.59 2.943 7.133-.565.338-1.143.656-1.732.957-.098-2.795-2.984-5.854-2.984-8.148 0-2.561 3.354-5.133 3.354-8.156 0-3.025-3.87-5.119-3.87-7.775 0-2.654 1.646-4.181 1.646-7.583 0-2.492-1.184-5.014-3.013-6.625-.324-.286-.643-.513-1.026-.712 1.725 2.069 2.725 3.946 2.725 6.794 0 3.199-1.886 4.975-1.886 8.107 0 3.133 3.798 4.875 3.798 7.795s-3.535 5.381-3.535 8.381c0 2.729 3.116 5.453 3.162 8.691-.681.297-1.375.568-2.081.814.396-3.271-3.111-6.645-3.111-9.314 0-2.918 3.667-5.426 3.667-8.572 0-3.148-3.728-4.611-3.728-7.842 0-3.229 2.287-5.017 2.287-8.585 0-2.781-1.373-5.282-3.379-6.832l-.127-.096c-.189-.14-.345.029-.211.195 1.42 1.773 2.179 3.566 2.179 6.221 0 3.264-2.627 5.916-2.627 9.078 0 3.732 3.528 4.799 3.528 7.861 0 3.061-3.783 5.51-3.783 8.76 0 3.014 3.58 6.359 2.966 9.838-.718.186-1.446.348-2.185.48.672-4.332-2.84-7.443-2.84-10.277 0-3.068 3.918-5.803 3.918-8.801 0-2.828-2.812-3.752-3.182-6.645-.051-.395-.368-.688-.805-.615-.571.104-1.303.48-2.453.48s-1.882-.377-2.454-.48c-.436-.072-.753.221-.804.615-.369 2.893-3.183 3.816-3.183 6.645 0 2.998 3.919 5.732 3.919 8.801 0 2.834-3.512 5.945-2.841 10.277-.738-.133-1.467-.295-2.185-.48-.614-3.479 2.967-6.824 2.967-9.838 0-3.25-3.784-5.699-3.784-8.76 0-3.062 3.529-4.129 3.529-7.861 0-3.162-2.628-5.813-2.628-9.078 0-2.654.759-4.447 2.18-6.221.133-.166-.022-.335-.212-.195l-.126.096c-2.004 1.546-3.376 4.047-3.376 6.828 0 3.568 2.287 5.356 2.287 8.585 0 3.23-3.728 4.693-3.728 7.842 0 3.146 3.667 5.654 3.667 8.572 0 2.67-3.507 6.043-3.11 9.314-.707-.246-1.401-.518-2.082-.814.047-3.238 3.161-5.963 3.161-8.691 0-3-3.533-5.461-3.533-8.381s3.796-4.662 3.796-7.795c0-3.132-1.885-4.908-1.885-8.107 0-2.848.999-4.725 2.724-6.794-.384.199-.702.426-1.025.712-1.829 1.611-3.012 4.133-3.012 6.625 0 3.402 1.646 4.929 1.646 7.583 0 2.656-3.87 4.75-3.87 7.775 0 3.023 3.354 5.596 3.354 8.156 0 2.295-2.888 5.354-2.985 8.148-.589-.301-1.167-.619-1.732-.957.218-2.543 2.943-4.574 2.943-7.133 0-.938-.438-1.717-.807-2.34 1.121 3.535-3.038 5.623-3.412 8.67-.758-.5",
+  "favicon": "https://www.starbucks.com/weblx/images/icons/favicon-16x16.png",
+  "appleIcon": "https://www.starbucks.com/weblx/images/icons/apple-touch-icon.png",
+  "hasVideo": false,
+  "hasCanvas": false,
+  "h1count": 1
+}

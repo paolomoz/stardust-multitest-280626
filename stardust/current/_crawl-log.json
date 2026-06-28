@@ -1,0 +1,220 @@
+{
+  "_provenance": {
+    "skill": "extract",
+    "source": "https://www.starbucks.com/",
+    "at": "2026-06-28T09:25:35.787Z"
+  },
+  "discovery": {
+    "sitemap": "https://www.starbucks.com/sitemap.xml",
+    "total": 23
+  },
+  "evidence": [
+    {
+      "slug": "home",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11419,
+      "status": 200,
+      "imgs": 5,
+      "bgs": 0,
+      "h": 17
+    },
+    {
+      "slug": "menu",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 12239,
+      "status": 200,
+      "imgs": 21,
+      "bgs": 1,
+      "h": 35
+    },
+    {
+      "slug": "menu-featured",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10361,
+      "status": 200,
+      "imgs": 24,
+      "bgs": 0,
+      "h": 35
+    },
+    {
+      "slug": "menu-drinks-protein-beverages",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11372,
+      "status": 200,
+      "imgs": 39,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-drinks-hot-coffee",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11512,
+      "status": 200,
+      "imgs": 60,
+      "bgs": 1,
+      "h": 21
+    },
+    {
+      "slug": "menu-drinks-cold-coffee",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10829,
+      "status": 200,
+      "imgs": 60,
+      "bgs": 1,
+      "h": 21
+    },
+    {
+      "slug": "menu-drinks-hot-tea",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11300,
+      "status": 200,
+      "imgs": 27,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-drinks-cold-tea",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11253,
+      "status": 200,
+      "imgs": 51,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-drinks-refreshers",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11205,
+      "status": 200,
+      "imgs": 60,
+      "bgs": 1,
+      "h": 15
+    },
+    {
+      "slug": "menu-drinks-frappuccino-blended-beverage",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10752,
+      "status": 200,
+      "imgs": 27,
+      "bgs": 1,
+      "h": 13
+    },
+    {
+      "slug": "menu-drinks-hot-chocolate-lemonade-more",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11320,
+      "status": 200,
+      "imgs": 15,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-drinks-bottled-beverages",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11207,
+      "status": 200,
+      "imgs": 39,
+      "bgs": 1,
+      "h": 16
+    },
+    {
+      "slug": "menu-food-breakfast",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11162,
+      "status": 200,
+      "imgs": 41,
+      "bgs": 1,
+      "h": 15
+    },
+    {
+      "slug": "menu-food-bakery",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11266,
+      "status": 200,
+      "imgs": 37,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-food-treats",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10817,
+      "status": 200,
+      "imgs": 17,
+      "bgs": 1,
+      "h": 13
+    },
+    {
+      "slug": "menu-food-lunch",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10711,
+      "status": 200,
+      "imgs": 21,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "menu-food-snacks",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11343,
+      "status": 200,
+      "imgs": 1,
+      "bgs": 1,
+      "h": 11
+    },
+    {
+      "slug": "menu-at-home-coffee-whole-bean",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11510,
+      "status": 200,
+      "imgs": 33,
+      "bgs": 1,
+      "h": 14
+    },
+    {
+      "slug": "rewards",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 11882,
+      "status": 200,
+      "imgs": 23,
+      "bgs": 0,
+      "h": 41
+    },
+    {
+      "slug": "stores-and-ordering",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10291,
+      "status": 200,
+      "imgs": 9,
+      "bgs": 0,
+      "h": 24
+    },
+    {
+      "slug": "gift",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10629,
+      "status": 200,
+      "imgs": 60,
+      "bgs": 0,
+      "h": 40
+    },
+    {
+      "slug": "about-us",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 10640,
+      "status": 200,
+      "imgs": 4,
+      "bgs": 0,
+      "h": 23
+    },
+    {
+      "slug": "contact",
+      "waitMode": "domcontentloaded(fb)",
+      "waitMs": 9975,
+      "status": 200,
+      "imgs": 0,
+      "bgs": 0,
+      "h": 11
+    }
+  ]
+}

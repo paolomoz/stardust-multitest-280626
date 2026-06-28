@@ -1,0 +1,203 @@
+{
+  "_provenance": {
+    "skill": "stardust:extract",
+    "source": "https://www.starbucks.com/",
+    "renderedBy": "playwright",
+    "at": "2026-06-28T09:28:42.330Z",
+    "pages": 23
+  },
+  "logo": {
+    "format": "inline-svg",
+    "file": "assets/logo.svg",
+    "source": "header a[href=\"/\"] svg (Siren mark)"
+  },
+  "favicon": "https://www.starbucks.com/weblx/images/icons/favicon-32x32.png",
+  "palette": [
+    {
+      "color": "rgba(0, 0, 0, 0.87)",
+      "count": 12700
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "count": 1700
+    },
+    {
+      "color": "rgba(0, 0, 0, 0.58)",
+      "count": 1625
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "count": 556
+    },
+    {
+      "color": "rgb(44, 61, 40)",
+      "count": 136
+    },
+    {
+      "color": "rgb(128, 128, 128)",
+      "count": 113
+    },
+    {
+      "color": "rgb(0, 117, 74)",
+      "count": 105
+    },
+    {
+      "color": "rgb(0, 98, 66)",
+      "count": 72
+    },
+    {
+      "color": "rgb(247, 240, 228)",
+      "count": 70
+    },
+    {
+      "color": "rgb(0, 98, 65)",
+      "count": 48
+    },
+    {
+      "color": "rgb(249, 249, 249)",
+      "count": 45
+    },
+    {
+      "color": "rgb(203, 162, 88)",
+      "count": 27
+    },
+    {
+      "color": "rgb(30, 57, 50)",
+      "count": 25
+    },
+    {
+      "color": "rgb(245, 241, 235)",
+      "count": 24
+    },
+    {
+      "color": "rgb(217, 217, 217)",
+      "count": 20
+    },
+    {
+      "color": "rgba(255, 255, 255, 0.7)",
+      "count": 16
+    }
+  ],
+  "roleColors": {
+    "primary": "#00754A",
+    "primaryDark": "#006442",
+    "greenDeep": "#1E3932",
+    "cream": "#F7F0E4",
+    "creamLight": "#FBF6EE",
+    "text": "#000000",
+    "textMuted": "rgba(0,0,0,0.58)",
+    "background": "#FFFFFF",
+    "accentGold": "#CBA258"
+  },
+  "type": {
+    "headingFamily": "SoDoSans",
+    "bodyFamily": "SoDoSans",
+    "note": "Proprietary SoDo Sans; substitute with a humanist sans (system-ui / Helvetica Neue) fallback stack",
+    "families": [
+      "SoDoSans",
+      "SodoSans_Normal"
+    ]
+  },
+  "motifs": {
+    "radius": "rounded buttons (pill / 24px), rounded cards (16px)",
+    "shadow": "soft card shadow",
+    "patterns": [
+      "pill-button",
+      "product-card",
+      "category-grid",
+      "hero-card"
+    ]
+  },
+  "voice": {
+    "headline": "New: Blue coconut for a cause",
+    "tagline": "It's a great day for coffee",
+    "ctas": [
+      "Start an order",
+      "Join now",
+      "Find a store"
+    ],
+    "heroImage": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-108864.jpg"
+  },
+  "systemComponents": {
+    "header": {
+      "links": [
+        {
+          "label": "Menu",
+          "href": "/menu"
+        },
+        {
+          "label": "Rewards",
+          "href": "/rewards"
+        },
+        {
+          "label": "Gift Cards",
+          "href": "/gift"
+        },
+        {
+          "label": "Find a store",
+          "href": "/store-locator"
+        },
+        {
+          "label": "Sign in",
+          "href": "/account/signin"
+        },
+        {
+          "label": "Join now",
+          "href": "/account/create"
+        }
+      ]
+    },
+    "footer": {
+      "columns": [
+        {
+          "title": "About Us",
+          "links": [
+            "Our Company",
+            "Our Coffee",
+            "About Starbucks",
+            "Investor Relations",
+            "Customer Service",
+            "Contact Us"
+          ]
+        },
+        {
+          "title": "Careers",
+          "links": [
+            "Culture and Values",
+            "Belonging at Starbucks",
+            "College Achievement Plan",
+            "U.S. Careers",
+            "International Careers"
+          ]
+        },
+        {
+          "title": "Social Impact",
+          "links": [
+            "Communities",
+            "Starbucks Foundation",
+            "Sustainability",
+            "Reporting Hub"
+          ]
+        },
+        {
+          "title": "For Business Partners",
+          "links": [
+            "Landlord Support Center",
+            "Suppliers",
+            "Corporate Gift Card Sales",
+            "Office and Foodservice Coffee"
+          ]
+        },
+        {
+          "title": "Order and Pick Up",
+          "links": [
+            "Order on the App",
+            "Order on the Web",
+            "Delivery",
+            "Explore Coffee for Home"
+          ]
+        }
+      ]
+    }
+  }
+}
