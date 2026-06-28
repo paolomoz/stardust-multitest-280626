@@ -1,20 +1,22 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+footer.footer {
+  background: var(--color-ink);
+  color: #cfcfca;
+  padding: clamp(2.5rem, 5vw, 4rem) 0 2rem;
+  font-size: 0.9rem;
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+footer.footer .footer-inner {
+  max-width: var(--content-width);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
 }
 
-footer .footer p {
-  margin: 0;
-}
+footer.footer .footer-inner > div { margin-bottom: 0.4rem; }
+footer.footer p { margin: 0 0 0.6rem; line-height: 1.6; }
+footer.footer a { color: #fff; text-decoration: none; }
+footer.footer a:hover { color: var(--brand-green-alt); text-decoration: underline; }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
-  }
-}
+footer.footer .footer-brand img { height: 34px; width: auto; margin-bottom: 1.25rem; filter: brightness(0) invert(1); opacity: 0.92; }
+
+footer.footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 1.25rem; padding: 0; margin: 1rem 0 0; }
+footer.footer hr { border: none; border-top: 1px solid rgba(255, 255, 255, 0.14); margin: 1.5rem 0; }

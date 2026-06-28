@@ -1,0 +1,136 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract"
+  },
+  "colors": {
+    "primary": "#4f752d",
+    "primaryAlt": "#78915c",
+    "background": "#ffffff",
+    "surface": "#fafafa",
+    "text": "#333333",
+    "textMuted": "#4f5047",
+    "ink": "#000000",
+    "source": "css/style.css frequency aggregation"
+  },
+  "typography": {
+    "heading": {
+      "family": "Merriweather",
+      "kind": "serif",
+      "weights": [
+        300,
+        400,
+        700,
+        900
+      ]
+    },
+    "body": {
+      "family": "Work Sans",
+      "kind": "sans-serif",
+      "weights": [
+        100,
+        400,
+        500,
+        700
+      ]
+    },
+    "source": "Google Fonts link + computed font-family",
+    "files": []
+  },
+  "rounded": "0",
+  "spacing": "generous",
+  "extensions": {
+    "componentStyle": {},
+    "motifs": {
+      "radius": "0 (sharp/rectilinear)",
+      "shadow": "subtle rgba(0,0,0,0.1)",
+      "patterns": [
+        "full-bleed video hero",
+        "stat counters",
+        "logo grid (flip cards)",
+        "modal detail overlay",
+        "editorial list"
+      ]
+    },
+    "voice": {
+      "register": "brand",
+      "heroHeadline": "A private equity firm specializing in consumer, distribution and retail-related investments",
+      "heroMedium": {
+        "type": "video",
+        "src": "https://sycamorepartners.com/images/home/Video/Sycamorevideoforwebsite.mov",
+        "splash": "https://sycamorepartners.com/images/home/Video/Sycamore-Partners-Animation.mp4",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "note": "Signature animated hero — root path is a 4s video splash that redirects to /home; /home itself has an autoplay looping background video"
+      },
+      "heroImage": "https://sycamorepartners.com/images/Sycamore-logo.png",
+      "sampleCtas": [
+        "Investments",
+        "Team",
+        "Read More"
+      ]
+    },
+    "systemComponents": {
+      "header": {
+        "nav": [
+          [
+            "Investments",
+            "/investments"
+          ],
+          [
+            "Team",
+            "/team"
+          ],
+          [
+            "Approach",
+            "/approach"
+          ],
+          [
+            "News",
+            "/news"
+          ],
+          [
+            "Contact",
+            "/contact"
+          ]
+        ],
+        "brand": "/home"
+      },
+      "footer": {
+        "copyright": "© 2026 - Sycamore Partners. | 9 West 57th, Street 31st Floor, New York, NY 10019 | (212) 796-8500",
+        "links": [
+          [
+            "Terms of Use and Privacy Notice",
+            "/terms-privacy-policy-notice"
+          ]
+        ]
+      }
+    },
+    "stats": [
+      [
+        "~$11B",
+        "Aggregate Committed Capital"
+      ],
+      [
+        "30+",
+        "Investments"
+      ],
+      [
+        "40+",
+        "Investment Professionals"
+      ],
+      [
+        "~$200B",
+        "Portfolio Revenues"
+      ],
+      [
+        "~500K",
+        "Portfolio Employees"
+      ],
+      [
+        "~20K",
+        "Portfolio Stores"
+      ]
+    ]
+  }
+}

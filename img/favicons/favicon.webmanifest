@@ -1,0 +1,11 @@
+{
+  "name": "Sycamore Partners",
+  "short_name": "Sycamore",
+  "icons": [
+    { "src": "/img/favicons/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/img/favicons/favicon-32.png", "sizes": "32x32", "type": "image/png" }
+  ],
+  "theme_color": "#4f752d",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

@@ -1,20 +1,22 @@
-import { getMetadata } from '../../scripts/aem.js';
-import { loadFragment } from '../fragment/fragment.js';
+const FOOTER_PATH = '/sycamorepartners/footer';
 
-/**
- * loads and decorates the footer
- * @param {Element} block The footer block element
- */
+function stripTrailingSlash(href) {
+  if (!href || href === '/') return href;
+  return href.replace(/\/+$/, '');
+}
+
 export default async function decorate(block) {
-  // load footer as fragment
-  const footerMeta = getMetadata('footer');
-  const footerPath = footerMeta ? new URL(footerMeta, window.location).pathname : '/footer';
-  const fragment = await loadFragment(footerPath);
-
-  // decorate footer DOM
-  block.textContent = '';
-  const footer = document.createElement('div');
-  while (fragment.firstElementChild) footer.append(fragment.firstElementChild);
-
-  block.append(footer);
+  let html = '';
+  try {
+    const resp = await fetch(`${FOOTER_PATH}.plain.html`);
+    if (resp.ok) html = await resp.text();
+  } catch (e) { /* graceful */ }
+  if (!html) return;
+  const inner = document.createElement('div');
+  inner.className = 'footer-inner';
+  inner.innerHTML = html;
+  inner.querySelectorAll('a').forEach((a) => {
+    a.href = stripTrailingSlash(a.getAttribute('href') || a.href);
+  });
+  block.append(inner);
 }
