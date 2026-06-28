@@ -1,0 +1,142 @@
+{
+  "title": "PayPal Contact Us | PayPal US",
+  "meta": {
+    "description": "Contact PayPal for answers to all of your online payment questions or to sign up for our services! PayPal is the world's leading online payment processor.",
+    "ogTitle": null,
+    "ogImage": null,
+    "ogDescription": null,
+    "themeColor": null,
+    "canonical": "https://www.paypal.com/us/cshelp/contact-us"
+  },
+  "favicon": "https://www.paypalobjects.com/webstatic/icon/favicon.ico",
+  "appleTouchIcon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp64.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Contact Us"
+    },
+    {
+      "level": 4,
+      "text": "Need immediate help? Chat with us for instant support"
+    },
+    {
+      "level": 4,
+      "text": "Chat"
+    },
+    {
+      "level": 2,
+      "text": "What can we help with"
+    },
+    {
+      "level": 2,
+      "text": "Other options"
+    },
+    {
+      "level": 3,
+      "text": "Chat with us"
+    },
+    {
+      "level": 3,
+      "text": "Call us"
+    },
+    {
+      "level": 3,
+      "text": "Help Center"
+    }
+  ],
+  "body": [],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Chat",
+      "href": null
+    },
+    {
+      "label": "Donations Nonprofit, PayPal Giving Fund",
+      "href": null
+    },
+    {
+      "label": "PayPal Credit Applications, payments, billing, features",
+      "href": null
+    },
+    {
+      "label": "PayPal Cards Prepaid, Extras, Cashback and more",
+      "href": null
+    }
+  ],
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "header": [],
+  "footer": [
+    {
+      "text": "Chat with us",
+      "href": null
+    },
+    {
+      "text": "Call us",
+      "href": null
+    },
+    {
+      "text": "Help Center",
+      "href": null
+    }
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/helpcenter/images/2115.jpg",
+        "alt": "hc-other-option-img",
+        "w": 640,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/helpcenter/images/723.jpg",
+        "alt": "hc-other-option-img",
+        "w": 640,
+        "h": 427
+      },
+      {
+        "src": "https://www.paypalobjects.com/helpcenter/images/0976.jpg",
+        "alt": "hc-other-option-img",
+        "w": 640,
+        "h": 427
+      }
+    ],
+    "svgInline": 11,
+    "videos": [],
+    "iframes": [],
+    "cssBackgrounds": []
+  },
+  "forms": [
+    {
+      "action": "https://www.paypal.com/us/cshelp/contact-us",
+      "fields": [
+        {
+          "type": "text",
+          "name": "searchInputPPA"
+        }
+      ]
+    }
+  ],
+  "style": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "colors": [],
+    "backgrounds": [],
+    "fonts": [],
+    "radii": []
+  },
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:23:06.509Z",
+    "waitMs": 11248,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.paypal.com/us/smarthelp/contact-us"
+  },
+  "slug": "contact-us",
+  "url": "https://www.paypal.com/us/smarthelp/contact-us",
+  "type": "form"
+}

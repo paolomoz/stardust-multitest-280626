@@ -1,0 +1,513 @@
+{
+  "title": "PayPal Checkout Solutions for Businesses | PayPal US",
+  "meta": {
+    "description": "Accept payments seamlessly with PayPal Checkout. Offer customers fast, secure payment options including credit cards, debit, and PayPal. Easy integration.",
+    "ogTitle": "PayPal Checkout Solutions for Businesses | PayPal US",
+    "ogImage": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/meta_size-all.jpg",
+    "ogDescription": "Accept payments seamlessly with PayPal Checkout. Offer customers fast, secure payment options including credit cards, debit, and PayPal. Easy integration.",
+    "themeColor": "#012169",
+    "canonical": "https://www.paypal.com/us/business/accept-payments/checkout"
+  },
+  "favicon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png",
+  "appleTouchIcon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp64.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Online checkout"
+    },
+    {
+      "level": 2,
+      "text": "Boost sales with a checkout built to grow"
+    },
+    {
+      "level": 2,
+      "text": "Simple. Secure. Flexible."
+    },
+    {
+      "level": 2,
+      "text": "Their code. Your code. Or no code."
+    },
+    {
+      "level": 3,
+      "text": "Connect your store and start selling"
+    },
+    {
+      "level": 3,
+      "text": "More coding, highly custom"
+    },
+    {
+      "level": 3,
+      "text": "No code, faster setup"
+    },
+    {
+      "level": 3,
+      "text": "“PayPal has been a great partner in terms of scalability and reliability.”"
+    },
+    {
+      "level": 2,
+      "text": "Compare your checkout options"
+    },
+    {
+      "level": 2,
+      "text": "Pricing with no surprises"
+    },
+    {
+      "level": 3,
+      "text": "PayPal Checkout"
+    },
+    {
+      "level": 3,
+      "text": "Expanded Checkout"
+    },
+    {
+      "level": 2,
+      "text": "One platform. Many ways to get paid."
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": 3,
+      "text": "Why do the card processing prices differ between PayPal Checkout and Expanded Checkout?"
+    },
+    {
+      "level": 3,
+      "text": "What is a payment API?"
+    },
+    {
+      "level": 3,
+      "text": "Are you PCI compliant?"
+    },
+    {
+      "level": 2,
+      "text": "Get smarter. Grow faster."
+    },
+    {
+      "level": 2,
+      "text": "PayPal Open"
+    },
+    {
+      "level": 3,
+      "text": "One platform for all business"
+    }
+  ],
+  "body": [
+    "Offer millions of customers in 200+ markets the checkout stack that features their favorite ways to pay.",
+    "Simplify setup. Simplify compliance. Get back to your business.",
+    "Accept PayPal payments and major cards",
+    "Built-in risk management",
+    "More customization. More payment methods. More control.",
+    "Accept more cards and payment methods",
+    "Accept PayPal payments, a wider selection of debit and credit cards, and alternative payment methods like Apple Pay® and Google Pay. Accelerate checkout by saving customer cards or using Fastlane by PayPal.",
+    "Expand your reach worldwide",
+    "Accept payments from over 200 global markets supporting 140 different currencies.",
+    "Enhanced customization",
+    "Tailor your checkout flow to fit your brand. Match the look and feel of your website with more control.",
+    "Control your risk management",
+    "Opt for Chargeback Protection and Fraud Protection Advanced to help reduce fraudulent costs and more.6 We'll provide security insights to help you meet global compliance standards.",
+    "We’ve got three easy ways to integrate.",
+    "Leave the coding to your eCommerce platform. So you can get back to your business.",
+    "Your developer can use our RESTAPIs and JavaScript SDK to customize our checkout solution for however you do business.",
+    "Easily create a link, button, or QR code for a product or service. Then, just copy, paste, and get paid.",
+    "— Greg Ferris, SVP and Chief Product Officer, Fandango",
+    "PayPal Payments (PayPal, Venmo,4 Pay Later, Checkout with Crypto, and more)",
+    "Major credit and debit cards",
+    "Most credit and debit cards",
+    "Apple Pay, Google Pay, and more alternate payment methods",
+    "PayPal appears on the card statement",
+    "Your business appears on the card statement",
+    "Checkout customization",
+    "Select preset colors and styles",
+    "Complete control (with help from your developer)",
+    "Self-managed with optional add-ons",
+    "Seller protection on eligible PayPal transactions5",
+    "Chargeback Protection6",
+    "+ 0.40% per transaction",
+    "Fraud protection on eligible transactions",
+    "Fraud Protection Advanced",
+    "+ $0.07 fixed fee per transaction",
+    "PayPal Business account",
+    "PayPal Business account",
+    "3.49% + $0.49 fixed fee per transaction",
+    "3.49% + $0.49 fixed fee per transaction",
+    "3.49% + $0.49 fixed fee per transaction",
+    "3.49% + $0.49 fixed fee per transaction",
+    "4.99% + $0.49 fixed fee per transaction",
+    "4.99% + $0.49 fixed fee per transaction",
+    "Credit and debit card payments",
+    "2.99% + $0.49 fixed fee per transaction",
+    "2.89% + $0.29 fixed fee per transaction",
+    "Apple Pay and alternative payment methods7",
+    "2.89% + $0.29 fixed fee per transaction",
+    "Add Chargeback Protection",
+    "+ 0.50% per transaction",
+    "Interchange pricing (IC++)8",
+    "No monthly or setup fees. Only pay when you get paid.",
+    "Custom pricing for established businesses that process a large volume of payments annually. Contact us",
+    "With PayPal Checkout, you pay a little more than you would for Expanded Checkout because we manage the checkout experience. That means you don't need to worry about handling unauthorized transactions and chargebacks or compliance reporting—we'll take care of that.",
+    "With Expanded Checkout, you pay a lower fee since you’re managing checkout and handle refunds and chargebacks for any unauthorized transactions. You'll also be responsible for compliance reporting.",
+    "A payment API helps apps and websites accept payments by making sure that all aspects of checkout, from card processing to the eCommerce platform, communicate with each other. In short, they're what makes a smooth checkout experience possible.",
+    "We are fully PCI compliant, so the processing, storing, and transmitting of card data for your transactions will meet the PCI compliance standards. We also offer optional services that can help further reduce the compliance burden for your business.",
+    "Get paid. Get growing. Get ahead.",
+    "Do more with the platform designed to power commerce."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Sign Up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?products=checkout"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "1-855-787-1001",
+      "href": "tel:18557871001"
+    },
+    {
+      "label": "Sign Up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?products=checkout"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "PayPal Checkout",
+      "href": "#paypal-checkout"
+    },
+    {
+      "label": "Expanded Checkout",
+      "href": "#expanded-checkout"
+    },
+    {
+      "label": "Explore eCommerce Integrations",
+      "href": "https://www.paypal.com/us/business/platforms-and-marketplaces/directory"
+    },
+    {
+      "label": "Explore Developer Docs",
+      "href": "https://developer.paypal.com/home/?_ga=2.66744045.290709616.1741618302-1470737784.1723482196"
+    },
+    {
+      "label": "Get Payment Links",
+      "href": "https://www.paypal.com/us/business/accept-payments/payment-links"
+    },
+    {
+      "label": "Download PDF",
+      "href": "https://www.paypalobjects.com/marketing/web23/us/merchant/checkout/paypal-checkout-comparison-table.pdf"
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "Interchange pricing",
+      "href": "https://www.paypal.com/us/brc/article/what-is-interchange-plus"
+    },
+    {
+      "label": "Tooltip",
+      "href": null
+    },
+    {
+      "label": "More About Fees",
+      "href": "https://www.paypal.com/us/business/fees"
+    },
+    {
+      "label": "Interchange++ pricing",
+      "href": "https://www.paypal.com/us/brc/article/what-is-interchange-plus-plus"
+    },
+    {
+      "label": "Contact us",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "Guest checkout",
+      "href": "https://www.paypal.com/us/business/accept-payments/guest-checkout"
+    },
+    {
+      "label": "Recurring payments",
+      "href": "https://www.paypal.com/us/business/accept-payments/recurring-payments"
+    },
+    {
+      "label": "Installment payments",
+      "href": "https://www.paypal.com/us/business/accept-payments/installment-payments"
+    },
+    {
+      "label": "PayPal Payments",
+      "href": "https://www.paypal.com/us/enterprise/payment-processing/accept-paypal"
+    },
+    {
+      "label": "Payment links",
+      "href": "https://www.paypal.com/us/business/accept-payments/payment-links"
+    },
+    {
+      "label": "POS system",
+      "href": "https://www.paypal.com/us/business/pos-system"
+    },
+    {
+      "label": "Invoicing",
+      "href": "https://www.paypal.com/us/business/accept-payments/invoice"
+    },
+    {
+      "label": "Virtual Terminal",
+      "href": "https://www.paypal.com/us/business/accept-payments/virtual-terminal"
+    },
+    {
+      "label": "Venmo for business",
+      "href": "https://www.paypal.com/us/business/accept-payments/accept-venmo"
+    },
+    {
+      "label": "compliance reporting",
+      "href": "https://www.paypal.com/us/brc/article/pci-dss-compliance-basics"
+    },
+    {
+      "label": "What is a payment API?",
+      "href": null
+    },
+    {
+      "label": "Are you PCI compliant?",
+      "href": null
+    },
+    {
+      "label": "Sign Up",
+      "href": "https://www.paypal.com/unifiedonboarding/entry?products=checkout"
+    },
+    {
+      "label": "Contact Sales",
+      "href": "https://www.paypal.com/us/business/contact-sales"
+    },
+    {
+      "label": "Limits apply",
+      "href": "https://www.paypal.com/us/legalhub/paypal/useragreement-full#seller-protection"
+    },
+    {
+      "label": "Advanced Credit and Debit Card Payments",
+      "href": "https://www.paypal.com/us/legalhub/paypal/pocpsa-full"
+    },
+    {
+      "label": "fees page",
+      "href": "https://www.paypal.com/us/business/paypal-business-fees"
+    },
+    {
+      "label": "Chat Now",
+      "href": null
+    }
+  ],
+  "links": {
+    "internal": [
+      "https://www.paypal.com/unifiedonboarding/entry?products=checkout",
+      "https://www.paypal.com/us/business/contact-sales",
+      "https://www.paypal.com/us/business/accept-payments/checkout#paypal-checkout",
+      "https://www.paypal.com/us/business/accept-payments/checkout#expanded-checkout",
+      "https://www.paypal.com/us/business/platforms-and-marketplaces/directory",
+      "https://www.paypal.com/us/business/accept-payments/payment-links",
+      "https://www.paypal.com/us/brc/article/what-is-interchange-plus",
+      "https://www.paypal.com/us/business/fees",
+      "https://www.paypal.com/us/brc/article/what-is-interchange-plus-plus",
+      "https://www.paypal.com/us/business/accept-payments/guest-checkout",
+      "https://www.paypal.com/us/business/accept-payments/recurring-payments",
+      "https://www.paypal.com/us/business/accept-payments/installment-payments",
+      "https://www.paypal.com/us/enterprise/payment-processing/accept-paypal",
+      "https://www.paypal.com/us/business/pos-system",
+      "https://www.paypal.com/us/business/accept-payments/invoice",
+      "https://www.paypal.com/us/business/accept-payments/virtual-terminal",
+      "https://www.paypal.com/us/business/accept-payments/accept-venmo",
+      "https://www.paypal.com/us/brc/article/pci-dss-compliance-basics",
+      "https://www.paypal.com/us/brc/article/supercharge-conversions-with-ultimate-checkout-stack",
+      "https://www.paypal.com/us/brc/article/boost-sales-with-streamlined-guest-checkout",
+      "https://www.paypal.com/us/brc/article/long-term-customer-value-with-flexible-payment-options",
+      "https://www.paypal.com/us/brc/article/diverse-payment-option-impact-on-cart-abandonment",
+      "https://www.paypal.com/us/brc/article/accept-digital-wallets",
+      "https://www.paypal.com/us/legalhub/paypal/useragreement-full#seller-protection",
+      "https://www.paypal.com/us/legalhub/paypal/pocpsa-full",
+      "https://www.paypal.com/us/business/paypal-business-fees"
+    ],
+    "external": [
+      "tel:18557871001",
+      "https://developer.paypal.com/home/?_ga=2.66744045.290709616.1741618302-1470737784.1723482196",
+      "https://www.paypalobjects.com/marketing/web23/us/merchant/checkout/paypal-checkout-comparison-table.pdf"
+    ]
+  },
+  "header": [],
+  "footer": [],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/hero_size-tablet-up.jpg?quality=75&width=1500&format=webp",
+        "alt": "Person holding mobile phone showing checkout screen with payment options including debit/credit card, PayPal, Pay Later, Venmo, and Apple Pay.",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/card-wrapped-content-section-1_size-all_up_updated.png?quality=75&width=2100&format=webp",
+        "alt": "Bubbles with logos including: GoDaddy, BigCommerce, Wix, and Shopify.",
+        "w": 1439,
+        "h": 1079
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/card-wrapped-content-section-2_size-all_up_updated.png?quality=75&width=1200&format=webp",
+        "alt": "Checkout buttons for PayPal, Venmo, credit card, and Apple Pay.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/card-wrapped-content-section-3_size-all_up_updated.png?quality=75&width=1200&format=webp",
+        "alt": "PayPal QR code and a link to copy",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/split-section_size-all.jpg?quality=50",
+        "alt": "",
+        "w": 2560,
+        "h": 2560
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/split-section-logo_size-all.png?quality=75&width=900&format=webp",
+        "alt": "Fandango logo",
+        "w": 1440,
+        "h": 720
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/merchant/business-loan/card-content-carosel/media-carousel-section_card-guest-checkout_size-all.jpg?quality=75&width=1200&format=webp",
+        "alt": "Person holding a phone with overlay showing guest checkout code and Fastlane by PayPal logo",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/merchant/business-loan/card-content-carosel/media-carousel-section_card-recurring-payments_size-all.jpg?quality=75&width=300",
+        "alt": "Person holding a package of skincare products with overlay showing a subscription plan for $32 due next Monday",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/recuring-payments/card-installment-payments_size-all.jpg?quality=75&width=1200&format=webp",
+        "alt": "Pay Later Pay in 4 checkout screen over the image of a white chair",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/article-carousels-1_size-all.jpg?quality=75&width=900&format=webp",
+        "alt": "Two people in a warehouse packing a box and looking at a laptop.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/article-carousels-2_size-all.jpg?quality=75&width=900&format=webp",
+        "alt": "Person scanning item for customer on POS system.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/article-carousels-3_size-all.jpg?quality=75&width=900&format=webp",
+        "alt": "Person looking at mobile phone.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://id.rlcdn.com/464526.gif",
+        "alt": "",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "svgInline": 39,
+    "videos": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/desktop-ppxo-1.mp4",
+        "poster": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/images/featured-product-value-section-1_size-tablet-up.png?quality=50&width=1500&format=webply"
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/desktop-ppxo-2.mp4",
+        "poster": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/images/featured-product-value-section-2_size-tablet-up.png?quality=50&width=1500&format=webply"
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/desktop-ppxo-3.mp4",
+        "poster": "https://www.paypalobjects.com/marketing/web23/US/merchant/online-checkout/video/paypal-checkout/images/featured-product-value-section-3_size-tablet-up.png?quality=50&width=1500&format=webply"
+      }
+    ],
+    "iframes": [
+      "https://www.paypalobjects.com/web/res/890/746bce7e7cfd2683ac11f0ed3fad9/recaptcha/grcenterprise_v3.html",
+      "https://s.company-target.com/s/sync?exc=lr"
+    ],
+    "cssBackgrounds": []
+  },
+  "forms": [],
+  "style": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "colors": [
+      "rgb(0, 0, 0)",
+      "rgb(0, 0, 238)",
+      "rgb(0, 48, 135)",
+      "rgb(255, 255, 255)",
+      "rgb(105, 105, 105)",
+      "rgb(0, 28, 100)"
+    ],
+    "backgrounds": [
+      "rgb(237, 240, 242)",
+      "rgba(245, 247, 250, 0.8)",
+      "rgba(255, 255, 255, 0)",
+      "rgb(204, 204, 204)",
+      "rgb(0, 41, 145)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(245, 247, 250)"
+    ],
+    "fonts": [
+      "Plain, \"Helvetica Neue\", Arial, sans-serif",
+      "Plain, Helvetica, Arial",
+      "\"PayPal Pro\", \"Century Gothic\", Helvetica, Arial, sans-serif",
+      "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+      "Times"
+    ],
+    "radii": [
+      "1000px",
+      "8px",
+      "8px 0px 0px 8px",
+      "0px 8px 8px 0px",
+      "12px"
+    ]
+  },
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:52.866Z",
+    "waitMs": 12619,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.paypal.com/us/business/accept-payments/checkout"
+  },
+  "slug": "business-checkout",
+  "url": "https://www.paypal.com/us/business/accept-payments/checkout",
+  "type": "solution"
+}

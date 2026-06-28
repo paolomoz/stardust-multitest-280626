@@ -1,0 +1,297 @@
+{
+  "title": "All-In-One Payment App | Digital Wallet | PayPal US",
+  "meta": {
+    "description": "The new all-in-one PayPal App lets you manage all your money in one place. Learn about the features of the PayPal digital wallet and download it today.",
+    "ogTitle": "All-In-One Payment App | Digital Wallet | PayPal US",
+    "ogImage": "https://www.paypalobjects.com/marketing/web23/us/consumer/the-paypal-app/mkt-us-page-digital-wallet-component-meta-size-all.jpg",
+    "ogDescription": "The new all-in-one PayPal App lets you manage all your money in one place. Learn about the features of the PayPal digital wallet and download it today.",
+    "themeColor": "#012169",
+    "canonical": "https://www.paypal.com/us/digital-wallet"
+  },
+  "favicon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png",
+  "appleTouchIcon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp64.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "The PayPal app"
+    },
+    {
+      "level": 2,
+      "text": "It’s the app that pays you back."
+    },
+    {
+      "level": 2,
+      "text": "Earn rewards"
+    },
+    {
+      "level": 2,
+      "text": "Payments on the go"
+    },
+    {
+      "level": 2,
+      "text": "Manage your subscriptions the easy way"
+    },
+    {
+      "level": 2,
+      "text": "Track packages to your doorstep"
+    },
+    {
+      "level": 2,
+      "text": "Everything in one smart app"
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": 3,
+      "text": "What is a mobile wallet app, and is PayPal a digital wallet?"
+    },
+    {
+      "level": 3,
+      "text": "What are the benefits or rewards of using the PayPal mobile application?"
+    },
+    {
+      "level": 3,
+      "text": "How many cards can I add to my PayPal mobile wallet app?"
+    },
+    {
+      "level": 3,
+      "text": "How can I download the PayPal App?"
+    },
+    {
+      "level": 3,
+      "text": "Does the PayPal app cost?"
+    },
+    {
+      "level": 2,
+      "text": "All in the PayPal app"
+    }
+  ],
+  "body": [
+    "Tap to save offers from top brands before you shop.1 Plus, send money, track packages, manage your money, and so much more in the PayPal app.",
+    "Get offers from top brands in the app. We’ll make sure you get your rewards when you check out.",
+    "Earn 1%, 2%, 5% back1",
+    "We’ll apply your offers at checkout",
+    "Track and redeem your rewards in the app",
+    "Settle up fast with friends, family, sellers, and businesses. Send money across the table or across the globe.2 Use the app to transfer funds securely and in seconds.",
+    "Easily find and pay friends and family2",
+    "Send money across PayPal and Venmo without switching apps",
+    "Send money to 110+ countries",
+    "The hassle-free way to link, track, and manage all your subscriptions, all in one place.",
+    "Track all your packages—even if you didn’t pay with PayPal. You’ll get live updates each step of the way.",
+    "Check the status of your packages",
+    "Stay informed with notifications",
+    "Get alerted when they arrive safely",
+    "Track and redeem your rewards. Manage your wallet. Check your account activity. And stay on top of it all.",
+    "Track and redeem rewards",
+    "Add or edit your payment methods",
+    "Receive real-time account notifications",
+    "PayPal is an online payment system that allows you to send and receive money around the world. You can link your bank account, credit card, or debit card. You can also have a balance in your PayPal account.",
+    "The PayPal app is one simple mobile app to:",
+    "You can link 4 cards to your unverified account with PayPal. When your account is verified, you can link up to 24 cards in your PayPal mobile wallet app.",
+    "You can download the PayPal app from the iOS App Store or Android Play Store.",
+    "We don’t charge any fees to open an account with PayPal or download the PayPal app. We do charge fees for the following:",
+    "For more information on fees, click Fees at the bottom of any PayPal page."
+  ],
+  "lists": [
+    [
+      "Earn 1%, 2%, 5% back1",
+      "We’ll apply your offers at checkout",
+      "Track and redeem your rewards in the app"
+    ],
+    [
+      "Easily find and pay friends and family2",
+      "Send money across PayPal and Venmo without switching apps",
+      "Send money to 110+ countries"
+    ],
+    [
+      "Check the status of your packages",
+      "Stay informed with notifications",
+      "Get alerted when they arrive safely"
+    ],
+    [
+      "Track and redeem rewards",
+      "Add or edit your payment methods",
+      "Receive real-time account notifications"
+    ],
+    [
+      "Send and request money.",
+      "Keep track of your money and get offers in the app.",
+      "Follow your packages on a map, get updates, and much more."
+    ],
+    [
+      "When you receive payments from a purchase.",
+      "When you receive payments from outside your country or region."
+    ]
+  ],
+  "ctas": [
+    {
+      "label": "Explore the Offers",
+      "href": "https://www.paypal.com/shopping/"
+    },
+    {
+      "label": "Send Money",
+      "href": "https://www.paypal.com/us/digital-wallet/send-receive-money"
+    },
+    {
+      "label": "Request Money",
+      "href": "https://www.paypal.com/us/digital-wallet/send-receive-money/request-money"
+    },
+    {
+      "label": "Explore Subscriptions",
+      "href": "https://www.paypal.com/us/digital-wallet/manage-money/manage-subscriptions"
+    },
+    {
+      "label": "Track Your Packages",
+      "href": "https://paypal.com/mobile-app/dashboard?source=web_shop&intent=order_tracking&cgp_web_redir=download&cgp_mob_fallback=download"
+    },
+    {
+      "label": "Get the App",
+      "href": "https://paypal.com/mobile-app/dashboard?source=%252Fdigital-wallet_cta&pp_ref_id=83fba4a4-27be-4753-9708-043c8c290b83&utm_campaign=&utm_medium=web&utm_source=%2Fdigital-wallet&cust=&redirect=true"
+    },
+    {
+      "label": "How many cards can I add to my PayPal mobile wallet app?",
+      "href": null
+    },
+    {
+      "label": "How can I download the PayPal App?",
+      "href": null
+    },
+    {
+      "label": "Does the PayPal app cost?",
+      "href": null
+    },
+    {
+      "label": "Fees",
+      "href": "https://www.paypal.com/webapps/mpp/paypal-fees"
+    },
+    {
+      "label": "Scan code. Get the App.",
+      "href": "https://paypal.com/mobile-app/dashboard?source=%252Fdigital-wallet_cta&pp_ref_id=83fba4a4-27be-4753-9708-043c8c290b83&utm_campaign=&utm_medium=web&utm_source=%2Fdigital-wallet&cust=&redirect=true"
+    },
+    {
+      "label": "Terms and exclusions apply",
+      "href": "https://www.paypal.com/us/legalhub/pp-rewards-program-tnc"
+    }
+  ],
+  "links": {
+    "internal": [
+      "https://www.paypal.com/shopping/",
+      "https://www.paypal.com/us/digital-wallet/send-receive-money",
+      "https://www.paypal.com/us/digital-wallet/send-receive-money/request-money",
+      "https://www.paypal.com/us/digital-wallet/manage-money/manage-subscriptions",
+      "https://www.paypal.com/webapps/mpp/paypal-fees",
+      "https://www.paypal.com/us/legalhub/pp-rewards-program-tnc"
+    ],
+    "external": [
+      "https://paypal.com/mobile-app/dashboard?source=web_shop&intent=order_tracking&cgp_web_redir=download&cgp_mob_fallback=download",
+      "https://paypal.com/mobile-app/dashboard?source=%252Fdigital-wallet_cta&pp_ref_id=83fba4a4-27be-4753-9708-043c8c290b83&utm_campaign=&utm_medium=web&utm_source=%2Fdigital-wallet&cust=&redirect=true"
+    ]
+  },
+  "header": [],
+  "footer": [],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web26/us/cashback-deprecation/digital-wallet-hero-banner-dt.jpg?quality=75&width=1500&format=webp",
+        "alt": "A mobile phone displaying shopping offers in the PayPal App.",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web26/us/cashback-deprecation/digital-wallet-stack-img-dt.jpg?quality=75&width=3000&format=webp",
+        "alt": "A woman holding her phone, with Nike and Starbucks logos above, brands that offer cash back when you check out with PayPal.",
+        "w": 1036,
+        "h": 583
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/digital-wallet/split-section-1_size-all.jpg?quality=75&width=1800&format=webp",
+        "alt": "Send money for a rental with an overlay of a house in the background",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/consumer/the-paypal-app/mkt-us-page-digital-wallet-component-split-section-2-size-all.jpg?quality=75&width=1800&format=webp",
+        "alt": "A man outdoors with an on-screen view to manage subscription payments, such as entertainment, music and sports paid by PayPal Debit Card.",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/digital-wallet/card-wrapped-content-01-size-tablet-up.jpg?quality=75&width=1200&format=webp",
+        "alt": "A mobile phone displaying the feature of Tracking Packages in the PayPal app.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/digital-wallet/card-wrapped-content-02-size-tablet-up.jpg?quality=75&width=1200&format=webp",
+        "alt": "Transaction activity screen showing payments, money sent and received, cash back rewards, and more.",
+        "w": 1440,
+        "h": 1080
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Home/Cookied/Commerce/qr-app-download-badge.svg",
+        "alt": "qr code",
+        "w": 86,
+        "h": 86
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/US/en/rebrand/Home/Cookied/Commerce/qr-app-download-badge.svg",
+        "alt": "qr code",
+        "w": 86,
+        "h": 86
+      }
+    ],
+    "svgInline": 20,
+    "videos": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/featured-cta_size-tablet-up-vp9-chrome-v1.webm",
+        "poster": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/featured-cta_size-tablet-up-v1.png?quality=50&width=1500&format=webply"
+      }
+    ],
+    "iframes": [
+      "https://www.paypalobjects.com/web/res/890/746bce7e7cfd2683ac11f0ed3fad9/recaptcha/grcenterprise_v3.html"
+    ],
+    "cssBackgrounds": []
+  },
+  "forms": [],
+  "style": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "colors": [
+      "rgb(0, 0, 238)",
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(105, 105, 105)",
+      "rgb(96, 205, 255)"
+    ],
+    "backgrounds": [
+      "rgba(255, 255, 255, 0)",
+      "rgb(0, 0, 0)"
+    ],
+    "fonts": [
+      "Plain, \"Helvetica Neue\", Arial, sans-serif",
+      "Plain, Helvetica, Arial",
+      "\"PayPal Pro\", \"Century Gothic\", Helvetica, Arial, sans-serif",
+      "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+      "Times"
+    ],
+    "radii": [
+      "1000px",
+      "12px",
+      "50%",
+      "8px"
+    ]
+  },
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:23:16.932Z",
+    "waitMs": 10358,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.paypal.com/us/digital-wallet"
+  },
+  "slug": "digital-wallet",
+  "url": "https://www.paypal.com/us/digital-wallet",
+  "type": "landing"
+}

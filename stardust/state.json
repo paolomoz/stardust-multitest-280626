@@ -1,0 +1,119 @@
+{
+  "site": {
+    "originUrl": "https://www.paypal.com/us/home",
+    "extractedAt": "2026-06-28T09:21:40.172Z",
+    "pageCap": 12,
+    "totalDiscovered": "sitemap (multi-locale; en-us large)",
+    "crawled": 12
+  },
+  "pages": [
+    {
+      "slug": "brc-article-donations",
+      "url": "https://www.paypal.com/us/brc/article/accepting-donations-online",
+      "type": "article",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/brc-article-donations.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "brc-index",
+      "url": "https://www.paypal.com/us/brc/",
+      "type": "listing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/brc-index.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "business-checkout",
+      "url": "https://www.paypal.com/us/business/accept-payments/checkout",
+      "type": "solution",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/business-checkout.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "business-hub",
+      "url": "https://www.paypal.com/us/business",
+      "type": "landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/business-hub.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "contact-us",
+      "url": "https://www.paypal.com/us/smarthelp/contact-us",
+      "type": "form",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/contact-us.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "cshelp-receive-money",
+      "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
+      "type": "help",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/cshelp-receive-money.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "digital-wallet",
+      "url": "https://www.paypal.com/us/digital-wallet",
+      "type": "landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/digital-wallet.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "home",
+      "url": "https://www.paypal.com/us/home",
+      "type": "home",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/home.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "money-hub",
+      "url": "https://www.paypal.com/us/money-hub",
+      "type": "landing",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/money-hub.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "paypal-fees",
+      "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
+      "type": "info",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/paypal-fees.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "pos-system",
+      "url": "https://www.paypal.com/us/business/pos-system",
+      "type": "product",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/pos-system.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "safety-security",
+      "url": "https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security",
+      "type": "info",
+      "status": "extracted",
+      "currentStatePath": "stardust/current/pages/safety-security.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "title": "How to Receive Money on PayPal | PayPal US",
+  "meta": {
+    "description": "Receive money on PayPal via email or mobile. Transfer to your bank or keep in balance. Confirm your email to accept payments and access funds securely.",
+    "ogTitle": null,
+    "ogImage": null,
+    "ogDescription": null,
+    "themeColor": null,
+    "canonical": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-help667"
+  },
+  "favicon": "https://www.paypalobjects.com/webstatic/icon/favicon.ico",
+  "appleTouchIcon": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp64.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "How do I receive money through PayPal?"
+    },
+    {
+      "level": 4,
+      "text": "Was this article helpful?"
+    },
+    {
+      "level": 4,
+      "text": "Why wasn’t this information helpful?"
+    },
+    {
+      "level": 2,
+      "text": "Recommended Articles"
+    },
+    {
+      "level": 4,
+      "text": "How do I accept payments with PayPal?"
+    },
+    {
+      "level": 4,
+      "text": "How do I confirm I received an item?"
+    },
+    {
+      "level": 4,
+      "text": "How do I send money?"
+    },
+    {
+      "level": 4,
+      "text": "How do I pay a money request or invoice?"
+    },
+    {
+      "level": 4,
+      "text": "How do I create and use PayPal links to send and request money?"
+    },
+    {
+      "level": 2,
+      "text": "More ways to get help"
+    },
+    {
+      "level": 3,
+      "text": "Browse All Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resolution Center"
+    },
+    {
+      "level": 3,
+      "text": "Tax center"
+    },
+    {
+      "level": 3,
+      "text": "Message Center"
+    },
+    {
+      "level": 3,
+      "text": "Technical Help"
+    },
+    {
+      "level": 3,
+      "text": "Business Help"
+    },
+    {
+      "level": 4,
+      "text": "How are we doing?"
+    },
+    {
+      "level": 4,
+      "text": "Take our survey"
+    }
+  ],
+  "body": [
+    "With PayPal, you receive money when someone pays to your email address or mobile number. Once that happens, we’ll send you a message letting you know you have money available.",
+    "You can access the money you receive on your PayPal account home page. You can then choose to:",
+    "To accept the money, you must open a PayPal account and confirm your email address.",
+    "To add an additional layer of confidence when receiving payment, we now provide the sender of funds the option to share a link directly with the recipient that the recipient can use to access and redeem their money."
+  ],
+  "lists": [
+    [
+      "Transfer it to your bank account, or",
+      "Keep it in your balance to send money to friends and family or to shop online"
+    ]
+  ],
+  "ctas": [
+    {
+      "label": "Personal",
+      "href": null
+    },
+    {
+      "label": "Business",
+      "href": null
+    },
+    {
+      "label": "Close modal",
+      "href": null
+    },
+    {
+      "label": "Submit",
+      "href": null
+    },
+    {
+      "label": "Take our survey",
+      "href": null
+    }
+  ],
+  "links": {
+    "internal": [
+      "https://www.paypal.com/cshelp/article/HELP1010",
+      "https://www.paypal.com/cshelp/article/help394",
+      "https://www.paypal.com/cshelp/article/HELP335",
+      "https://www.paypal.com/cshelp/article/help315",
+      "https://www.paypal.com/cshelp/article/help138",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-accept-payments-with-paypal-help217",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-confirm-i-received-an-item-help113",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-send-money-help293",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-pay-a-money-request-or-invoice-help316",
+      "https://www.paypal.com/us/cshelp/article/how-do-i-create-and-use-paypal-links-to-send-and-request-money-help1249",
+      "https://www.paypal.com/us/cshelp/browse-topics",
+      "https://www.paypal.com/disputes",
+      "https://www.paypal.com/myaccount/statements/tax",
+      "https://www.paypal.com/smc/async",
+      "https://www.paypal.com/us/cshelp/technical",
+      "https://www.paypal.com/us/cshelp/business"
+    ],
+    "external": []
+  },
+  "header": [
+    {
+      "text": "Rate the articleClose modal",
+      "href": null
+    }
+  ],
+  "footer": [
+    {
+      "text": "Browse All Topics",
+      "href": null
+    },
+    {
+      "text": "Resolution Center",
+      "href": null
+    },
+    {
+      "text": "Tax center",
+      "href": null
+    },
+    {
+      "text": "Message Center",
+      "href": null
+    },
+    {
+      "text": "Technical Help",
+      "href": null
+    },
+    {
+      "text": "Business Help",
+      "href": null
+    }
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241211.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 223
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2FRes_29.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 198
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241121.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 198
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F0031.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 198
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F2546.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 198
+      },
+      {
+        "src": "https://www.paypal.com/cshelp/_next/image?url=https%3A%2F%2Fwww.paypalobjects.com%2Fhelpcenter%2Fimages%2F241211_bus_help.jpg&w=828&q=75",
+        "alt": "hc-help-option-img",
+        "w": 297,
+        "h": 233
+      }
+    ],
+    "svgInline": 13,
+    "videos": [],
+    "iframes": [],
+    "cssBackgrounds": []
+  },
+  "forms": [
+    {
+      "action": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-help667",
+      "fields": [
+        {
+          "type": "text",
+          "name": "searchInputPPA"
+        }
+      ]
+    }
+  ],
+  "style": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "colors": [
+      "rgb(0, 0, 0)",
+      "rgb(0, 112, 224)",
+      "rgb(105, 105, 105)",
+      "rgb(255, 255, 255)"
+    ],
+    "backgrounds": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)"
+    ],
+    "fonts": [
+      "PayPalPlain-Regular, \"Helvetica Neue\", Arial, sans-serif",
+      "PayPalOpen-Regular, PayPalSansBig-Regular, \"Helvetica Neue\", Arial, sans-serif",
+      "PayPalOpen-Regular, \"Helvetica Neue\", Arial, sans-serif",
+      "PayPalOpen-Bold, \"Helvetica Neue\", Arial, sans-serif",
+      "PayPalPro-Black, \"Helvetica Neue\", Arial, sans-serif"
+    ],
+    "radii": [
+      "50%",
+      "2px",
+      "12px",
+      "0px 0px 6px 6px",
+      "1000px"
+    ]
+  },
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:55.223Z",
+    "waitMs": 11605,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750"
+  },
+  "slug": "cshelp-receive-money",
+  "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
+  "type": "help"
+}

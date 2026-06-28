@@ -1,0 +1,69 @@
+{
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F5F7FA",
+    "surfaceAlt": "#EDF0F2",
+    "text": "#001435",
+    "textMuted": "#696969",
+    "primary": "#003087",
+    "primaryDeep": "#001C64",
+    "accent": "#0070E0",
+    "accentLight": "#60CDFF",
+    "accentPale": "#B8E9FF"
+  },
+  "typography": {
+    "headingFamily": "PayPal Open, \"PayPal Sans\", \"Helvetica Neue\", Arial, sans-serif",
+    "bodyFamily": "\"PayPal Sans\", Plain, \"Helvetica Neue\", Arial, sans-serif",
+    "scale": "ad-hoc"
+  },
+  "rounded": "pill",
+  "spacing": "generous",
+  "components": [
+    "pill-button",
+    "rounded-image-card",
+    "stat-counter",
+    "logo-strip",
+    "layered-photo-card"
+  ],
+  "extensions": {
+    "componentStyle": {
+      "radius": {
+        "pill": "1000px",
+        "card": "12px",
+        "control": "8px",
+        "raw": [
+          "1000px",
+          "12px",
+          "50%",
+          "8px",
+          "4px",
+          "16px"
+        ]
+      },
+      "shadow": [
+        "0 2px 8px rgba(0,0,0,0.08)",
+        "0 8px 24px rgba(0,0,0,0.12)"
+      ]
+    },
+    "motifs": [
+      "pill-button",
+      "rounded-image-card",
+      "stat-counter",
+      "logo-strip",
+      "layered-photo-card"
+    ],
+    "voice": {
+      "heroHeadline": "Pay, send, and save smarter",
+      "tagline": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer.",
+      "heroImage": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/brand-moment-hero-tablet-up-v1.jpg?quality=75&width=3000&format=webp",
+      "heroMedium": null,
+      "sampleCtas": [
+        "Browse Offers",
+        "Get the Debit Card",
+        "Learn About Pay in 4",
+        "See How You're Safe"
+      ],
+      "register": "brand"
+    }
+  }
+}

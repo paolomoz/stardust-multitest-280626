@@ -1,0 +1,712 @@
+{
+  "title": "Business Resource Center | PayPal US",
+  "meta": {
+    "description": "Whether you’re just starting out, or looking to grow your business, the Business Resource Center is here to help with expert advice, best practices, leading tools, and more.",
+    "ogTitle": "Business Resource Center",
+    "ogImage": "https://www.paypalobjects.com/webstatic/icon/pp258.png",
+    "ogDescription": "Whether you’re just starting out, or looking to grow your business, the Business Resource Center is here to help with expert advice, best practices, leading tools, and more.",
+    "themeColor": "#009cde",
+    "canonical": "https://www.paypal.com/us/brc/"
+  },
+  "favicon": "https://www.paypalobjects.com/webstatic/icon/pp32.png",
+  "appleTouchIcon": "https://www.paypalobjects.com/webstatic/icon/pp64.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Welcome to your Business Resource Center"
+    },
+    {
+      "level": 2,
+      "text": "Operations"
+    },
+    {
+      "level": 2,
+      "text": "Payments"
+    },
+    {
+      "level": 2,
+      "text": "Commerce"
+    },
+    {
+      "level": 2,
+      "text": "Marketing"
+    },
+    {
+      "level": 2,
+      "text": "Resources"
+    }
+  ],
+  "body": [
+    "Get inspired by ideas that can help you grow, optimize, and protect your business. Our expert (and actionable) resources can help elevate your business, drive growth, and compete.",
+    "Explore the tools that can help you grow, drive sales, and optimize your operations management strategy.",
+    "Get leading industry insights on processing, accepting, and optimizing payments that can help drive conversions and build loyalty.",
+    "Whether you’re a global enterprise or local business, we have business commerce solutions and resources to meet your needs.",
+    "Learn how to leverage proven business marketing tactics that attract, convert, and drive loyalty.",
+    "Discover customer stories, industry trends, marketing webinars, and more."
+  ],
+  "lists": [],
+  "ctas": [
+    {
+      "label": "Business Resource Center",
+      "href": "/us/brc/"
+    },
+    {
+      "label": "Operations",
+      "href": null
+    },
+    {
+      "label": "Operations",
+      "href": "/us/brc/operations"
+    },
+    {
+      "label": "Funding",
+      "href": "/us/brc/operations/funding"
+    },
+    {
+      "label": "Accounting",
+      "href": "/us/brc/operations/accounting"
+    },
+    {
+      "label": "Fraud and Risk Management",
+      "href": "/us/brc/operations/fraud-management"
+    },
+    {
+      "label": "Security and Compliance",
+      "href": "/us/brc/operations/security-compliance"
+    },
+    {
+      "label": "Run Your Business",
+      "href": "/us/brc/operations/run-your-business"
+    },
+    {
+      "label": "Revenue Generation",
+      "href": "/us/brc/operations/revenue-generation"
+    },
+    {
+      "label": "Business Analytics",
+      "href": "/us/brc/operations/business-analytics"
+    },
+    {
+      "label": "Payments",
+      "href": null
+    },
+    {
+      "label": "Payments",
+      "href": "/us/brc/payments"
+    },
+    {
+      "label": "Payment Processing",
+      "href": "/us/brc/payments/payment-processing"
+    },
+    {
+      "label": "Payment Methods",
+      "href": "/us/brc/payments/payment-methods"
+    },
+    {
+      "label": "Billing and Expenses",
+      "href": "/us/brc/payments/billing-expenses"
+    },
+    {
+      "label": "Commerce",
+      "href": null
+    },
+    {
+      "label": "Commerce",
+      "href": "/us/brc/commerce"
+    },
+    {
+      "label": "Agentic Commerce",
+      "href": "/us/brc/commerce/agentic-commerce"
+    },
+    {
+      "label": "E-commerce",
+      "href": "/us/brc/commerce/e-commerce"
+    },
+    {
+      "label": "Omnichannel",
+      "href": "/us/brc/commerce/omnichannel"
+    },
+    {
+      "label": "Customer Experience",
+      "href": "/us/brc/commerce/customer-experience"
+    },
+    {
+      "label": "Start Up",
+      "href": "/us/brc/commerce/start-up"
+    },
+    {
+      "label": "Shipping",
+      "href": "/us/brc/commerce/shipping"
+    },
+    {
+      "label": "Charities",
+      "href": "/us/brc/commerce/charities"
+    },
+    {
+      "label": "Marketing",
+      "href": null
+    },
+    {
+      "label": "Marketing",
+      "href": "/us/brc/marketing"
+    },
+    {
+      "label": "Customer Acquisition",
+      "href": "/us/brc/marketing/customer-acquisition"
+    },
+    {
+      "label": "Digital Marketing",
+      "href": "/us/brc/marketing/digital-marketing"
+    },
+    {
+      "label": "Resources",
+      "href": null
+    },
+    {
+      "label": "Resources",
+      "href": "/us/brc/resources"
+    },
+    {
+      "label": "Webinars and Trainings",
+      "href": "/us/brc/resources/webinars-trainings"
+    },
+    {
+      "label": "Reports and Insights",
+      "href": "/us/brc/resources/reports-insights"
+    },
+    {
+      "label": "Case Studies",
+      "href": "/us/brc/resources/case-studies"
+    },
+    {
+      "label": "Business Resource Center",
+      "href": "/us/brc/"
+    },
+    {
+      "label": "Operations",
+      "href": null
+    },
+    {
+      "label": "Operations",
+      "href": "/us/brc/operations"
+    },
+    {
+      "label": "Funding",
+      "href": "/us/brc/operations/funding"
+    },
+    {
+      "label": "Accounting",
+      "href": "/us/brc/operations/accounting"
+    },
+    {
+      "label": "Fraud and Risk Management",
+      "href": "/us/brc/operations/fraud-management"
+    },
+    {
+      "label": "Security and Compliance",
+      "href": "/us/brc/operations/security-compliance"
+    },
+    {
+      "label": "Run Your Business",
+      "href": "/us/brc/operations/run-your-business"
+    },
+    {
+      "label": "Revenue Generation",
+      "href": "/us/brc/operations/revenue-generation"
+    },
+    {
+      "label": "Business Analytics",
+      "href": "/us/brc/operations/business-analytics"
+    },
+    {
+      "label": "Payments",
+      "href": null
+    },
+    {
+      "label": "Payments",
+      "href": "/us/brc/payments"
+    },
+    {
+      "label": "Payment Processing",
+      "href": "/us/brc/payments/payment-processing"
+    },
+    {
+      "label": "Payment Methods",
+      "href": "/us/brc/payments/payment-methods"
+    },
+    {
+      "label": "Billing and Expenses",
+      "href": "/us/brc/payments/billing-expenses"
+    },
+    {
+      "label": "Commerce",
+      "href": null
+    },
+    {
+      "label": "Commerce",
+      "href": "/us/brc/commerce"
+    },
+    {
+      "label": "Agentic Commerce",
+      "href": "/us/brc/commerce/agentic-commerce"
+    },
+    {
+      "label": "E-commerce",
+      "href": "/us/brc/commerce/e-commerce"
+    },
+    {
+      "label": "Omnichannel",
+      "href": "/us/brc/commerce/omnichannel"
+    },
+    {
+      "label": "Customer Experience",
+      "href": "/us/brc/commerce/customer-experience"
+    },
+    {
+      "label": "Start Up",
+      "href": "/us/brc/commerce/start-up"
+    },
+    {
+      "label": "Shipping",
+      "href": "/us/brc/commerce/shipping"
+    },
+    {
+      "label": "Charities",
+      "href": "/us/brc/commerce/charities"
+    },
+    {
+      "label": "Marketing",
+      "href": null
+    },
+    {
+      "label": "Marketing",
+      "href": "/us/brc/marketing"
+    },
+    {
+      "label": "Customer Acquisition",
+      "href": "/us/brc/marketing/customer-acquisition"
+    }
+  ],
+  "links": {
+    "internal": [
+      "https://www.paypal.com/us/brc/",
+      "https://www.paypal.com/us/brc/operations",
+      "https://www.paypal.com/us/brc/operations/funding",
+      "https://www.paypal.com/us/brc/operations/accounting",
+      "https://www.paypal.com/us/brc/operations/fraud-management",
+      "https://www.paypal.com/us/brc/operations/security-compliance",
+      "https://www.paypal.com/us/brc/operations/run-your-business",
+      "https://www.paypal.com/us/brc/operations/revenue-generation",
+      "https://www.paypal.com/us/brc/operations/business-analytics",
+      "https://www.paypal.com/us/brc/payments",
+      "https://www.paypal.com/us/brc/payments/payment-processing",
+      "https://www.paypal.com/us/brc/payments/payment-methods",
+      "https://www.paypal.com/us/brc/payments/billing-expenses",
+      "https://www.paypal.com/us/brc/commerce",
+      "https://www.paypal.com/us/brc/commerce/agentic-commerce",
+      "https://www.paypal.com/us/brc/commerce/e-commerce",
+      "https://www.paypal.com/us/brc/commerce/omnichannel",
+      "https://www.paypal.com/us/brc/commerce/customer-experience",
+      "https://www.paypal.com/us/brc/commerce/start-up",
+      "https://www.paypal.com/us/brc/commerce/shipping",
+      "https://www.paypal.com/us/brc/commerce/charities",
+      "https://www.paypal.com/us/brc/marketing",
+      "https://www.paypal.com/us/brc/marketing/customer-acquisition",
+      "https://www.paypal.com/us/brc/marketing/digital-marketing",
+      "https://www.paypal.com/us/brc/resources",
+      "https://www.paypal.com/us/brc/resources/webinars-trainings",
+      "https://www.paypal.com/us/brc/resources/reports-insights",
+      "https://www.paypal.com/us/brc/resources/case-studies",
+      "https://www.paypal.com/us/brc/article/how-to-perform-a-swot-analysis",
+      "https://www.paypal.com/us/brc/article/reach-digitally-active-consumers-with-venmo",
+      "https://www.paypal.com/us/brc/article/avoid-excessive-retries-penalties",
+      "https://www.paypal.com/us/brc/article/spring-2026-release-guide",
+      "https://www.paypal.com/us/brc/article/how-to-read-paypal-ads-dashboard",
+      "https://www.paypal.com/us/brc/article/enterprise-payments-lifecycle-strategy",
+      "https://www.paypal.com/us/brc/article/payment-optimization-hidden-roi",
+      "https://www.paypal.com/us/brc/article/dcap-payment-costs-performance",
+      "https://www.paypal.com/us/brc/article/checkout-speed-payment-flexibility-support-growth",
+      "https://www.paypal.com/us/brc/article/paypal-beyond-the-future-of-commerce",
+      "https://www.paypal.com/us/brc/article/seller-protection-agentic-commerce",
+      "https://www.paypal.com/us/brc/article/boost-sales",
+      "https://www.paypal.com/us/brc/article/repeat-bookings",
+      "https://www.paypal.com/us/brc/article/how-to-use-paypal-ads",
+      "https://www.paypal.com/us/brc/case-study/accesso-memorable-experiences-merchant-value-with-paypal",
+      "https://www.paypal.com/us/brc/article/canva-paypal-payment-links",
+      "https://www.paypal.com/us/brc/case-study/italy4real-luxury-travel-powered-by-paypal-open"
+    ],
+    "external": []
+  },
+  "header": [
+    {
+      "text": "Business Resource Center",
+      "href": "/us/brc/"
+    },
+    {
+      "text": "Operations",
+      "href": "/us/brc/operations"
+    },
+    {
+      "text": "Funding",
+      "href": "/us/brc/operations/funding"
+    },
+    {
+      "text": "Accounting",
+      "href": "/us/brc/operations/accounting"
+    },
+    {
+      "text": "Fraud and Risk Management",
+      "href": "/us/brc/operations/fraud-management"
+    },
+    {
+      "text": "Security and Compliance",
+      "href": "/us/brc/operations/security-compliance"
+    },
+    {
+      "text": "Run Your Business",
+      "href": "/us/brc/operations/run-your-business"
+    },
+    {
+      "text": "Revenue Generation",
+      "href": "/us/brc/operations/revenue-generation"
+    },
+    {
+      "text": "Business Analytics",
+      "href": "/us/brc/operations/business-analytics"
+    },
+    {
+      "text": "Payments",
+      "href": "/us/brc/payments"
+    },
+    {
+      "text": "Payment Processing",
+      "href": "/us/brc/payments/payment-processing"
+    },
+    {
+      "text": "Payment Methods",
+      "href": "/us/brc/payments/payment-methods"
+    },
+    {
+      "text": "Billing and Expenses",
+      "href": "/us/brc/payments/billing-expenses"
+    },
+    {
+      "text": "Commerce",
+      "href": "/us/brc/commerce"
+    },
+    {
+      "text": "Agentic Commerce",
+      "href": "/us/brc/commerce/agentic-commerce"
+    },
+    {
+      "text": "E-commerce",
+      "href": "/us/brc/commerce/e-commerce"
+    },
+    {
+      "text": "Omnichannel",
+      "href": "/us/brc/commerce/omnichannel"
+    },
+    {
+      "text": "Customer Experience",
+      "href": "/us/brc/commerce/customer-experience"
+    },
+    {
+      "text": "Start Up",
+      "href": "/us/brc/commerce/start-up"
+    },
+    {
+      "text": "Shipping",
+      "href": "/us/brc/commerce/shipping"
+    },
+    {
+      "text": "Charities",
+      "href": "/us/brc/commerce/charities"
+    },
+    {
+      "text": "Marketing",
+      "href": "/us/brc/marketing"
+    },
+    {
+      "text": "Customer Acquisition",
+      "href": "/us/brc/marketing/customer-acquisition"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/us/brc/marketing/digital-marketing"
+    },
+    {
+      "text": "Resources",
+      "href": "/us/brc/resources"
+    },
+    {
+      "text": "Webinars and Trainings",
+      "href": "/us/brc/resources/webinars-trainings"
+    },
+    {
+      "text": "Reports and Insights",
+      "href": "/us/brc/resources/reports-insights"
+    },
+    {
+      "text": "Case Studies",
+      "href": "/us/brc/resources/case-studies"
+    },
+    {
+      "text": "Business Resource Center",
+      "href": "/us/brc/"
+    },
+    {
+      "text": "Operations",
+      "href": "/us/brc/operations"
+    },
+    {
+      "text": "Funding",
+      "href": "/us/brc/operations/funding"
+    },
+    {
+      "text": "Accounting",
+      "href": "/us/brc/operations/accounting"
+    },
+    {
+      "text": "Fraud and Risk Management",
+      "href": "/us/brc/operations/fraud-management"
+    },
+    {
+      "text": "Security and Compliance",
+      "href": "/us/brc/operations/security-compliance"
+    },
+    {
+      "text": "Run Your Business",
+      "href": "/us/brc/operations/run-your-business"
+    },
+    {
+      "text": "Revenue Generation",
+      "href": "/us/brc/operations/revenue-generation"
+    },
+    {
+      "text": "Business Analytics",
+      "href": "/us/brc/operations/business-analytics"
+    },
+    {
+      "text": "Payments",
+      "href": "/us/brc/payments"
+    },
+    {
+      "text": "Payment Processing",
+      "href": "/us/brc/payments/payment-processing"
+    },
+    {
+      "text": "Payment Methods",
+      "href": "/us/brc/payments/payment-methods"
+    },
+    {
+      "text": "Billing and Expenses",
+      "href": "/us/brc/payments/billing-expenses"
+    },
+    {
+      "text": "Commerce",
+      "href": "/us/brc/commerce"
+    },
+    {
+      "text": "Agentic Commerce",
+      "href": "/us/brc/commerce/agentic-commerce"
+    },
+    {
+      "text": "E-commerce",
+      "href": "/us/brc/commerce/e-commerce"
+    },
+    {
+      "text": "Omnichannel",
+      "href": "/us/brc/commerce/omnichannel"
+    },
+    {
+      "text": "Customer Experience",
+      "href": "/us/brc/commerce/customer-experience"
+    },
+    {
+      "text": "Start Up",
+      "href": "/us/brc/commerce/start-up"
+    },
+    {
+      "text": "Shipping",
+      "href": "/us/brc/commerce/shipping"
+    },
+    {
+      "text": "Charities",
+      "href": "/us/brc/commerce/charities"
+    },
+    {
+      "text": "Marketing",
+      "href": "/us/brc/marketing"
+    },
+    {
+      "text": "Customer Acquisition",
+      "href": "/us/brc/marketing/customer-acquisition"
+    },
+    {
+      "text": "Digital Marketing",
+      "href": "/us/brc/marketing/digital-marketing"
+    },
+    {
+      "text": "Resources",
+      "href": "/us/brc/resources"
+    },
+    {
+      "text": "Webinars and Trainings",
+      "href": "/us/brc/resources/webinars-trainings"
+    },
+    {
+      "text": "Reports and Insights",
+      "href": "/us/brc/resources/reports-insights"
+    },
+    {
+      "text": "Case Studies",
+      "href": "/us/brc/resources/case-studies"
+    }
+  ],
+  "footer": [],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/brc/brc_two%20women%20brainstorming_Marketing_535225628.JPG?quality=75&width=900&format=webp",
+        "alt": "Two women brainstorming.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/Venmo%20image.jpg?quality=75&width=900&format=webp",
+        "alt": "Woman holding a phone in her hand making a payment with Venmo.",
+        "w": 1440,
+        "h": 1030
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/brc/corporate%20dec23/brc_enterprise%20team%20meeting_corporate_AdobeStock_636635610.jpg?quality=75&width=900&format=webp",
+        "alt": "Colleagues sitting around a table in a meeting room",
+        "w": 1440,
+        "h": 942
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/06-PAYPAL-2023_BISTRO-TABLE_1626.jpg?quality=75&width=900&format=webp",
+        "alt": "Customer using PayPal card at checkout",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/paypal-ads-dashboard-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "Business owner views their PayPal Ads dashboard.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/AdobeStock_462718916_FINAL%20HERO.jpeg?quality=75&width=900&format=webp",
+        "alt": "Two focused people looking at a laptop screen.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/brc/brc_data%20graphs%20on%20laptop%20and%20phone_RevGeneration%20and%20Analytics_359512959.jpg?quality=75&width=900&format=webp",
+        "alt": "Enterprise payments leader reviewing transaction performance metrics on a dashboard",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web26/us/brc/hero-banner.jpeg?quality=75&width=900&format=webp",
+        "alt": "A professional woman reviews information on a laptop in a modern office environment.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/AdobeStock_1920935249_HERO%20IMAGE.jpg?quality=75&width=900&format=webp",
+        "alt": "Person sitting on a couch, using their mobile device.",
+        "w": 1440,
+        "h": 958
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/PayPal%20Beyond%20Newsroom%20visual%20REV.png?quality=75&width=900&format=webp",
+        "alt": "PayPal Beyond",
+        "w": 1440,
+        "h": 640
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/paypal-seller-protection-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "Coffee shop owner reviews fraud risks on a computer.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/brc/reimagine-travel-payment-solutions/hero-image.jpg?quality=75&width=900&format=webp",
+        "alt": "A man lifts a woman with raised arms in a joyful, celebratory embrace on a rocky hilltop with dozens of colorful hot air balloons floating across a vivid blue sky.",
+        "w": 1440,
+        "h": 961
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/web/brc/adventures-are-on-the-rise/hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A smiling man sitting in an airplane window seat, wearing a denim jacket and white headphones around his neck, looking at his smartphone.",
+        "w": 1440,
+        "h": 958
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/how-to-use-paypal-ads-hero.jpg?quality=75&width=900&format=webp",
+        "alt": "A businessperson creates a PayPal ad for their ceramics business.",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/US_accesso-case-study_header.jpg?quality=75&width=900&format=webp",
+        "alt": "A joyful family of four walking through a theme park on a sunny day, smiling and laughing, with a roller coaster visible in the background.",
+        "w": 1440,
+        "h": 958
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/canva_paypal.png?quality=75&width=900&format=webp",
+        "alt": "Canva and PayPal logos side by side.",
+        "w": 1440,
+        "h": 798
+      },
+      {
+        "src": "https://www.paypalobjects.com/marketing/PayPal_CaseStudy_Italy4Real_Article_Desktop_Hero_Image.jpg?quality=75&width=900&format=webp",
+        "alt": "Photograph of the The Roman Colosseum photographed at an angle from below",
+        "w": 1440,
+        "h": 811
+      }
+    ],
+    "svgInline": 73,
+    "videos": [],
+    "iframes": [],
+    "cssBackgrounds": []
+  },
+  "forms": [],
+  "style": {
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "colors": [
+      "rgb(0, 0, 0)",
+      "rgb(0, 0, 238)",
+      "rgb(255, 255, 255)"
+    ],
+    "backgrounds": [
+      "rgb(0, 0, 0)",
+      "rgba(255, 255, 255, 0)",
+      "rgb(255, 255, 255)"
+    ],
+    "fonts": [
+      "Plain, \"Helvetica Neue\", Arial, sans-serif",
+      "\"PayPal Pro\", \"Century Gothic\", \"Helvetica Neue\", Arial, sans-serif",
+      "Plain, Helvetica, Arial"
+    ],
+    "radii": [
+      "12px",
+      "1000px"
+    ]
+  },
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:33.375Z",
+    "waitMs": 11201,
+    "waitMode": "domcontentloaded(fb)",
+    "httpStatus": 200,
+    "url": "https://www.paypal.com/us/brc/"
+  },
+  "slug": "brc-index",
+  "url": "https://www.paypal.com/us/brc/",
+  "type": "listing"
+}

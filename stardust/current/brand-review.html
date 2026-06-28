@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PayPal — Brand Extraction Review</title>
+<style>
+:root{--navy:#001435;--primary:#003087;--accent:#0070E0;--light:#60CDFF;--pale:#B8E9FF;--surface:#F5F7FA}
+body{font-family:"Helvetica Neue",Arial,sans-serif;color:var(--navy);margin:0;background:#fff;line-height:1.5}
+header{background:var(--primary);color:#fff;padding:40px 48px}
+header img{height:40px}
+h1{font-size:34px;margin:18px 0 4px}
+section{padding:28px 48px;border-bottom:1px solid #EDF0F2}
+h2{font-size:20px;color:var(--primary)}
+.sw{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.sw div{width:120px;height:72px;border-radius:12px;display:flex;align-items:flex-end;padding:6px;font-size:11px;color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+.cite{color:#696969;font-size:12px;margin-top:8px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:10px}
+td,th{border:1px solid #EDF0F2;padding:6px 10px;text-align:left}
+.pill{display:inline-block;background:var(--accent);color:#fff;border-radius:1000px;padding:10px 22px;font-weight:600}
+</style></head><body>
+<header><img src="assets/logo-white.svg" alt="PayPal"><h1>Brand Extraction Review</h1>
+<div>www.paypal.com/us — 12 pages, live Playwright render</div></header>
+
+<section><h2>Palette</h2>
+<div class="sw">
+<div style="background:#001435">#001435 navy/text</div>
+<div style="background:#001C64">#001C64 deep</div>
+<div style="background:#003087">#003087 primary</div>
+<div style="background:#0070E0">#0070E0 accent</div>
+<div style="background:#60CDFF;color:#001435">#60CDFF light</div>
+<div style="background:#B8E9FF;color:#001435">#B8E9FF pale</div>
+<div style="background:#F5F7FA;color:#001435">#F5F7FA surface</div>
+</div>
+<p class="cite">Source: _brand-extraction.json § palette (cross-page computed colors)</p></section>
+
+<section><h2>Typography</h2>
+<p style="font-size:40px;font-weight:700;margin:8px 0">Pay, send, and save smarter</p>
+<p>Body — PayPal Sans / Plain. Headings — PayPal Open. From paying friends to saving money or getting cash back when you shop.</p>
+<p class="cite">Source: _brand-extraction.json § type (Plain, PayPalOpen-Bold, PayPal Pro)</p></section>
+
+<section><h2>Shape &amp; CTA</h2>
+<span class="pill">Browse Offers</span>
+<p class="cite">Pill (1000px) CTAs · 12px image cards · 8px controls · soft shadow. Source: § motifs.radius</p></section>
+
+<section><h2>Templates extracted (10 archetypes)</h2>
+<table><tr><th>Template</th><th>Example</th></tr>
+<tr><td>home</td><td>/us/home</td></tr>
+<tr><td>solution/product</td><td>/us/business/accept-payments/checkout</td></tr>
+<tr><td>product (POS)</td><td>/us/business/pos-system</td></tr>
+<tr><td>info/fees</td><td>/us/webapps/mpp/paypal-fees</td></tr>
+<tr><td>info/trust</td><td>/us/webapps/mpp/paypal-safety-and-security</td></tr>
+<tr><td>landing hub</td><td>/us/money-hub · /us/digital-wallet · /us/business</td></tr>
+<tr><td>listing</td><td>/us/brc/</td></tr>
+<tr><td>article</td><td>/us/brc/article/accepting-donations-online</td></tr>
+<tr><td>help/FAQ</td><td>/us/cshelp/article/...receive-money...</td></tr>
+<tr><td>form/contact</td><td>/us/smarthelp/contact-us</td></tr>
+</table></section>
+
+<section><h2>Tensions</h2>
+<p>1. Two audiences (consumer + business) share one chrome — IA split via Personal/Business toggle.<br>
+2. Expressive animated counters vs dense fee tables coexist — design must scale from playful to reference.<br>
+3. cssBackgrounds=0 across all pages: imagery is all <code>&lt;img&gt;</code>/<code>&lt;picture&gt;</code> rasters (healthy img coverage 25–80/page), not a capture failure.</p></section>
+</body></html>

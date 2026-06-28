@@ -1,0 +1,227 @@
+{
+  "_provenance": {
+    "generatedFrom": "playwright extraction of 12 paypal.com pages",
+    "fetchedAt": "2026-06-28T09:21:40.172Z",
+    "notes": "cssBackgrounds 0 across pages: paypal uses <img>/<picture> rasters not CSS bg; img coverage strong (25-80/page)"
+  },
+  "logo": {
+    "colorPath": "assets/logo.svg",
+    "whitePath": "assets/logo-white.svg",
+    "monogramPath": "assets/monogram.svg",
+    "source": "https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg"
+  },
+  "favicon": {
+    "path": "assets/favicon.png",
+    "source": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png"
+  },
+  "palette": {
+    "background": "#FFFFFF",
+    "surface": "#F5F7FA",
+    "surfaceAlt": "#EDF0F2",
+    "surfaceCream": "#FAF8F5",
+    "text": "#001435",
+    "textMuted": "#696969",
+    "primary": "#003087",
+    "primaryDeep": "#001C64",
+    "primaryNavy": "#001435",
+    "accentBlue": "#0070E0",
+    "accentLight": "#60CDFF",
+    "accentPale": "#B8E9FF",
+    "_rawTopColors": [
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 238)",
+      "rgb(105, 105, 105)",
+      "rgb(0, 28, 100)",
+      "rgb(0, 112, 224)",
+      "rgb(96, 205, 255)",
+      "rgb(0, 48, 135)",
+      "rgb(0, 20, 53)"
+    ],
+    "_rawTopBackgrounds": [
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0)",
+      "rgb(245, 247, 250)",
+      "rgb(230, 231, 232)",
+      "rgb(237, 240, 242)",
+      "rgb(204, 204, 204)",
+      "rgb(0, 41, 145)",
+      "rgba(255, 255, 255, 0.25)",
+      "rgb(250, 248, 245)"
+    ]
+  },
+  "type": {
+    "headingFamily": "PayPal Open, \"PayPal Sans\", \"Helvetica Neue\", Arial, sans-serif",
+    "bodyFamily": "\"PayPal Sans\", Plain, \"Helvetica Neue\", Arial, sans-serif",
+    "rawFamilies": [
+      "Plain, \"Helvetica Neue\", Arial, sans-serif",
+      "Plain, Helvetica, Arial",
+      "\"PayPal Pro\", \"Century Gothic\", Helvetica, Arial, sans-serif",
+      "\"PayPal Pro\", \"Helvetica Neue\", Arial, sans-serif",
+      "\"PayPal Pro\", \"Century Gothic\", \"Helvetica Neue\", Arial, sans-serif",
+      "Times"
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "note": "large display headings, pill CTAs"
+    },
+    "files": []
+  },
+  "motifs": {
+    "radius": {
+      "pill": "1000px",
+      "card": "12px",
+      "control": "8px",
+      "raw": [
+        "1000px",
+        "12px",
+        "50%",
+        "8px",
+        "4px",
+        "16px"
+      ]
+    },
+    "patterns": [
+      "pill-button",
+      "rounded-image-card",
+      "stat-counter",
+      "logo-strip",
+      "layered-photo-card"
+    ],
+    "shadow": [
+      "0 2px 8px rgba(0,0,0,0.08)",
+      "0 8px 24px rgba(0,0,0,0.12)"
+    ]
+  },
+  "voice": {
+    "heroHeadline": "Pay, send, and save smarter",
+    "tagline": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer.",
+    "heroImage": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/brand-moment-hero-tablet-up-v1.jpg?quality=75&width=3000&format=webp",
+    "heroMedium": null,
+    "sampleCtas": [
+      "Browse Offers",
+      "Get the Debit Card",
+      "Learn About Pay in 4",
+      "See How You're Safe"
+    ],
+    "register": "brand"
+  },
+  "systemComponents": {
+    "header": {
+      "present": true,
+      "links": [
+        {
+          "text": "Personal",
+          "href": "home"
+        },
+        {
+          "text": "Business",
+          "href": "business"
+        }
+      ]
+    },
+    "footer": {
+      "present": true,
+      "links": []
+    }
+  },
+  "pages": [
+    {
+      "slug": "brc-article-donations",
+      "type": "article",
+      "title": "Accepting Donations Online as a Nonprofit | PayPal US",
+      "url": "https://www.paypal.com/us/brc/article/accepting-donations-online",
+      "headings": 5,
+      "imgs": 5
+    },
+    {
+      "slug": "brc-index",
+      "type": "listing",
+      "title": "Business Resource Center | PayPal US",
+      "url": "https://www.paypal.com/us/brc/",
+      "headings": 6,
+      "imgs": 17
+    },
+    {
+      "slug": "business-checkout",
+      "type": "solution",
+      "title": "PayPal Checkout Solutions for Businesses | PayPal US",
+      "url": "https://www.paypal.com/us/business/accept-payments/checkout",
+      "headings": 20,
+      "imgs": 13
+    },
+    {
+      "slug": "business-hub",
+      "type": "landing",
+      "title": "Payments Processing Solutions for All Business | PayPal US",
+      "url": "https://www.paypal.com/us/business",
+      "headings": 24,
+      "imgs": 80
+    },
+    {
+      "slug": "contact-us",
+      "type": "form",
+      "title": "PayPal Contact Us | PayPal US",
+      "url": "https://www.paypal.com/us/smarthelp/contact-us",
+      "headings": 8,
+      "imgs": 3
+    },
+    {
+      "slug": "cshelp-receive-money",
+      "type": "help",
+      "title": "How to Receive Money on PayPal | PayPal US",
+      "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
+      "headings": 18,
+      "imgs": 6
+    },
+    {
+      "slug": "digital-wallet",
+      "type": "landing",
+      "title": "All-In-One Payment App | Digital Wallet | PayPal US",
+      "url": "https://www.paypal.com/us/digital-wallet",
+      "headings": 14,
+      "imgs": 8
+    },
+    {
+      "slug": "home",
+      "type": "home",
+      "title": "Pay, Send and Save Money with PayPal | PayPal US",
+      "url": "https://www.paypal.com/us/home",
+      "headings": 28,
+      "imgs": 25
+    },
+    {
+      "slug": "money-hub",
+      "type": "landing",
+      "title": "PayPal Money Hub | PayPal US",
+      "url": "https://www.paypal.com/us/money-hub",
+      "headings": 5,
+      "imgs": 14
+    },
+    {
+      "slug": "paypal-fees",
+      "type": "info",
+      "title": "Fees | PayPal Consumer | PayPal US",
+      "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
+      "headings": 35,
+      "imgs": 0
+    },
+    {
+      "slug": "pos-system",
+      "type": "product",
+      "title": "Point of Sale System | POS System | PayPal US",
+      "url": "https://www.paypal.com/us/business/pos-system",
+      "headings": 36,
+      "imgs": 13
+    },
+    {
+      "slug": "safety-security",
+      "type": "info",
+      "title": "PayPal Purchase Protection | Secure Shopping | PayPal US",
+      "url": "https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security",
+      "headings": 21,
+      "imgs": 2
+    }
+  ]
+}
