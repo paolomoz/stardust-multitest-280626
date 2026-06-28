@@ -62,19 +62,19 @@
     {
       "slug": "explore__life-hacks__how-to-work-from-home-and-win-the-day",
       "url": "https://www.samsung.com/us/explore/life-hacks/how-to-work-from-home-and-win-the-day/",
-      "status": "directed",
+      "status": "approved",
       "type": "editorial-article",
       "currentStatePath": "stardust/current/pages/explore__life-hacks__how-to-work-from-home-and-win-the-day.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/article-proposed.html",
       "migratedPath": null
     },
     {
       "slug": "home",
       "url": "https://www.samsung.com/us/",
-      "status": "directed",
+      "status": "approved",
       "type": "home",
       "currentStatePath": "stardust/current/pages/home.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null
     },
     {
@@ -174,5 +174,9 @@
     "directionFile": "stardust/direction.md",
     "mode": "A",
     "variantMode": "single"
+  },
+  "archetypeProtos": {
+    "home": "stardust/prototypes/home-proposed.html",
+    "article": "stardust/prototypes/article-proposed.html"
   }
 }
