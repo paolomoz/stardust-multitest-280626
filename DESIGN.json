@@ -1,0 +1,23 @@
+{
+  "_provenance": { "writtenBy": "stardust:direct", "mode": "A (brand-faithful)", "brandSignal": "signal-strong", "writtenAt": "2026-06-28" },
+  "schemaVersion": 2,
+  "colors": { "background": "#FFFFFF", "surface": "#F7F0E4", "surfaceDeep": "#1E3932", "text": "#1A1A1A", "textMuted": "#4A4A4A", "primary": "#00754A", "primaryDark": "#006442", "accent": "#CBA258" },
+  "typography": { "heading": "'SoDo Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif", "body": "'SoDo Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif", "scaleRatio": 1.25 },
+  "rounded": "lg",
+  "spacing": { "base": "4pt", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "componentStyle": { "buttons": "pill, ~24px radius, green fill primary / green ghost secondary", "cards": "white, 16px radius, soft shadow, image-top", "inputs": "rounded, light border", "dualCTAPattern": "avoid SaaS dual-blue; one primary green pill + secondary text link" },
+    "motifs": ["pill-button", "product-card", "category-grid", "hero-card", "editorial-band"],
+    "motion": { "register": "kinetic-grid", "registerRationale": "product/commerce register — modular catalogue of menu cards; gentle grid reveals", "durations": { "enter": 400, "stagger": 60 } },
+    "systemComponentRoles": {
+      "header": { "purpose": "global nav: Menu/Rewards/Gift/Find a store/Sign in/Join now + Siren logo", "position": "sticky-top" },
+      "footer": { "purpose": "5-column link directory + legal + copyright", "position": "page-end" }
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "home hero CTA 'Start an order' + header 'Join now'/'Find a store'", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" }
+    ],
+    "voice": { "do": ["It's a great day for coffee", "warm, optimistic, sentence-case headlines"], "dont": ["coupon-speak", "all-caps shouting in body"] },
+    "brand_faithful_inversions": [ { "retained": "Siren green #00754A", "reason": "load-bearing brand identity" }, { "retained": "white ground", "reason": "captured background is stark-white" } ]
+  },
+  "narrative": { "northStar": "The warm, photography-led front door to Starbucks — modernized, calmer, faster to the next action." }
+}

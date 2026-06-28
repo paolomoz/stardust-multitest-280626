@@ -15,7 +15,7 @@
     {
       "slug": "about-us",
       "template": "editorial",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/about-us.json",
       "prototypePath": null,
       "migratedPath": null
@@ -23,7 +23,7 @@
     {
       "slug": "contact",
       "template": "contact",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/contact.json",
       "prototypePath": null,
       "migratedPath": null
@@ -31,7 +31,7 @@
     {
       "slug": "gift",
       "template": "commerce",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/gift.json",
       "prototypePath": null,
       "migratedPath": null
@@ -39,7 +39,7 @@
     {
       "slug": "home",
       "template": "home",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/home.json",
       "prototypePath": null,
       "migratedPath": null
@@ -47,7 +47,7 @@
     {
       "slug": "menu-at-home-coffee-whole-bean",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-at-home-coffee-whole-bean.json",
       "prototypePath": null,
       "migratedPath": null
@@ -55,7 +55,7 @@
     {
       "slug": "menu-drinks-bottled-beverages",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-bottled-beverages.json",
       "prototypePath": null,
       "migratedPath": null
@@ -63,7 +63,7 @@
     {
       "slug": "menu-drinks-cold-coffee",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-coffee.json",
       "prototypePath": null,
       "migratedPath": null
@@ -71,7 +71,7 @@
     {
       "slug": "menu-drinks-cold-tea",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-tea.json",
       "prototypePath": null,
       "migratedPath": null
@@ -79,7 +79,7 @@
     {
       "slug": "menu-drinks-frappuccino-blended-beverage",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-frappuccino-blended-beverage.json",
       "prototypePath": null,
       "migratedPath": null
@@ -87,7 +87,7 @@
     {
       "slug": "menu-drinks-hot-chocolate-lemonade-more",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-chocolate-lemonade-more.json",
       "prototypePath": null,
       "migratedPath": null
@@ -95,7 +95,7 @@
     {
       "slug": "menu-drinks-hot-coffee",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-coffee.json",
       "prototypePath": null,
       "migratedPath": null
@@ -103,7 +103,7 @@
     {
       "slug": "menu-drinks-hot-tea",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-tea.json",
       "prototypePath": null,
       "migratedPath": null
@@ -111,7 +111,7 @@
     {
       "slug": "menu-drinks-protein-beverages",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-protein-beverages.json",
       "prototypePath": null,
       "migratedPath": null
@@ -119,7 +119,7 @@
     {
       "slug": "menu-drinks-refreshers",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-drinks-refreshers.json",
       "prototypePath": null,
       "migratedPath": null
@@ -127,7 +127,7 @@
     {
       "slug": "menu-featured",
       "template": "menu-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-featured.json",
       "prototypePath": null,
       "migratedPath": null
@@ -135,7 +135,7 @@
     {
       "slug": "menu-food-bakery",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-food-bakery.json",
       "prototypePath": null,
       "migratedPath": null
@@ -143,7 +143,7 @@
     {
       "slug": "menu-food-breakfast",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-food-breakfast.json",
       "prototypePath": null,
       "migratedPath": null
@@ -151,7 +151,7 @@
     {
       "slug": "menu-food-lunch",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-food-lunch.json",
       "prototypePath": null,
       "migratedPath": null
@@ -159,7 +159,7 @@
     {
       "slug": "menu-food-snacks",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-food-snacks.json",
       "prototypePath": null,
       "migratedPath": null
@@ -167,7 +167,7 @@
     {
       "slug": "menu-food-treats",
       "template": "menu-category",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu-food-treats.json",
       "prototypePath": null,
       "migratedPath": null
@@ -175,7 +175,7 @@
     {
       "slug": "menu",
       "template": "menu-landing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/menu.json",
       "prototypePath": null,
       "migratedPath": null
@@ -183,7 +183,7 @@
     {
       "slug": "rewards",
       "template": "program",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/rewards.json",
       "prototypePath": null,
       "migratedPath": null
@@ -191,10 +191,17 @@
     {
       "slug": "stores-and-ordering",
       "template": "marketing",
-      "status": "extracted",
+      "status": "directed",
       "currentStatePath": "stardust/current/pages/stores-and-ordering.json",
       "prototypePath": null,
       "migratedPath": null
     }
-  ]
+  ],
+  "direction": {
+    "resolvedAt": "2026-06-28T09:31:48.655Z",
+    "phrase": "Faithful redesign, modernized.",
+    "directionFile": "stardust/direction.md",
+    "mode": "A",
+    "variantMode": "single"
+  }
 }
