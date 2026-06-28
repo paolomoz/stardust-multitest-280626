@@ -11,7 +11,7 @@
       "slug": "brc-article-donations",
       "url": "https://www.paypal.com/us/brc/article/accepting-donations-online",
       "type": "article",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/brc-article-donations.json",
       "prototypePath": "stardust/prototypes/brc-article-donations-proposed.html",
       "migratedPath": null
@@ -20,7 +20,7 @@
       "slug": "brc-index",
       "url": "https://www.paypal.com/us/brc/",
       "type": "listing",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/brc-index.json",
       "prototypePath": "stardust/prototypes/brc-index-proposed.html",
       "migratedPath": null
@@ -29,7 +29,7 @@
       "slug": "business-checkout",
       "url": "https://www.paypal.com/us/business/accept-payments/checkout",
       "type": "solution",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/business-checkout.json",
       "prototypePath": "stardust/prototypes/business-checkout-proposed.html",
       "migratedPath": null
@@ -38,7 +38,7 @@
       "slug": "business-hub",
       "url": "https://www.paypal.com/us/business",
       "type": "landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/business-hub.json",
       "prototypePath": null,
       "migratedPath": null
@@ -47,7 +47,7 @@
       "slug": "contact-us",
       "url": "https://www.paypal.com/us/smarthelp/contact-us",
       "type": "form",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/contact-us.json",
       "prototypePath": "stardust/prototypes/contact-us-proposed.html",
       "migratedPath": null
@@ -56,7 +56,7 @@
       "slug": "cshelp-receive-money",
       "url": "https://www.paypal.com/us/cshelp/article/how-do-i-receive-money-through-paypal-faq1750",
       "type": "help",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/cshelp-receive-money.json",
       "prototypePath": "stardust/prototypes/cshelp-receive-money-proposed.html",
       "migratedPath": null
@@ -65,7 +65,7 @@
       "slug": "digital-wallet",
       "url": "https://www.paypal.com/us/digital-wallet",
       "type": "landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/digital-wallet.json",
       "prototypePath": null,
       "migratedPath": null
@@ -74,7 +74,7 @@
       "slug": "home",
       "url": "https://www.paypal.com/us/home",
       "type": "home",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/home.json",
       "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null
@@ -83,7 +83,7 @@
       "slug": "money-hub",
       "url": "https://www.paypal.com/us/money-hub",
       "type": "landing",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/money-hub.json",
       "prototypePath": "stardust/prototypes/money-hub-proposed.html",
       "migratedPath": null
@@ -92,7 +92,7 @@
       "slug": "paypal-fees",
       "url": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
       "type": "info",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/paypal-fees.json",
       "prototypePath": "stardust/prototypes/paypal-fees-proposed.html",
       "migratedPath": null
@@ -101,7 +101,7 @@
       "slug": "pos-system",
       "url": "https://www.paypal.com/us/business/pos-system",
       "type": "product",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/pos-system.json",
       "prototypePath": null,
       "migratedPath": null
@@ -110,7 +110,7 @@
       "slug": "safety-security",
       "url": "https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security",
       "type": "info",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/safety-security.json",
       "prototypePath": null,
       "migratedPath": null
@@ -121,5 +121,12 @@
     "phrase": "faithful redesign, modernized",
     "directionFile": "stardust/direction.md",
     "mode": "A-brand-faithful"
+  },
+  "deploy": {
+    "host": "https://site-paypal--stardust-multitest-280626--paolomoz.aem.live",
+    "daSubfolder": "/paypal/",
+    "pagesDeployed": 13,
+    "home": "/paypal/",
+    "deployedAt": "2026-06-28"
   }
 }
