@@ -27,9 +27,9 @@
       "slug": "products",
       "url": "https://www.sony.com/en/SonyInfo/products/",
       "type": "listing",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/products.json",
-      "prototypePath": "",
+      "prototypePath": "stardust/prototypes/products-proposed.html",
       "migratedPath": ""
     },
     {
@@ -54,9 +54,9 @@
       "slug": "message",
       "url": "https://www.sony.com/en/SonyInfo/message/",
       "type": "article",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/message.json",
-      "prototypePath": "",
+      "prototypePath": "stardust/prototypes/message-proposed.html",
       "migratedPath": ""
     },
     {
