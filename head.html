@@ -1,9 +1,15 @@
-<meta
-  http-equiv="Content-Security-Policy"
-  content="script-src 'nonce-aem' 'strict-dynamic' 'unsafe-inline' http: https:; base-uri 'self'; object-src 'none';"
-  move-to-http-header="true"
->
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<script nonce="aem" src="/scripts/aem.js" type="module"></script>
-<script nonce="aem" src="/scripts/scripts.js" type="module"></script>
 <link rel="stylesheet" href="/styles/styles.css"/>
+<script src="/scripts/scripts.js" type="module"></script>
+<script src="/scripts/ak.js" type="module"></script>
+<link rel="icon" href="/icons/favicon.svg"/>
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "Organization", "@id": "https://www.paramount.com/#organization", "name": "Paramount", "legalName": "Paramount Skydance Corporation", "url": "https://www.paramount.com/", "logo": "/icons/paramount-logo.svg", "sameAs": ["https://www.facebook.com/Paramount","https://www.instagram.com/paramount/","https://www.linkedin.com/company/paramount"] },
+    { "@type": "WebSite", "@id": "https://www.paramount.com/#website", "name": "Paramount", "url": "https://www.paramount.com/", "publisher": { "@id": "https://www.paramount.com/#organization" } }
+  ]
+}
+</script>
