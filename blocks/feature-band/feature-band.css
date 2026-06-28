@@ -1,0 +1,13 @@
+.feature-band{padding:0}
+.feature-band .feature{background:var(--ink);color:#fff;border-radius:var(--radius);overflow:hidden;display:grid;grid-template-columns:1.1fr 1fr;align-items:center}
+.feature-band .feature-copy{padding:clamp(28px,5vw,56px)}
+.feature-band .feature-copy .eyebrow{color:rgb(255 255 255 / 70%)}
+.feature-band .feature-copy h2{font-size:clamp(1.8rem,3.2vw,2.6rem);margin:10px 0 14px}
+.feature-band .feature-copy p:not(.eyebrow){color:rgb(255 255 255 / 85%);max-width:44ch;margin-bottom:24px}
+.feature-band .feature-img{aspect-ratio:16/11;height:100%}
+.feature-band .feature-img img,.feature-band .feature-img picture{width:100%;height:100%;object-fit:cover}
+
+@media (max-width:900px){
+  .feature-band .feature{grid-template-columns:1fr}
+  .feature-band .feature-img{order:-1;aspect-ratio:16/9}
+}

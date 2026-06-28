@@ -1,0 +1,8 @@
+.article-body{padding-block:var(--pad-section)}
+.article-body .article-col{max-width:820px}
+.article-body .lede{font-size:1.3rem;line-height:1.5;color:var(--ink);margin-bottom:40px}
+.article-body h2{font-size:clamp(1.5rem,3vw,2rem);margin:44px 0 14px}
+.article-body p{max-width:68ch;color:#1a1a1a;margin-bottom:16px;line-height:1.6}
+.article-body ul,.article-body ol{max-width:68ch;margin:0 0 16px 1.2em;color:#1a1a1a;line-height:1.6}
+.article-body li{margin-bottom:8px}
+.article-body .endcta{margin-top:40px}

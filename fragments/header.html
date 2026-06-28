@@ -1,0 +1,43 @@
+<style>
+header.header{position:sticky;top:0;z-index:100;background:rgb(255 255 255 / 95%);backdrop-filter:saturate(180%) blur(8px);border-bottom:1px solid var(--border)}
+header.header .hbar{display:flex;align-items:center;gap:24px;height:64px;max-width:var(--maxw,1280px);margin-inline:auto;padding-inline:24px}
+header.header .logo{color:var(--ink);width:124px;flex:none;display:block}
+header.header .logo svg{width:100%;height:auto;display:block}
+header.header nav.mainnav{display:flex;gap:22px;font-family:var(--font-body);font-weight:700;font-size:.95rem;flex:1}
+header.header nav.mainnav a{padding:6px 0;border-bottom:2px solid transparent;transition:color .15s,border-color .15s;color:var(--ink)}
+header.header nav.mainnav a:hover{color:var(--primary);border-color:var(--primary)}
+header.header .utility{display:flex;gap:18px;align-items:center}
+header.header .utility a{display:inline-flex;color:var(--ink)}
+header.header .utility svg{width:22px;height:22px}
+header.header .nav-toggle{position:absolute;opacity:0;pointer-events:none}
+header.header .burger{display:none;width:40px;height:40px;align-items:center;justify-content:center;color:var(--ink)}
+header.header .burger svg{width:26px;height:26px}
+@media (max-width:768px){
+  header.header nav.mainnav,header.header .utility{display:none}
+  header.header .burger{display:inline-flex}
+  header.header .nav-toggle:checked ~ .hbar nav.mainnav{display:flex;position:absolute;top:64px;left:0;right:0;flex-direction:column;background:#fff;border-bottom:1px solid var(--border);padding:16px 24px;gap:10px}
+  header.header .nav-toggle:checked ~ .hbar .utility{display:flex;position:absolute;top:64px;right:24px;z-index:2}
+}
+</style>
+<input type="checkbox" id="samsung-nav-toggle" class="nav-toggle" aria-hidden="true">
+<div class="hbar">
+  <a class="logo" href="/samsung" aria-label="Samsung home">
+    <svg viewBox="0 0 200 28" role="img" aria-label="Samsung"><text x="0" y="22" font-family="'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="1.5" fill="currentColor">SAMSUNG</text></svg>
+  </a>
+  <nav class="mainnav" aria-label="Primary">
+    <a href="/samsung/smartphones/all-smartphones">Mobile</a>
+    <a href="/samsung/tvs/all-tvs">TV &amp; Audio</a>
+    <a href="/samsung/refrigerators/all-refrigerators">Appliances</a>
+    <a href="/samsung/computers/galaxy-book">Computing</a>
+    <a href="/samsung/monitors/all-monitors">Displays</a>
+    <a href="/samsung/accessories">Accessories</a>
+    <a href="/samsung/shop">Shop</a>
+    <a href="/samsung/support">Support</a>
+  </nav>
+  <div class="utility">
+    <a href="/samsung/support" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></a>
+    <a href="/samsung/support/account/products" aria-label="Account"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg></a>
+    <a href="/samsung/web/my-orders" aria-label="Cart"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 4h2l2.4 12.3a2 2 0 0 0 2 1.7h7.7a2 2 0 0 0 2-1.6L22 8H6"/><circle cx="10" cy="21" r="1"/><circle cx="18" cy="21" r="1"/></svg></a>
+  </div>
+  <label class="burger" for="samsung-nav-toggle" aria-label="Toggle menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg></label>
+</div>

@@ -1,0 +1,13 @@
+.category-tiles{padding:0}
+.category-tiles .tiles-head{margin-bottom:28px}
+.category-tiles .tiles-head h2{font-size:clamp(1.6rem,3vw,2.4rem)}
+.category-tiles .tiles-grid{display:grid;grid-template-columns:repeat(8,1fr);gap:8px}
+.category-tiles .tile{display:flex;flex-direction:column;align-items:center;gap:12px;padding:20px 8px;border-radius:var(--radius);text-align:center;transition:background .2s}
+.category-tiles .tile:hover{background:var(--surface)}
+.category-tiles .chip{width:72px;height:72px;border-radius:50%;background:var(--surface);display:flex;align-items:center;justify-content:center;position:relative}
+.category-tiles .tile:hover .chip{background:#fff;box-shadow:inset 0 0 0 2px var(--primary)}
+.category-tiles .chip::after{content:"";width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,var(--primary),var(--primary-dark))}
+.category-tiles .tile-label{font-weight:700;font-size:.85rem}
+
+@media (max-width:900px){.category-tiles .tiles-grid{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:480px){.category-tiles .tiles-grid{grid-template-columns:repeat(2,1fr)}}

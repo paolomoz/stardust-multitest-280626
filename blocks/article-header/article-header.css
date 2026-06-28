@@ -1,0 +1,4 @@
+.article-header{background:var(--ink);color:#fff;padding-block:clamp(56px,9vw,112px)}
+.article-header .eyebrow{color:var(--primary)}
+.article-header h1{font-size:clamp(2.4rem,6vw,4.25rem);max-width:16ch;margin:14px 0 18px}
+.article-header .ahero-deck{font-size:clamp(1.05rem,2vw,1.4rem);color:rgb(255 255 255 / 82%);max-width:48ch}
