@@ -11,3 +11,9 @@ helix-importer-ui
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# Stardust migration excludes
+.env*
+qa/
+samples/
+stardust/
