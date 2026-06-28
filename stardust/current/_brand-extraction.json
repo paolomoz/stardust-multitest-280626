@@ -1,0 +1,69 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T00:00:00Z",
+    "renderedBy": "playwright",
+    "fetchTechnique": "headed-chrome (Akamai bot-management fallback; headless returned 403 Access Denied)",
+    "readArtifacts": ["pages/home.json", "pages/gig.json", "pages/learn-deals.json", "pages/compare-xfinity-vs-att.json", "_chrome-nav.json"],
+    "aggregationScope": "12 pages across distinct templates"
+  },
+  "site": { "name": "Xfinity", "origin": "https://www.xfinity.com", "owner": "Comcast" },
+  "logo": {
+    "method": "synthesized-wordmark",
+    "note": "Real logo not capturable: header/footer are xc-header/xc-footer web components with closed prism-icon glyph; deep shadow-DOM walk found no img/svg/css-bg logo. Reconstructed the Xfinity lowercase wordmark as inline SVG for the migration header. favicon.ico captured as the real brand mark.",
+    "faviconCaptured": "assets/favicon.ico",
+    "themeColor": "#000000"
+  },
+  "palette": [
+    { "role": "background", "value": "#FFFFFF" },
+    { "role": "ink", "value": "#141417", "note": "primary text, rgb(20,20,23)" },
+    { "role": "black", "value": "#000000", "note": "hero/nav backgrounds, theme-color" },
+    { "role": "slate", "value": "#4C4E54", "note": "secondary text rgb(76,78,84)" },
+    { "role": "surface", "value": "#F6F6F9", "note": "tile/section fill rgb(246,246,249)" },
+    { "role": "primary", "value": "#5A23B9", "note": "Xfinity violet accent rgb(90,35,185)" },
+    { "role": "primary-2", "value": "#9013FE", "note": "violet-magenta gradient stop (brand signature)" }
+  ],
+  "type": {
+    "headingFamily": "Xfinity Sans",
+    "headingFamilyStack": "'Xfinity Sans', XSans, 'Xfinity Brown', 'DM Sans', system-ui, sans-serif",
+    "bodyFamily": "Xfinity Brown",
+    "bodyFamilyStack": "'Xfinity Brown', XfinityBrown, 'DM Sans', system-ui, sans-serif",
+    "fallback": "DM Sans",
+    "observedFamilies": ["XSans", "XfinityBrown", "DMSans"],
+    "scaleAudit": { "kind": "ad-hoc", "headingSizesPx": [24, 20, 36, 32, 18.72, 16] },
+    "note": "Xfinity Sans/Brown are licensed brand fonts not served to third parties; migration uses DM Sans as the closest free fallback for both roles."
+  },
+  "motifs": {
+    "radius": "16px rounded tiles (hover-tiles); pill-shaped CTAs (full-round)",
+    "shadows": ["0 2px 8px rgba(0,0,0,.06)", "0 8px 24px rgba(0,0,0,.10)"],
+    "gradients": ["linear-gradient(violet #5A23B9 -> magenta #9013FE)"],
+    "patterns": ["large bold promo headline + price callout", "card grid of offer tiles", "image-led hover tiles", "black full-bleed hero", "address-entry plan finder"]
+  },
+  "voice": {
+    "headline": "Same-day WiFi. Instant online magic.",
+    "samples": [
+      "Speed built for work and play. WiFi equipment and unlimited data included. Still no contract.",
+      "Cut your mobile bill in half. Plus, try free for a year. No commitment.",
+      "New home, same great service. Make your move with Xfinity."
+    ],
+    "ctaLabels": ["Shop internet", "Build your plan", "Find My Plan", "Start your move", "Shop plans"],
+    "heroImage": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10716_build-your-plan.png",
+    "heroMedium": null,
+    "tone": "punchy, benefit-led, promotional, value-forward; short declaratives + price proof"
+  },
+  "systemComponents": {
+    "header": { "component": "xc-header", "type": "mega-nav (shadow DOM)", "topLevel": ["Internet", "Mobile", "TV & Streaming", "Home Security", "Build your plan"], "linkCount": 149, "source": "_chrome-nav.json" },
+    "footer": { "component": "xc-footer", "type": "multi-column footer (shadow DOM)", "columns": ["Company (Comcast)", "Quick Links", "NOW products", "Legal/Privacy"], "linkCount": 62, "source": "_chrome-nav.json" }
+  },
+  "templates": [
+    { "id": "home", "archetype": "home", "desc": "Marketing landing: address plan-finder + promo offer tiles" },
+    { "id": "product-landing", "archetype": "gig", "siblings": ["apps", "email", "amazon-prime-video"], "desc": "Single-product marketing page: hero + feature sections + CTA" },
+    { "id": "hub-overview", "archetype": "hub-internet", "desc": "Editorial hub section landing: article card grid" },
+    { "id": "hub-article", "archetype": "hub-internet-internet-speed", "desc": "Editorial explainer article: long-form body + figures" },
+    { "id": "learn-listing", "archetype": "learn-deals", "desc": "Deals/category listing: offer card grid + filters" },
+    { "id": "learn-detail", "archetype": "learn-deals-mobile-apple", "desc": "Deal/product detail page" },
+    { "id": "local", "archetype": "local-co-denver", "desc": "Local market page: city-specific offers + store info" },
+    { "id": "compare", "archetype": "compare-xfinity-vs-att", "desc": "Competitor comparison table page" },
+    { "id": "legal-static", "archetype": "accessibility", "desc": "Informational/legal long-form page" }
+  ]
+}

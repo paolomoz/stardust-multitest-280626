@@ -1,0 +1,6 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract" },
+  "discovery": { "method": "robots.txt -> sitemap.xml + sitemap-hub.xml", "totalDiscovered": 397, "fetchTechnique": "headed-chrome (Akamai bot-mgmt: headless = 403 Access Denied)" },
+  "consent": { "method": "OneTrust banner; accept-button click in loop" },
+  "crawl": { "extracted": 12, "failures": [] }
+}

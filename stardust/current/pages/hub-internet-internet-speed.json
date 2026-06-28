@@ -1,0 +1,734 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:11.381Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:05.409Z",
+    "waitMode": "medium",
+    "waitMs": 5808,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "hub-internet-internet-speed",
+  "url": "https://www.xfinity.com/hub/internet/internet-speed",
+  "finalUrl": "https://www.xfinity.com/hub/internet/internet-speed",
+  "screenshot": "stardust/current/assets/screenshots/hub-internet-internet-speed.png",
+  "title": "Mbps meaning? Kbps vs Mbps? Internet Speeds Explained",
+  "metaDescription": "Learn about how internet speed is measured and what factors affect your speed. Use our Internet Speed Test Tool to find your download & upload speeds.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/hub/internet/internet-speed",
+  "favicon": "https://www.xfinity.com/xfinity-hub-ui/favicon.ico",
+  "appleTouchIcon": "https://cdn.comcast.com/learn/-/media/common/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "How Fast is My Internet?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What is Internet Speed and How is Internet Speed Measured?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What Factors Affect Internet Speeds?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "XFINITY INTERNET",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "What is a Good Internet Speed?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Related Articles",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Mobile",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get the latest iPhone on the nation’s most reliable 5G network",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Experience",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Introducing Xfinity Membership Benefits",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What to Know About the New 5 Year Price Guarantee",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "bg-material-2",
+      "innerText": "XFINITY Discovery Hub",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "px-6",
+      "innerText": "How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained Internet Learn what factors affect your Internet speed, the difference between Mbps vs Kbps, and use our speed test to find out your speeds. How Fast is My Internet? If you are asking yourself, “how fast is my Internet,” \"internet speeds explained,\" or “what are my Internet speeds,” look no further. You can determine the approximate speed of your Internet connection by taking the Speed Test from Xfinity which will generate a report on your Internet download speed and upload speed. What is Internet Speed and How is Internet Speed Measured? Internet speed refers to the speed which data or content travels from the World Wide Web to your home computer, tablet, or smartphone. The speed of this data is measured in megabits per second (Mbps). One megabit is equal to 1,024 kilobits. This conversion means 1.0 Mbps is more than 1,000 times faster than 1.0 kilobits per second (Kbps). High-speed Internet connection known as broadband (broad bandwidth) is defined by download speeds of at least 768 Kbps and upload speeds of at least 200 Kbps. The difference between download speeds and upload speeds can be explained in the following way: download speed refers to the rate that digital data is transferred from the Internet to your computer, while upload speed is the rate that online data is transferred from your computer to the Internet. Broadband Internet can be provided by cable operators, telephone companies, or high-speed Internet service providers. Broadband Internet is one of the fastest Internet options available across the nation today. This specific type of high-speed Internet connection uses multiple data channels to send large quantities of information to and from Internet users. NOW by Xfinity is another low cost and reliable option. What Factors Affect Internet Speeds? There are a number of factors that can affect Internet speeds or your connection to the Internet. The type of Internet connection you are currently using may play a role in Internet speeds. Examples of Internet connections include 3G wireless or 4G wireless, mobile, hotspots, modem or dial-up, broadband, DSL (digital subscriber line), cable, satellite, ISDN (Integrated Services Digital Network), and more. Sometimes, the capabilities of a website or an Internet network can affect connection speed by capping off the limit that Internet users can download, upload, or stream data. Highly-trafficked websites can cause your Internet connection to run more slowly when visiting that specific domain. If a third party network has these types of Internet speed limitations in place, you may not be able to download or upload content at top-performing Internet speeds when visiting that particular website. Additionally, your home computer, laptop, tablet, or smartphone will need to meet the minimum system requirements advised by a high-speed Internet service provider. Internet speeds may vary based on the configuration and performance of computers, hardware, software, applications and other equipment systems. Running multiple devices off the same home network will increase the demand of your home’s Internet system and may affect download speed, upload speed, and overall Internet speeds or Internet connection. XFINITY INTERNET Get our most reliable fiber-powered WiFi. Shop Deals What is a Good Internet Speed? Before determining the best Internet speeds and Internet Service Provider (ISP) for you, ask yourself the following questions: Why will you use the Internet – for recreational activities or business projects? What are the intended reasons of your hourly, daily or monthly Internet usage? Are you streaming high-definition videos or downloading high-resolution photos? Do you prefer to chat with friends, use social networking, or casually surf the Internet? No matter what the activities of your household may be, it is recommended that you pursue an Internet plan or service that can successfully meet your unique bandwidth needs. Certain household and handheld devices or mobile applications may require high-speed Internet to perform best. Perhaps you want consistently fast broadband speed (like gig-speed Internet), even during peak hours of Internet usage. Take all of these factors and your own bandwidth needs into consideration when selecting an Internet service plan. Get the Internet speed you need with a better understanding of how Internet speed is measured. Once you have learned more about how Internet speeds are measured and what factors are involved, you will soon be ready to find a high-speed Internet plan that’s right for you and the diverse needs of your digitally-connected household, such as Internet speeds for gaming, streaming, and more. Learn if 5g home internet speed is really as fast as you need. Copy To Clipboard Share On Facebook Share On Twitter Share On Email Related Articles Mobile Get the latest iPhone on the nation’s most reliable 5G network Experience Introducing Xfinity Membership Benefits Internet What to Know About the New 5 Year Price Guarantee",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+        "Internet",
+        "How Fast is My Internet?",
+        "What is Internet Speed and How is Internet Speed Measured?",
+        "What Factors Affect Internet Speeds?",
+        "What is a Good Internet Speed?",
+        "Related Articles",
+        "Mobile",
+        "Get the latest iPhone on the nation’s most reliable 5G network",
+        "Experience",
+        "Introducing Xfinity Membership Benefits",
+        "Internet"
+      ]
+    }
+  ],
+  "body": [
+    "Learn what factors affect your Internet speed, the difference between Mbps vs Kbps, and use our speed test to find out your speeds.",
+    "If you are asking yourself, “how fast is my Internet,” \"internet speeds explained,\" or “what are my Internet speeds,” look no further. You can determine the approximate speed of your Internet connection by taking the Speed Test from Xfinity which will generate a report on your Internet download speed and upload speed.",
+    "Internet speed refers to the speed which data or content travels from the World Wide Web to your home computer, tablet, or smartphone. The speed of this data is measured in megabits per second (Mbps). One megabit is equal to 1,024 kilobits. This conversion means 1.0 Mbps is more than 1,000 times faster than 1.0 kilobits per second (Kbps). High-speed Internet connection known as broadband (broad bandwidth) is defined by download speeds of at least 768 Kbps and upload speeds of at least 200 Kbps. The difference between download speeds and upload speeds can be explained in the following way: download speed refers to the rate that digital data is transferred from the Internet to your computer, while upload speed is the rate that online data is transferred from your computer to the Internet.",
+    "Broadband Internet can be provided by cable operators, telephone companies, or high-speed Internet service providers. Broadband Internet is one of the fastest Internet options available across the nation today. This specific type of high-speed Internet connection uses multiple data channels to send large quantities of information to and from Internet users. NOW by Xfinity is another low cost and reliable option.",
+    "There are a number of factors that can affect Internet speeds or your connection to the Internet. The type of Internet connection you are currently using may play a role in Internet speeds. Examples of Internet connections include 3G wireless or 4G wireless, mobile, hotspots, modem or dial-up, broadband, DSL (digital subscriber line), cable, satellite, ISDN (Integrated Services Digital Network), and more.",
+    "Sometimes, the capabilities of a website or an Internet network can affect connection speed by capping off the limit that Internet users can download, upload, or stream data. Highly-trafficked websites can cause your Internet connection to run more slowly when visiting that specific domain. If a third party network has these types of Internet speed limitations in place, you may not be able to download or upload content at top-performing Internet speeds when visiting that particular website.",
+    "Additionally, your home computer, laptop, tablet, or smartphone will need to meet the minimum system requirements advised by a high-speed Internet service provider. Internet speeds may vary based on the configuration and performance of computers, hardware, software, applications and other equipment systems. Running multiple devices off the same home network will increase the demand of your home’s Internet system and may affect download speed, upload speed, and overall Internet speeds or Internet connection.",
+    "Get our most reliable fiber-powered WiFi.",
+    "Before determining the best Internet speeds and Internet Service Provider (ISP) for you, ask yourself the following questions:",
+    "Why will you use the Internet – for recreational activities or business projects?",
+    "What are the intended reasons of your hourly, daily or monthly Internet usage?",
+    "Are you streaming high-definition videos or downloading high-resolution photos?",
+    "Do you prefer to chat with friends, use social networking, or casually surf the Internet?",
+    "No matter what the activities of your household may be, it is recommended that you pursue an Internet plan or service that can successfully meet your unique bandwidth needs. Certain household and handheld devices or mobile applications may require high-speed Internet to perform best. Perhaps you want consistently fast broadband speed (like gig-speed Internet), even during peak hours of Internet usage. Take all of these factors and your own bandwidth needs into consideration when selecting an Internet service plan.",
+    "Get the Internet speed you need with a better understanding of how Internet speed is measured. Once you have learned more about how Internet speeds are measured and what factors are involved, you will soon be ready to find a high-speed Internet plan that’s right for you and the diverse needs of your digitally-connected household, such as Internet speeds for gaming, streaming, and more. Learn if 5g home internet speed is really as fast as you need.",
+    "Mobile Get the latest iPhone on the nation’s most reliable 5G network",
+    "Experience Introducing Xfinity Membership Benefits",
+    "Internet What to Know About the New 5 Year Price Guarantee"
+  ],
+  "ctas": [
+    {
+      "label": "Hub Home",
+      "href": "https://www.xfinity.com/hub",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/hub/internet",
+      "btn": true
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/hub/tv-video",
+      "btn": true
+    },
+    {
+      "label": "Free TV & Movies",
+      "href": "https://www.xfinity.com/hub/free-tv-movies",
+      "btn": true
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/hub/mobile",
+      "btn": true
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/hub/smart-home",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/hub/internet",
+      "btn": false
+    },
+    {
+      "label": "our speed test",
+      "href": "https://www.xfinity.com/learn/internet-service/speed-test",
+      "btn": false
+    },
+    {
+      "label": "what are my Internet speeds",
+      "href": "https://www.xfinity.com/learn/internet-service/speed-test",
+      "btn": false
+    },
+    {
+      "label": "Speed Test from Xfinity",
+      "href": "https://www.xfinity.com/learn/internet-service/speed-test",
+      "btn": false
+    },
+    {
+      "label": "Broadband Internet",
+      "href": "/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "NOW by Xfinity",
+      "href": "https://www.xfinity.com/now",
+      "btn": false
+    },
+    {
+      "label": "your connection to the Internet",
+      "href": "https://www.xfinity.com/hub/internet/internet-connections",
+      "btn": false
+    },
+    {
+      "label": "DSL (digital subscriber line), cable",
+      "href": "https://www.xfinity.com/hub/internet/dsl-vs-cable",
+      "btn": false
+    },
+    {
+      "label": "applications",
+      "href": "https://www.xfinity.com/hub/internet/internet-speed-for-gaming",
+      "btn": false
+    },
+    {
+      "label": "Shop Deals",
+      "href": "https://www.xfinity.com/learn/deals/internet?intcmp=ORG:OTH:SAP:ALL:GEN:GEN:OTH:DIG:Kar:41810326796",
+      "btn": true
+    },
+    {
+      "label": "Internet Service Provider (ISP)",
+      "href": "https://www.xfinity.com/hub/internet/internet-service-providers",
+      "btn": false
+    },
+    {
+      "label": "gig-speed Internet",
+      "href": "https://www.xfinity.com/hub/internet/what-is-gigabit-internet",
+      "btn": false
+    },
+    {
+      "label": "Internet speeds for gaming",
+      "href": "https://www.xfinity.com/hub/internet/internet-speed-for-gaming",
+      "btn": false
+    },
+    {
+      "label": "5g home internet speed",
+      "href": "https://www.xfinity.com/hub/internet/5g-internet-speed",
+      "btn": false
+    },
+    {
+      "label": "Copy To Clipboard",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Share On Facebook",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Share On Twitter",
+      "href": "https://twitter.com/intent/tweet?text=How%20Fast%20is%20My%20Internet%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&url=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed&via=XFINITY",
+      "btn": false
+    },
+    {
+      "label": "Share On Email",
+      "href": "mailto:?subject=How%20Fast%20is%20My%20Internet%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&body=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed",
+      "btn": false
+    },
+    {
+      "label": "Mobile Get the latest iPhone on the nation’s most reliable 5G network",
+      "href": "https://www.xfinity.com/hub/mobile/apple-iphone",
+      "btn": false
+    },
+    {
+      "label": "Experience Introducing Xfinity Membership Benefits",
+      "href": "https://www.xfinity.com/hub/experience/xfinity-membership",
+      "btn": false
+    },
+    {
+      "label": "Internet What to Know About the New 5 Year Price Guarantee",
+      "href": "https://www.xfinity.com/hub/internet/5-year-price-guarantee",
+      "btn": false
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/hub",
+      "/hub/internet",
+      "/hub/tv-video",
+      "/hub/free-tv-movies",
+      "/hub/mobile",
+      "/hub/smart-home",
+      "/learn/internet-service/speed-test",
+      "/learn/internet-service",
+      "/now",
+      "/hub/internet/internet-connections",
+      "/hub/internet/dsl-vs-cable",
+      "/hub/internet/internet-speed-for-gaming",
+      "/learn/deals/internet",
+      "/hub/internet/internet-service-providers",
+      "/hub/internet/what-is-gigabit-internet",
+      "/hub/internet/5g-internet-speed",
+      "/hub/mobile/apple-iphone",
+      "/hub/experience/xfinity-membership",
+      "/hub/internet/5-year-price-guarantee",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "https://twitter.com/intent/tweet?text=How%20Fast%20is%20My%20Internet%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&url=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed&via=XFINITY",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/internet_internet-speed.jpg",
+        "alt": "Internet",
+        "w": 1024,
+        "h": 320,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_Lifestyle_OCT25_027_RAYS_HR_251219.jpg",
+        "alt": "Xfinity Internet",
+        "w": 760,
+        "h": 511,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2025/q3/A-Spot-Image-Size.jpeg",
+        "alt": "Get the latest iPhone on the nation’s most reliable 5G network",
+        "w": 635,
+        "h": 444,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFNMembershipCard.png",
+        "alt": "Introducing Xfinity Membership Benefits",
+        "w": 540,
+        "h": 284,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2025/q2/5yg.png",
+        "alt": "What to Know About the New 5 Year Price Guarantee",
+        "w": 660,
+        "h": 530,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=2778480670309.629&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=5ebf76d7-c3fb-4d7a-8860-187c88f7f309&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Mbps%20meaning%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&p=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed&r=&lt=1448&evt=pageLoad&sv=2&asc=D&cdb=AQEZ&rn=368637",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=67e8e7e6-7441-4f59-bf92-2861ad4fec7b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=24724d2c-d8e6-45f1-ae4c-148c1868d83e&pt=Mbps%20meaning%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=67e8e7e6-7441-4f59-bf92-2861ad4fec7b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=24724d2c-d8e6-45f1-ae4c-148c1868d83e&pt=Mbps%20meaning%3F%20Kbps%20vs%20Mbps%3F%20Internet%20Speeds%20Explained&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "inlineSvgCount": 8,
+    "iframes": [
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "https://cdn.cohesionapps.com/cohesion/xs1.html?xsid=ec2a2b66-dc2a-49e3-85f2-de08f4eb1fea",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/hub/internet/internet-speed&ns=&cb=142330.73712113753",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=20_4_003;rcb=15;ord=2186164519695;npa=1;auiddc=884449218.1782638489;u17=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66p0h2v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938466~115938469~118395333~119027224~119576891~119576895;epver=2;dc_random=1782638527_DY0hO9wd4OMyKIxUxBDJfxln7YSimN4x6w;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed?",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=20_4_005;rcb=15;ord=3239354916083;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66p0h2v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938466~115938469~118395333~119027224~119576891~119576895;epver=2;dc_random=1782638527_MBIiejrlObw0PM5S7wOQ3lCSzzGCRnwhEQ;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet%2Finternet-speed?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=b3843857-d864-4922-a6bb-02e02ad6e832&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_Lifestyle_OCT25_027_RAYS_HR_251219.jpg",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 812,
+    "ctaCount": 45,
+    "internalLinkCount": 21,
+    "externalLinkCount": 2,
+    "imageCount": 12
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:21:45.748Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:39.281Z",
+    "waitMode": "medium",
+    "waitMs": 6334,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "apps",
+  "url": "https://www.xfinity.com/apps",
+  "finalUrl": "https://www.xfinity.com/apps",
+  "screenshot": "stardust/current/assets/screenshots/apps.png",
+  "title": "Xfinity App",
+  "metaDescription": "Download the Xfinity App and easily access, control, and enhance your Xfinity services. Plus manage your account, stream, and more. From anywhere.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/apps",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Manage your service with the Xfinity app",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Access your account",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Get always-on support",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Stay in the know",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "More apps to make the most of your service",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  patch-bg-purple-70 w-full",
+      "innerText": "Manage your service with the Xfinity app Download on Google Play or the App Store. Download the App",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Manage your service with the Xfinity app"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full mx-auto Xjs3UpContainer ",
+      "innerText": "Access your account Pay your bill, view your plan details, change or upgrade your services, and more. Get always-on support Enjoy 24/7 real-time support you can count on, anytime you need it. Stay in the know Get outage updates, restart your modem, and troubleshoot any issues.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Access your account",
+        "Get always-on support",
+        "Stay in the know"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "More apps to make the most of your service",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "More apps to make the most of your service"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full ",
+      "innerText": "Xfinity Stream Turn any screen into a TV Catch live sports, TV, On Demand, and more. Plus, with TV plans including DVR you can watch recordings on the go or offline. Separate subscriptions required. Xfinity Home Keep an eye on your home Arm or disarm your system, set rules, receive real-time notifications, and access connected smart home devices for peace of mind.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [],
+  "ctas": [],
+  "links": {
+    "internal": [],
+    "external": [
+      "https://xfin.tv/xfnapps",
+      "https://apps.apple.com/us/app/xfinity-home/id418965252",
+      "https://play.google.com/store/apps/details?id=com.comcast&pli=1"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/account_icon.png",
+        "alt": "",
+        "w": 61,
+        "h": 61,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/support_icon.png",
+        "alt": "",
+        "w": 56,
+        "h": 61,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/know_icon.png",
+        "alt": "",
+        "w": 56,
+        "h": 61,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/stream_app_2up_left_dt.png",
+        "alt": "",
+        "w": 1288,
+        "h": 641,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/app-store.svg?rev=f0c06693-3823-448d-b0e0-4cb12772eadb",
+        "alt": "Download from the App Store",
+        "w": 135,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/google-play-store.png?rev=7211bb45-86a1-4dec-b742-5c6b4d5ed685",
+        "alt": "Download on Google Play",
+        "w": 135,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6891_redesign-apps-page/home_app_2up_left_dt.png",
+        "alt": "",
+        "w": 1288,
+        "h": 641,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/app-store.svg?rev=f0c06693-3823-448d-b0e0-4cb12772eadb",
+        "alt": "Download from the App Store",
+        "w": 135,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/FEDCM-MIG/Apps/google-play-store.png?rev=7211bb45-86a1-4dec-b742-5c6b4d5ed685",
+        "alt": "Download on Google Play",
+        "w": 135,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=4654260667198.21&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=76573f62-f8ee-4a00-8fa9-349c9cdd6a1e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b72c2b02-42d4-4781-8d7c-025624da262b&pt=Xfinity%20App&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fapps&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=76573f62-f8ee-4a00-8fa9-349c9cdd6a1e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b72c2b02-42d4-4781-8d7c-025624da262b&pt=Xfinity%20App&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fapps&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280002&Ver=2&mid=3a9244ce-226b-47b0-8351-16ef2dce5172&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20App&kw=watch%20tv,%20my%20account%20app,%20xfinity%20%20tv%20mobile%20app,%20xfinity%20mobile%20apps,%20comcast%20mobile%20apps,%20xfinity%20tv,%20Xfinity%20remote,%20x1%20apps&p=https%3A%2F%2Fwww.xfinity.com%2Fapps&r=&lt=1609&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=305074",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10257_xfinity-apps-page---hero-image-update/Hero_Desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/apps&ns=&cb=21437.107719302516",
+      "https://s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3Dbe3febd7-e9e1-576d-d829-a3b664224cad%26type%3DUNKNOWN%26m%3D1&ex-fch=416613&ex-src=https://customer.xfinity.com/&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3DBE3FEBD7-E9E1-576D-D829-A3B664224CAD&cb=872624607062145900",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini01s;rcb=7;ord=9152300900512;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782638501_MdDohS0ckX8zrUL-NlIoc9F7THT92io8pw;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fapps?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=21d6bafc-4085-44f2-a4c8-e841f5df19a0&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": null,
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 135,
+    "ctaCount": 0,
+    "internalLinkCount": 0,
+    "externalLinkCount": 3,
+    "imageCount": 14
+  }
+}

@@ -1,0 +1,1122 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:05.263Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:57.600Z",
+    "waitMode": "medium",
+    "waitMs": 7252,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "hub-internet",
+  "url": "https://www.xfinity.com/hub/internet",
+  "finalUrl": "https://www.xfinity.com/hub/internet",
+  "screenshot": "stardust/current/assets/screenshots/hub-internet.png",
+  "title": "Discover Internet & WiFi Technology | Xfinity",
+  "metaDescription": "Learn about high speed internet, wireless networks, online security, and more. The Xfinity Discovery Hub is your resource for internet technology.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/hub/internet",
+  "favicon": "https://www.xfinity.com/xfinity-hub-ui/favicon.ico",
+  "appleTouchIcon": "https://cdn.comcast.com/learn/-/media/common/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(90, 35, 185)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to Choose a Home Internet Provider",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What Is a Good Upload Speed for Streaming?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What Is Gigabit Internet?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "5G Home Internet vs. Cable: Which Option Is Best for You?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "ByeScammer.com: A New Resource to Help You Stay Safer Online",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Modem vs Router: What's the Difference?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What Is A Good Internet Speed For Gaming?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Our Guide To Prepaid Home Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Manage Your Home Network with the Xfinity App",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Be Storm-Ready: Xfinity Pro Keeps You Connected with WiFi Backup",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What to Know About the New 5 Year Price Guarantee",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Internet for Seniors: What Should You Look for",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Internet for Students: Save on Back-to-School",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How Fast Is 5G Home Internet?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What is a hotspot and how does it work?",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to Extend the Range of Your WiFi Network",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "",
+      "innerText": "Hub Home Internet Entertainment Free TV & Movies Mobile Smart Home",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Internet"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "",
+      "innerText": "Internet How to Choose a Home Internet Provider Internet What Is a Good Upload Speed for Streaming? Internet What Is Gigabit Internet? Internet 5G Home Internet vs. Cable: Which Option Is Best for You? Internet ByeScammer.com: A New Resource to Help You Stay Safer Online Internet Modem vs Router: What's the Difference? Internet What Is A Good Internet Speed For Gaming? Internet Our Guide To Prepaid Home Internet Internet Manage Your Home Network with the Xfinity App Internet Be Storm-Ready: Xfinity Pro Keeps You Connected with WiFi Backup Internet What to Know About the New 5 Year Price Guarantee Internet Internet for Seniors: What Should You Look for Internet Internet for Students: Save on Back-to-School Internet How Fast Is 5G Home Internet? Internet What is a hotspot and how does it work? Internet How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained Internet How to Extend the Range of Your WiFi Network More Results",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Internet",
+        "How to Choose a Home Internet Provider",
+        "Internet",
+        "What Is a Good Upload Speed for Streaming?",
+        "Internet",
+        "What Is Gigabit Internet?",
+        "Internet",
+        "5G Home Internet vs. Cable: Which Option Is Best for You?",
+        "Internet",
+        "ByeScammer.com: A New Resource to Help You Stay Safer Online",
+        "Internet",
+        "Modem vs Router: What's the Difference?"
+      ]
+    }
+  ],
+  "body": [
+    "Internet How to Choose a Home Internet Provider",
+    "Internet What Is a Good Upload Speed for Streaming?",
+    "Internet What Is Gigabit Internet?",
+    "Internet 5G Home Internet vs. Cable: Which Option Is Best for You?",
+    "Internet ByeScammer.com: A New Resource to Help You Stay Safer Online",
+    "Internet Modem vs Router: What's the Difference?",
+    "Internet What Is A Good Internet Speed For Gaming?",
+    "Internet Our Guide To Prepaid Home Internet",
+    "Internet Manage Your Home Network with the Xfinity App",
+    "Internet Be Storm-Ready: Xfinity Pro Keeps You Connected with WiFi Backup",
+    "Internet What to Know About the New 5 Year Price Guarantee",
+    "Internet Internet for Seniors: What Should You Look for",
+    "Internet Internet for Students: Save on Back-to-School",
+    "Internet How Fast Is 5G Home Internet?",
+    "Internet What is a hotspot and how does it work?",
+    "Internet How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+    "Internet How to Extend the Range of Your WiFi Network"
+  ],
+  "ctas": [
+    {
+      "label": "Hub Home",
+      "href": "https://www.xfinity.com/hub",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/hub/internet",
+      "btn": true
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/hub/tv-video",
+      "btn": true
+    },
+    {
+      "label": "Free TV & Movies",
+      "href": "https://www.xfinity.com/hub/free-tv-movies",
+      "btn": true
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/hub/mobile",
+      "btn": true
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/hub/smart-home",
+      "btn": true
+    },
+    {
+      "label": "Internet How to Choose a Home Internet Provider",
+      "href": "https://www.xfinity.com/hub/internet/home-internet-buying-guide",
+      "btn": false
+    },
+    {
+      "label": "Internet What Is a Good Upload Speed for Streaming?",
+      "href": "https://www.xfinity.com/hub/internet/upload-speed-for-streaming",
+      "btn": false
+    },
+    {
+      "label": "Internet What Is Gigabit Internet?",
+      "href": "https://www.xfinity.com/hub/internet/what-is-gigabit-internet",
+      "btn": false
+    },
+    {
+      "label": "Internet 5G Home Internet vs. Cable: Which Option Is Best for You?",
+      "href": "https://www.xfinity.com/hub/internet/5g-home-internet-versus-cable",
+      "btn": false
+    },
+    {
+      "label": "Internet ByeScammer.com: A New Resource to Help You Stay Safer Online",
+      "href": "https://www.xfinity.com/hub/internet/byescammer",
+      "btn": false
+    },
+    {
+      "label": "Internet Modem vs Router: What's the Difference?",
+      "href": "https://www.xfinity.com/hub/internet/modem-vs-router",
+      "btn": false
+    },
+    {
+      "label": "Internet What Is A Good Internet Speed For Gaming?",
+      "href": "https://www.xfinity.com/hub/internet/internet-speed-for-gaming",
+      "btn": false
+    },
+    {
+      "label": "Internet Our Guide To Prepaid Home Internet",
+      "href": "https://www.xfinity.com/hub/internet/prepaid-home-internet",
+      "btn": false
+    },
+    {
+      "label": "Internet Manage Your Home Network with the Xfinity App",
+      "href": "https://www.xfinity.com/hub/internet/xfinity-app",
+      "btn": false
+    },
+    {
+      "label": "Internet Be Storm-Ready: Xfinity Pro Keeps You Connected with WiFi Backup",
+      "href": "https://www.xfinity.com/hub/internet/stay-connected-power-out",
+      "btn": false
+    },
+    {
+      "label": "Internet What to Know About the New 5 Year Price Guarantee",
+      "href": "https://www.xfinity.com/hub/internet/5-year-price-guarantee",
+      "btn": false
+    },
+    {
+      "label": "Internet Internet for Seniors: What Should You Look for",
+      "href": "https://www.xfinity.com/hub/internet/internet-for-seniors",
+      "btn": false
+    },
+    {
+      "label": "Internet Internet for Students: Save on Back-to-School",
+      "href": "https://www.xfinity.com/hub/internet/best-internet-for-students",
+      "btn": false
+    },
+    {
+      "label": "Internet How Fast Is 5G Home Internet?",
+      "href": "https://www.xfinity.com/hub/internet/5g-internet-speed",
+      "btn": false
+    },
+    {
+      "label": "Internet What is a hotspot and how does it work?",
+      "href": "https://www.xfinity.com/hub/internet/internet-on-the-go",
+      "btn": false
+    },
+    {
+      "label": "Internet How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+      "href": "https://www.xfinity.com/hub/internet/internet-speed",
+      "btn": false
+    },
+    {
+      "label": "Internet How to Extend the Range of Your WiFi Network",
+      "href": "https://www.xfinity.com/hub/internet/extend-range-of-wifi-network",
+      "btn": false
+    },
+    {
+      "label": "More Results",
+      "href": "/hub/internet/page/1",
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/hub",
+      "/hub/internet",
+      "/hub/tv-video",
+      "/hub/free-tv-movies",
+      "/hub/mobile",
+      "/hub/smart-home",
+      "/hub/internet/home-internet-buying-guide",
+      "/hub/internet/upload-speed-for-streaming",
+      "/hub/internet/what-is-gigabit-internet",
+      "/hub/internet/5g-home-internet-versus-cable",
+      "/hub/internet/byescammer",
+      "/hub/internet/modem-vs-router",
+      "/hub/internet/internet-speed-for-gaming",
+      "/hub/internet/prepaid-home-internet",
+      "/hub/internet/xfinity-app",
+      "/hub/internet/stay-connected-power-out",
+      "/hub/internet/5-year-price-guarantee",
+      "/hub/internet/internet-for-seniors",
+      "/hub/internet/best-internet-for-students",
+      "/hub/internet/5g-internet-speed",
+      "/hub/internet/internet-on-the-go",
+      "/hub/internet/internet-speed",
+      "/hub/internet/extend-range-of-wifi-network",
+      "/hub/internet/page/1",
+      "/privacy/policy/cookienotice",
+      "/privacy/your-privacy-choices"
+    ],
+    "external": [
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_Lifestyle_Laptop.jpg",
+        "alt": "How to Choose a Home Internet Provider",
+        "w": 632,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_StandingMobile.jpg",
+        "alt": "What Is a Good Upload Speed for Streaming?",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/43_gigabit_internet_v2.jpg",
+        "alt": "What Is Gigabit Internet?",
+        "w": 1024,
+        "h": 536,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN-Tablet.jpg",
+        "alt": "5G Home Internet vs. Cable: Which Option Is Best for You?",
+        "w": 579,
+        "h": 386,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_Kitchen.jpg",
+        "alt": "ByeScammer.com: A New Resource to Help You Stay Safer Online",
+        "w": 573,
+        "h": 382,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/04%20router-lights.jpg",
+        "alt": "Modem vs Router: What's the Difference?",
+        "w": 1024,
+        "h": 400,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/ps4_controllers.jpg",
+        "alt": "What Is A Good Internet Speed For Gaming?",
+        "w": 1024,
+        "h": 350,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_StandingMobile.jpg",
+        "alt": "Our Guide To Prepaid Home Internet",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/xfinity-app-xfi-hero/xfi-complete.png",
+        "alt": "Manage Your Home Network with the Xfinity App",
+        "w": 514,
+        "h": 384,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_SittingTablet.jpg",
+        "alt": "Be Storm-Ready: Xfinity Pro Keeps You Connected with WiFi Backup",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2025/q2/5yg.png",
+        "alt": "What to Know About the New 5 Year Price Guarantee",
+        "w": 660,
+        "h": 530,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_mobile-doorway.jpg",
+        "alt": "Internet for Seniors: What Should You Look for",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_Laptop.jpg",
+        "alt": "Internet for Students: Save on Back-to-School",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/john-schnobrich-yFbyvpEGHFQ-unsplash.jpg",
+        "alt": "How Fast Is 5G Home Internet?",
+        "w": 4820,
+        "h": 3037,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_Lifestyle_Laptop.jpg",
+        "alt": "What is a hotspot and how does it work?",
+        "w": 632,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/internet_internet-speed.jpg",
+        "alt": "How Fast is My Internet? Kbps vs Mbps? Internet Speeds Explained",
+        "w": 1024,
+        "h": 320,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/10%20wifi-antenna.jpg",
+        "alt": "How to Extend the Range of Your WiFi Network",
+        "w": 1024,
+        "h": 400,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=4740787395782.041&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=2be39597-acd3-48c8-ba8b-18aaec1f299d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=63a9f860-1cf3-4115-b82d-98c35364eba8&pt=Discover%20Internet%20%26%20WiFi%20Technology%20%7C%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=2be39597-acd3-48c8-ba8b-18aaec1f299d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=63a9f860-1cf3-4115-b82d-98c35364eba8&pt=Discover%20Internet%20%26%20WiFi%20Technology%20%7C%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&cv=88%260&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=d8f2b193-e4c3-4d61-bd4b-c4abede509ee&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Accept%20All%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=63a9f860-1cf3-4115-b82d-98c35364eba8&pt=Discover%20Internet%20%26%20WiFi%20Technology%20%7C%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&cv=88%260&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=d8f2b193-e4c3-4d61-bd4b-c4abede509ee&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Accept%20All%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=63a9f860-1cf3-4115-b82d-98c35364eba8&pt=Discover%20Internet%20%26%20WiFi%20Technology%20%7C%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://navi.cohesionapps.com/rum?m=eyJydW1fdmVyc2lvbiI6InYyIiwiY2xpZW50X3ZlcnNpb24iOiJ2My43OC4wIiwiY2xpZW50X3NyYyI6Imh0dHBzOi8vY2RuLmNvaGVzaW9uYXBwcy5jb20vY29oZXNpb24vY29oZXNpb24tdG8ubWluLmpzIiwiY2xpZW50X3Byb3hpZWQiOmZhbHNlLCJjbGllbnRfdmFyaWFudCI6ImNvaGVzaW9uLXRvLm1pbi5qcyIsImNsaWVudF9wcmVjb25uZWN0IjpmYWxzZSwiY2xpZW50X3ByZWxvYWQiOmZhbHNlLCJjbGllbnRfZG93bmxvYWRfbXMiOjE4MDIsImNsaWVudF9yZWFkeV9tcyI6MTkxNSwiY29uc2VudF9jaGVja2VkX21zIjoxODEwLCJvbmV0cnVzdF9kZXRlY3RlZF9tcyI6MTkwOCwiY29uc2VudF9yZWFkeV9tcyI6MTkwOCwidGFndWxhcl9zdGFydGVkX21zIjoxOTEyLCJ1cmxfb3JpZ2luIjoiaHR0cHM6Ly93d3cueGZpbml0eS5jb20iLCJ1cmxfcGF0aCI6Ii9odWIvaW50ZXJuZXQiLCJtYWtlX3NvdXJjZSI6InNyY18zMldKYVBCbHNOM2tLamlnSGZRbkVTcDhQR3ciLCJwcmVhbXBfY29uZmlndXJlZCI6ZmFsc2UsInByZWFtcF9ib2R5X2F0dHIiOmZhbHNlLCJmdXNlX2NvbmZpZ3VyZWQiOmZhbHNlLCJ0YWdneV9jb25maWd1cmVkIjp0cnVlLCJtb25hcmNoX2NvbmZpZ3VyZWQiOmZhbHNlLCJjb25zZW50X3JlcXVpcmVkIjp0cnVlLCJjb25zZW50X21vZGVfdjIiOmZhbHNlLCJjb25zZW50X2Nvb2tpZV9jbGFzc2lmaWNhdGlvbiI6IkMwMDAyIiwiY29uc2VudF9tYXBwaW5nX2MwMDAxIjoiMSIsImNvbnNlbnRfbWFwcGluZ19jMDAwMiI6IjIiLCJjb25zZW50X21hcHBpbmdfYzAwMDMiOiI1IiwiY29uc2VudF9tYXBwaW5nX2MwMDA0IjoiNCIsImNvbnNlbnRfbWFwcGluZ19jMDAwNSI6IkMwMDA1Iiwib25ldHJ1c3RfZW5hYmxlZCI6dHJ1ZSwib25ldHJ1c3Rfb3B0aW4iOnRydWUsIm9uZXRydXN0X2RldGVjdGVkIjp0cnVlfQ%3D%3D",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/hub/internet&ns=&cb=958502.7958866034",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=20_4_003;rcb=15;ord=4776658517546;npa=1;auiddc=884449218.1782638489;u17=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66p0h2v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938469~119027224~119527020~119576891~119576895;epver=2;dc_random=1782638521_pgUwXuQ30VCgWY7dZvkYwj2qYd1ukCOWaw;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet?",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=20_4_005;rcb=15;ord=4774337588294;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66p0h2v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938469~119027224~119527020~119576891~119576895;epver=2;dc_random=1782638521_u_t5AujnzQj9Dpeqc1i_ooI54v5W7BWSlA;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fhub%2Finternet?",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=4047ea11-680e-4b51-bb61-8193a1755d6e&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70",
+      "https://cdn.cohesionapps.com/cohesion/xs1.html"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.comcast.com/assets/dotcom/learn/Images/Hub/Articles/xfinity-app-xfi-hero/xfi-complete.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 169,
+    "ctaCount": 46,
+    "internalLinkCount": 26,
+    "externalLinkCount": 1,
+    "imageCount": 26
+  }
+}

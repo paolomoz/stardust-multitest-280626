@@ -1,0 +1,555 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:21:39.135Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:32.698Z",
+    "waitMode": "medium",
+    "waitMs": 5821,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "gig",
+  "url": "https://www.xfinity.com/gig",
+  "finalUrl": "https://www.xfinity.com/gig",
+  "screenshot": "stardust/current/assets/screenshots/gig.png",
+  "title": "Gigabit Internet by Xfinity",
+  "metaDescription": "Xfinity Gig delivers Gigabit Internet speeds up to 40x faster than basic broadband service, now with 20% more speed for the same price. Less wait means more time enjoying.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/gig",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Gig WiFi",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Built for speed. Powered by fiber.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Gig WiFi packed with extras",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Easy same-day WiFi",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "WiFi equipment and unlimited data included",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Peacock Premium included for 2 years",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "A free Xfinity Mobile line for 1 year",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "4K stream box and voice remote on us",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Over 20 million hotspots nationwide",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "WiFi PowerBoost included for faster mobile speeds",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Want the fastest internet? Discover speeds up to 10 Gbps",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "flex flex-col  justify-center  localization-container__height-default align-center lg:px-16 localization-container__alig",
+      "innerText": "Where do you live? Enter your address for the best offers Find My Plan Already a member? Sign in here.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Gig WiFi Built for speed. Powered by fiber. Go for Gig WiFi with fast, reliable speeds and get WiFi equipment and unlimited data included. Plus Peacock Premium for 2 years. $70/mo Shop internet Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Gig WiFi",
+        "Built for speed. Powered by fiber."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Offer ends 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Opensignal Awards USA: Fixed Broadband Experience Report, May 2025; XB6+. Xfinity Internet is powered by fiber and connected to premises by coaxial cable.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden hx-w-full hx-relative hx-isolate hx-grid",
+      "innerText": "Gig WiFi packed with extras",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Gig WiFi packed with extras"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Easy same-day WiFi WiFi equipment and unlimited data included Peacock Premium included for 2 years A free Xfinity Mobile line for 1 year 4K stream box and voice remote on us Over 20 million hotspots nationwide WiFi PowerBoost included for faster mobile speeds",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Easy same-day WiFi",
+        "WiFi equipment and unlimited data included",
+        "Peacock Premium included for 2 years",
+        "A free Xfinity Mobile line for 1 year",
+        "4K stream box and voice remote on us",
+        "Over 20 million hotspots nationwide",
+        "WiFi PowerBoost included for faster mobile speeds"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Xfinity Mobile req's Xfinity Int. WiFi PowerBoost: Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile customers only. Gateway required.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Smart-boost WiFi for the best experience Catch every goal — no matter who’s online. Smart-boost WiFi automatically boosts your 4K TV Box for the best streaming experience for up to five hours. Learn more Smart-boost is available with the Xi6 TV Box and the XB8 or higher Gateway models",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-40b md:theme-pad-48b lg:theme-pad-64b xl:theme-pad-80",
+      "innerText": "For homes that do more When your household is always online, 1 Gig WiFi helps you: Connect all your smart devices without slowing down your network. Work from home smoothly with clearer video calls and faster file downloads. Game with less lag and more responsive play. Stream in HD across more screens at once. Study with fewer interruptions and more reliable performance. Shop internet",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-24b md:theme-pad-32b lg:theme-pad-40b xl:theme-pad-40",
+      "innerText": "Want the fastest internet? Discover speeds up to 10 Gbps Call 1-800-834-6489 for details Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Want the fastest internet? Discover speeds up to 10 Gbps"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-16b lg:theme-pad-24b xl:theme-pad-24b",
+      "innerText": "Frequently asked questions",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Frequently asked questions"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "How fast is gigabit internet? With Xfinity's 1 Gig plan, you can download a full HD movie in seconds or update large video games in just a few minutes. But it's not just about download speed. Our fiber-powered Gig WiFi also features ultra-low lag, with a median latency of 13 milliseconds or below. This near-instant response time makes it the best choice for competitive online gaming and glitch-free video conferencing. How much does Xfinity Gig internet cost? We give you options to fit your budget. For a limited time, new customers can lock in our 1 Gig plan for $70/mo with our 5-Year Price Guarantee. Plus, our plans always come with no annual contracts and no early termination fees. Offer ends 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. What’s included with the 1 Gig home internet plan? • Fiber-powered Gig WiFi with ultra-low lag and large bandwidth • Unlimited data • Xfinity WiFi Gateway with Advanced Security and parental control features • One line of Mobile Select included for one year with Xfinity Mobile • Peacock Premium for 24 months on us • 4K TV Box on us Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Peacock Premium: $10.99/mo value. Must activate within first 90 days. Xfinity Mobile requires Xfinity Internet. How long is Peacock Premium included in the 1 Gig plan? Our 1 Gig and faster speed plans currently include Peacock Premium ($10.99/mo value) for 24 months at no extra cost. That gives you two full years of your favorite shows, hit movies, and live sports included with your home internet service. Peacock Premium must be activated within first 90 days. Are there any data caps on Gigabit internet? No, we don't have data caps on our latest internet plans. Unlimited data is included on our 300 Mbps, 500 Mbps, and Gigabit plans. You can stream in 4K, download large game files, and run your smart home 24/7 without worrying about overage charges or throttled speeds. Mobile: Reduced speeds after 30 GB of usage/line. Data thresholds may vary. Xfinity Mobile req's Xfinity Int. Can I get speeds even faster than 1 Gig? If 1 Gig isn't enough for your hyper-connected home, we also offer 1.2 Gig and 2 Gig speeds in many areas. And for the ultimate in connectivity, we offer speeds up to 10 Gbps in select locations (call 1-800-934-6489 for details). How long does it take to set up my Gig internet at home? It doesn’t take long. You pick up your self-install equipment at an Xfinity store and can have your gig-speed network up and running in about 15 minutes. Just plug it in and use the Xfinity app for an easy step-by-step self-installation. If your home requires a technician to get connected, we offer professional installation appointments to get you set up. What is gigabit internet? One gigabit equals 1,000 Mbps. It provides increased bandwidth capacity, meaning your network won't get congested even when dozens of smart home devices, phones, and computers are connected at once. Plus, in many Xfinity areas, our gigabit tiers now offer symmetrical speeds, meaning your uploads are just as fast as your downloads.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Go for Gig WiFi with fast, reliable speeds and get WiFi equipment and unlimited data included. Plus Peacock Premium for 2 years.",
+    "When your household is always online,",
+    "Want the fastest internet?",
+    "Discover speeds up to 10 Gbps",
+    "• Fiber-powered Gig WiFi with ultra-low lag and large bandwidth",
+    "• Xfinity WiFi Gateway with Advanced Security and parental control features",
+    "• One line of Mobile Select included for one year with Xfinity Mobile",
+    "• Peacock Premium for 24 months on us"
+  ],
+  "ctas": [
+    {
+      "label": "Sign in here",
+      "href": "https://login.xfinity.com/login?",
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [],
+    "external": [
+      "https://login.xfinity.com/login?"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Reliable%20connection-Icon.png",
+        "alt": "",
+        "w": 80,
+        "h": 80,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Checkmark.png",
+        "alt": "",
+        "w": 40,
+        "h": 34,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Checkmark.png",
+        "alt": "",
+        "w": 40,
+        "h": 34,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Checkmark.png",
+        "alt": "",
+        "w": 40,
+        "h": 34,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Checkmark.png",
+        "alt": "",
+        "w": 40,
+        "h": 34,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Checkmark.png",
+        "alt": "",
+        "w": 40,
+        "h": 34,
+        "srcset": null
+      },
+      {
+        "src": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=15&buzz_key=nbcu&value=&segment_key=nbcu-15&account_id=2&order=&ord=1782638493",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=4540534371735.518&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=f13fdf89-a342-4cf5-b720-19429092a2e0&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Gigabit%20Internet%20by%20Xfinity&p=https%3A%2F%2Fwww.xfinity.com%2Fgig&r=&lt=1048&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=634270",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=e6d61c6c-a61f-4a5c-949d-c97a8b8ab176&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eaa18966-b38b-4f3b-be99-1797ca1bbdb1&pt=Gigabit%20Internet%20by%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fgig&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=e6d61c6c-a61f-4a5c-949d-c97a8b8ab176&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eaa18966-b38b-4f3b-be99-1797ca1bbdb1&pt=Gigabit%20Internet%20by%20Xfinity&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fgig&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/desktop/Half-FullImage-Desktop_compressed.png"
+    ],
+    "videos": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/desktop/5-19%20HSD%20Deal%20Refresh%20Gig%20Page%20Hero-Desktop_10.6.3.mp4",
+        "poster": null,
+        "autoplay": true
+      }
+    ],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/gig&ns=&cb=874376.0061661251",
+      "https://s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3D84127f4c-af8e-a4f3-dc1d-c81666621467%26type%3D5%26m%3D1&ex-fch=416613&ex-src=https://www.xfinity.com/gig&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3D84127F4C-AF8E-A4F3-DC1D-C81666621467&cb=824802277256254500",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=add0ce1b-5585-449c-be52-8c22868b88fd&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini01f;rcb=13;ord=9270317828118;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938469~119027224~119576891~119576895;epver=2;dc_random=1782638494_7hexPj_MFtVOVI9XejZI7-uS-MNvhlFS0w;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fgig?"
+    ]
+  },
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "fields": []
+    }
+  ],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10521_gig-page-refresh/Reliable%20connection-Icon.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 862,
+    "ctaCount": 1,
+    "internalLinkCount": 0,
+    "externalLinkCount": 1,
+    "imageCount": 13
+  }
+}

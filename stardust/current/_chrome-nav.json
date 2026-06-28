@@ -1,0 +1,851 @@
+{
+  "header": [
+    {
+      "label": "",
+      "href": "https://www.xfinity.com?INTCMP=ILC:MA:GEN:GEN5b9ab8ad1e540"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Internet Deals",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/internet-service/modems-and-routers"
+    },
+    {
+      "label": "Xfinity Pro",
+      "href": "https://www.xfinity.com/learn/internet-service/xpro"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "Internet Essentials",
+      "href": "https://www.xfinity.com/learn/internet-service/internet-essentials"
+    },
+    {
+      "label": "Gig-speed Internet",
+      "href": "https://www.xfinity.com/gig"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Internet Deals",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/internet-service/modems-and-routers"
+    },
+    {
+      "label": "Xfinity Pro",
+      "href": "https://www.xfinity.com/learn/internet-service/xpro"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "Internet Essentials",
+      "href": "https://www.xfinity.com/learn/internet-service/internet-essentials"
+    },
+    {
+      "label": "Gig-speed Internet",
+      "href": "https://www.xfinity.com/gig"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile"
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones"
+    },
+    {
+      "label": "Bring Your Own",
+      "href": "https://www.xfinity.com/learn/mobile/byod"
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile"
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones"
+    },
+    {
+      "label": "Bring Your Own",
+      "href": "https://www.xfinity.com/learn/mobile/byod"
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "StreamStore",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services"
+    },
+    {
+      "label": "X1 TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/x1"
+    },
+    {
+      "label": "Sports & News TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports-news"
+    },
+    {
+      "label": "Xumo Streaming",
+      "href": "https://www.xfinity.com/learn/xumostreambox"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "Channel Lineup",
+      "href": "https://www.xfinity.com/learn/channel-lineup-bundles"
+    },
+    {
+      "label": "Add-on Channels",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/add-channels"
+    },
+    {
+      "label": "Latino",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/latino"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "StreamStore",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services"
+    },
+    {
+      "label": "X1 TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/x1"
+    },
+    {
+      "label": "Sports & News TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports-news"
+    },
+    {
+      "label": "Xumo Streaming",
+      "href": "https://www.xfinity.com/learn/xumostreambox"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "Channel Lineup",
+      "href": "https://www.xfinity.com/learn/channel-lineup-bundles"
+    },
+    {
+      "label": "Add-on Channels",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/add-channels"
+    },
+    {
+      "label": "Latino",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/latino"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-solutions"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions/home-security"
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/learn/home-solutions/smart-home "
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-solutions"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions/home-security"
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/learn/home-solutions/smart-home "
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-phone-services"
+    },
+    {
+      "label": "Features",
+      "href": "https://www.xfinity.com/learn/home-phone-services/voice-unlimited-features"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/home-phone-services/equipment"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-phone-services"
+    },
+    {
+      "label": "Features",
+      "href": "https://www.xfinity.com/learn/home-phone-services/voice-unlimited-features"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/home-phone-services/equipment"
+    },
+    {
+      "label": "Featured Deals",
+      "href": "https://www.xfinity.com/learn/deals"
+    },
+    {
+      "label": "Build Your Plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Student Offers",
+      "href": "https://www.xfinity.com/student?intcmp=ILC:ACQ:UNI:NON:GEN:HIS:COM:NA:ell:71115425675__;!!CQl3mcHX2A!Gs2U_REVXNssHRH1dfjYQ46xbvMKpSHuu2e1pZYzyc5Z_4w0flc_CLRRzAXGNOC0fR9xv9LVFoeYag_63uY284Y$"
+    },
+    {
+      "label": "Featured Deals",
+      "href": "https://www.xfinity.com/learn/deals"
+    },
+    {
+      "label": "Build Your Plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Student Offers",
+      "href": "https://www.xfinity.com/student?intcmp=ILC:ACQ:UNI:NON:GEN:HIS:COM:NA:ell:71115425675__;!!CQl3mcHX2A!Gs2U_REVXNssHRH1dfjYQ46xbvMKpSHuu2e1pZYzyc5Z_4w0flc_CLRRzAXGNOC0fR9xv9LVFoeYag_63uY284Y$"
+    },
+    {
+      "label": "Membership Benefits",
+      "href": "https://www.xfinity.com/membership"
+    },
+    {
+      "label": "Move",
+      "href": "https://www.xfinity.com/learn/moving"
+    },
+    {
+      "label": "Comcast Business",
+      "href": "https://business.comcast.com/small-business?CMP=XFINITY:NAV:ACQ"
+    },
+    {
+      "label": "Order Online Now",
+      "href": "https://www.xfinity.com/planbuilder"
+    },
+    {
+      "label": "Find a Store",
+      "href": "https://www.xfinity.com/local/store-offers"
+    },
+    {
+      "label": "Call to Order: 855-870-1311",
+      "href": "tel:855-870-1311"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Internet Deals",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/internet-service/modems-and-routers"
+    },
+    {
+      "label": "Xfinity Pro",
+      "href": "https://www.xfinity.com/learn/internet-service/xpro"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "Internet Essentials",
+      "href": "https://www.xfinity.com/learn/internet-service/internet-essentials"
+    },
+    {
+      "label": "Gig-speed Internet",
+      "href": "https://www.xfinity.com/gig"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/internet-service"
+    },
+    {
+      "label": "Internet Deals",
+      "href": "https://www.xfinity.com/learn/deals/internet"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/internet-service/modems-and-routers"
+    },
+    {
+      "label": "Xfinity Pro",
+      "href": "https://www.xfinity.com/learn/internet-service/xpro"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "Internet Essentials",
+      "href": "https://www.xfinity.com/learn/internet-service/internet-essentials"
+    },
+    {
+      "label": "Gig-speed Internet",
+      "href": "https://www.xfinity.com/gig"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile"
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones"
+    },
+    {
+      "label": "Bring Your Own",
+      "href": "https://www.xfinity.com/learn/mobile/byod"
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile"
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan"
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile"
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones"
+    },
+    {
+      "label": "Bring Your Own",
+      "href": "https://www.xfinity.com/learn/mobile/byod"
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "StreamStore",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services"
+    },
+    {
+      "label": "X1 TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/x1"
+    },
+    {
+      "label": "Sports & News TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports-news"
+    },
+    {
+      "label": "Xumo Streaming",
+      "href": "https://www.xfinity.com/learn/xumostreambox"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "Channel Lineup",
+      "href": "https://www.xfinity.com/learn/channel-lineup-bundles"
+    },
+    {
+      "label": "Add-on Channels",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/add-channels"
+    },
+    {
+      "label": "Latino",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/latino"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv"
+    },
+    {
+      "label": "StreamStore",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services"
+    },
+    {
+      "label": "X1 TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/x1"
+    },
+    {
+      "label": "Sports & News TV",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports-news"
+    },
+    {
+      "label": "Xumo Streaming",
+      "href": "https://www.xfinity.com/learn/xumostreambox"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "Channel Lineup",
+      "href": "https://www.xfinity.com/learn/channel-lineup-bundles"
+    },
+    {
+      "label": "Add-on Channels",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/add-channels"
+    },
+    {
+      "label": "Latino",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/latino"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-solutions"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions/home-security"
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/learn/home-solutions/smart-home "
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-solutions"
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions/home-security"
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/learn/home-solutions/smart-home "
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-phone-services"
+    },
+    {
+      "label": "Features",
+      "href": "https://www.xfinity.com/learn/home-phone-services/voice-unlimited-features"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/home-phone-services/equipment"
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/home-phone-services"
+    },
+    {
+      "label": "Features",
+      "href": "https://www.xfinity.com/learn/home-phone-services/voice-unlimited-features"
+    },
+    {
+      "label": "Equipment",
+      "href": "https://www.xfinity.com/learn/home-phone-services/equipment"
+    },
+    {
+      "label": "Featured Deals",
+      "href": "https://www.xfinity.com/learn/deals"
+    },
+    {
+      "label": "Build Your Plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Student Offers",
+      "href": "https://www.xfinity.com/student?intcmp=ILC:ACQ:UNI:NON:GEN:HIS:COM:NA:ell:71115425675__;!!CQl3mcHX2A!Gs2U_REVXNssHRH1dfjYQ46xbvMKpSHuu2e1pZYzyc5Z_4w0flc_CLRRzAXGNOC0fR9xv9LVFoeYag_63uY284Y$"
+    },
+    {
+      "label": "Featured Deals",
+      "href": "https://www.xfinity.com/learn/deals"
+    },
+    {
+      "label": "Build Your Plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET"
+    },
+    {
+      "label": "Student Offers",
+      "href": "https://www.xfinity.com/student?intcmp=ILC:ACQ:UNI:NON:GEN:HIS:COM:NA:ell:71115425675__;!!CQl3mcHX2A!Gs2U_REVXNssHRH1dfjYQ46xbvMKpSHuu2e1pZYzyc5Z_4w0flc_CLRRzAXGNOC0fR9xv9LVFoeYag_63uY284Y$"
+    },
+    {
+      "label": "Membership Benefits",
+      "href": "https://www.xfinity.com/membership"
+    },
+    {
+      "label": "Move",
+      "href": "https://www.xfinity.com/learn/moving"
+    },
+    {
+      "label": "Comcast Business",
+      "href": "https://business.comcast.com/small-business?CMP=XFINITY:NAV:ACQ"
+    },
+    {
+      "label": "Find a Store",
+      "href": "https://www.xfinity.com/local/store-offers"
+    },
+    {
+      "label": "Find a Store",
+      "href": "https://www.xfinity.com/local/store-offers"
+    },
+    {
+      "label": "Order Online Now",
+      "href": "https://www.xfinity.com/planbuilder"
+    },
+    {
+      "label": "Call to Order: 855-870-1311",
+      "href": "tel:855-870-1311"
+    },
+    {
+      "label": "Cart",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder"
+    },
+    {
+      "label": "Sign In",
+      "href": "https://oauth.xfinity.com/oauth/authorize?response_type=code&prompt=select_billing_account&redirect_uri=https%3A%2F%2Fwww.xfinity.com%2Fsitecore%2Fapi%2Flearn%2Fneptune%2Fcustomer%2Fexisting%2Fpostauth&client_id=shoplearn-web&state=https%3A%2F%2Fwww.xfinity.com%2Fauth"
+    },
+    {
+      "label": "Account and Identity",
+      "href": "https://customer.xfinity.com/settings"
+    },
+    {
+      "label": "Comcast Business",
+      "href": "https://business.comcast.com/small-business?CMP=XFINITY:NAV:EC"
+    },
+    {
+      "label": "Check Email",
+      "href": "https://xfinityconnect.email.comcast.net"
+    },
+    {
+      "label": "Check Voicemail",
+      "href": "https://connect.xfinity.com/voice"
+    },
+    {
+      "label": "Watch TV Online",
+      "href": "https://www.xfinity.com/stream/"
+    }
+  ],
+  "footer": [
+    {
+      "label": "About Comcast",
+      "href": "https://corporate.comcast.com/company"
+    },
+    {
+      "label": "Comcast Business",
+      "href": "https://business.comcast.com/small-business?CMP=XFINITY:FOOTER"
+    },
+    {
+      "label": "Careers",
+      "href": "https://jobs.comcast.com/"
+    },
+    {
+      "label": "Press Room",
+      "href": "https://corporate.comcast.com/press"
+    },
+    {
+      "label": "Corporate Site",
+      "href": "https://corporate.comcast.com/"
+    },
+    {
+      "label": "Comcast Advertising",
+      "href": "https://comcastadvertising.com/?utm_source=xfinity&utm_medium=referral&utm_campaign=advertise_with_us&utm_content=footer"
+    },
+    {
+      "label": "Sitemap",
+      "href": "https://www.xfinity.com/site-map"
+    },
+    {
+      "label": "Rogers Xfinity Canada",
+      "href": "https://www.rogers.com/"
+    },
+    {
+      "label": "About Comcast",
+      "href": "https://corporate.comcast.com/company"
+    },
+    {
+      "label": "Comcast Business",
+      "href": "https://business.comcast.com/small-business?CMP=XFINITY:FOOTER"
+    },
+    {
+      "label": "Careers",
+      "href": "https://jobs.comcast.com/"
+    },
+    {
+      "label": "Press Room",
+      "href": "https://corporate.comcast.com/press"
+    },
+    {
+      "label": "Corporate Site",
+      "href": "https://corporate.comcast.com/"
+    },
+    {
+      "label": "Comcast Advertising",
+      "href": "https://comcastadvertising.com/?utm_source=xfinity&utm_medium=referral&utm_campaign=advertise_with_us&utm_content=footer"
+    },
+    {
+      "label": "Sitemap",
+      "href": "https://www.xfinity.com/site-map"
+    },
+    {
+      "label": "Rogers Xfinity Canada",
+      "href": "https://www.rogers.com/"
+    },
+    {
+      "label": "Chat with Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant"
+    },
+    {
+      "label": "View and Pay Bill",
+      "href": "https://www.xfinity.com/bill-pay"
+    },
+    {
+      "label": "Xfinity Stream",
+      "href": "https://www.xfinity.com/stream/"
+    },
+    {
+      "label": "Discover Xfinity",
+      "href": "https://www.xfinity.com/hub"
+    },
+    {
+      "label": "Run Internet Speed Test",
+      "href": "https://speedtest.xfinity.com"
+    },
+    {
+      "label": "Find Xfinity Stores",
+      "href": "https://www.xfinity.com/local/store-offers"
+    },
+    {
+      "label": "Move to a new Address",
+      "href": "https://www.xfinity.com/learn/moving"
+    },
+    {
+      "label": "Service in my Area",
+      "href": "https://www.xfinity.com/planbuilder"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "NOW WiFi Pass",
+      "href": "https://www.xfinity.com/learn/internet-service/wifi"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Chat with Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant"
+    },
+    {
+      "label": "View and Pay Bill",
+      "href": "https://www.xfinity.com/bill-pay"
+    },
+    {
+      "label": "Xfinity Stream",
+      "href": "https://www.xfinity.com/stream/"
+    },
+    {
+      "label": "Discover Xfinity",
+      "href": "https://www.xfinity.com/hub"
+    },
+    {
+      "label": "Run Internet Speed Test",
+      "href": "https://speedtest.xfinity.com"
+    },
+    {
+      "label": "Find Xfinity Stores",
+      "href": "https://www.xfinity.com/local/store-offers"
+    },
+    {
+      "label": "Move to a new Address",
+      "href": "https://www.xfinity.com/learn/moving"
+    },
+    {
+      "label": "Service in my Area",
+      "href": "https://www.xfinity.com/planbuilder"
+    },
+    {
+      "label": "NOW TV",
+      "href": "https://www.xfinity.com/nowtv"
+    },
+    {
+      "label": "NOW WiFi Pass",
+      "href": "https://www.xfinity.com/learn/internet-service/wifi"
+    },
+    {
+      "label": "NOW Internet",
+      "href": "https://www.xfinity.com/now/internet"
+    },
+    {
+      "label": "NOW Mobile",
+      "href": "https://www.xfinity.com/now/mobile"
+    },
+    {
+      "label": "Customer Guarantee",
+      "href": "https://corporate.comcast.com/hub/customer-experience"
+    },
+    {
+      "label": "Customer Agreements and Policies",
+      "href": "https://www.xfinity.com/policies"
+    },
+    {
+      "label": "Visitor Agreement",
+      "href": "https://www.xfinity.com/corporate/legal/visitoragreement"
+    },
+    {
+      "label": "Xfinity Internet Broadband Disclosures",
+      "href": "https://www.xfinity.com/policies/internet-broadband-disclosures"
+    },
+    {
+      "label": "Privacy Center",
+      "href": "https://www.xfinity.com/privacy"
+    },
+    {
+      "label": "Social Responsibility",
+      "href": " https://corporate.comcast.com/impact"
+    },
+    {
+      "label": "Customer Guarantee",
+      "href": "https://corporate.comcast.com/hub/customer-experience"
+    },
+    {
+      "label": "Customer Agreements and Policies",
+      "href": "https://www.xfinity.com/policies"
+    },
+    {
+      "label": "Visitor Agreement",
+      "href": "https://www.xfinity.com/corporate/legal/visitoragreement"
+    },
+    {
+      "label": "Xfinity Internet Broadband Disclosures",
+      "href": "https://www.xfinity.com/policies/internet-broadband-disclosures"
+    },
+    {
+      "label": "Privacy Center",
+      "href": "https://www.xfinity.com/privacy"
+    },
+    {
+      "label": "Social Responsibility",
+      "href": " https://corporate.comcast.com/impact"
+    },
+    {
+      "label": "",
+      "href": "https://twitter.com/XFINITY"
+    },
+    {
+      "label": "",
+      "href": "https://www.facebook.com/xfinity"
+    },
+    {
+      "label": "",
+      "href": "https://www.youtube.com/user/xfinity?feature=results_main0"
+    },
+    {
+      "label": "",
+      "href": "https://www.xfinity.com?INTCMP=ILC:MA:GEN:GEN5b9ab8ad1e540"
+    },
+    {
+      "label": "Web Terms Of Service",
+      "href": "https://www.xfinity.com/terms"
+    },
+    {
+      "label": "CA Notice at Collection",
+      "href": "https://www.xfinity.com/privacy/policy/staterights#california"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "http://www.xfinity.com/privacy/policy"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "https://www.xfinity.com/privacy/manage-preference"
+    },
+    {
+      "label": "Health Privacy Notice",
+      "href": "https://www.xfinity.com/privacy/policy/staterights#washington"
+    },
+    {
+      "label": "Ad Choices",
+      "href": "https://www.xfinity.com/adinformation"
+    }
+  ],
+  "logo": null
+}

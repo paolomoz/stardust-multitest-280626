@@ -1,0 +1,11 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract", "site": "www.xfinity.com" },
+  "colors": { "background": "#FFFFFF", "surface": "#F6F6F9", "ink": "#141417", "black": "#000000", "slate": "#4C4E54", "primary": "#5A23B9", "primary2": "#9013FE" },
+  "typography": { "heading": "DM Sans", "body": "DM Sans", "sourceHeading": "Xfinity Sans", "sourceBody": "Xfinity Brown" },
+  "rounded": "16px",
+  "extensions": {
+    "componentStyle": { "ctaShape": "pill", "tileRadius": "16px", "shadow": "0 8px 24px rgba(0,0,0,.10)" },
+    "motifs": ["hover-tiles", "price-callout headline", "violet-magenta gradient", "black hero", "compare table"],
+    "voice": ["Same-day WiFi. Instant online magic.", "Cut your mobile bill in half.", "Build your plan"]
+  }
+}

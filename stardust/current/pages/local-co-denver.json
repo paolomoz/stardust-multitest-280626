@@ -1,0 +1,1799 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:28.898Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:22.731Z",
+    "waitMode": "medium",
+    "waitMs": 5950,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "local-co-denver",
+  "url": "https://www.xfinity.com/local/co/denver",
+  "finalUrl": "https://www.xfinity.com/local/co/denver",
+  "screenshot": "stardust/current/assets/screenshots/local-co-denver.png",
+  "title": "Home Internet and WiFi - Denver, CO",
+  "metaDescription": "Hey, Denver! Make Xfinity your internet service provider today! Fast Internet, 5-Year Price Guarantee. No contract. See why we're one of the top internet providers.",
+  "og": {
+    "title": "Home Internet and WiFi - Denver, CO",
+    "description": "Hey, Denver! Make Xfinity your internet service provider today! Fast Internet, 5-Year Price Guarantee. No contract. See why we're one of the top internet providers.",
+    "image": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicon.1b44a3a1.png",
+    "type": "website",
+    "siteName": null
+  },
+  "themeColor": null,
+  "language": "en",
+  "canonical": "https://www.xfinity.com/local/co/denver",
+  "favicon": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicons/locations.xfinity.com/homescreen-192x192.06935c08.png",
+  "appleTouchIcon": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicons/locations.xfinity.com/apple-touch-icon.0d0bdbe2.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Internet Service Provider Denver, CO",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, \"XFINITY Brown\", \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "45px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(90, 35, 185)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Our services work even better together",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, \"XFINITY Brown\", \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "54px",
+        "letterSpacing": "0.2px",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Stores in Denver, CO",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, \"XFINITY Brown\", \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "54px",
+        "letterSpacing": "0.2px",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently Asked Questions",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, \"XFINITY Brown\", \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "54px",
+        "letterSpacing": "0.2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "XSans, DMSans, \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, \"open sans\", sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "Header js-stickybits",
+      "innerText": "",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(68, 72, 76)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Main-content",
+      "innerText": "AllCODenver Get online in minutes with same-day delivery Order by 3pm to get online today, or get next-day delivery after 3pm. Restrictions apply. Shop internet Internet Service Provider Denver, CO Check Availability Shop deals We're more than just your home internet provider, Denver, CO! Internet Mobile TV & Streaming More from Xfinity Xfinity Internet Do more of what you love with a fast, reliable connection Xfinity Internet Unleash monster savings Get reliable, fiber-powered 300 Mbps internet, WiFi equipment, and unlimited data all for one low price that’s guaranteed for 5 years. No contract, cancel anytime. $45/mo for 5 years. Shop internet Pricing & Other Info Offer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Xfinity Mobile req's Xfinity Internet. Try Xfinity Mobile risk-free for 1 year Mobile’s on us when you get our reliable, fiber-powered WiFi Shop now Restrictions apply. Not available in all areas. Xfinity Internet required. Buy online, pick up in store Select in-store pickup when you shop for Xfinity Internet and pick up your equipment as soon as today at eligible addresses. Shop internet Moving made easy Xfinity provides internet service in the Denver area. Set up a move or transfer your service in three simple steps! Schedule a move Over 99.9% rock solid reliability The whole crew can be online at the same time with minimal interruptions, even during peak hours. Shop Internet Our services work even better together Internet Mobile Entertainment Home Security Build your plan Stores in Denver, CO slide 1 to 3 of 4 1390 S. Colorado Blvd. Denver, CO 80222 Xfinity Store by Comcast Open today at 11:00 AM View store details Book appointment 100 Detroit Street Denver, CO 80206 Xfinity Store by Comcast Open today at 11:00 AM View store details Book appointment 1641 Market Street Denver, CO 80202 Xfinity Store by Comcast Branded Partner Open today at 11:00 AM View store details Book appointment 8286 Northfield Blvd Denver, CO 80238 Xfinity Store by Comcast Branded Partner Open today at 11:00 AM View store details Book appointment Shop Xfinity Mobile Explore the latest phones to get started All Apple Samsung Google Motorola Apple iPhone 17 Pro Max starting at $ 10 27 /mo Shop Starting at $10.27/mo, formerly $33.33 per month. For 36 months, 0% APR. Full price: $1,199.99 Google Pixel 10 Pro XL starting at $ 10 27 /mo Shop Starting at $10.27/mo, formerly $33.33 per month. For 36 months, 0% APR. Full price: $1,199.99 Samsung Galaxy S26 Ultra starting at $ 11 11 /mo Shop Starting at $11.11/mo, formerly $36.11 per month. For 36 months, 0% APR. Full price: $1,299.99 Motorola moto g stylus - 2026 starting at $ 2 77 /mo Shop Starting at $2.77/mo, formerly $13.88 per month. For 36 months, 0% APR. Full price: $499.99 Shop All Xfinity Mobile Deals Frequently Asked Questions Home Internet Pricing in Denver Speed: 300 Mbps • $45/mo - Special offer pricing • $75/mo - Everyday pricing Speed: 500 Mbps • $60/mo - Special offer pricing • $85/mo - Everyday pricing Do we provide home internet in your area? Check availability at your address! Restrictions apply. Not available in all areas. 5-Year Price Guarantee: New Xfinity Internet customers. Limited to 300 Mbps internet and above. Requires both paperless billing and automatic payments with stored bank account (or additional $10/mo charge applies). Installation, taxes and fees, and other applicable charges extra, and subj. to change. Service limited to a single outlet. Internet: Actual speeds vary and are not guaranteed. For factors affecting speed visit xfinity.com/networkmanagement How much do internet providers cost in Denver? Xfinity Internet prices and speeds vary by location. Compare plans and prices for your address online. Do you provide internet service near Denver? Yes! Check availability here and for these areas near Denver: Wheat Ridge, CO Arvada, CO Golden, CO Westminster, CO Englewood, CO What internet speed is right for me? Choose from a range of fast, reliable home internet speeds to fit your needs - from on-the-go WiFi passes to gig-speed internet. Compare options for Internet speeds in Denver. See how fast your current internet or mobile plan is with our internet speed test! Do I need to be an Xfinity Internet customer to get Xfinity Mobile? Xfinity Mobile is only available to our Xfinity Internet post-pay customers. If you don't have Xfinity Internet yet, sign up now and begin using our mobile services. If you have Xfinity Internet, you can bring your own phone to Xfinity Mobile. What mobile plans does Xfinity Mobile offer? Our latest plans are Mobile Select ($30/mo with Xfinity Internet) and Mobile Plus ($60/mo with Xfinity Internet). Both offer unlimited talk, text, and data in the US and in 215+ international destinations. Consider Mobile Plus for additional premium features like Xfinity Mobile Care Plus device protection, phone upgrades every year with a guaranteed discount, 4K ultra-high-definition streaming, and Xfinity Call Guard spam protection. WiFi PowerBoost: Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile members only. Gateway required. How does Xfinity Mobile compare to Verizon, AT&T, and T-Mobile? Xfinity Mobile provides incredible value compared to other mobile carriers. You can save hundreds every year with our plans vs. Verizon, AT&T, and T-Mobile. While others charge daily fees for roaming, Xfinity includes unlimited international talk, text, and data for 215+ destinations on both of our latest plans. With our Mobile Plus plan, you get device protection included at no extra cost for your phone, tablets, and smartwatches. With other carriers, you could pay $7-25/mo per device. Make the switch and save. Learn more how Xfinity Mobile compares to Verizon, AT&",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(68, 72, 76)",
+      "headings": [
+        "Internet Service Provider Denver, CO",
+        "Our services work even better together",
+        "Stores in Denver, CO",
+        "Frequently Asked Questions"
+      ]
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "Cookie Preferences",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(68, 72, 76)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Get online in minutes with same-day delivery",
+    "Order by 3pm to get online today, or get next-day delivery after 3pm. Restrictions apply.",
+    "Xfinity InternetUnleash monster savingsGet reliable, fiber-powered 300 Mbps internet, WiFi equipment, and unlimited data all for one low price that’s guaranteed for 5 years. No contract, cancel anytime. $45/mo for 5 years.Shop internetPricing & Other InfoOffer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Xfinity Mobile req's Xfinity Internet.",
+    "Try Xfinity Mobile risk-free for 1 yearMobile’s on us when you get our reliable, fiber-powered WiFiShop nowRestrictions apply. Not available in all areas. Xfinity Internet required.",
+    "Buy online, pick up in storeSelect in-store pickup when you shop for Xfinity Internet and pick up your equipment as soon as today at eligible addresses.Shop internet",
+    "Moving made easyXfinity provides internet service in the Denver area. Set up a move or transfer your service in three simple steps!Schedule a move",
+    "Over 99.9% rock solid reliabilityThe whole crew can be online at the same time with minimal interruptions, even during peak hours.Shop Internet",
+    "Xfinity MobileCut your mobile bill in half. Plus, try free for a year. No commitment.Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members.Shop mobilePricing & other infoXfinity Internet required. Savings comparison based on 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra.",
+    "The best coverage with 5G and millions of secure WiFi hotspotsCoverage you can count on — nationwide. Plus, instantly connect to millions of secure WiFi hotspots throughout the US.Check coverage",
+    "Only Xfinity includes device protection for lifeWith Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account.Protect my devicesMobile Plus required. Lifetime device protection applies to each device connected to a Mobile Plus line and any device connected to Xfinity Mobile watch line or tablet line. Coverage applies only while at least one device on account remains active on Mobile Plus line. Coverage terms and conditions apply.",
+    "X1 TVWatch anytime, anywhereEnjoy live TV, On Demand, sports, and your favorite streaming apps all in one place with Xfinity TV.Shop X1",
+    "Xumo Stream Box from XfinityAll you can streamFrom action to comedy to reality and more - there's something for everyone on the Xumo Stream Box from Xfinity.Shop",
+    "Watch what you love with NOW TVDitch the annual contracts and fees. NOW TV gives you access to your favorite live and on demand TV for on $20/mo.Shop NOW TV",
+    "StreamSaverSave 40% on your favorite streaming servicesGet Netflix, Peacock, and Apple TV+ when you add StreamSaver with Xfinity Internet.Shop StreamSaverRestrictions apply. Xfinity Internet req'd. Taxes extra. Pricing subj. to change. Compares StreamSaver ($18/mo) vs. Netflix Standard with Ads ($6.99/mo), Apple TV+ ($9.99/mo), and Peacock Premium with ads ($7.99/mo).",
+    "Xfinity Home SecurityGet enhanced protection with Xfinity HomeEnjoy total flexibility and no term contracts with Self Protection, starting at only $10/mo.Shop Home Security",
+    "Keep watch with Xfinity CamerasEasily keep an eye on your home from anywhere with Xfinity Cameras and the Xfinity app. Get notified when your camera detects motion in real time, including live HD video with night vision capabilities.Shop cameras",
+    "Comcast BusinessPowered by the nation’s largest gig-speed network, Comcast Business delivers internet, phone, TV, video monitoring, and cloud solutions.Shop Business InternetShop Business Mobile",
+    "1390 S. Colorado Blvd. Denver, CO 80222 Xfinity Store by Comcast Open today at 11:00 AM View store details Book appointment",
+    "100 Detroit Street Denver, CO 80206 Xfinity Store by Comcast Open today at 11:00 AM View store details Book appointment",
+    "1641 Market Street Denver, CO 80202 Xfinity Store by Comcast Branded Partner Open today at 11:00 AM View store details Book appointment",
+    "8286 Northfield Blvd Denver, CO 80238 Xfinity Store by Comcast Branded Partner Open today at 11:00 AM View store details Book appointment",
+    "Home Internet Pricing in Denver Speed: 300 Mbps • $45/mo - Special offer pricing • $75/mo - Everyday pricing Speed: 500 Mbps • $60/mo - Special offer pricing • $85/mo - Everyday pricing Do we provide home internet in your area? Check availability at your address! Restrictions apply. Not available in all areas. 5-Year Price Guarantee: New Xfinity Internet customers. Limited to 300 Mbps internet and above. Requires both paperless billing and automatic payments with stored bank account (or additional $10/mo charge applies). Installation, taxes and fees, and other applicable charges extra, and subj. to change. Service limited to a single outlet. Internet: Actual speeds vary and are not guaranteed. For factors affecting speed visit xfinity.com/networkmanagement",
+    "Home Internet Pricing in Denver",
+    "• $45/mo - Special offer pricing",
+    "• $75/mo - Everyday pricing",
+    "• $60/mo - Special offer pricing",
+    "• $85/mo - Everyday pricing",
+    "Do we provide home internet in your area? Check availability at your address!",
+    "Restrictions apply. Not available in all areas. 5-Year Price Guarantee: New Xfinity Internet customers. Limited to 300 Mbps internet and above. Requires both paperless billing and automatic payments with stored bank account (or additional $10/mo charge applies). Installation, taxes and fees, and other applicable charges extra, and subj. to change. Service limited to a single outlet. Internet: Actual speeds vary and are not guaranteed. For factors affecting speed visit xfinity.com/networkmanagement",
+    "How much do internet providers cost in Denver? Xfinity Internet prices and speeds vary by location. Compare plans and prices for your address online.",
+    "How much do internet providers cost in Denver?",
+    "Xfinity Internet prices and speeds vary by location. Compare plans and prices for your address online.",
+    "Do you provide internet service near Denver? Yes! Check availability here and for these areas near Denver: Wheat Ridge, CO Arvada, CO Golden, CO Westminster, CO Englewood, CO",
+    "Do you provide internet service near Denver?",
+    "Yes! Check availability here and for these areas near Denver: Wheat Ridge, CO Arvada, CO Golden, CO Westminster, CO Englewood, CO",
+    "What internet speed is right for me? Choose from a range of fast, reliable home internet speeds to fit your needs - from on-the-go WiFi passes to gig-speed internet. Compare options for Internet speeds in Denver. See how fast your current internet or mobile plan is with our internet speed test!",
+    "What internet speed is right for me?",
+    "Choose from a range of fast, reliable home internet speeds to fit your needs - from on-the-go WiFi passes to gig-speed internet. Compare options for Internet speeds in Denver. See how fast your current internet or mobile plan is with our internet speed test!",
+    "Do I need to be an Xfinity Internet customer to get Xfinity Mobile? Xfinity Mobile is only available to our Xfinity Internet post-pay customers. If you don't have Xfinity Internet yet, sign up now and begin using our mobile services. If you have Xfinity Internet, you can bring your own phone to Xfinity Mobile.",
+    "Do I need to be an Xfinity Internet customer to get Xfinity Mobile?",
+    "Xfinity Mobile is only available to our Xfinity Internet post-pay customers. If you don't have Xfinity Internet yet, sign up now and begin using our mobile services. If you have Xfinity Internet, you can bring your own phone to Xfinity Mobile.",
+    "What mobile plans does Xfinity Mobile offer? Our latest plans are Mobile Select ($30/mo with Xfinity Internet) and Mobile Plus ($60/mo with Xfinity Internet). Both offer unlimited talk, text, and data in the US and in 215+ international destinations. Consider Mobile Plus for additional premium features like Xfinity Mobile Care Plus device protection, phone upgrades every year with a guaranteed discount, 4K ultra-high-definition streaming, and Xfinity Call Guard spam protection. WiFi PowerBoost: Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile members only. Gateway required.",
+    "What mobile plans does Xfinity Mobile offer?",
+    "Our latest plans are Mobile Select ($30/mo with Xfinity Internet) and Mobile Plus ($60/mo with Xfinity Internet). Both offer unlimited talk, text, and data in the US and in 215+ international destinations.",
+    "Consider Mobile Plus for additional premium features like Xfinity Mobile Care Plus device protection, phone upgrades every year with a guaranteed discount, 4K ultra-high-definition streaming, and Xfinity Call Guard spam protection.",
+    "WiFi PowerBoost: Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile members only. Gateway required.",
+    "How does Xfinity Mobile compare to Verizon, AT&T, and T-Mobile? Xfinity Mobile provides incredible value compared to other mobile carriers. You can save hundreds every year with our plans vs. Verizon, AT&T, and T-Mobile. While others charge daily fees for roaming, Xfinity includes unlimited international talk, text, and data for 215+ destinations on both of our latest plans. With our Mobile Plus plan, you get device protection included at no extra cost for your phone, tablets, and smartwatches. With other carriers, you could pay $7-25/mo per device. Make the switch and save. Learn more how Xfinity Mobile compares to Verizon, AT&T, and T-Mobile: Xfinity vs. Verizon Xfinity vs. AT&T Xfinity vs. T-Mobile Savings comparison based upon 2 Mobile Select lines and lowest price for unlimited 5G plans of top 3 carriers.",
+    "How does Xfinity Mobile compare to Verizon, AT&T, and T-Mobile?",
+    "Xfinity Mobile provides incredible value compared to other mobile carriers.",
+    "You can save hundreds every year with our plans vs. Verizon, AT&T, and T-Mobile.",
+    "While others charge daily fees for roaming, Xfinity includes unlimited international talk, text, and data for 215+ destinations on both of our latest plans.",
+    "With our Mobile Plus plan, you get device protection included at no extra cost for your phone, tablets, and smartwatches. With other carriers, you could pay $7-25/mo per device.",
+    "Make the switch and save. Learn more how Xfinity Mobile compares to Verizon, AT&T, and T-Mobile:",
+    "Savings comparison based upon 2 Mobile Select lines and lowest price for unlimited 5G plans of top 3 carriers."
+  ],
+  "ctas": [
+    {
+      "label": "All",
+      "href": "../",
+      "btn": false
+    },
+    {
+      "label": "CO",
+      "href": "../co",
+      "btn": false
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": false
+    },
+    {
+      "label": "Check Availability",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Shop deals",
+      "href": "https://www.xfinity.com/learn/deals/internet",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "#Internet",
+      "btn": false
+    },
+    {
+      "label": "Mobile",
+      "href": "#Mobile",
+      "btn": false
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "#TV & Streaming",
+      "btn": false
+    },
+    {
+      "label": "More from Xfinity",
+      "href": "#More from Xfinity",
+      "btn": false
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/deals/internet",
+      "btn": true
+    },
+    {
+      "label": "Pricing & Other Info",
+      "href": "javascript:void(0)",
+      "btn": false
+    },
+    {
+      "label": "Shop now",
+      "href": "https://www.xfinity.com/learn/deals/internet-and-mobile",
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Schedule a move",
+      "href": "https://www.xfinity.com/learn/moving",
+      "btn": true
+    },
+    {
+      "label": "Shop Internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/deals/internet",
+      "btn": true
+    },
+    {
+      "label": "Pricing & Other Info",
+      "href": "javascript:void(0)",
+      "btn": false
+    },
+    {
+      "label": "Shop now",
+      "href": "https://www.xfinity.com/learn/deals/internet-and-mobile",
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Schedule a move",
+      "href": "https://www.xfinity.com/learn/moving",
+      "btn": true
+    },
+    {
+      "label": "Shop Internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Shop mobile",
+      "href": "https://www.xfinity.com/learn/mobile",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "javascript:void(0)",
+      "btn": false
+    },
+    {
+      "label": "Check coverage",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage",
+      "btn": true
+    },
+    {
+      "label": "Protect my devices",
+      "href": "https://www.xfinity.com/learn/protection-plans",
+      "btn": true
+    },
+    {
+      "label": "Shop mobile",
+      "href": "https://www.xfinity.com/learn/mobile",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "javascript:void(0)",
+      "btn": false
+    },
+    {
+      "label": "Check coverage",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage",
+      "btn": true
+    },
+    {
+      "label": "Protect my devices",
+      "href": "https://www.xfinity.com/learn/protection-plans",
+      "btn": true
+    },
+    {
+      "label": "Shop X1",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/learn/xumostreambox",
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV",
+      "href": "https://www.xfinity.com/nowtv",
+      "btn": true
+    },
+    {
+      "label": "Shop StreamSaver",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+      "btn": true
+    },
+    {
+      "label": "Shop X1",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/learn/xumostreambox",
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV",
+      "href": "https://www.xfinity.com/nowtv",
+      "btn": true
+    },
+    {
+      "label": "Shop StreamSaver",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+      "btn": true
+    },
+    {
+      "label": "Shop Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions",
+      "btn": true
+    },
+    {
+      "label": "Shop cameras",
+      "href": "https://www.xfinity.com/learn/home-solutions/self-protection",
+      "btn": true
+    },
+    {
+      "label": "Shop Business Internet",
+      "href": "https://business.comcast.com/learn/internet",
+      "btn": true
+    },
+    {
+      "label": "Shop Business Mobile",
+      "href": "https://business.comcast.com/shop/mobile?category=device",
+      "btn": true
+    },
+    {
+      "label": "Shop Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions",
+      "btn": true
+    },
+    {
+      "label": "Shop cameras",
+      "href": "https://www.xfinity.com/learn/home-solutions/self-protection",
+      "btn": true
+    },
+    {
+      "label": "Shop Business Internet",
+      "href": "https://business.comcast.com/learn/internet",
+      "btn": true
+    },
+    {
+      "label": "Shop Business Mobile",
+      "href": "https://business.comcast.com/shop/mobile?category=device",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": true
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile",
+      "btn": true
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv",
+      "btn": true
+    },
+    {
+      "label": "Home Security",
+      "href": "https://www.xfinity.com/learn/home-solutions",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/planbuilder",
+      "btn": true
+    },
+    {
+      "label": "View store details",
+      "href": "../co/denver/1390-s--colorado-blvd.html",
+      "btn": true
+    },
+    {
+      "label": "Book appointment",
+      "href": "https://www.xfinity.com/support/storeappointment?locationId=xfinity3358",
+      "btn": true
+    },
+    {
+      "label": "View store details",
+      "href": "../co/denver/100-detroit-street.html",
+      "btn": true
+    },
+    {
+      "label": "Book appointment",
+      "href": "https://www.xfinity.com/support/storeappointment?locationId=xfinity3372",
+      "btn": true
+    },
+    {
+      "label": "View store details",
+      "href": "../co/denver/1641-market-street.html",
+      "btn": true
+    },
+    {
+      "label": "Book appointment",
+      "href": "https://www.xfinity.com/support/storeappointment?locationId=xfinity59125",
+      "btn": true
+    },
+    {
+      "label": "View store details",
+      "href": "../co/denver/8286-northfield-blvd.html",
+      "btn": true
+    },
+    {
+      "label": "Book appointment",
+      "href": "https://www.xfinity.com/support/storeappointment?locationId=xfinity59003",
+      "btn": true
+    },
+    {
+      "label": "All",
+      "href": "#All",
+      "btn": false
+    },
+    {
+      "label": "Apple",
+      "href": "#Apple",
+      "btn": false
+    },
+    {
+      "label": "Samsung",
+      "href": "#Samsung",
+      "btn": false
+    },
+    {
+      "label": "Google",
+      "href": "#Google",
+      "btn": false
+    },
+    {
+      "label": "Motorola",
+      "href": "#Motorola",
+      "btn": false
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/iphone-17-pro-max",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/pixel-10-pro-xl",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/galaxy-s26-ultra",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/moto-g-stylus-2026",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/iphone-17-pro-max",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/iphone-17-pro",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/iphone-17",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/iphone-17e",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/galaxy-s26-ultra",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/galaxy-s26plus",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/galaxy-s26",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/galaxy-z-fold7",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/pixel-10-pro-xl",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/pixel-10-pro",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/pixel-10",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/pixel-10a",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/razr-2026",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/moto-g-stylus-2026",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/moto-g-play-2026",
+      "btn": true
+    },
+    {
+      "label": "Shop",
+      "href": "https://www.xfinity.com/mobile/shop/phone/moto-g-2026",
+      "btn": true
+    },
+    {
+      "label": "Shop All Xfinity Mobile Deals",
+      "href": "https://www.xfinity.com/mobile/learn/deals",
+      "btn": true
+    },
+    {
+      "label": "Home Internet Pricing in Denver",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Check availability",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "xfinity.com/networkmanagement",
+      "href": "https://www.xfinity.com/networkmanagement",
+      "btn": false
+    },
+    {
+      "label": "How much do internet providers cost in Denver?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Compare plans and prices",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "Do you provide internet service near Denver?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "Wheat Ridge, CO",
+      "href": "https://www.xfinity.com/local/co/wheat-ridge",
+      "btn": false
+    },
+    {
+      "label": "Arvada, CO",
+      "href": "https://www.xfinity.com/local/co/arvada",
+      "btn": false
+    },
+    {
+      "label": "Golden, CO",
+      "href": "https://www.xfinity.com/local/co/golden",
+      "btn": false
+    },
+    {
+      "label": "Westminster, CO",
+      "href": "https://www.xfinity.com/local/co/westminster",
+      "btn": false
+    },
+    {
+      "label": "Englewood, CO",
+      "href": "https://www.xfinity.com/local/co/englewood",
+      "btn": false
+    },
+    {
+      "label": "What internet speed is right for me?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "WiFi passes",
+      "href": "https://www.xfinity.com/learn/internet-service/wifi",
+      "btn": false
+    },
+    {
+      "label": "Internet speeds in",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "internet speed test",
+      "href": "https://speedtest.xfinity.com/",
+      "btn": false
+    },
+    {
+      "label": "Do I need to be an Xfinity Internet customer to get Xfinity Mobile?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Xfinity Mobile",
+      "href": "https://www.xfinity.com/mobile/",
+      "btn": false
+    },
+    {
+      "label": "sign up",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "bring your own phone",
+      "href": "https://www.xfinity.com/mobile/learn/byod",
+      "btn": false
+    },
+    {
+      "label": "What mobile plans does Xfinity Mobile offer?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Xfinity Mobile Care Plus",
+      "href": "https://www.xfinity.com/learn/protection-plans",
+      "btn": false
+    },
+    {
+      "label": "phone upgrades every year",
+      "href": "https://www.xfinity.com/learn/mobile/phone-upgrades",
+      "btn": false
+    },
+    {
+      "label": "Xfinity Call Guard spam",
+      "href": "https://www.xfinity.com/learn/mobile/call-guard",
+      "btn": false
+    },
+    {
+      "label": "How does Xfinity Mobile compare to Verizon, AT&T, and T-Mobile?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Xfinity vs. Verizon",
+      "href": "https://www.xfinity.com/compare/xfinity-vs-verizon",
+      "btn": false
+    },
+    {
+      "label": "Xfinity vs. AT&T",
+      "href": "https://www.xfinity.com/compare/xfinity-vs-att",
+      "btn": false
+    },
+    {
+      "label": "Xfinity vs. T-Mobile",
+      "href": "https://www.xfinity.com/compare/xfinity-vs-t-mobile",
+      "btn": false
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/local/",
+      "/local/co",
+      "/digital/offers/plan-builder",
+      "/learn/internet-service",
+      "/learn/deals/internet",
+      "/local/co/denver",
+      "/learn/deals/internet-and-mobile",
+      "/learn/moving",
+      "/learn/mobile",
+      "/learn/mobile/network-coverage",
+      "/learn/protection-plans",
+      "/learn/digital-cable-tv",
+      "/learn/xumostreambox",
+      "/nowtv",
+      "/learn/digital-cable-tv/streaming-services",
+      "/learn/home-solutions",
+      "/learn/home-solutions/self-protection",
+      "/planbuilder",
+      "/local/co/denver/1390-s--colorado-blvd.html",
+      "/support/storeappointment",
+      "/local/co/denver/100-detroit-street.html",
+      "/local/co/denver/1641-market-street.html",
+      "/local/co/denver/8286-northfield-blvd.html",
+      "/mobile/shop/phone/iphone-17-pro-max",
+      "/mobile/shop/phone/pixel-10-pro-xl",
+      "/mobile/shop/phone/galaxy-s26-ultra",
+      "/mobile/shop/phone/moto-g-stylus-2026",
+      "/mobile/shop/phone/iphone-17-pro",
+      "/mobile/shop/phone/iphone-17",
+      "/mobile/shop/phone/iphone-17e",
+      "/mobile/shop/phone/galaxy-s26plus",
+      "/mobile/shop/phone/galaxy-s26",
+      "/mobile/shop/phone/galaxy-z-fold7",
+      "/mobile/shop/phone/pixel-10-pro",
+      "/mobile/shop/phone/pixel-10",
+      "/mobile/shop/phone/pixel-10a",
+      "/mobile/shop/phone/razr-2026",
+      "/mobile/shop/phone/moto-g-play-2026",
+      "/mobile/shop/phone/moto-g-2026",
+      "/mobile/learn/deals",
+      "/networkmanagement",
+      "/local/co/wheat-ridge",
+      "/local/co/arvada",
+      "/local/co/golden",
+      "/local/co/westminster",
+      "/local/co/englewood",
+      "/learn/internet-service/wifi",
+      "/mobile/",
+      "/mobile/learn/byod",
+      "/learn/mobile/phone-upgrades",
+      "/learn/mobile/call-guard",
+      "/compare/xfinity-vs-verizon",
+      "/compare/xfinity-vs-att",
+      "/compare/xfinity-vs-t-mobile",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "https://business.comcast.com/learn/internet",
+      "https://business.comcast.com/shop/mobile?category=device",
+      "https://speedtest.xfinity.com/",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicon.1b44a3a1.png",
+        "alt": "xfinity logo",
+        "w": 228,
+        "h": 228,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/ys6CO3MVEPG3MTYT1TpcgAJ8rutTip0xKmW_jiEnH1k/1900x475.jpg",
+        "alt": "Customers shopping for xfinity internet in Denver",
+        "w": 1900,
+        "h": 474,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/LADvF2_WQfHXNdBWFf_yY_7MOVr4Nkh5GYuTw3tzLJ0/750x1014.jpg",
+        "alt": "Customers shopping for xfinity internet in Denver",
+        "w": 750,
+        "h": 1014,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UJZb1-rXUK-G6XicE76ydqYbf-qU9hRjc4bz-OpImT4/1734x800.jpg",
+        "alt": "",
+        "w": 1734,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/U0zHLZ6ERwlp1zpioiamk-zJvUS-__ux6CSBWGEQGH4/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/oSnRYjPn_Vr1j0hs4aRTryP9nN1sG27iQYSpWduXyjQ/89x88.png",
+        "alt": "",
+        "w": 89,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GllPbsu02vLSRfqahGOC2MmlLAm1YJfVbdevBJNpALw/1900x1900.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GllPbsu02vLSRfqahGOC2MmlLAm1YJfVbdevBJNpALw/1900x1900.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/1nXwuJoaz6-O9XtaXx7TH66QsM2PVNwx0w2a-Co4E2k/843x864.jpg",
+        "alt": "",
+        "w": 843,
+        "h": 864,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/I51MauzrPxJ4pZY4Iaj6aCbHPysD-M6bqjGCXpINigM/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UJZb1-rXUK-G6XicE76ydqYbf-qU9hRjc4bz-OpImT4/1734x800.jpg",
+        "alt": "",
+        "w": 1734,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/U0zHLZ6ERwlp1zpioiamk-zJvUS-__ux6CSBWGEQGH4/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/oSnRYjPn_Vr1j0hs4aRTryP9nN1sG27iQYSpWduXyjQ/89x88.png",
+        "alt": "",
+        "w": 89,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GllPbsu02vLSRfqahGOC2MmlLAm1YJfVbdevBJNpALw/1900x1900.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GllPbsu02vLSRfqahGOC2MmlLAm1YJfVbdevBJNpALw/1900x1900.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/1nXwuJoaz6-O9XtaXx7TH66QsM2PVNwx0w2a-Co4E2k/843x864.jpg",
+        "alt": "",
+        "w": 843,
+        "h": 864,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/I51MauzrPxJ4pZY4Iaj6aCbHPysD-M6bqjGCXpINigM/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/carouselLeftArrow.3428c00a.svg",
+        "alt": "Carousel left arrow",
+        "w": 30,
+        "h": 30,
+        "srcset": null
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/carouselRightArrow.78cf569a.svg",
+        "alt": "Carousel right arrow",
+        "w": 30,
+        "h": 30,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/7Ygaqn9PlNRzeue0fJEFnFBxBoQ6rUAgMuhGmZb-5tM/1900x579.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 579,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/e0aWMTDZ5bdMDz6d3Unx32yvaVnQdSQe3nxFbvqntnE/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/hV1YtQL84oignRs2pTsjAEASLFZrrgGjTFaUQQEufhU/88x88.png",
+        "alt": "",
+        "w": 88,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/bcKubpFE07X9DVk6i0m_sBbbw7CtOUrEQeL7rqNFD9M/88x88.png",
+        "alt": "",
+        "w": 88,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/7Ygaqn9PlNRzeue0fJEFnFBxBoQ6rUAgMuhGmZb-5tM/1900x579.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 579,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/e0aWMTDZ5bdMDz6d3Unx32yvaVnQdSQe3nxFbvqntnE/654x1291.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1291,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/hV1YtQL84oignRs2pTsjAEASLFZrrgGjTFaUQQEufhU/88x88.png",
+        "alt": "",
+        "w": 88,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/bcKubpFE07X9DVk6i0m_sBbbw7CtOUrEQeL7rqNFD9M/88x88.png",
+        "alt": "",
+        "w": 88,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/A4icdYTHPfKtX_iO_WI1NLFCwYknYA5hGhNLz2w6IeM/1735x801.jpg",
+        "alt": "",
+        "w": 1735,
+        "h": 801,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/xt7zBtOuBATvLKlgff-7FiRRa_YzM2zvXfOx5AKYfVU/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qs6iMtwXM-pcIW3c6Q3jNKJj44yAsPjr4m7rZREcVAU/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qs6iMtwXM-pcIW3c6Q3jNKJj44yAsPjr4m7rZREcVAU/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/kHq1evpEzufw6h34J-flQjK4sQ7c0dWVkTbwhNknd0E/89x89.png",
+        "alt": "",
+        "w": 89,
+        "h": 89,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/cqjf64Fc3JBwkYKaQ8EhaSN5vYCIHmEBsb-KnzL2xIA/804x89.png",
+        "alt": "",
+        "w": 804,
+        "h": 89,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/A4icdYTHPfKtX_iO_WI1NLFCwYknYA5hGhNLz2w6IeM/1735x801.jpg",
+        "alt": "",
+        "w": 1735,
+        "h": 801,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/xt7zBtOuBATvLKlgff-7FiRRa_YzM2zvXfOx5AKYfVU/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qs6iMtwXM-pcIW3c6Q3jNKJj44yAsPjr4m7rZREcVAU/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qs6iMtwXM-pcIW3c6Q3jNKJj44yAsPjr4m7rZREcVAU/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/fzGeD0ZHACGVAkBqEsTmjvBg8n3j5MvyjZ5ku-J6tIg/1900x1900.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 1900,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/kHq1evpEzufw6h34J-flQjK4sQ7c0dWVkTbwhNknd0E/89x89.png",
+        "alt": "",
+        "w": 89,
+        "h": 89,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/UiXXSPfnQBPUOBPhrPdfEfps2u4oMbMj91wznXMs0v4/1900x1069.png",
+        "alt": "",
+        "w": 1900,
+        "h": 1068,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/cqjf64Fc3JBwkYKaQ8EhaSN5vYCIHmEBsb-KnzL2xIA/804x89.png",
+        "alt": "",
+        "w": 804,
+        "h": 89,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/MXfK1nqLnOPkkDNbW0LLv8rB7qvTDQuzaEuN00aftNk/1900x579.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 579,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/3NFhF_3MBrGmHLylWu-6aGmiKtNBRXjHCBsXWPIAEFI/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/5l6efe9pcgziYtbu3nAkaTQzgewc59ytAs-_8SACMyo/1288x800.jpg",
+        "alt": "",
+        "w": 1288,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/lBi4HCPLiH6_DbG1hh_RjRi1gXlNXbNSAa7TQOLiT-s/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/xhkCFhAeq-g5vJ4brEhpfc42oYGnyoRBRrVgndAzEUw/1288x800.jpg",
+        "alt": "",
+        "w": 1288,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/vjbbuZOG9b4_HetfQBoyJ49JgGYx_XcJ3AafULqa6-c/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/MXfK1nqLnOPkkDNbW0LLv8rB7qvTDQuzaEuN00aftNk/1900x579.jpg",
+        "alt": "",
+        "w": 1900,
+        "h": 579,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/3NFhF_3MBrGmHLylWu-6aGmiKtNBRXjHCBsXWPIAEFI/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/5l6efe9pcgziYtbu3nAkaTQzgewc59ytAs-_8SACMyo/1288x800.jpg",
+        "alt": "",
+        "w": 1288,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/lBi4HCPLiH6_DbG1hh_RjRi1gXlNXbNSAa7TQOLiT-s/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/xhkCFhAeq-g5vJ4brEhpfc42oYGnyoRBRrVgndAzEUw/1288x800.jpg",
+        "alt": "",
+        "w": 1288,
+        "h": 800,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/vjbbuZOG9b4_HetfQBoyJ49JgGYx_XcJ3AafULqa6-c/654x1344.jpg",
+        "alt": "",
+        "w": 654,
+        "h": 1344,
+        "srcset": null
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/close-btn.ebdccb56.svg",
+        "alt": "close button icon",
+        "w": 20,
+        "h": 20,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/Xn82uWiifR30-p0dVw1CJX2UsEJ0aui_hgUvsXE4M38/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/f6he2DI_58kez4nrV6tGHQy85aZL7nvNLMdZcz5V3hg/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/Qy0vjHgdPTMDCA0frh99p82X6TIegpmlNw31C3pR-VY/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/qbQsFXVYEE5i8xmMkZ3_LZfQkcCvZV-ZU5q3tEV2ye8/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/P2tgq3zaABCHSnP3rwOiYjGGR7LVbj5RmaetzeKLvcM/221x229.png",
+        "alt": "",
+        "w": 221,
+        "h": 229,
+        "srcset": null
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/city-carouselLeftArrow.a5720508.svg",
+        "alt": "Carousel left arrow",
+        "w": 30,
+        "h": 30,
+        "srcset": null
+      },
+      {
+        "src": "https://www.xfinity.com/local/permanent-b0b701/assets/images/city-carouselRightArrow.64bb3492.svg",
+        "alt": "Carousel right arrow",
+        "w": 30,
+        "h": 30,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GhaBYmFqXyqf7R1R0vXinE8dlSNmdSkcuRZ1NPuNIdY/187x240.webp",
+        "alt": "",
+        "w": 187,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/e3EzjBqyciU6YpFYvyTj3Z7Zzt-thlPlyerPBtnoOLM/151x240.webp",
+        "alt": "",
+        "w": 151,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/F-kyPdRln3Y-UeliR2y55n3fZPhamJUnGv1iJylpyDE/237x240.webp",
+        "alt": "",
+        "w": 237,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/gRDzcT-qEWH1SXXZwrx8ObE05-8g19v_G6CEIryPKbY/192x240.webp",
+        "alt": "",
+        "w": 192,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/GhaBYmFqXyqf7R1R0vXinE8dlSNmdSkcuRZ1NPuNIdY/187x240.webp",
+        "alt": "",
+        "w": 187,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/0Jdf_wIZJUHevmWDJ9yOkqlM0kUig-TV1W1dz2jdsv0/194x240.webp",
+        "alt": "",
+        "w": 194,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/kr1i3-RJtC7gLxfvFkTH60I0pFhcynikF70aae7IYvI/194x240.webp",
+        "alt": "",
+        "w": 194,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/FL77hfK6o1aWLweMKXXugErztpwIRJog4kRiCan9iog/197x240.webp",
+        "alt": "",
+        "w": 197,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/F-kyPdRln3Y-UeliR2y55n3fZPhamJUnGv1iJylpyDE/237x240.webp",
+        "alt": "",
+        "w": 237,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/AXuOvg8_MG2Uqr8QZV_tUzOnhSsaJKMYIfWNP_-VyVk/196x240.webp",
+        "alt": "",
+        "w": 196,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/xmlAHG60uCxAynVi7j-lxWPtCSMW_j-dIz2ruW4ZV2M/199x240.webp",
+        "alt": "",
+        "w": 199,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/uNwsI7JY2ERF_Z2wxJyNwOOu-yprz35NdiCh1qktjYY/253x240.webp",
+        "alt": "",
+        "w": 253,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/e3EzjBqyciU6YpFYvyTj3Z7Zzt-thlPlyerPBtnoOLM/151x240.webp",
+        "alt": "",
+        "w": 151,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/M7wltkyEYEMyexRgUq-2RZ37zULxKrs-k680gl8_5D4/151x240.webp",
+        "alt": "",
+        "w": 151,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/zChJqbgZS6wLZbM0QfX5vB3xOXgVAeBimPcMA0Mw6OA/151x240.webp",
+        "alt": "",
+        "w": 151,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/BV5VnyCgAv5LGuSy0_Pa5Y3P_nFgHSgLMNMhtPqPUFU/156x240.webp",
+        "alt": "",
+        "w": 156,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/c-m9Twx5kO1lnamQ7VBzhwFeljwgnECUe3jzekRzL74/199x240.webp",
+        "alt": "",
+        "w": 199,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/gRDzcT-qEWH1SXXZwrx8ObE05-8g19v_G6CEIryPKbY/192x240.webp",
+        "alt": "",
+        "w": 192,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/NAK4vmKYy16GsFAaHGbonwPW1V05Ukkx3ISppBlo2ac/192x240.webp",
+        "alt": "",
+        "w": 192,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://dynl.mktgcdn.com/p/r7kEl6rKa0OuqpDDcKGe18pEl7ZkYLXQXxBvh7FemWI/192x240.webp",
+        "alt": "",
+        "w": 192,
+        "h": 240,
+        "srcset": null
+      },
+      {
+        "src": "https://www.yext-pixel.com/store_pagespixel?product=storepages&pageurl=%2Flocal%2Fco%2Fdenver&pagesReferrer=&siteId=728&isStaging=false&directoryId=Locationlist&directoryPath=CO%2FDenver&eventType=pageview&v=1782638543949&businessids=556471",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=2839789731072.907&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=69e0ac88-6c51-40ad-9bd2-386205765fea&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3a32b714-124e-4e51-89fa-3526c95b1d62&pt=Home%20Internet%20and%20WiFi%20-%20Denver%2C%20CO&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flocal%2Fco%2Fdenver&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=69e0ac88-6c51-40ad-9bd2-386205765fea&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3a32b714-124e-4e51-89fa-3526c95b1d62&pt=Home%20Internet%20and%20WiFi%20-%20Denver%2C%20CO&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flocal%2Fco%2Fdenver&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=705ff873-cf11-4346-898b-34d82e8f296d&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Home%20Internet%20and%20WiFi%20-%20Denver,%20CO&p=https%3A%2F%2Fwww.xfinity.com%2Flocal%2Fco%2Fdenver&r=&lt=2662&evt=pageLoad&sv=2&asc=D&cdb=AQEZ&rn=968835",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://www.xfinity.com/local/permanent-b0b701/assets/images/product-hover-image.ac2e2521.png"
+    ],
+    "videos": [],
+    "inlineSvgCount": 13,
+    "iframes": [
+      "https://www.xfinity.com/learn/mobile/plan/savings-calculator/embedded/converged-offers?deals_term=60&pl__tier_bin=3&ip__tier_bin_display=2&num_lines=1&ip__speed_tier=3",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/local/co/denver&ns=&cb=883504.5070042998",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=99881d40-2371-4364-a0bb-d079988edb32&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(68, 72, 76)",
+      "padding": "0px",
+      "fontFamily": "XSans, DMSans, \"open sans\", sans-serif"
+    }
+  ],
+  "logoCandidate": "https://www.xfinity.com/local/permanent-b0b701/assets/images/favicon.1b44a3a1.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 997,
+    "ctaCount": 131,
+    "internalLinkCount": 56,
+    "externalLinkCount": 4,
+    "imageCount": 111
+  }
+}

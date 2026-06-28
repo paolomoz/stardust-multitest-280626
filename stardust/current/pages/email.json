@@ -1,0 +1,350 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:21:57.490Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:52.139Z",
+    "waitMode": "medium",
+    "waitMs": 5279,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "email",
+  "url": "https://www.xfinity.com/email",
+  "finalUrl": "https://www.xfinity.com/email",
+  "screenshot": "stardust/current/assets/screenshots/email.png",
+  "title": "Xfinity Email Login - Access and manage your account",
+  "metaDescription": "Quickly and easily sign in to your comcast.net email and access helpful links to manage your Xfinity account.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/email",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "A better email experience is waiting for you",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Let’s help you get ready",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  patch-bg-grey-05 w-full",
+      "innerText": "A better email experience is waiting for you We're inviting you to upgrade your Comcast.net email account to Yahoo Mail for a better email experience at no extra cost. Your email address stays the same – and your messages, folders, and contacts do, too. Sign in Learn more >",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "A better email experience is waiting for you"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Let’s help you get ready We’re here to help the transition to a new email platform go smoothly.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Let’s help you get ready"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Want to update your contact info? Update account preferences Forgot your Xfinity ID? Look up your Xfinity ID Forgot your password? Reset your password Not sure if your email is active? Check your email account status",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Frequently asked questions",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Frequently asked questions"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "accordian-container accordian-max-width-830 mx-auto px-6 lg:px-0 ",
+      "innerText": "When will I be invited to upgrade to Yahoo Mail? Why was I invited to upgrade my comcast.net email account to Yahoo Mail? Which email accounts can I upgrade to Yahoo Mail? How do I upgrade my comcast.net email account to Yahoo Mail? I access my comcast.net email through a third-party email client. Can I continue to access through the third-party email client after I upgrade to Yahoo Mail? Will I keep all my folders, contacts, and messages when I move my account to Yahoo Mail? Will my email attachments move to Yahoo Mail too? I currently forward all my comcast.net emails to another email address. Will this continue to work after I upgrade to Yahoo Mail? Will all my settings remain the same in Yahoo Mail? How will I know when I can upgrade to Yahoo Mail? Do I have to upgrade my comcast.net email account to Yahoo Mail? Who can I contact if I need help setting up my Yahoo email account?",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Learn more about Yahoo email migration",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "When will I be invited to upgrade to Yahoo Mail?",
+    "Why was I invited to upgrade my comcast.net email account to Yahoo Mail?",
+    "Which email accounts can I upgrade to Yahoo Mail?",
+    "How do I upgrade my comcast.net email account to Yahoo Mail?",
+    "I access my comcast.net email through a third-party email client. Can I continue to access through the third-party email client after I upgrade to Yahoo Mail?",
+    "Will I keep all my folders, contacts, and messages when I move my account to Yahoo Mail?",
+    "Will my email attachments move to Yahoo Mail too?",
+    "I currently forward all my comcast.net emails to another email address. Will this continue to work after I upgrade to Yahoo Mail?",
+    "Will all my settings remain the same in Yahoo Mail?",
+    "How will I know when I can upgrade to Yahoo Mail?",
+    "Do I have to upgrade my comcast.net email account to Yahoo Mail?",
+    "Who can I contact if I need help setting up my Yahoo email account?"
+  ],
+  "ctas": [
+    {
+      "label": "When will I be invited to upgrade to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Why was I invited to upgrade my comcast.net email account to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Which email accounts can I upgrade to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "How do I upgrade my comcast.net email account to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Will my email attachments move to Yahoo Mail too?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Will all my settings remain the same in Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "How will I know when I can upgrade to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Do I have to upgrade my comcast.net email account to Yahoo Mail?",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Who can I contact if I need help setting up my Yahoo email account?",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [],
+    "external": [
+      "https://help.yahoo.com/kb/new-yahoo-mail/SLN36803.html",
+      "https://welcome.yahoo.com/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Icon_Profile-2_Purple_72px.png",
+        "alt": "",
+        "w": 145,
+        "h": 145,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Icon_Face-ID_Purple_72px.png",
+        "alt": "",
+        "w": 145,
+        "h": 145,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Icon_Password_Purple_72px.png",
+        "alt": "",
+        "w": 145,
+        "h": 145,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Icon_Verify_Purple_72px.png",
+        "alt": "",
+        "w": 145,
+        "h": 145,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=8296899368727.269&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=fa2b4d12-647b-4abf-a6e7-8da5c94fa94c&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20Email%20Login%20-%20Access%20and%20manage%20your%20account&p=https%3A%2F%2Fwww.xfinity.com%2Femail&r=&lt=591&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=695290",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=46b22e62-3313-4106-a0d1-6ac367a8053f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=802bda67-e5cd-4ac9-a794-e84736a9f12e&pt=Xfinity%20Email%20Login%20-%20Access%20and%20manage%20your%20account&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Femail&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=46b22e62-3313-4106-a0d1-6ac367a8053f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=802bda67-e5cd-4ac9-a794-e84736a9f12e&pt=Xfinity%20Email%20Login%20-%20Access%20and%20manage%20your%20account&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Femail&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Full-Image_Desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 12,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/email&ns=&cb=93164.61438885392",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=f239718d-62d8-4a65-b84d-0d8f3153036a&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/cix-8751_yahhoo-email-migration/CIX-8751_Yahoo-Email-Migration_Icon_Profile-2_Purple_72px.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 276,
+    "ctaCount": 9,
+    "internalLinkCount": 0,
+    "externalLinkCount": 2,
+    "imageCount": 9
+  }
+}

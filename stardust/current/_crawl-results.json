@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "home",
+    "url": "https://www.xfinity.com/",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/national/",
+    "title": "Xfinity - Internet, WiFi, Mobile, TV and Streaming",
+    "imgs": 17,
+    "bg": 11,
+    "words": 670
+  },
+  {
+    "slug": "gig",
+    "url": "https://www.xfinity.com/gig",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/gig",
+    "title": "Gigabit Internet by Xfinity",
+    "imgs": 13,
+    "bg": 1,
+    "words": 862
+  },
+  {
+    "slug": "apps",
+    "url": "https://www.xfinity.com/apps",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/apps",
+    "title": "Xfinity App",
+    "imgs": 14,
+    "bg": 1,
+    "words": 135
+  },
+  {
+    "slug": "amazon-prime-video",
+    "url": "https://www.xfinity.com/amazon-prime-video",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/amazon-prime-video",
+    "title": "Amazon Prime Video",
+    "imgs": 10,
+    "bg": 2,
+    "words": 253
+  },
+  {
+    "slug": "email",
+    "url": "https://www.xfinity.com/email",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/email",
+    "title": "Xfinity Email Login - Access and manage your account",
+    "imgs": 9,
+    "bg": 1,
+    "words": 276
+  },
+  {
+    "slug": "hub-internet",
+    "url": "https://www.xfinity.com/hub/internet",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/hub/internet",
+    "title": "Discover Internet & WiFi Technology | Xfinity",
+    "imgs": 26,
+    "bg": 0,
+    "words": 169
+  },
+  {
+    "slug": "hub-internet-internet-speed",
+    "url": "https://www.xfinity.com/hub/internet/internet-speed",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/hub/internet/internet-speed",
+    "title": "Mbps meaning? Kbps vs Mbps? Internet Speeds Explained",
+    "imgs": 12,
+    "bg": 0,
+    "words": 812
+  },
+  {
+    "slug": "learn-deals",
+    "url": "https://www.xfinity.com/learn/deals",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/learn/deals",
+    "title": "Xfinity Deals - Save on Internet, Wireless & more",
+    "imgs": 30,
+    "bg": 13,
+    "words": 809
+  },
+  {
+    "slug": "learn-deals-mobile-apple",
+    "url": "https://www.xfinity.com/learn/deals/mobile/apple",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/learn/deals/mobile/apple",
+    "title": "Shop deals on iPhones, Apple Watches, and iPads - Xfinity Mobile",
+    "imgs": 14,
+    "bg": 2,
+    "words": 381
+  },
+  {
+    "slug": "local-co-denver",
+    "url": "https://www.xfinity.com/local/co/denver",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/local/co/denver",
+    "title": "Home Internet and WiFi - Denver, CO",
+    "imgs": 111,
+    "bg": 1,
+    "words": 997
+  },
+  {
+    "slug": "compare-xfinity-vs-att",
+    "url": "https://www.xfinity.com/compare/xfinity-vs-att",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/compare/xfinity-vs-att",
+    "title": "Xfinity vs. AT&T: Compare Internet and Mobile",
+    "imgs": 33,
+    "bg": 6,
+    "words": 2268
+  },
+  {
+    "slug": "accessibility",
+    "url": "https://www.xfinity.com/accessibility",
+    "ok": true,
+    "httpStatus": 200,
+    "finalUrl": "https://www.xfinity.com/accessibility",
+    "title": "Xfinity Accessibility and Inclusive Design",
+    "imgs": 25,
+    "bg": 3,
+    "words": 498
+  }
+]

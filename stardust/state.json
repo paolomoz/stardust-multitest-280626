@@ -1,0 +1,29 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract", "updatedBy": [] },
+  "site": {
+    "name": "xfinity",
+    "originUrl": "https://www.xfinity.com",
+    "extractedAt": "2026-06-28",
+    "pageCap": 12,
+    "totalDiscovered": 397,
+    "crawled": 12,
+    "deliveryBase": "/xfinity",
+    "da": { "org": "paolomoz", "repo": "stardust-multitest-280626", "subfolder": "/xfinity/" },
+    "eds": { "owner": "paolomoz", "repo": "stardust-multitest-280626", "branch": "site-xfinity" }
+  },
+  "templates": ["home","product-landing","hub-overview","hub-article","learn-listing","learn-detail","local","compare","legal-static"],
+  "pages": [
+    {"slug":"home","url":"https://www.xfinity.com/","template":"home","status":"extracted","currentStatePath":"stardust/current/pages/home.json"},
+    {"slug":"gig","url":"https://www.xfinity.com/gig","template":"product-landing","status":"extracted","currentStatePath":"stardust/current/pages/gig.json"},
+    {"slug":"apps","url":"https://www.xfinity.com/apps","template":"product-landing","status":"extracted","currentStatePath":"stardust/current/pages/apps.json"},
+    {"slug":"amazon-prime-video","url":"https://www.xfinity.com/amazon-prime-video","template":"product-landing","status":"extracted","currentStatePath":"stardust/current/pages/amazon-prime-video.json"},
+    {"slug":"email","url":"https://www.xfinity.com/email","template":"product-landing","status":"extracted","currentStatePath":"stardust/current/pages/email.json"},
+    {"slug":"hub-internet","url":"https://www.xfinity.com/hub/internet","template":"hub-overview","status":"extracted","currentStatePath":"stardust/current/pages/hub-internet.json"},
+    {"slug":"hub-internet-internet-speed","url":"https://www.xfinity.com/hub/internet/internet-speed","template":"hub-article","status":"extracted","currentStatePath":"stardust/current/pages/hub-internet-internet-speed.json"},
+    {"slug":"learn-deals","url":"https://www.xfinity.com/learn/deals","template":"learn-listing","status":"extracted","currentStatePath":"stardust/current/pages/learn-deals.json"},
+    {"slug":"learn-deals-mobile-apple","url":"https://www.xfinity.com/learn/deals/mobile/apple","template":"learn-detail","status":"extracted","currentStatePath":"stardust/current/pages/learn-deals-mobile-apple.json"},
+    {"slug":"local-co-denver","url":"https://www.xfinity.com/local/co/denver","template":"local","status":"extracted","currentStatePath":"stardust/current/pages/local-co-denver.json"},
+    {"slug":"compare-xfinity-vs-att","url":"https://www.xfinity.com/compare/xfinity-vs-att","template":"compare","status":"extracted","currentStatePath":"stardust/current/pages/compare-xfinity-vs-att.json"},
+    {"slug":"accessibility","url":"https://www.xfinity.com/accessibility","template":"legal-static","status":"extracted","currentStatePath":"stardust/current/pages/accessibility.json"}
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:17.037Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:11.486Z",
+    "waitMode": "medium",
+    "waitMs": 5468,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-deals",
+  "url": "https://www.xfinity.com/learn/deals",
+  "finalUrl": "https://www.xfinity.com/learn/deals",
+  "screenshot": "stardust/current/assets/screenshots/learn-deals.png",
+  "title": "Xfinity Deals - Save on Internet, Wireless & more",
+  "metaDescription": "Shop Xfinity Deals. Get the 5-year price guarantee on Xfinity Internet with no annual contract. Shop the most reliable, fiber-powered internet, then save with our latest devices.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/deals",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Xfinity Featured Deals",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Internet + mobile deals",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Or get 300 Mbps WiFi, $40/mo for 1 year",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Extras with every plan. Starting at just $45/month.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity members get more, with WiFi equipment & unlimited data included.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The latest devices at our greatest prices",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  px-6 lg:px-16",
+      "innerText": "Shopping from Change",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b",
+      "innerText": "Xfinity Featured Deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Xfinity Featured Deals"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "bg-material-neutral2-base",
+      "innerText": "Overview Internet Internet + Mobile Internet + TV Build your own",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40t theme-pad-24b md:theme-pad-32b",
+      "innerText": "Internet + mobile deals Featured internet + mobile deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Internet + mobile deals"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Same-day WiFi. Instant online magic. Pick up your WiFi equipment today, or see if same-day delivery is available at checkout. Plus, unleash monster savings on reliable, fiber-powered 300 Mbps internet with unlimited data and a 5-Year Price Guarantee. $45/mo for 5 years Shop internet Pricing & other info Or get 300 Mbps WiFi, $40/mo for 1 year Speed built for work and play. WiFi equipment and unlimited data included. Still no contract. Pricing & other info Shop internet Offer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Xfinity Mobile req's Xfinity Internet.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Or get 300 Mbps WiFi, $40/mo for 1 year"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Extras with every plan. Starting at just $45/month. Xfinity members get more, with WiFi equipment & unlimited data included.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Extras with every plan. Starting at just $45/month.",
+        "Xfinity members get more, with WiFi equipment & unlimited data included."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "300 Mbps $45/mo for 5 years 5-Year Price Guarantee. Cancel anytime. Simple, seamless WiFi with 99% reliability​ A free Xfinity Mobile line for 1 year No annual contract Build your plan Pricing & other info 500 Mbps $60/mo for 5 years 5-Year Price Guarantee. Cancel anytime. Fast, consistent speed — even at peak hours A free Xfinity Mobile line for 1 year No annual contract Build your plan Pricing & other info 1 Gig $70/mo for 5 years 5-Year Price Guarantee. Cancel anytime. The most reliable, fiber-powered WiFi A free Xfinity Mobile line for 1 year Peacock Premium for 2 years ($10.99/mo value) No annual contract Build your plan Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Offer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Opensignal Awards USA: Fixed Broadband Experience Report, May 2025; XB6+. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Peacock Premium: $10.99/mo value. Must activate within first 90 days. Xfinity Mobile req's Xfinity Internet.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark  max-w-screen-2xl mx-auto w-full theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40t",
+      "innerText": "Student WiFi packed with perks Go for Gig WiFi and get a $200 prepaid Mastercard, just for students. Plus, Peacock Premium for 2 years. See student offers Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-24b md:theme-pad-32b",
+      "innerText": "Streaming, simplified. Streaming apps plus Gig WiFi all in one.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Gig WiFi so reliable you can host the world. $70/mo for 5 years. Includes Peacock Premium for streaming the beautiful game this summer. See more ways to watch in English and Spanish. See how to watch Pricing & other info Offer ends 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Peacock Premium: $10.99/mo value. Must activate within first 90 days. Pick your favorite app bundle Save over 25% with a StreamSaver™ bundle, starting at $18/mo. With Peacock Premium (with ads), Netflix Standard with ads, Apple TV, Disney+, Hulu Bundle (with ads), and HBO Max Basic With Ads. Build your plan Xfinity Internet or TV req’d. Management of existing subscriptions may be required to avoid multiple subscriptions and duplicate charges; third-party billed subscriptions continue until canceled. Restrictions apply. Not available in all areas. Taxes and fees extra. Savings compares StreamSaver bundle ($22/mo) vs. Peacock Premium (with ads) ($10.99/mo), Netflix Standard with ads ($8.99/mo), and HBO Max Basic With Ads ($10.99/mo).",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Fresh new Xfinity Mobile plans, with exclusive features and savings Featured mobile deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40",
+      "innerText": "Cut your mobile bill in half. Plus, try free for a year. No commitment. Calculate savings Pricing & other info Xfinity Internet required. Savings comparison based on 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "The latest devices at our greatest prices Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "The latest devices at our greatest prices",
+        "Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b m",
+      "innerText": "Xfinity Sports & News TV Made for you — and the love of the game 50+ live channels, plus everything included with no hidden fees: Peacock Premium, 4K TV Box, Voice Remote, and DVR ($45/mo value). $90/mo Shop Sports & News Pricing & other info Restrictions apply. Taxes not included.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "All-in monthly prices on internet, mobile and TV A new kind of simple. No hidden fees. Unlimited Data. A network that works. Get started fast. Learn more NOW Internet Internet starting at $30/mo. Shop NOW Internet NOW Mobile No contract, no credit check Shop NOW Mobile NOW TV + Streaming Entertainment starting at $10/mo. Shop NOW TV + Streaming NOW WiFi Pass Millions of hot spots. No commitments. Shop WiFi Pass",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "NOW Mobile: NOW Internet req’d. NOW TV: Restrictions apply. NOW Internet req’d. Taxes & fees extra.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "The Xfinity Mobile network is an exclusive benefit for Xfinity members Shop plans",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Speed built for work and play. WiFi equipment and unlimited data included. Still no contract.",
+    "Internet starting at $30/mo.",
+    "Entertainment starting at $10/mo.",
+    "Millions of hot spots. No commitments.",
+    "NOW Mobile: NOW Internet req’d.",
+    "NOW TV: Restrictions apply. NOW Internet req’d. Taxes & fees extra.",
+    "The Xfinity Mobile network is an exclusive benefit"
+  ],
+  "ctas": [
+    {
+      "label": "Change",
+      "href": "#Change",
+      "btn": false
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/deals",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "/learn/deals/internet",
+      "btn": true
+    },
+    {
+      "label": "Internet + Mobile",
+      "href": "/learn/deals/internet-and-mobile",
+      "btn": true
+    },
+    {
+      "label": "Internet + TV",
+      "href": "/learn/deals/internet-and-tv",
+      "btn": true
+    },
+    {
+      "label": "Build your own",
+      "href": "https://www.xfinity.com/planbuilder",
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/deals",
+      "/learn/deals/internet",
+      "/learn/deals/internet-and-mobile",
+      "/learn/deals/internet-and-tv",
+      "/planbuilder"
+    ],
+    "external": []
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/card1-logo-1x.png",
+        "alt": "",
+        "w": 160,
+        "h": 48,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/NOWCarousel__introAsset--desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/xm-learn/device-deals-carousel/mobile-280tall.png",
+        "alt": "",
+        "w": 327,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/xm-learn/device-deals-carousel/desktop-340tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 340,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/xm-learn/device-deals-carousel/desktop-340tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 340,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/clear-spacers/desktop-307tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 307,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=8079172457783.086&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=704b0f91-eacf-49d7-b7a4-0231bbff4205&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20Deals%20-%20Save%20on%20Internet,%20Wireless%20%26%20more&p=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals&r=&lt=905&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=73171",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=ad2b0513-fd01-4614-bb68-51f5e5ed4946&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d94d58ee-2a41-40fa-867f-4093df6f740b&pt=Xfinity%20Deals%20-%20Save%20on%20Internet%2C%20Wireless%20%26%20more&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=ad2b0513-fd01-4614-bb68-51f5e5ed4946&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d94d58ee-2a41-40fa-867f-4093df6f740b&pt=Xfinity%20Deals%20-%20Save%20on%20Internet%2C%20Wireless%20%26%20more&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10376_ignite-minions-digital-merchandising/Minions-Ignite_HSD-Hero_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/XLR8-ValueSeg_HSD_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10432_6-15-student-exclusive-offer/Student-Offer-2026_Banner_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/may/cix-10262_soccer-page-updates-and-secondary-placements-for-world-cup/learn-placements/WorldCup_Homepage-Banner_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamsaver-banner/StreamSaver-Banner-BG-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Cut-Your-Mobile-Bill-Half_Banner-Desktop1.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/SportsNews_Banner_PC.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/NOWCarousel__intro--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/NOWCarousel__internet--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/NOWCarousel__mobile--mobile.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/NOWCarousel__TVstreaming--desktop-min.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/now-carousel/NOWCarousel__WiFiPass--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/10-10_xm-refresh/banner-components/Banner_Inclusive-Customers_Desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/learn/deals&ns=&cb=32638.38904358185",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini00p;rcb=8;ord=5724106468830;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938466~115938469~119027224~119576891~119576895;epver=2;dc_random=1782638532_sA27u7hPDsc63kg59oY5P9KvCNFSmMp-eg;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=ad84771f-0129-49a7-90ad-352c4ff3e226&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2024/oct/cix-7896_good-stuff-display-and-social-landing-page/now-carousel/card1-logo-1x.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 809,
+    "ctaCount": 6,
+    "internalLinkCount": 5,
+    "externalLinkCount": 0,
+    "imageCount": 30
+  }
+}

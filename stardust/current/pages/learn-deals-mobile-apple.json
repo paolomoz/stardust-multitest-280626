@@ -1,0 +1,678 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:22.617Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:17.170Z",
+    "waitMode": "medium",
+    "waitMs": 5370,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-deals-mobile-apple",
+  "url": "https://www.xfinity.com/learn/deals/mobile/apple",
+  "finalUrl": "https://www.xfinity.com/learn/deals/mobile/apple",
+  "screenshot": "stardust/current/assets/screenshots/learn-deals-mobile-apple.png",
+  "title": "Shop deals on iPhones, Apple Watches, and iPads - Xfinity Mobile",
+  "metaDescription": "Shop deals on iPhones, Apple Watches, and iPads. Connect to the nation's most reliable 5G network with Xfinity Mobile.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/deals/mobile/apple",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Apple Deals",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Powered by nationwide 5G",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Mobile utilizes the network with the highest RootMetrics® 5G reliability rankings in 2H '25. WiFi not tested.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get iPhone 17 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "$400 off eligible iPhone, no trade-in needed",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "New Mobile Plus line and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Enjoy a $200 bonus for your eligible trade-in",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "On top of your trade-in credit when you upgrade to a new iPhone on an existing line. Device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Apple Watch SE 3 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Apple Watch. Requires device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get $300 off Apple Watch Series 11",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Apple Watch. Requires new line and device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get 50% off iPad (A16)",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save $250 on the 11-inch iPad with the superfast A16 chip.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "iPad Air. Now supercharged by M4.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The 11-inch iPad Air, powerfully capable and affordable. Built for Apple Intelligence and featuring the Apple M4 chip.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Apple Watch for them. Managed on iPhone by you.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Kids can make calls, send texts, or share location from their Apple Watch with cellular. And now you can manage it from your iPhone — no extra phone line needed.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "All things Apple",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Shop by brand",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b",
+      "innerText": "Apple Deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Apple Deals"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark  max-w-screen-2xl mx-auto w-full theme-pad-16t lg:theme-pad-24t xl:theme-pad-24t theme-pad-40b md",
+      "innerText": "New & existing members Save up to $830 on the latest iPhone Qualifying trade-in, new Mobile Plus line, and device payment plan required. Shop Apple Pricing & other info Offer ends 7/21/26. Xfinity Internet required. Taxes & fees extra.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden hx-w-full hx-relative hx-isolate hx-grid",
+      "innerText": "Powered by nationwide 5G Connect to the nation’s most reliable 5G network with Xfinity Mobile and shop deals on iPhones, Apple Watches, and iPads. Xfinity Mobile utilizes the network with the highest RootMetrics® 5G reliability rankings in 2H '25. WiFi not tested.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Powered by nationwide 5G",
+        "Xfinity Mobile utilizes the network with the highest RootMetrics® 5G reliability rankings in 2H '25. WiFi not tested."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Get iPhone 17 on us Qualifying trade-in, new Mobile Plus line, and device payment plan required. Pricing & other info $400 off eligible iPhone, no trade-in needed New Mobile Plus line and device payment plan required. Pricing & other info Enjoy a $200 bonus for your eligible trade-in On top of your trade-in credit when you upgrade to a new iPhone on an existing line. Device payment plan required. Pricing & other info Get Apple Watch SE 3 on us Xfinity Diamond members can get $300 off any Apple Watch. Requires device payment plan. Pricing & other info Get $300 off Apple Watch Series 11 Xfinity Diamond members can get $300 off any Apple Watch. Requires new line and device payment plan. Pricing & other info Get 50% off iPad (A16) Save $250 on the 11-inch iPad with the superfast A16 chip. Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Get iPhone 17 on us",
+        "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+        "$400 off eligible iPhone, no trade-in needed",
+        "New Mobile Plus line and device payment plan required.",
+        "Enjoy a $200 bonus for your eligible trade-in",
+        "On top of your trade-in credit when you upgrade to a new iPhone on an existing line. Device payment plan required.",
+        "Get Apple Watch SE 3 on us",
+        "Xfinity Diamond members can get $300 off any Apple Watch. Requires device payment plan.",
+        "Get $300 off Apple Watch Series 11",
+        "Xfinity Diamond members can get $300 off any Apple Watch. Requires new line and device payment plan.",
+        "Get 50% off iPad (A16)",
+        "Save $250 on the 11-inch iPad with the superfast A16 chip."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Offers end 7/21/26.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "iPad Air. Now supercharged by M4. The 11-inch iPad Air, powerfully capable and affordable. Built for Apple Intelligence and featuring the Apple M4 chip. Apple Watch for them. Managed on iPhone by you. Kids can make calls, send texts, or share location from their Apple Watch with cellular. And now you can manage it from your iPhone — no extra phone line needed. Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "iPad Air. Now supercharged by M4.",
+        "The 11-inch iPad Air, powerfully capable and affordable. Built for Apple Intelligence and featuring the Apple M4 chip.",
+        "Apple Watch for them. Managed on iPhone by you.",
+        "Kids can make calls, send texts, or share location from their Apple Watch with cellular. And now you can manage it from your iPhone — no extra phone line needed."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full ",
+      "innerText": "All things Apple Make the most of your mobile plan with Apple devices and accessories.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "All things Apple"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "iPhone Get the world's most powerful personal device. Shop iPhone Compare iPhone models Apple Watch Move with the future of health on your wrist. Shop Apple Watch Compare Apple Watch models iPad Shop the latest cases, chargers, and more. Shop iPad Compare iPad models Apple accessories Shop the latest Air Pods, cases, and chargers. Shop accessories",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "",
+      "innerText": "Shop by brand Shop Apple Shop Samsung Shop Google Shop Motorola",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Shop by brand"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "patch-bg-grey-05 theme-pad-40b md:theme-pad-48b lg:theme-pad-56b",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/learn/deals/mobile/apple",
+      "btn": false
+    },
+    {
+      "label": "Shop Samsung",
+      "href": "https://www.xfinity.com/learn/deals/mobile/samsung",
+      "btn": false
+    },
+    {
+      "label": "Shop Google",
+      "href": "https://www.xfinity.com/learn/deals/mobile/google",
+      "btn": false
+    },
+    {
+      "label": "Shop Motorola",
+      "href": "https://www.xfinity.com/learn/deals/mobile/motorola",
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/digital/mobile/cell-phones/iphone-17",
+      "/digital/mobile/cell-phones/brand/apple",
+      "/digital/mobile/tablets/ipad-a16",
+      "/digital/mobile/tablets/ipad-air-11-inch-m4",
+      "/digital/mobile/smart-watches/brand/apple",
+      "/learn/deals/mobile/apple",
+      "/learn/deals/mobile/samsung",
+      "/learn/deals/mobile/google",
+      "/learn/deals/mobile/motorola"
+    ],
+    "external": [
+      "https://customer.xfinity.com/membership"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-10318_pre-8-0_oem-lp-updates/apple-oem-lp/All-things-Apple_iPhone_Image-Icon.png",
+        "alt": "",
+        "w": 320,
+        "h": 176,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-10318_pre-8-0_oem-lp-updates/apple-oem-lp/All-things-Apple_Apple-Watch_Image-Icon.png",
+        "alt": "",
+        "w": 320,
+        "h": 176,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-10318_pre-8-0_oem-lp-updates/apple-oem-lp/All-things-Apple_iPad_Image-icon.png",
+        "alt": "",
+        "w": 320,
+        "h": 176,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-10318_pre-8-0_oem-lp-updates/apple-oem-lp/All-things-Apple_Apple-Accessories_Image-Icon.png",
+        "alt": "",
+        "w": 320,
+        "h": 176,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6615_xmld-google-learn-page/hoverNav_apple--desktop0.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6615_xmld-google-learn-page/hoverNav_samsung--desktop0.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6615_xmld-google-learn-page/hoverNav_google--desktop0.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6613_xmld-apple-learn-page/hoverNav_motorola--desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=6431137378317.253&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=8b4f85bb-85ba-496c-a6f7-01bee03aded5&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Shop%20deals%20on%20iPhones,%20Apple%20Watches,%20and%20iPads%20-%20Xfinity%20Mobile&p=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile%2Fapple&r=&lt=803&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=314358",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=cabc82aa-8e63-4a3b-ad45-40a6b61ebfd2&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=af1d7b4f-cc97-4a8e-b1bb-f68f51fe77af&pt=Shop%20deals%20on%20iPhones%2C%20Apple%20Watches%2C%20and%20iPads%20-%20Xfinity%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile%2Fapple&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=cabc82aa-8e63-4a3b-ad45-40a6b61ebfd2&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=af1d7b4f-cc97-4a8e-b1bb-f68f51fe77af&pt=Shop%20deals%20on%20iPhones%2C%20Apple%20Watches%2C%20and%20iPads%20-%20Xfinity%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile%2Fapple&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/may/cix-10347_5-11-dotcom-offer-refresh/apple/Apple-OEM-Hero_830-TIPs-off-iPhone_Desktop2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6547_large-prices-on-homepage/Hover-Tile-BG-Image-Gray.png"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/learn/deals/mobile/apple&ns=&cb=769394.6610665305",
+      "https://s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3D52e0ebca-7e17-489f-ffd7-2b7464fbf7e8%26type%3D5%26m%3D1&ex-fch=416613&ex-src=https://www.xfinity.com/learn/mobile-service&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3D52E0EBCA-7E17-489F-FFD7-2B7464FBF7E8&cb=96264450533634980",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini02h;rcb=15;ord=6141777946383;npa=1;auiddc=884449218.1782638489;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938469~119027224~119576891~119576895;epver=2;dc_random=1782638538_wCV_d5H-eFL2HauWdnFsA4hcnen2XyVBzw;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile%2Fapple?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=19635ac6-ed00-4e79-95ed-a7b51e03cc7e&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-10318_pre-8-0_oem-lp-updates/apple-oem-lp/All-things-Apple_iPhone_Image-Icon.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 381,
+    "ctaCount": 4,
+    "internalLinkCount": 9,
+    "externalLinkCount": 1,
+    "imageCount": 14
+  }
+}

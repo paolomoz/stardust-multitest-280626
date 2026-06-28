@@ -1,0 +1,906 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:35.748Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:28.997Z",
+    "waitMode": "medium",
+    "waitMs": 6654,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "compare-xfinity-vs-att",
+  "url": "https://www.xfinity.com/compare/xfinity-vs-att",
+  "finalUrl": "https://www.xfinity.com/compare/xfinity-vs-att",
+  "screenshot": "stardust/current/assets/screenshots/compare-xfinity-vs-att.png",
+  "title": "Xfinity vs. AT&T: Compare Internet and Mobile",
+  "metaDescription": "See how Xfinity compares to AT&T. Xfinity locks in one internet price for 5 years with no annual contract. Add mobile and save even more vs AT&T. Shop Xfinity.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/compare/xfinity-vs-att",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Xfinity vs. AT&T",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity has a 5 Year Price Guarantee. AT&T doesn’t.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The Xfinity WiFi and Mobile value AT&T can’t match",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Cut your mobile bill in half. Plus, try free for a year. No commitment.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Only Xfinity includes device protection for life",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save $3,600+ when you break up with AT&T",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Cut your bill in half when you switch to Xfinity",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Where AT&T falls short, Xfinity delivers",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your world. Your priorities. Perfectly connected.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "5 Year Price Guarantee",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "No annual contracts. No commitments. Cancel anytime.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Entertainment",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Peacock Premium for 3 years, plus Disney+, Hulu Bundle",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Xfinity Mobile",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get a free Mobile Select line for a year on the most reliable 5G network",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full ",
+      "innerText": "Xfinity vs. AT&T Xfinity has a 5 Year Price Guarantee. AT&T doesn’t. Xfinity locks in one internet price for 5 years with no annual contract. Add mobile and save even more vs AT&T. Plus, get membership perks and access to hotspots from day one. Build your plan",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Xfinity vs. AT&T",
+        "Xfinity has a 5 Year Price Guarantee. AT&T doesn’t."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "The Xfinity WiFi and Mobile value AT&T can’t match",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "The Xfinity WiFi and Mobile value AT&T can’t match"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Cut your mobile bill in half. Plus, try free for a year. No commitment. Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members. Pricing & other info Compares 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra. Only Xfinity includes device protection for life With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account. Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Cut your mobile bill in half. Plus, try free for a year. No commitment.",
+        "Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members.",
+        "Only Xfinity includes device protection for life",
+        "With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "A free mobile line included with internet Get a free Mobile Select line for a year with your plan. AT&T charges you for each line you add. Shop mobile Requires post-pay 300 Mbps internet or higher. $25 one-time activation fee/line applies after 5/10/26. After 12 months, regular rates apply. Mobile Select: After 50 GBs cellular usage, cellular data speeds may be slower during times of network congestion. Upgrades: Requires Mobile Plus and device payment plan. Minimum 60 days between each upgrade. Minimum $400 and maximum $830 device credit per upgrade. Terms apply. Xfinity Mobile • New Xfinity Mobile members get a free Mobile Select line for a year, then $30/mo after • International talk, text, and data included for travel in 215+ destinations • With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account • Get phone upgrades every year with Mobile Plus • Connect to America’s most reliable 5G network with every plan • Xfinity Gold members get 50% off mobile accessories at Xfinity stores • Connect up to 10 cellular tablets and watches for $35/mo. Excludes taxes and fees. AT&T Wireless • No deals to get a free line • Mobile pricing starts at $80/mo for one line • International talk, text, and data requires either their most expensive plan, for $120 per line, or a $12 daily travel fee • You can pay up to $16/mo for device protection • No exclusive membership deals on accessories",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Predictable pricing with no surprises When we say pay one price on internet for 5 years, we mean it. AT&T can’t say that. Shop internet Compares Xfinity 1 Gig vs. AT&T 1 Gig internet plans. Xfinity • 5 Year Price Guarantee on internet with no annual contract • No commitments, cancel any time • Unlimited data and WiFi equipment included • Get online in minutes with same-day, self-install WiFi • Start saving from day one with a free Mobile Select line for one year AT&T • No price lock — meaning price can increase once a promotion ends, or at any time • You could pay $3,600+ more over 5 years for internet & mobile with AT&T",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Reliable WiFi without hidden costs We’re called the most reliable fiber-powered WiFi for a reason. Shop internet Xfinity • Access to our best network experience on mobile and WiFi — at no extra charge • Unlimited mobile hotspot data included in every wireless plan • 20+ million WiFi hotspots with Powerboost for gig-speed access on the go • Boosts your mobile speed at home - regardless of the home internet plan you pay for AT&T • Limited mobile hotspot data depending on your plan — meaning you may need to pay more or upgrade your plan • AT&T charges an extra $7 per line per month for improved mobile speeds and faster hotspots",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Extra perks without paying extra Get more savings on everything — including entertainment perks and membership access. AT&T won’t give you that. Shop internet Xfinity • Lock in $70/ for gig-speed internet and a free Mobile Select line for one year • Peacock Premium for 3 years, and Disney+, Hulu bundle included with gig internet plans • Access to 20+ million WiFi hotspots with PowerBoost included for gig-speeds on the go • Xfinity membership from day one, including discounts and more • The best live TV and streaming experience powered by the most reliable WiFi. Includes Xfinity Stream with 100+ live channels, movies, and sports. AT&T • Doesn’t offer free mobile lines • No included streaming services • No membership perks for everyday customers • Charges you to improve your hotspot connections for a better experience",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Save $3,600+ when you break up with AT&T New Xfinity members get one free year of Mobile Select with internet. We'll even do the hard part: cancel your AT&T phone plan, transfer your number, and set everything up. 1. Choose your internet plan Pick your plan and any entertainment add ons. Plus, get online in minutes with same-day WiFi when you pick up in store and self install. 2. Then add your mobile plan Let us know your account number and port PIN and we’ve got the rest. If you’re bringing your own phone, it will need to be fully paid and unlocked.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Save $3,600+ when you break up with AT&T"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Comparison based on promotional and post-promotional prices for Xfinity 300 Mbps and 1 Mobile Select line vs. AT&T 300 Mbps and 1 AT&T Extra 2.0 line (as of 4/22/26). New Xfinity Mobile phone members only with 300 Mbps internet or above. Discount limited to value of 1 Mobile Select line ($30/mo value). Taxes and fees extra. After 12 months, regular rates apply. Limit one discount per account.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Cut your bill in half when you switch to Xfinity See how your savings stack up with Xfinity when you compare competitor plans.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Cut your bill in half when you switch to Xfinity"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "See how much you can save Xfinity Internet required. Savings comparison based on 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Where AT&T falls short, Xfinity delivers",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Where AT&T falls short, Xfinity delivers"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Feature Description Xfinity AT&T 5 Year Price Guarantee on internet speeds 300 Mbps and faster Get connected the day you sign up with same-day WiFi 1 free Mobile Select line for a year with internet Over 20 million hotspots to stay connected on the go Advanced Security included Automatic membership with new perks weekly WiFi Powerboost included for gig-speeds on the go Unlimited international talk, text, and data in 215+ destinations with all our mobile plans With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account Get phone upgrades every year with Mobile Plus",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Advanced Security requires compatible Xfinity Gateway and must be activated through the Xfinity app. New Xfinity Mobile members get a free Mobile Select line for a year, then $30/mo",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Your world. Your priorities. Perfectly connected.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Your world. Your priorities. Perfectly connected."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "5 Year Price Guarantee No annual contracts. No commitments. Cancel anytime. WiFi equipment, unlimited data, and a free Mobile Select line included with all internet plans Shop internet Entertainment Get Peacock Premium for 3 years, plus Disney+, Hulu Bundle A $24/mo value, included with gig-speed internet plans. Shop Internet Pricing & other info U.S. News and World Report ranked Best internet service provider Xfinity Mobile Get a free Mobile Select line for a year on the most reliable 5G network Included with Xfinity Internet service. Shop mobile Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "5 Year Price Guarantee",
+        "No annual contracts. No commitments. Cancel anytime.",
+        "Entertainment",
+        "Get Peacock Premium for 3 years, plus Disney+, Hulu Bundle",
+        "Xfinity Mobile",
+        "Get a free Mobile Select line for a year on the most reliable 5G network"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Xfinity Mobile utilizes the most reliable 5G network based on RootMetrics® State of the Mobile Union report, United States, 2H 2025. RootMetrics rankings are not an endorsement of Xfinity Mobile. Mobile Select: After 50 GBs, data may be slowed during network congestion.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Frequently asked questions",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Frequently asked questions"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "How do I cancel AT&T Fiber and switch to Xfinity? We recommend installing your Xfinity Internet first. Start by selecting your Xfinity Internet plan. Once you're online, call AT&T at 800-288-2020 to close your fiber account. For mobile, the process is even simpler: once we move (or \"port\") your number to Xfinity, your old AT&T line will automatically close. We handle the technical transition so you don’t miss a call or text, and don’t have to sit on the phone for hours waiting for AT&T to cancel your account. Tablets and smartwatches will need to be manually canceled. However, you can connect up to 10 cellular tablets and watches for $35/mo. Included with our latest plans. Excludes fees and taxes. How much will I save with Xfinity vs. AT&T? Switching can save your household over $3,600 over five years on home internet alone. On top of that, most families cut their mobile bill in half compared to AT&T. Plus, Xfinity Mobile members can get their first Mobile Select line free for a full year—a $360 value that makes your first-year savings even higher. What is included with Xfinity Internet plans? With Xfinity internet plans 300 Mbps and faster, you get: • 5-Year Price Guarantee • Reliable, fiber-powered home internet • No contracts or commitments — cancel anytime • Get online in minutes with same-day, self-install WiFi • New Xfinity Mobile members can start saving from day one with a free Mobile Select line for a year • Unlimited data and WiFi equipment included • Xfinity Gateway with Advanced Security and parental control features • Xfinity membership that starts from day one, including discounts and exclusives that refresh every week With Xfinity Internet plans 1 gig and faster, you also get: • Peacock Premium for 3 years • Disney+, Hulu bundle included What perks does Xfinity include that AT&T charges extra for? AT&T often forces you to use their most expensive tiers or require pricey add-ons for features Xfinity considers standard. To get international travel with AT&T included in your plan, you have to upgrade to their most expensive Elite 2.0 plan—costing a steep $120 per line. If you have their standard plans, you're still stuck paying a $12 daily travel fee—which can add up to $120 extra per bill cycle. Xfinity does things differently: we include unlimited international travel in 215+ destinations on both of our newest plans. Plus, while AT&T charges around $16 per month for device protection, Xfinity includes device protection for life on our Mobile Plus plan at no extra cost. What is the difference between Xfinity Internet and AT&T Fiber? The primary difference is the total household value, cost, and the price lock guarantee that only Xfinity offers, and AT&T does not. • Speed: While both offer multi-gigabit options, Xfinity provides a more complete speed experience. We include WiFi PowerBoost, which automatically bumps your mobile speeds up to a gig at home and on the go. Whether you're connected to your advanced Xfinity Gateway in a busy, high-tech house or using our millions of hotspots nationwide, your performance stays lightning-fast. • Reliability: Both use advanced fiber-powered networks to deliver a consistent, high-speed connection for your home. • Pricing: Xfinity provides a 5-Year Price Guarantee that AT&T does not match. When you combine our guaranteed internet rate with mobile plans that cut your bill in half, you can save $3,600 more over five years than you would with AT&T. Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile customers only. Actual WiFi speeds vary and not guaranteed. Not available in all areas. Many factors affect speed, including distance from hotspot, congestion, personal device capabilities, equipment performance, interference, and speeds of visited websites. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Comparison based on promotional and post-promotional prices for Xfinity 300 Mbps and 1 Mobile Select line vs. AT&T 300 Mbps and 1 AT&T Extra 2.0 line over 5 years (as of 4/6/26). Is Xfinity’s network as reliable as AT&T’s? Yes. Xfinity Mobile utilizes the nation’s most reliable 5G network, but we go a step further. We combine 5G with 20 million secure WiFi hotspots to give you a \"dual-network\" advantage. This ensures your phone automatically stays on the fastest available connection. Plus, with WiFi PowerBoost, your mobile device gets boosted up to gig-speeds whenever you're on our hotspots. Xfinity Mobile utilizes the most reliable 5G network based on RootMetrics® State of the Mobile Union report, United States, 2H 2025. RootMetrics rankings are not an endorsement of Xfinity Mobile. Gig speed WiFi with PowerBoost available via Xfinity hotspots and Xfinity gateways (XB7 or XB8) to Xfinity Mobile customers only. Actual WiFi speeds vary and not guaranteed. Not available in all areas. Many factors affect speed, including distance from hotspot, congestion, personal device capabilities, equipment performance, interference, and speeds of visited websites. Does Xfinity require an annual contract? No. At Xfinity, we provide value through our service rather than a signature. You’ll enjoy the freedom of no annual contracts, giving you the flexibility to change your plan or cancel anytime without a penalty. We provide long-term budget certainty through our 5-year price guarantee, not through paperwork hurdles. How does Xfinity's price guarantee compare to AT&T? AT&T does not offer a long-term price guarantee on their internet plans, meaning your rates could shift at any time after you sign up. Xfinity provides a straightforward 5-Year Price Guarantee on most plans (300 Mbps and above). This gives you total budget certainty for five full years while you continue to save 50% on your mobile bill compared to AT&T. Does Xfinity Internet have data caps? Xfinity Internet does not have data caps as many of the most popular internet plans (300 Mbps and above) now feature",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "• New Xfinity Mobile members get a free Mobile Select line for a year, then $30/mo after",
+    "• International talk, text, and data included for travel in 215+ destinations",
+    "• With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account",
+    "• Get phone upgrades every year with Mobile Plus",
+    "• Connect to America’s most reliable 5G network with every plan",
+    "• Xfinity Gold members get 50% off mobile accessories at Xfinity stores",
+    "• Connect up to 10 cellular tablets and watches for $35/mo. Excludes taxes and fees.",
+    "• No deals to get a free line",
+    "• Mobile pricing starts at $80/mo for one line",
+    "• International talk, text, and data requires either their most expensive plan, for $120 per line, or a $12 daily travel fee",
+    "• You can pay up to $16/mo for device protection",
+    "• No exclusive membership deals on accessories",
+    "• 5 Year Price Guarantee on internet with no annual contract",
+    "• No commitments, cancel any time",
+    "• Unlimited data and WiFi equipment included",
+    "• Get online in minutes with same-day, self-install WiFi",
+    "• Start saving from day one with a free Mobile Select line for one year",
+    "• No price lock — meaning price can increase once a promotion ends, or at any time",
+    "• You could pay $3,600+ more over 5 years for internet & mobile with AT&T",
+    "• Access to our best network experience on mobile and WiFi — at no extra charge",
+    "• Unlimited mobile hotspot data included in every wireless plan",
+    "• 20+ million WiFi hotspots with Powerboost for gig-speed access on the go",
+    "• Boosts your mobile speed at home - regardless of the home internet plan you pay for",
+    "• Limited mobile hotspot data depending on your plan — meaning you may need to pay more or upgrade your plan",
+    "• AT&T charges an extra $7 per line per month for improved mobile speeds and faster hotspots",
+    "• Lock in $70/ for gig-speed internet and a free Mobile Select line for one year",
+    "• Peacock Premium for 3 years, and Disney+, Hulu bundle included with gig internet plans",
+    "• Access to 20+ million WiFi hotspots with PowerBoost included for gig-speeds on the go",
+    "• Xfinity membership from day one, including discounts and more",
+    "• The best live TV and streaming experience powered by the most reliable WiFi. Includes Xfinity Stream with 100+ live channels, movies, and sports.",
+    "• Doesn’t offer free mobile lines",
+    "• No included streaming services",
+    "• No membership perks for everyday customers",
+    "• Charges you to improve your hotspot connections for a better experience",
+    "With Xfinity internet plans 300 Mbps and faster, you get:",
+    "• Reliable, fiber-powered home internet",
+    "• No contracts or commitments — cancel anytime",
+    "• Get online in minutes with same-day, self-install WiFi",
+    "• New Xfinity Mobile members can start saving from day one with a free Mobile Select line for a year",
+    "• Unlimited data and WiFi equipment included",
+    "• Xfinity Gateway with Advanced Security and parental control features",
+    "• Xfinity membership that starts from day one, including discounts and exclusives that refresh every week",
+    "With Xfinity Internet plans 1 gig and faster, you also get:",
+    "• Peacock Premium for 3 years",
+    "• Disney+, Hulu bundle included",
+    "The primary difference is the total household value, cost, and the price lock guarantee that only Xfinity offers, and AT&T does not.",
+    "• Speed: While both offer multi-gigabit options, Xfinity provides a more complete speed experience. We include WiFi PowerBoost, which automatically bumps your mobile speeds up to a gig at home and on the go. Whether you're connected to your advanced Xfinity Gateway in a busy, high-tech house or using our millions of hotspots nationwide, your performance stays lightning-fast.",
+    "• Reliability: Both use advanced fiber-powered networks to deliver a consistent, high-speed connection for your home.",
+    "• Pricing: Xfinity provides a 5-Year Price Guarantee that AT&T does not match. When you combine our guaranteed internet rate with mobile plans that cut your bill in half, you can save $3,600 more over five years than you would with AT&T."
+  ],
+  "ctas": [
+    {
+      "label": "Start by selecting your Xfinity Internet plan.",
+      "href": "https://www.xfinity.com/planbuilder?localize=true&drawer=INTERNET",
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/mobile",
+      "/learn/protection-plans",
+      "/planbuilder",
+      "/digital/mobile/smart-watches"
+    ],
+    "external": []
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Mobile-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/PriceTag-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Meter-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/MoneyBag-Icon_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Xfinity_Price_5_Year_Guarantee_logo_60px.svg",
+        "alt": "",
+        "w": 147,
+        "h": 60,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/jan/cix-8128_xfinity-x1-tv-sports-and-news-package-launch/X-black.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/GigStreamingHero-Eyebrow-Black.svg",
+        "alt": "",
+        "w": 295,
+        "h": 48,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/card3bento-foreground_v3.png",
+        "alt": "",
+        "w": 714,
+        "h": 700,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=8190432494622.499&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=0f5c5f60-3339-45b8-95a2-e2f0f5fc8e60&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20vs.%20AT%26T%3A%20Compare%20Internet%20and%20Mobile&p=https%3A%2F%2Fwww.xfinity.com%2Fcompare%2Fxfinity-vs-att&r=&lt=2376&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=34256",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=ab449ba0-2ff5-4a22-bce0-ad8428e4d7d6&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cd48d791-1f1b-434b-8cbe-e692dac34d64&pt=Xfinity%20vs.%20AT%26T%3A%20Compare%20Internet%20and%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fcompare%2Fxfinity-vs-att&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=ab449ba0-2ff5-4a22-bce0-ad8428e4d7d6&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cd48d791-1f1b-434b-8cbe-e692dac34d64&pt=Xfinity%20vs.%20AT%26T%3A%20Compare%20Internet%20and%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fcompare%2Fxfinity-vs-att&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/halfImage-hero--desktop_v3.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_Overlap_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card1bento--desktop_v2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card2bento--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9550_xfinity-vs-5g-page/Card3bento--desktop_v2.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/Competitive-Pages_Bento-XM_Desktop-new.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/compare/xfinity-vs-att&ns=&cb=741955.9587444772",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=699fddcc-ed49-44b7-a5d9-e26e98a903fe&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/jan/cix-9549_competitive-pages-relaunch/cix-9552_xfinity-vs-verizon-competitive-page/Mobile-Icon_40.svg",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 2268,
+    "ctaCount": 1,
+    "internalLinkCount": 4,
+    "externalLinkCount": 0,
+    "imageCount": 33
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:22:41.798Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:22:35.835Z",
+    "waitMode": "medium",
+    "waitMs": 5745,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "accessibility",
+  "url": "https://www.xfinity.com/accessibility",
+  "finalUrl": "https://www.xfinity.com/accessibility",
+  "screenshot": "stardust/current/assets/screenshots/accessibility.png",
+  "title": "Xfinity Accessibility and Inclusive Design",
+  "metaDescription": "Xfinity products come with accessibility features for people with disabilities, like closed captioning, voice guidance, and other more, built right in.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/accessibility",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Xfinity Accessibility and Inclusive Design",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Possible. Powerful. Personal.",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The latest",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "A better experience for customers who are blind or have low vision",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Personalized solutions for customers who are deaf or hard of hearing",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "American Sign Language Support Center",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Innovation for customers with physical disabilities",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Accessibility on the go",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Groundbreaking voice control",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Comcast’s commitment",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Accessibility Support Center",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Assistant",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Our services work even better together",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full",
+      "innerText": "Xfinity Accessibility and Inclusive Design Possible. Powerful. Personal. We connect all people to more of what they love. Because a disability isn’t the lack of ability. It’s the lack of a solution.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Xfinity Accessibility and Inclusive Design",
+        "Possible. Powerful. Personal."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full theme-pad-24b",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-80t md:theme-pad-96t lg:theme-pad-112t xl:theme-pad-1",
+      "innerText": "The latest Redefining easy: the Xfinity Large Button Voice Remote Press-and-release voice control. Big, backlit buttons with haptic feedback. An easy-to-open battery door that stays attached. And a dedicated Accessibility shortcut key. Designed with people with disabilities in mind, the Xfinity Large Button Voice Remote is unlike anything available on the market today. See how it combines ultimate functionality with elegant design to offer something everyone can love. Discover your Xfinity Large Button Voice Remote",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "The latest"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "A better experience for customers who are blind or have low vision",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "A better experience for customers who are blind or have low vision"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "bg-cover bg-no-repeat bg-center xjs-layered-img px-6 lg:px-16 theme-pad-80b md:theme-pad-96b lg:theme-pad-112b xl:theme-",
+      "innerText": "Let our guide do the talking Let voice guidance announce on-screen text and options on X1, Flex and the Xfinity Home touchscreen. Hear the action with audio description Bring entertainment to life for blind audiences with audio narration. Say “shows with description” to explore and “description” to turn it on or off. Bill and channel lineup in braille or large print Ask Xfinity Assistant how to get your braille or large-print versions at no cost.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Personalized solutions for customers who are deaf or hard of hearing",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Personalized solutions for customers who are deaf or hard of hearing"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "bg-cover bg-no-repeat bg-center xjs-layered-img px-6 lg:px-16",
+      "innerText": "Customize your text size and color combinations on X1 and Flex Just say “captions” or press B to turn captions on or off. Bluetooth compatible Connect your favorite Bluetooth headphones, speakers, or hearing aid streamer right to our latest TV Boxes to manage your personal volume. Hearing-aid and RTT capable All Xfinity Mobile phones are hearing-aid compatible and real-time text (RTT) capable, so it’s easier to text like you talk.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  patch-bg-grey-05 w-full",
+      "innerText": "American Sign Language Support Center Learn more about the ASL support center, powered by CSD Connect Direct.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "American Sign Language Support Center"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Innovation for customers with physical disabilities Control buttons and voice commands with eye tracking devices and the Xfinity Adaptive Remote web app. Navigate with a sip and puff switch, voice control computer software, or keyboard. Even create custom buttons.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Innovation for customers with physical disabilities"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark  max-w-screen-2xl mx-auto w-full theme-pad-80b md:theme-pad-96b lg:theme-pad-112b xl:theme-pad-12",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full ",
+      "innerText": "Accessibility on the go With our apps, you can use text to speech and other assistive technologies to stay connected to your entertainment and in control of your home network, even when you’re not there. Groundbreaking voice control Our voice remote, available with X1 and our Flex streaming TV box, puts revolutionary accessibility features one key press or voice command away. Say “accessibility” or press B to explore all options.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Accessibility on the go",
+        "Groundbreaking voice control"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full mx-auto Xjs3UpContainer ",
+      "innerText": "Comcast’s commitment Learn how Comcast NBCUniversal is committed to making our products, services, and experiences accessible to the widest possible audiences. Accessibility Support Center Reach our specially trained support team between 8 a.m. and 11 p.m. (ET), 7 days a week. Call 855-270-0379 and say \"accessibility\", send an email, use our accessible chat service, or text “Accessibility” to 266278. Xfinity Assistant Curious about an accessibility feature? Not sure how to get started? Check our online help center for more info or ask Xfinity Assistant.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Comcast’s commitment",
+        "Accessibility Support Center",
+        "Xfinity Assistant"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "",
+      "innerText": "Our services work even better together Internet TV & Streaming Mobile Home Phone",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Our services work even better together"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "transparent theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Redefining easy: the Xfinity Large Button Voice Remote",
+    "With our apps, you can use text to speech and other assistive technologies to stay connected to your entertainment and in control of your home network, even when you’re not there.",
+    "Our voice remote, available with X1 and our Flex streaming TV box, puts revolutionary accessibility features one key press or voice command away. Say “accessibility” or press B to explore all options."
+  ],
+  "ctas": [
+    {
+      "label": "Ask Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=skill.accessibility.braille",
+      "btn": false
+    },
+    {
+      "label": "Learn more about the ASL support center",
+      "href": "https://xfinity.com/asl",
+      "btn": false
+    },
+    {
+      "label": "our apps",
+      "href": "https://www.xfinity.com/apps",
+      "btn": false
+    },
+    {
+      "label": "voice remote",
+      "href": "https://www.xfinity.com/support/articles/voice-command-tips",
+      "btn": false
+    },
+    {
+      "label": "Learn how",
+      "href": "https://corporate.comcast.com/impact/accessibility",
+      "btn": false
+    },
+    {
+      "label": "send an email",
+      "href": "mailto:accessibility@comcast.com",
+      "btn": false
+    },
+    {
+      "label": "accessible chat service",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=other-style_accessibility-chat",
+      "btn": false
+    },
+    {
+      "label": "online help center",
+      "href": "https://www.xfinity.com/support/accessibility#accessibility",
+      "btn": false
+    },
+    {
+      "label": "Xfinity Assistant",
+      "href": "https://www.xfinity.com/xfinityassistant/?intent=other-style_accessibility-chat",
+      "btn": false
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/learn/internet-service",
+      "btn": false
+    },
+    {
+      "label": "TV & Streaming",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv",
+      "btn": false
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/learn/mobile",
+      "btn": false
+    },
+    {
+      "label": "Home",
+      "href": "https://www.xfinity.com/learn/home-security",
+      "btn": false
+    },
+    {
+      "label": "Phone",
+      "href": "https://www.xfinity.com/learn/home-phone-services",
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/xfinityassistant/",
+      "/apps",
+      "/support/articles/voice-command-tips",
+      "/support/accessibility",
+      "/learn/internet-service",
+      "/learn/digital-cable-tv",
+      "/learn/mobile",
+      "/learn/home-security",
+      "/learn/home-phone-services"
+    ],
+    "external": [
+      "https://xfinity.com/asl",
+      "https://corporate.comcast.com/impact/accessibility"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_blue_01_Desktop.svg",
+        "alt": "",
+        "w": 70,
+        "h": 70,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_01_Desktop.png",
+        "alt": "A visually impaired man using a smart phone to communicate.",
+        "w": 1290,
+        "h": 902,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_01_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_02_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_03_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_02_Desktop.png",
+        "alt": "A Comcast employee using sign language to communicate on laptop.",
+        "w": 1284,
+        "h": 902,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_01_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_02B_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_orange_03_Desktop.svg",
+        "alt": "",
+        "w": 24,
+        "h": 25,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_purple_01_Desktop.svg",
+        "alt": "",
+        "w": 41,
+        "h": 41,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_Phone_Desktop.png",
+        "alt": "Two smart phones showing the Xfinity Stream app and the Xfinity app.",
+        "w": 1128,
+        "h": 846,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_Remote_Desktop.png",
+        "alt": "An Xfinity voice remote, say \"Accessibility\".",
+        "w": 1128,
+        "h": 846,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_purple_02_Desktop.svg",
+        "alt": "",
+        "w": 88,
+        "h": 89,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_blue_01_Desktop.svg",
+        "alt": "",
+        "w": 70,
+        "h": 70,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Icon_A11y_Icon_green_04_Desktop.svg",
+        "alt": "",
+        "w": 88,
+        "h": 88,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-3560_unbeatable-internet-xb8-launch/Image_HoverTiles_InternetDevice.png",
+        "alt": "Xfinity XB8 modem",
+        "w": 440,
+        "h": 620,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_VideoDevice_Desktop.png",
+        "alt": "Xfinity Flex box with a remote.",
+        "w": 440,
+        "h": 620,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_MobileDevice_Tablet_Mobile.png",
+        "alt": "Smart phone with Xfinity Mobile service.",
+        "w": 262,
+        "h": 376,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_CameraDevice_Desktop.png",
+        "alt": "Xfinity home security camera",
+        "w": 440,
+        "h": 620,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-1976-learn-july-launch/Image_HoverTiles_PhoneDevice_Desktop.png",
+        "alt": "Landline phone",
+        "w": 440,
+        "h": 620,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=5502644340604.549&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=1a3e6165-0e35-43c1-8175-225de998b7fa&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20Accessibility%20and%20Inclusive%20Design&p=https%3A%2F%2Fwww.xfinity.com%2Faccessibility&r=&lt=1844&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=782604",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=0237e7d7-976e-42a1-adf7-98d478bc0b73&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dea5bbcb-fa71-4b62-944e-c8c09fd1dfd6&pt=Xfinity%20Accessibility%20and%20Inclusive%20Design&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Faccessibility&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=0237e7d7-976e-42a1-adf7-98d478bc0b73&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dea5bbcb-fa71-4b62-944e-c8c09fd1dfd6&pt=Xfinity%20Accessibility%20and%20Inclusive%20Design&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Faccessibility&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_Hero_FullImage_v01_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix%E2%80%924808_accessibility_content_update/Accessibility_Half-Image_Voice-Remote-Final_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_FullImage_Desktop.png"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/accessibility&ns=&cb=47959.34600620544",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=95e13d88-3e6e-4fba-aea4-2d9e8994a756&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects/cix-3969-a11y-page-updates/for_desktop/Image_GridHalfImage_Phone_Desktop.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 498,
+    "ctaCount": 14,
+    "internalLinkCount": 9,
+    "externalLinkCount": 2,
+    "imageCount": 25
+  }
+}

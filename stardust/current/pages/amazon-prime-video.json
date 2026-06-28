@@ -1,0 +1,371 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:21:52.011Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:21:45.874Z",
+    "waitMode": "medium",
+    "waitMs": 5845,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "amazon-prime-video",
+  "url": "https://www.xfinity.com/amazon-prime-video",
+  "finalUrl": "https://www.xfinity.com/amazon-prime-video",
+  "screenshot": "stardust/current/assets/screenshots/amazon-prime-video.png",
+  "title": "Amazon Prime Video",
+  "metaDescription": "Description For Amazon Prime Video",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": null,
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Prime Video on Xfinity X1",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "LIVE TV + STREAMING",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Find your favorites, fast",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Sign in, stream on",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "24px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Simply say “Prime Video”",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Sign in to Prime",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Watch anytime",
+      "id": null,
+      "style": {
+        "fontFamily": "Times",
+        "fontWeight": "700",
+        "fontSize": "18.72px",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark   w-full",
+      "innerText": "Prime Video on Xfinity X1 Amazon Originals, movies, TV shows, and more are only a voice command away. *Xfinity Internet, an X1 TV Box, and Amazon Prime membership required.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Prime Video on Xfinity X1"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "LIVE TV + STREAMING Get X1. Access Amazon Prime Video on your TV. Shop TV Deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "LIVE TV + STREAMING"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full",
+      "innerText": "Just say it to see it. Instantly. Say goodbye to opening and closing apps, switching devices, or changing inputs on your TV. Simply say \"Prime Video\" into your X1 Voice Remote. It's that easy.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full theme-pad-24b md:theme-pad-32b lg:theme-pad-40b xl:theme-pad-40b",
+      "innerText": "Find your favorites, fast Prime members can fall in love with award-winning and critically-acclaimed Amazon Originals like The Marvelous Mrs. Maisel, Tom Clancy’s Jack Ryan, and The Man in the High Castle. Just say “Man in the High Castle” in your X1 Voice Remote, then sit back and enjoy.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Find your favorites, fast"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full",
+      "innerText": "Sign in, stream on",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Sign in, stream on"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full mx-auto Xjs3UpContainer ",
+      "innerText": "Simply say “Prime Video” Use your X1 voice remote, or find it in the Apps section of the Main Menu. Sign in to Prime Enter your Amazon username and password once to sign in to your Prime account on X1. Watch anytime Enjoy your favorite shows and movies, including award-winning Amazon Originals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": [
+        "Simply say “Prime Video”",
+        "Sign in to Prime",
+        "Watch anytime"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light   w-full",
+      "innerText": "Restrictions apply. Not available in all areas. Access to Amazon Prime Video on Xfinity X1 requires an eligible set top box with Xfinity TV and Xfinity Internet service. Limited to Amazon Prime members who are residential Xfinity customers. Prime Video on X1 uses your Internet service and will count against any Xfinity data plan. © 2020 Comcast. All trademarks are the property of their respective owners. All rights reserved.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "headings": []
+    }
+  ],
+  "body": [],
+  "ctas": [],
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/Amazon%20Prime/Prime_Video_logo-white.png",
+        "alt": "Amazon Prime Video Logo",
+        "w": 147,
+        "h": 45,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/Amazon%20Prime/scm-Full_Image_Module-Desktop.jpg",
+        "alt": "The Marvelous Mrs. Maisel on Amazon Prime Video",
+        "w": 1280,
+        "h": 402,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/Testing_Target%20Asset/B-HS-1/Icon_number1.svg",
+        "alt": "Step 1",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/Testing_Target%20Asset/B-HS-1/icon_number2.svg",
+        "alt": "Step 2",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/learn/Images/Testing_Target%20Asset/B-HS-1/icon_number3.svg",
+        "alt": "Step 3",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=1882233940420.0662&aauid=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=26842772227969062673973406997602421589",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=d565341a-36db-4b65-a2c7-4a8e27b7b689&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Amazon%20Prime%20Video&p=https%3A%2F%2Fwww.xfinity.com%2Famazon-prime-video&r=&lt=1622&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=472059",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=91103fc4-c78f-4b37-a9bd-9f75a9c05829&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c51a063-6001-451a-9984-11802aa51971&pt=Amazon%20Prime%20Video&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Famazon-prime-video&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=91103fc4-c78f-4b37-a9bd-9f75a9c05829&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c51a063-6001-451a-9984-11802aa51971&pt=Amazon%20Prime%20Video&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Famazon-prime-video&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782638487484.509062486733153548&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/Amazon%20Prime/Hero_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/Amazon%20Prime/Full_Image-1280x600--Desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3Da3715a3f-d860-f1df-9c2c-97a6b2e1d32b%26type%3DUNKNOWN%26m%3D1&ex-fch=416613&ex-src=https://www.xfinity.com/learn/digital-cable-tv/x1&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3DA3715A3F-D860-F1DF-9C2C-97A6B2E1D32B&cb=121351323095452930",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=d7184a75-df3b-438c-ab9b-ac7c50101936&ft_referrer=https%3A//www.xfinity.com/amazon-prime-video&ns=&cb=186203.97096026796",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=f84b2366-8871-463c-af5f-546a18150461&u_sclid=1bdab082-2191-432f-b5ef-5542f3bd8d70"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px",
+      "fontFamily": "Times"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/Amazon%20Prime/Prime_Video_logo-white.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 253,
+    "ctaCount": 0,
+    "internalLinkCount": 0,
+    "externalLinkCount": 0,
+    "imageCount": 10
+  }
+}
