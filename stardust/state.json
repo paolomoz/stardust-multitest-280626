@@ -15,186 +15,186 @@
     {
       "slug": "about-us",
       "template": "editorial",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/about-us.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/about/us.html"
     },
     {
       "slug": "contact",
       "template": "contact",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/contact.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/contact.html"
     },
     {
       "slug": "gift",
       "template": "commerce",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/gift.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/gift.html"
     },
     {
       "slug": "home",
       "template": "home",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/home.json",
       "prototypePath": "stardust/prototypes/home-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/index.html"
     },
     {
       "slug": "menu-at-home-coffee-whole-bean",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-at-home-coffee-whole-bean.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/at/home/coffee/whole/bean.html"
     },
     {
       "slug": "menu-drinks-bottled-beverages",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-bottled-beverages.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/bottled/beverages.html"
     },
     {
       "slug": "menu-drinks-cold-coffee",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-coffee.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/cold/coffee.html"
     },
     {
       "slug": "menu-drinks-cold-tea",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-cold-tea.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/cold/tea.html"
     },
     {
       "slug": "menu-drinks-frappuccino-blended-beverage",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-frappuccino-blended-beverage.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/frappuccino/blended/beverage.html"
     },
     {
       "slug": "menu-drinks-hot-chocolate-lemonade-more",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-chocolate-lemonade-more.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/hot/chocolate/lemonade/more.html"
     },
     {
       "slug": "menu-drinks-hot-coffee",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-coffee.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/hot/coffee.html"
     },
     {
       "slug": "menu-drinks-hot-tea",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-hot-tea.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/hot/tea.html"
     },
     {
       "slug": "menu-drinks-protein-beverages",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-protein-beverages.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/protein/beverages.html"
     },
     {
       "slug": "menu-drinks-refreshers",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-drinks-refreshers.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/drinks/refreshers.html"
     },
     {
       "slug": "menu-featured",
       "template": "menu-landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-featured.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/featured.html"
     },
     {
       "slug": "menu-food-bakery",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-food-bakery.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/food/bakery.html"
     },
     {
       "slug": "menu-food-breakfast",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-food-breakfast.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/food/breakfast.html"
     },
     {
       "slug": "menu-food-lunch",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-food-lunch.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/food/lunch.html"
     },
     {
       "slug": "menu-food-snacks",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-food-snacks.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/food/snacks.html"
     },
     {
       "slug": "menu-food-treats",
       "template": "menu-category",
-      "status": "approved",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu-food-treats.json",
       "prototypePath": "stardust/prototypes/menu-category-proposed.html",
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu/food/treats.html"
     },
     {
       "slug": "menu",
       "template": "menu-landing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/menu.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/menu.html"
     },
     {
       "slug": "rewards",
       "template": "program",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/rewards.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/rewards.html"
     },
     {
       "slug": "stores-and-ordering",
       "template": "marketing",
-      "status": "directed",
+      "status": "deployed",
       "currentStatePath": "stardust/current/pages/stores-and-ordering.json",
       "prototypePath": null,
-      "migratedPath": null
+      "migratedPath": "content/starbucks/stores/and/ordering.html"
     }
   ],
   "direction": {
@@ -203,5 +203,12 @@
     "directionFile": "stardust/direction.md",
     "mode": "A",
     "variantMode": "single"
+  },
+  "deploy": {
+    "deployedAt": "2026-06-28T10:30:15.159Z",
+    "host": "https://site-starbucks--stardust-multitest-280626--paolomoz.aem.live",
+    "subfolder": "/starbucks/",
+    "pages": 23,
+    "verified": true
   }
 }
