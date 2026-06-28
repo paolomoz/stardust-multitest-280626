@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "colors": { "background": "#ffffff", "surface": "#f5f5f5", "surfaceDeep": "#efefef", "ink": "#000000", "inkMuted": "#656565", "hairline": "#d6d6d6", "primary": "#000000", "link": "#0a5eb2", "chrome": "#000000" },
+  "typography": { "headingFamily": "SST, 'Helvetica Neue', Helvetica, Arial, sans-serif", "bodyFamily": "SST, 'Helvetica Neue', Helvetica, Arial, sans-serif", "scaleRatio": 1.25, "weights": [400, 700] },
+  "rounded": "4px",
+  "spacing": { "base": "4pt", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A",
+    "colorMeta": { "ground": "stark-white", "chrome": "black", "colorFromPhotography": true },
+    "typographyMeta": { "family": "SST (proprietary Sony)", "fallback": "Helvetica Neue, Arial", "files": ["assets/fonts/dcb015ed-475f-4221-9b3c-157c4b6bc4ca.woff2", "assets/fonts/f2c57125-0b07-4b47-9b3e-cb9f6f2217aa.woff2"] },
+    "shadows": { "card": "none", "policy": "flat" },
+    "motion": {
+      "register": "editorial",
+      "registerRationale": "PRODUCT.md Brand Personality: 'editorial, slow-paced, publication-register' — quiet auto-rotating hero, subtle reveals.",
+      "easings": { "entrance": "cubic-bezier(0.16,1,0.3,1)", "transition": "ease-out" },
+      "durations": { "enter": 400, "stagger": 80 }
+    },
+    "componentStyle": {
+      "buttons": { "primary": "solid black on white, 4px radius, no shadow", "secondary": "black 1px outline on white" },
+      "cards": "white, 4px radius, hairline border, full-bleed top image, category badge, flat",
+      "dualCTAPattern": "avoided (anti-ref: SaaS dual-CTA)"
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "brand wordmark + mega-menu nav + region/search", "position": "sticky-top", "chrome": "black bar, white logo" },
+      "footer": { "purpose": "legal links + social row + copyright", "position": "page-bottom", "chrome": "light surface" },
+      "hero-carousel": { "purpose": "lead story rotation", "position": "first-viewport" },
+      "news-rail": { "purpose": "category-tagged story cards", "position": "below-hero" }
+    },
+    "divergence": {
+      "mode": "brand-faithful",
+      "seed": { "ground_family": { "value": "stark-white", "override": "brand-faithful" }, "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" }, "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" } },
+      "brand_faithful_inversions": ["retain pure #000/#fff (brand-native monochrome, exempt from no-pure-black/white)", "retain hex color format (brand uses hex, not OKLCH)", "retain SST proprietary typeface"]
+    },
+    "iaPriorities": [
+      { "signal": "audience-routing", "evidence": "header mega-menu routes Investors/Press/Careers/Products/Tech/Design/Sustainability", "preserveAs": "primary-nav", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "story-led-home", "evidence": "pages/home.json hero carousel + Latest News rail", "preserveAs": "first-viewport", "scope": "home", "mutability": "movable" }
+    ],
+    "voice": { "register": "brand", "do": ["true-black headings", "editorial whitespace", "real photography", "SST display"], "dont": ["dual primary-blue CTAs", "gradients", "drop shadows", "logo-as-editorial"] }
+  },
+  "narrative": {
+    "northStar": "Sony's monochrome restraint, modernized — premium editorial chrome where SST typography and real photography carry the brand.",
+    "overview": "Faithful refresh of the Sony Group corporate portal. Keep the identity; sharpen hierarchy, whitespace, and hero treatment.",
+    "keyCharacteristics": ["monochrome", "photography-led", "SST display", "editorial grid", "flat surfaces"],
+    "rules": ["headings true-black", "color only from photography", "no pure-black ban (brand-native)", "scrim behind hero text"],
+    "dos": ["lead with full-bleed photography", "use SST at display scale", "generous whitespace"],
+    "donts": ["dual-CTA SaaS hero", "gradient text", "glassmorphism", "logo as editorial image"]
+  }
+}
