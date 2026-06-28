@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+_provenance:
+  generatedBy: stardust:prototype + impeccable:craft
+  slug: home
+  againstDirection: stardust/direction.md (Active — Mode A brand-faithful)
+  renderedAt: 2026-06-28
+  contentSource: stardust/current/pages/home.json (captured-verbatim)
+  imagery: real captured assets (www1.bac-assets.com), all verified HTTP 200
+  surprise: low
+  signatureElements: [{kind: brand-flagscape-logo, mechanism: inline-svg-ref}]
+  voiceClassification: copy captured-verbatim; eyebrow/section labels direction-authorized
+  unsourcedContent: []
+-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bank of America - Banking, Credit Cards, Loans and Merrill Investing</title>
+<meta name="description" content="What would you like the power to do? At Bank of America, our purpose is to help make financial lives better through the power of every connection.">
+<meta name="theme-color" content="#012169">
+<style>
+:root {
+  --navy: #012169;
+  --navy-deep: #001a52;
+  --red: #e31837;
+  --hero-blue: #1668c9;
+  --hero-blue-deep: #0a3bb0;
+  --link: #1564bf;
+  --bg: #ffffff;
+  --surface: #f4f6f8;
+  --surface-alt: #eef1f5;
+  --text: #1a1a1a;
+  --muted: #5a6470;
+  --border: #d4dae1;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,.08);
+  --shadow-md: 0 6px 20px rgba(1,33,105,.12);
+  --maxw: 1200px;
+  --pad: 64px;
+  --radius: 12px;
+  --font: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --z-sticky: 100;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; font-family: var(--font); color: var(--text);
+  background: var(--bg); line-height: 1.55; font-size: 17px;
+  text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased;
+}
+h1,h2,h3 { font-weight: 600; line-height: 1.12; letter-spacing: -0.02em; text-wrap: balance; margin: 0; }
+p { text-wrap: pretty; }
+a { color: var(--link); }
+img { max-width: 100%; display: block; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding-inline: 24px; }
+.section { padding-block: var(--pad); }
+.skip { position: absolute; left: -999px; }
+.skip:focus { left: 8px; top: 8px; background: #fff; padding: 8px 14px; z-index: 999; border-radius: 6px; }
+
+/* Buttons */
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  font: inherit; font-weight: 600; font-size: 16px; border-radius: 999px; padding: 13px 26px;
+  text-decoration: none; cursor: pointer; border: 2px solid transparent; transition: background .18s ease, color .18s ease, border-color .18s ease; }
+.btn-primary { background: var(--navy); color: #fff; }
+.btn-primary:hover { background: var(--navy-deep); }
+.btn-secondary { background: #fff; color: var(--navy); border-color: var(--navy); }
+.btn-secondary:hover { background: var(--surface); }
+.btn-on-blue { background: #fff; color: var(--navy); }
+.btn-on-blue:hover { background: var(--surface); }
+.link-cta { color: var(--link); font-weight: 600; text-decoration: none; border-bottom: 2px solid currentColor; padding-bottom: 1px; }
+.link-cta:hover { color: var(--navy); }
+
+/* Trust strip */
+.trust { background: var(--surface-alt); border-bottom: 1px solid var(--border); font-size: 13.5px; color: var(--muted); }
+.trust .wrap { display: flex; align-items: center; gap: 10px; padding-block: 8px; flex-wrap: wrap; }
+.trust strong { color: var(--navy); font-weight: 700; }
+
+/* Header */
+header { background: #fff; border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: var(--z-sticky); }
+.util { font-size: 14px; border-bottom: 1px solid var(--border); }
+.util .wrap { display: flex; gap: 22px; padding-block: 9px; align-items: center; }
+.util a { color: var(--text); text-decoration: none; }
+.util a:hover { color: var(--link); }
+.util .seg { font-weight: 600; }
+.util .right { margin-left: auto; display: flex; gap: 20px; }
+.masthead .wrap { display: flex; align-items: center; gap: 28px; padding-block: 16px; }
+.logo { color: var(--navy); display: flex; align-items: center; }
+.logo svg { height: 22px; width: auto; }
+.search { margin-left: auto; display: flex; align-items: center; border: 1.5px solid var(--border); border-radius: 6px; overflow: hidden; max-width: 280px; flex: 1 1 200px; }
+.search input { border: 0; padding: 9px 12px; font: inherit; font-size: 15px; flex: 1; min-width: 0; }
+.search input:focus { outline: none; }
+.search button { border: 0; background: var(--surface); padding: 9px 12px; cursor: pointer; color: var(--navy); }
+.mainnav { border-top: 1px solid var(--border); }
+.mainnav .wrap { display: flex; gap: 4px; flex-wrap: wrap; padding-block: 4px; }
+.mainnav a { color: var(--text); text-decoration: none; font-weight: 600; font-size: 15.5px; padding: 12px 14px; border-radius: 6px; }
+.mainnav a:hover { background: var(--surface); color: var(--navy); }
+.burger { display: none; }
+
+/* Hero */
+.hero { background: linear-gradient(115deg, var(--hero-blue-deep), var(--hero-blue)); color: #fff; }
+.hero .wrap { display: grid; grid-template-columns: 340px 1fr; gap: 40px; align-items: center; padding-block: 56px; }
+.hero h1 { font-size: clamp(2rem, 3.4vw, 3rem); }
+.signin { background: #fff; color: var(--text); border-radius: var(--radius); padding: 26px; box-shadow: var(--shadow-md); }
+.signin h2 { font-size: 1.25rem; color: var(--navy); margin-bottom: 14px; }
+.field { margin-bottom: 14px; }
+.field label { display: block; font-size: 14px; font-weight: 600; margin-bottom: 5px; }
+.field input { width: 100%; padding: 11px 12px; border: 1.5px solid var(--border); border-radius: 6px; font: inherit; }
+.field input:focus { outline: 2px solid var(--navy); border-color: var(--navy); }
+.signin .btn { width: 100%; }
+.signin .links { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; font-size: 14.5px; }
+.heroright h1 { margin-bottom: 26px; }
+.cardgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.ccard { background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.22); border-radius: var(--radius); padding: 16px; text-align: center; display: flex; flex-direction: column; }
+.ccard .num { font-size: 2.4rem; font-weight: 600; line-height: 1; }
+.ccard .num sup { font-size: 1.1rem; vertical-align: super; }
+.ccard .offer { font-size: 14px; opacity: .92; margin: 4px 0 2px; }
+.ccard .fee { font-size: 13px; opacity: .8; }
+.ccard img { margin: 14px auto 12px; border-radius: 7px; box-shadow: 0 4px 12px rgba(0,0,0,.25); width: 100%; max-width: 170px; height: auto; }
+.ccard .name { font-weight: 600; font-size: 15px; margin-bottom: 10px; }
+.ccard .link-cta { color: #fff; margin-top: auto; align-self: center; }
+.ccard .link-cta:hover { color: var(--surface); }
+
+/* Section heads */
+.shead { margin-bottom: 34px; max-width: 760px; }
+.shead h2 { font-size: clamp(1.5rem, 2.4vw, 2.1rem); color: var(--navy); }
+.shead p { color: var(--muted); margin-top: 10px; font-size: 18px; }
+
+/* Generic feature cards */
+.grid3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; }
+.fcard { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow-sm); transition: box-shadow .2s ease, transform .2s ease; }
+.fcard:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+.fcard .body { padding: 22px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.fcard h3 { font-size: 1.2rem; color: var(--navy); }
+.fcard p { color: var(--muted); font-size: 16px; margin: 0; }
+.fcard .link-cta { margin-top: auto; align-self: flex-start; }
+.fcard img { aspect-ratio: 16/9; object-fit: cover; width: 100%; }
+.badge { display: inline-block; background: var(--surface); color: var(--navy); font-size: 12.5px; font-weight: 700; padding: 4px 11px; border-radius: 999px; align-self: flex-start; }
+.alt { background: var(--surface); }
+
+/* Split feature (investing / app) */
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; align-items: center; }
+.split img { border-radius: var(--radius); width: 100%; aspect-ratio: 16/10; object-fit: cover; box-shadow: var(--shadow-sm); }
+.split h2 { font-size: clamp(1.5rem,2.4vw,2.1rem); color: var(--navy); margin-bottom: 14px; }
+.split p { color: var(--muted); font-size: 18px; margin-bottom: 22px; }
+.accent-rule { width: 48px; height: 4px; background: var(--red); border-radius: 2px; margin-bottom: 18px; }
+
+/* Footer */
+footer { background: var(--navy); color: #cdd6e6; font-size: 15px; }
+footer .wrap { padding-block: 48px; }
+.fcols { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 32px; margin-bottom: 36px; }
+.fcols h4 { color: #fff; font-size: 15px; margin: 0 0 12px; }
+.fcols ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; }
+.fcols a { color: #cdd6e6; text-decoration: none; }
+.fcols a:hover { color: #fff; text-decoration: underline; }
+.fbottom { border-top: 1px solid rgba(255,255,255,.16); padding-top: 22px; display: flex; flex-wrap: wrap; gap: 14px 24px; align-items: center; font-size: 13.5px; color: #9fb0cc; }
+.fbottom .legal { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+.fbottom a { color: #9fb0cc; text-decoration: none; }
+.fbottom a:hover { color: #fff; }
+
+/* Motion — arrival register */
+[data-anim] { opacity: 0; transform: translateY(16px); transition: opacity .42s ease, transform .42s cubic-bezier(.22,1,.36,1); }
+[data-anim].in { opacity: 1; transform: none; }
+
+@media (max-width: 980px) {
+  .hero .wrap { grid-template-columns: 1fr; }
+  .cardgrid { grid-template-columns: repeat(2, 1fr); }
+  .split { grid-template-columns: 1fr; }
+  .split img { order: -1; }
+}
+@media (max-width: 640px) {
+  :root { --pad: 40px; }
+  body { font-size: 16px; }
+  .util .wrap { gap: 12px; font-size: 13px; }
+  .util .seg:not(:first-child), .util .right a:nth-child(n+3) { display: none; }
+  .mainnav .wrap { gap: 0; overflow-x: auto; flex-wrap: nowrap; }
+  .mainnav a { white-space: nowrap; font-size: 14px; padding: 10px; }
+  .cardgrid { grid-template-columns: 1fr; }
+  .search { max-width: 100%; order: 3; flex-basis: 100%; }
+  .masthead .wrap { flex-wrap: wrap; }
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-anim] { opacity: 1; transform: none; transition: none; }
+  * { scroll-behavior: auto; }
+}
+</style>
+</head>
+<body data-page="home">
+<a class="skip" href="#main">Skip to main content</a>
+
+<div class="trust" data-section="trust-strip">
+  <div class="wrap"><span>Bank of America deposit products:</span> <strong>FDIC</strong> <span>FDIC-Insured — Backed by the full faith and credit of the U.S. Government</span></div>
+</div>
+
+<header data-section="header">
+  <div class="util">
+    <div class="wrap">
+      <a class="seg" href="/bankofamerica" aria-current="page">Personal</a>
+      <a class="seg" href="/bankofamerica/wealth-management">Wealth Management</a>
+      <a class="seg" href="/bankofamerica/smallbusiness">Business</a>
+      <a class="seg" href="/bankofamerica/corporations-institutions">Corporations &amp; Institutions</a>
+      <span class="right">
+        <a href="/bankofamerica/security-center/overview">Security</a>
+        <a href="/bankofamerica/about">About Us</a>
+        <a href="/bankofamerica/contact-us">Contact Us</a>
+        <a href="/bankofamerica/help/overview">Help</a>
+      </span>
+    </div>
+  </div>
+  <div class="masthead">
+    <div class="wrap">
+      <a class="logo" href="/bankofamerica" aria-label="Bank of America home">
+        <svg viewBox="0 0 231 24" height="22" fill="currentColor" aria-hidden="true" role="img"><text x="0" y="18" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="0.5">BANK OF AMERICA</text></svg>
+      </a>
+      <form class="search" role="search" onsubmit="return false">
+        <input type="search" placeholder="Search" aria-label="Search bankofamerica.com">
+        <button type="submit" aria-label="Search">&#128269;</button>
+      </form>
+    </div>
+  </div>
+  <nav class="mainnav" aria-label="Primary">
+    <div class="wrap">
+      <a href="/bankofamerica/deposits/checking/checking-accounts">Checking</a>
+      <a href="/bankofamerica/deposits/savings/savings-accounts">Savings &amp; CDs</a>
+      <a href="/bankofamerica/credit-cards">Credit Cards</a>
+      <a href="/bankofamerica/mortgage/home-mortgage">Home Loans</a>
+      <a href="/bankofamerica/auto-loans">Auto Loans</a>
+      <a href="/bankofamerica/merrill-investing">Merrill Investing</a>
+      <a href="/bankofamerica/better-money-habits">Better Money Habits</a>
+    </div>
+  </nav>
+</header>
+
+<main id="main">
+
+<section class="hero" data-section="hero">
+  <div class="wrap">
+    <div class="signin">
+      <h2>Sign in to Online Banking</h2>
+      <div class="field"><label for="uid">User ID</label><input id="uid" type="text" autocomplete="username"></div>
+      <div class="field"><label for="pwd">Password</label><input id="pwd" type="password" autocomplete="current-password"></div>
+      <a class="btn btn-primary" href="/bankofamerica/online-banking/overview">Log in</a>
+      <div class="links">
+        <a class="link-cta" href="/bankofamerica/online-banking/forgot-id-password">Forgot ID/password?</a>
+        <a class="link-cta" href="/bankofamerica/deposits/checking/checking-accounts">Open an account</a>
+      </div>
+    </div>
+    <div class="heroright">
+      <h1>Choose the card that works for you</h1>
+      <div class="cardgrid">
+        <article class="ccard">
+          <div class="num">6<sup>%</sup></div><div class="offer">cash back offer</div><div class="fee">No annual fee.</div>
+          <img src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_cust_newcrd2_8478822_e.webp" alt="Customized Cash Rewards credit card" loading="eager" fetchpriority="high">
+          <div class="name">Customized Cash Rewards</div>
+          <a class="link-cta" href="/bankofamerica/credit-cards/cash-back-credit-cards">$200 online bonus offer</a>
+        </article>
+        <article class="ccard">
+          <div class="num">2<sup>%</sup></div><div class="offer">cash back offer</div><div class="fee">No annual fee.</div>
+          <img src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_un_newcrd2_8478822_e.webp" alt="Unlimited Cash Rewards credit card" loading="lazy">
+          <div class="name">Unlimited Cash Rewards</div>
+          <a class="link-cta" href="/bankofamerica/credit-cards/cash-back-credit-cards">$200 online bonus offer</a>
+        </article>
+        <article class="ccard">
+          <div class="num">1.5</div><div class="offer">points for every $1</div><div class="fee">No annual fee.</div>
+          <img src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-5779014_Travel_3.webp" alt="Travel Rewards credit card" loading="lazy">
+          <div class="name">Travel Rewards</div>
+          <a class="link-cta" href="/bankofamerica/credit-cards/travel-credit-cards">25,000 bonus points offer</a>
+        </article>
+        <article class="ccard">
+          <div class="num">0<sup>%</sup></div><div class="offer">intro APR offer</div><div class="fee">No annual fee.</div>
+          <img src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-mastheads-consumer-cards-en-4-card-card_mh_bac_no_8694270_e.webp" alt="BankAmericard credit card" loading="lazy">
+          <div class="name">BankAmericard&reg;</div>
+          <a class="link-cta" href="/bankofamerica/credit-cards/low-interest-credit-cards">Intro APR for 21 billing cycles</a>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" data-section="product-grid" aria-labelledby="deposits-h">
+  <div class="wrap">
+    <div class="shead" data-anim>
+      <h2 id="deposits-h">Stay flexible with Bank of America Advantage Banking</h2>
+      <p>Savings made simple and rewarding. Checking and savings solutions to meet you where you are in your journey.</p>
+    </div>
+    <div class="grid3">
+      <article class="fcard" data-anim>
+        <div class="body"><span class="badge">Checking</span><h3>Bank of America Advantage Banking</h3><p>Checking accounts to meet you where you are in your journey.</p><a class="link-cta" href="/bankofamerica/deposits/checking/checking-accounts">Explore checking solutions</a></div>
+      </article>
+      <article class="fcard" data-anim>
+        <div class="body"><span class="badge">Savings &amp; CDs</span><h3>Savings made simple and rewarding</h3><p>Save hundreds on banking fees annually and grow your savings.</p><a class="link-cta" href="/bankofamerica/deposits/savings/savings-accounts">Explore savings</a></div>
+      </article>
+      <article class="fcard" data-anim>
+        <div class="body"><span class="badge">Preferred Rewards</span><h3>Your financial goals matter</h3><p>Enjoy benefits that grow as your balances grow — from cash back deals to banking benefits for big milestones.</p><a class="link-cta" href="/bankofamerica/preferred-rewards/overview">See Preferred Rewards</a></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section alt" data-section="credit-cards-band" aria-labelledby="cc-h">
+  <div class="wrap">
+    <div class="shead" data-anim>
+      <h2 id="cc-h">Find the perfect credit card from among our most popular options</h2>
+      <p>Earn a 10%–75% rewards bonus on eligible credit cards with Preferred Rewards.</p>
+    </div>
+    <div class="grid3">
+      <article class="fcard" data-anim><div class="body"><h3>Cash Back</h3><p>Earn cash back on every purchase with Customized and Unlimited Cash Rewards cards.</p><a class="link-cta" href="/bankofamerica/credit-cards/cash-back-credit-cards">Shop cash back cards</a></div></article>
+      <article class="fcard" data-anim><div class="body"><h3>Travel Rewards</h3><p>Earn unlimited points toward travel with no annual fee and no foreign transaction fees.</p><a class="link-cta" href="/bankofamerica/credit-cards/travel-credit-cards">Shop travel cards</a></div></article>
+      <article class="fcard" data-anim><div class="body"><h3>Build Credit</h3><p>Cards to help you establish, strengthen or rebuild your credit.</p><a class="link-cta" href="/bankofamerica/credit-cards/credit-cards-to-build-credit">Shop cards to build credit</a></div></article>
+    </div>
+    <p style="margin-top:28px"><a class="btn btn-primary" href="/bankofamerica/credit-cards">Shop all credit cards</a></p>
+  </div>
+</section>
+
+<section class="section" data-section="investing" aria-labelledby="inv-h">
+  <div class="wrap">
+    <div class="split">
+      <div data-anim>
+        <div class="accent-rule"></div>
+        <h2 id="inv-h">Reinventing what it means to be a confident investor</h2>
+        <p>From self-directed investing to dedicated advisor relationships, Merrill helps you pursue your financial goals with confidence.</p>
+        <a class="btn btn-secondary" href="/bankofamerica/merrill-investing">Explore Merrill investing</a>
+      </div>
+      <img data-anim src="https://www1.bac-assets.com/homepage/spa-assets/images/mb_yni_bb_3034668_1440-4d2b065272ea1845378f.jpg" alt="Managing finances on a mobile device" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<section class="section alt" data-section="better-money-habits" aria-labelledby="bmh-h">
+  <div class="wrap">
+    <div class="shead" data-anim>
+      <h2 id="bmh-h">Videos and tips to better manage your financial life</h2>
+      <p>Check out videos, articles and more from Better Money Habits&reg; for buying a home, saving, budgeting and more.</p>
+    </div>
+    <div class="grid3">
+      <article class="fcard" data-anim><div class="body"><h3>Buying or remodeling a home</h3><p>Check out these videos, articles and more for buying or remodeling a home.</p><a class="link-cta" href="/bankofamerica/better-money-habits/home-ownership">Learn about home buying</a></div></article>
+      <article class="fcard" data-anim><div class="body"><h3>Saving &amp; budgeting</h3><p>Practical ways to save more, spend smarter and build a budget that works.</p><a class="link-cta" href="/bankofamerica/better-money-habits/saving-budgeting">Learn to save</a></div></article>
+      <article class="fcard" data-anim><div class="body"><h3>Credit &amp; debt</h3><p>Understand your credit and find strategies to manage and reduce debt.</p><a class="link-cta" href="/bankofamerica/better-money-habits/credit">Learn about credit</a></div></article>
+    </div>
+    <p style="margin-top:28px"><a class="btn btn-secondary" href="/bankofamerica/better-money-habits">Visit BetterMoneyHabits.com</a></p>
+  </div>
+</section>
+
+<section class="section" data-section="mobile-app" aria-labelledby="app-h">
+  <div class="wrap">
+    <div class="split">
+      <img data-anim src="https://www1.bac-assets.com/homepage/spa-assets/images/mb_yni_bb_3034668_1440-4d2b065272ea1845378f.jpg" alt="Bank of America Mobile Banking app" loading="lazy">
+      <div data-anim>
+        <h2 id="app-h">Get the Mobile Banking app</h2>
+        <p>Bank securely whenever, wherever. Check balances, deposit checks, pay bills and message Erica&reg;, your virtual financial assistant.</p>
+        <a class="btn btn-primary" href="/bankofamerica/online-banking/mobile-banking">Get the app</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer data-section="footer">
+  <div class="wrap">
+    <div class="fcols">
+      <div><h4>Banking</h4><ul>
+        <li><a href="/bankofamerica/deposits/checking/checking-accounts">Checking</a></li>
+        <li><a href="/bankofamerica/deposits/savings/savings-accounts">Savings &amp; CDs</a></li>
+        <li><a href="/bankofamerica/deposits">Deposits overview</a></li>
+      </ul></div>
+      <div><h4>Credit Cards</h4><ul>
+        <li><a href="/bankofamerica/credit-cards/cash-back-credit-cards">Cash back cards</a></li>
+        <li><a href="/bankofamerica/credit-cards/travel-credit-cards">Travel cards</a></li>
+        <li><a href="/bankofamerica/credit-cards/compare-credit-cards">Compare cards</a></li>
+      </ul></div>
+      <div><h4>Loans</h4><ul>
+        <li><a href="/bankofamerica/mortgage/home-mortgage">Home loans</a></li>
+        <li><a href="/bankofamerica/auto-loans">Auto loans</a></li>
+        <li><a href="/bankofamerica/mortgage/refinance">Refinance</a></li>
+      </ul></div>
+      <div><h4>Investing</h4><ul>
+        <li><a href="/bankofamerica/merrill-investing">Merrill investing</a></li>
+        <li><a href="/bankofamerica/preferred-rewards/overview">Preferred Rewards</a></li>
+        <li><a href="/bankofamerica/better-money-habits">Better Money Habits</a></li>
+      </ul></div>
+      <div><h4>Support</h4><ul>
+        <li><a href="/bankofamerica/contact-us">Contact us</a></li>
+        <li><a href="/bankofamerica/help/overview">Help</a></li>
+        <li><a href="/bankofamerica/security-center/overview">Security center</a></li>
+      </ul></div>
+    </div>
+    <div class="fbottom">
+      <span class="legal">
+        <a href="/bankofamerica/security-center/online-privacy-notice">Online Privacy Notice</a>
+        <a href="/bankofamerica/security-center/overview">Security</a>
+        <a href="/bankofamerica/help/equalhousing-popup">Equal Housing Lender</a>
+      </span>
+      <span style="margin-left:auto">Bank of America, N.A. Member FDIC. &copy; 2026 Bank of America Corporation.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.querySelectorAll('[data-anim]').forEach(function(e){e.classList.add('in');}); return;
+  }
+  var io = new IntersectionObserver(function(es){
+    es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} });
+  }, { threshold: .12, rootMargin: '0px 0px -8% 0px' });
+  document.querySelectorAll('[data-anim]').forEach(function(e){io.observe(e);});
+})();
+</script>
+</body>
+</html>
