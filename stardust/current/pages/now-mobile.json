@@ -1,0 +1,1068 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:36:01.145Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:54.660Z",
+    "waitMode": "medium",
+    "waitMs": 6369,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "now-mobile",
+  "url": "https://www.xfinity.com/now/mobile",
+  "finalUrl": "https://www.xfinity.com/now/mobile",
+  "screenshot": "stardust/current/assets/screenshots/now-mobile.png",
+  "title": "NOW Mobile: Shop Prepaid Phone Plans - No Contract",
+  "metaDescription": "NOW Mobile is an affordable, prepaid mobile service with unlimited talk, text, and data, plus no contract or credit check. Shop prepaid phone plans today.",
+  "og": {
+    "title": "NOW Mobile: Shop Prepaid Phone Plans - No Contract",
+    "description": "NOW Mobile is an affordable, prepaid mobile service with unlimited talk, text, and data, plus no contract or credit check. Shop prepaid phone plans today.",
+    "image": "https://assets.comcast.com/assets/dotcom/projects_2/cix-7125_now-mobile-promo-image/Half%20Image%20-%20mobile.png",
+    "type": "website",
+    "siteName": "NOW"
+  },
+  "themeColor": null,
+  "language": "en",
+  "canonical": "https://www.xfinity.com/now/mobile",
+  "favicon": "https://www.xfinity.com/now/favicon.ico",
+  "appleTouchIcon": null,
+  "headings": [
+    {
+      "level": 1,
+      "text": "PREPAID MOBILE",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Up to five lines. Taxes and fees included. No annual contracts. No credit checks. Get unlimited talk, text, and data on nationwide 5G. Pause and resume your service anytime. Prepaid mobile is exclusively for our Xfinity post-paid or NOW Internet customers.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "No credit checks",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Mexico and Canada Unlimited Pass",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Personal hotspot",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Up to 5 lines",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "A mobile plan for your tablet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get more with NOW",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "PREPAID INTERNET 200 MBPS",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Faster speeds, for $15 more",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "36px",
+        "lineHeight": "38px",
+        "letterSpacing": "-1px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Choose 200 Mbps for even smoother streaming— with taxes, fees, and equipment included. No credit check. No annual contract.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "PREPAID TV & STREAMING",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save on streaming. Enjoy live TV.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "36px",
+        "lineHeight": "38px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "FAQ",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Are you sure you want to exit the sales session? This session cannot be restored after exit.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "min-h-16 xl:min-h-20",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "PREPAID MOBILE Mobile made for you Up to five lines. Taxes and fees included. No annual contracts. No credit checks. Get unlimited talk, text, and data on nationwide 5G. Pause and resume your service anytime. Prepaid mobile is exclusively for our Xfinity post-paid or NOW Internet customers.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "PREPAID MOBILE",
+        "Up to five lines. Taxes and fees included. No annual contracts. No credit checks. Get unlimited talk, text, and data on nationwide 5G. Pause and resume your service anytime. Prepaid mobile is exclusively for our Xfinity post-paid or NOW Internet customers."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Unlimited $25/mo per line Shop new phones Bring my own phone Pricing & other info Read More",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "No credit checks Just easy sign up and you’re set. Mexico and Canada Unlimited Pass Unlimited calls and texts — plus international data roaming while in those countries. Just $5/mo per line. Learn more about Mex/Can Unlimited Pass Personal hotspot Personal hotspot with unlimited data to share with other devices. Just $5/mo per line. Learn more about personal hotspot Up to 5 lines Get all the lines you need for family, business, and friends.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "No credit checks",
+        "Mexico and Canada Unlimited Pass",
+        "Personal hotspot",
+        "Up to 5 lines"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "A mobile plan for your tablet",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "A mobile plan for your tablet"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Tablet Unlimited $25/mo per line Shop new tablets Bring my own tablet Pricing & other info Read More",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "Get more with NOW",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Get more with NOW"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "PREPAID INTERNET 200 MBPS Faster speeds, for $15 more Choose 200 Mbps for even smoother streaming— with taxes, fees, and equipment included. No credit check. No annual contract. Shop NOW Internet PREPAID TV & STREAMING Save on streaming. Enjoy live TV. Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions. Shop NOW TV & Streaming",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "PREPAID INTERNET 200 MBPS",
+        "Faster speeds, for $15 more",
+        "Choose 200 Mbps for even smoother streaming— with taxes, fees, and equipment included. No credit check. No annual contract.",
+        "PREPAID TV & STREAMING",
+        "Save on streaming. Enjoy live TV.",
+        "Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "FAQ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "FAQ"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden hx-w-full",
+      "innerText": "Restrictions apply. Xfinity post-paid or NOW Internet required. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic. NOW is a trademark of Comcast. ©2026 Comcast. Restrictions apply. Must pay in full or bring your own device for NOW Mobile. Xfinity post-paid or NOW Internet required.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "sc-prism-modal sc-prism-modal-s",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Just easy sign up and you’re set.",
+    "Unlimited calls and texts — plus international data roaming while in those countries. Just $5/mo per line.",
+    "Personal hotspot with unlimited data to share with other devices. Just $5/mo per line.",
+    "Get all the lines you need for family, business, and friends.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic. NOW is a trademark of Comcast. ©2026 Comcast.",
+    "Restrictions apply. Must pay in full or bring your own device for NOW Mobile. Xfinity post-paid or NOW Internet required.",
+    "Get unlimited calls and texts to and from Mexico and Canada, plus international data roaming while in those countries — all for $5/mo.",
+    "This service is not prorated. When you add this option, you will be charged $5 no matter where you are in your current payment cycle. If you remove the service, it will remain active until the start of your next cycle.",
+    "For $5/mo, turn on Personal Hotspot with unlimited data at 3G speeds and use your phone’s network to connect other WiFi-enabled devices to the internet. Add or remove a hotspot at any time.",
+    "When you add this option, you will be charged $5 no matter where you are in your current payment cycle. If you remove the service, it will remain active until the start of your next cycle.",
+    "Xfinity post-paid or NOW Internet required. One-time line setup fee of $25/line applies. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Offer ends 10/14/2025. Requires purchase of a new Motorola moto g 5G - 2025 phone, while supplies last, and activation of a new NOW Mobile line. Taxes and fees extra. Offer not valid with prior purchases, returns or exchanges. May not be combined with other device offers.",
+    "© 2025 Comcast. MOTOROLA, the Stylized M Logo, MOTO and the MOTO family of marks are trademarks of Motorola Trademark Holdings, LLC. Use only in accordance with law. All rights reserved.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line set up fee of $25 waived between 2/5/25 – 5/14/25. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Offer ends 4/30/2025. Taxes and fees extra. Requires purchase of a new Samsung Galaxy A16 phone while supplies last and activation of a new NOW Mobile line. Offer not valid with prior purchases, returns or exchanges. May not be combined with other device offers. © 2025 Samsung Electronics America, Inc. Samsung and Samsung Galaxy are trademarks of Samsung Electronics Co., Ltd. Use only in accordance with law.",
+    "NOW is a trademark of Comcast © 2025 Comcast. All rights reserved.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line setup fee of $25/line applies. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic. NOW is a trademark of Comcast.",
+    "Offer ends 9/18/24. While supplies last. Taxes and fees extra. Requires purchase of a new iPhone SE 64GB and activation of a new NOW Mobile line. Offer not valid with prior purchases, returns, or exchanges. May not be combinable with some offer or discounts.",
+    "© 2024 Comcast. © 2024 Apple Inc. All rights reserved.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line set up fee of $25 waived between 2/5/25 - 3/31/25. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Offer ends 3/31/25. Requires activation of a new NOW Mobile line and transfer of phone number from another mobile carrier (Xfinity Mobile excluded) within 30 days of phone line activation date. Must maintain new line with active account in good standing for 60 days following line activation. Offer not valid with prior purchases, returns or exchanges. Prepaid Mastercard® is issued by Pathward®, N.A., Member FDIC, pursuant to license by Mastercard International Incorporated. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. No cash access or recurring payments. Prepaid Mastercard valid for up to 6 months; unused funds will forfeit after the valid thru date. Terms and conditions apply. Virtual Prepaid Mastercard will be sent to your email address associated with your NOW account within 14 weeks of phone line activation date. Virtual card can be used where Debit Mastercard is accepted online, for phone/mail orders or in stores that accept mobile wallet. If there is no email address registered to the account, a physical Prepaid Mastercard will be shipped to NOW account holder within 16 weeks of phone line activation date. Physical card can be used where Debit Mastercard is accepted. Maximum $500 prepaid card amount per customer/account. One card issued for total qualifying amount. You can check the status of your prepaid card at xfinityincentivetracker.com/track.",
+    "NOW is a trademark of Comcast. © 2025 Comcast. All rights reserved.",
+    "Samsung A15 on us: Offer ends 12/3/24. Taxes and fees extra. Requires purchase of new Samsung A15, while supplies last, and activation of a new NOW Mobile line. Offer not valid with prior purchases, returns or exchanges. May not be combinable with some offers or discounts.",
+    "$100 Port-in: Offer ends 12/3/24. Requires activation of a new NOW Mobile line and transfer of phone number from another mobile carrier (Xfinity Mobile excluded) within 30 days of phone line activation date. Must maintain new line with active account in good standing for 60 days following line activation. Offer not valid with prior purchases, returns or exchanges. Prepaid Mastercard® is issued by Pathward®, N.A., Member FDIC, pursuant to license by Mastercard International Incorporated. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. No cash access or recurring payments. Prepaid Mastercard valid for up to 6 months; unused funds will forfeit after the valid thru date. Terms and conditions apply. Virtual Prepaid Mastercard will be sent to your email address associated with your NOW account within 14 weeks of phone line activation date. Virtual card can be used where Debit Mastercard is accepted online, for phone/mail orders or in stores that accept mobile wallet. If there is no email address registered to the account, a physical Prepaid Mastercard will be shipped to NOW account holder within 16 weeks of phone line activation date. Physical card can be used where Debit Mastercard is accepted. Maximum $500 prepaid card amount per customer/account. One card issued for total qualifying amount. You can check the status of your prepaid card at xfinityincentivetracker.com/track.",
+    "© 2024 Comcast. All rights reserved.",
+    "Samsung A15 on us: Offer ends 12/3/24. Taxes and fees extra. Requires purchase of new Samsung A15, while supplies last, and activation of a new NOW Mobile line. Offer not valid with prior purchases, returns or exchanges. May not be combinable with some offers or discounts.",
+    "$25 waived activation fee: Offer ends 12/3/24. Requires activation of a new NOW Mobile line. One-time line set up fees will be waived at time of purchase ($25/line value). Offer not valid with prior purchases, returns or exchanges. May not be combinable with some offers or discounts.",
+    "$100 Port-in: Offer ends 12/3/24. Requires activation of a new NOW Mobile line and transfer of phone number from another mobile carrier (Xfinity Mobile excluded) within 30 days of phone line activation date. Must maintain new line with active account in good standing for 60 days following line activation. Offer not valid with prior purchases, returns or exchanges. Prepaid Mastercard® is issued by Pathward®, N.A., Member FDIC, pursuant to license by Mastercard International Incorporated. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. No cash access or recurring payments. Prepaid Mastercard valid for up to 6 months; unused funds will forfeit after the valid thru date. Terms and conditions apply. Virtual Prepaid Mastercard will be sent to your email address associated with your NOW account within 14 weeks of phone line activation date. Virtual card can be used where Debit Mastercard is accepted online, for phone/mail orders or in stores that accept mobile wallet. If there is no email address registered to the account, a physical Prepaid Mastercard will be shipped to NOW account holder within 16 weeks of phone line activation date. Physical card can be used where Debit Mastercard is accepted. Maximum $500 prepaid card amount per customer/account. One card issued for total qualifying amount. You can check the status of your prepaid card at xfinityincentivetracker.com/track.",
+    "© 2024 Comcast. All rights reserved.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line set up fee of $25 waived between 12/30/24 – 2/4/25. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Offer ends 3/4/25. Requires purchase of a new Motorola moto g stylus 5G phone, while supplies last, and activation of a new NOW Mobile line. Taxes and fees extra. Offer not valid with prior purchases, returns or exchanges. May not be combined with other device offers. MOTOROLA, the Stylized M Logo, MOTO and the MOTO family of marks are trademarks of Motorola Trademark Holdings, LLC. All rights reserved.",
+    "NOW is a trademark of Comcast. ©2025 Comcast.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line set up fee of $25 waived between 2/5/25 – 3/31/25. Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Moto G 5G 2025: Offer ends 3/31/2025. Taxes and fees extra. Requires purchase of new moto g 5G 2025 while supplies last and activation of a new NOW Mobile line. Offer not valid with prior purchases, returns or exchanges. May not be combined with other device offers. MOTOROLA, the Stylized M Logo, MOTO and the MOTO family of marks are trademarks of Motorola Trademark Holdings, LLC. All rights reserved",
+    "$100 prepaid card: Offer ends 3/31/25. Requires activation of a new NOW Mobile line and transfer of phone number from another mobile carrier (Xfinity Mobile excluded) within 30 days of phone line activation date. Must maintain new line with active account in good standing for 60 days following line activation. Offer not valid with prior purchases, returns or exchanges. Prepaid Mastercard® is issued by Pathward®, N.A., Member FDIC, pursuant to license by Mastercard International Incorporated. Mastercard and the circles design are registered trademarks of Mastercard International Incorporated. No cash access or recurring payments. Prepaid Mastercard valid for up to 6 months; unused funds will forfeit after the valid thru date. Terms and conditions apply. Virtual Prepaid Mastercard will be sent to your email address associated with your NOW account within 14 weeks of phone line activation date. Virtual card can be used where Debit Mastercard is accepted online, for phone/mail orders or in stores that accept mobile wallet. If there is no email address registered to the account, a physical Prepaid Mastercard will be shipped to NOW account holder within 16 weeks of phone line activation date. Physical card can be used where Debit Mastercard is accepted. Maximum $500 prepaid card amount per customer/account. One card issued for total qualifying amount. You can check the status of your prepaid card at xfinityincentivetracker.com/track.",
+    "NOW is a trademark of Comcast. © 2025 Comcast. All rights reserved.",
+    "Restrictions apply. Xfinity post-paid or NOW Internet required. One-time line setup fee of $25/line waived between 2/5/25 – 9/30/25 Intl. and roaming charges extra. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Reduced speeds after 20GB of usage/line. In times of congestion, your data may be temporarily slower than other traffic.",
+    "Offer ends 9/2/2025. Requires purchase of a new Motorola moto g 5G - 2025 phone, while supplies last, and activation of a new NOW Mobile line. Taxes and fees extra. Offer not valid with prior purchases, returns or exchanges. May not be combined with other device offers.",
+    "NOW is a trademark of Comcast. ©2025 Comcast. MOTOROLA, the Stylized M Logo, MOTO and the MOTO family of marks are trademarks of Motorola Trademark Holdings, LLC. All rights reserved. Use only in accordance with law. All rights reserved."
+  ],
+  "ctas": [
+    {
+      "label": "Shop new phones",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Bring my own phone",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Read More",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Learn more about Mex/Can Unlimited Pass",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Learn more about personal hotspot",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Shop new tablets",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Bring my own tablet",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Read More",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Shop NOW Internet",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV & Streaming",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Yes, exit sales session",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "No, keep sales session",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "xfinityincentivetracker.com/track",
+      "href": "http://www.xfinityincentivetracker.com/track",
+      "btn": false
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "xfinityincentivetracker.com/track",
+      "href": "http://www.xfinityincentivetracker.com/track",
+      "btn": false
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Okay",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Live chat",
+      "href": null,
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "http://www.xfinityincentivetracker.com/track",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-creditcheck2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-mexcan2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-hotspot2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-5lines2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2024/nov/cix-7966_wicked-post-black-friday/streaming-carousel/Spacer_350.png",
+        "alt": "",
+        "w": 420,
+        "h": 353,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/blank-spacer.png",
+        "alt": "",
+        "w": 420,
+        "h": 140,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=9770510640612.682&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sun%2C%2028%20Jun%202026%2009%3A35%3A57%20GMT&n=-2d&b=NOW%20Mobile%3A%20Shop%20Prepaid%20Phone%20Plans%20-%20No%20Contract&.yp=12763&f=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Fmobile&enc=UTF-8&yv=1.16.6&tagmgr=gtm%2Cadobe",
+        "alt": "dot image pixel",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=NOW%20Mobile%3A%20Shop%20Prepaid%20Phone%20Plans%20-%20No%20Contract&.yp=12763&f=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Fmobile&enc=UTF-8&yv=1.16.6&et=custom&ec=ResiNowPageView&tagmgr=gtm%2Cadobe",
+        "alt": "dot image pixel",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/insetHero--desktop-min.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/crosssell-internet--mobile-min.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/crosssell-tvstreaming--mobile-min.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=2024_002;rcb=19;ord=3032266090364;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938468~119027224~119576891~119576895;epver=2;dc_random=1782639357_2u3hA7HJqUv-NB9gT2CP-DO4idO6RUVGPQ;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Fmobile?",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/now/mobile&ns=&cb=475808.87608889234",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=cb3ddf88-427d-48d8-979d-bb65497c6b6c&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 311,
+    "ctaCount": 69,
+    "internalLinkCount": 2,
+    "externalLinkCount": 2,
+    "imageCount": 12
+  }
+}

@@ -1,0 +1,991 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:54.555Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:47.852Z",
+    "waitMode": "medium",
+    "waitMs": 6610,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "now-internet",
+  "url": "https://www.xfinity.com/now/internet",
+  "finalUrl": "https://www.xfinity.com/now/internet",
+  "screenshot": "stardust/current/assets/screenshots/now-internet.png",
+  "title": "NOW Internet - Prepaid Internet",
+  "metaDescription": "Sign up for NOW Internet from Xfinity today! Get fast, reliable internet for less - only $30/mo. Internet equipment included at no extra cost",
+  "og": {
+    "title": "Internet",
+    "description": "This is now internet page.",
+    "image": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/og-asset/OG_NOWimageWhite--updated.png",
+    "type": "website",
+    "siteName": "NOW"
+  },
+  "themeColor": null,
+  "language": "en",
+  "canonical": "https://www.xfinity.com/now/internet",
+  "favicon": "https://www.xfinity.com/now/favicon.ico",
+  "appleTouchIcon": null,
+  "headings": [
+    {
+      "level": 1,
+      "text": "PREPAID HOME INTERNET",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Live online for less. Starting at $30/mo.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "76px",
+        "lineHeight": "76px",
+        "letterSpacing": "-3px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "No credit checks. Set up and self-install in minutes with WiFi equipment included. Pause and resume your service anytime.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Choose your speed",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "One monthly price. No annual contracts.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Pause and resume your service anytime.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "A network that works",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get started — fast",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "28px",
+        "lineHeight": "30px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Better tech. Better than 5G home internet.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get more with NOW",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "PREPAID TV & STREAMING",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Save on streaming. Enjoy live TV.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "36px",
+        "lineHeight": "38px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "PREPAID MOBILE",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Simple. Easy. Flexible.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "36px",
+        "lineHeight": "38px",
+        "letterSpacing": "-1px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "No commitments. No credit checks. Exclusively for Xfinity or NOW Internet customers.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "FAQ",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "300",
+        "fontSize": "48px",
+        "lineHeight": "50px",
+        "letterSpacing": "-2px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Are you sure you want to exit the sales session? This session cannot be restored after exit.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "min-h-16 xl:min-h-20",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "PREPAID HOME INTERNET Live online for less. Starting at $30/mo. No credit checks. Set up and self-install in minutes with WiFi equipment included. Pause and resume your service anytime.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "PREPAID HOME INTERNET",
+        "Live online for less. Starting at $30/mo.",
+        "No credit checks. Set up and self-install in minutes with WiFi equipment included. Pause and resume your service anytime."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Choose your speed 100 Mbps $30/mo Add to cart Pricing & other info Read More 200 Mbps $45/mo Add to cart Pricing & other info Read More",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Choose your speed"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Need temporary internet access? Try NOW WiFi pass for millions of WiFi hotspots on the go. Cancel anytime. Learn more",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "One monthly price. No annual contracts. Taxes and fees included. Pause and resume your service anytime. You’re in control. A network that works A consistent connection — backed by Xfinity. Get started — fast Set up, power up, and use in minutes.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "One monthly price. No annual contracts.",
+        "Pause and resume your service anytime.",
+        "A network that works",
+        "Get started — fast"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "Better tech. Better than 5G home internet.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Better tech. Better than 5G home internet."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Feature Description Fast, consistent speed — even at peak hours Low lag for smoother connections Reliable wired connection backed by the Xfinity network",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "Get more with NOW",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Get more with NOW"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "PREPAID TV & STREAMING Save on streaming. Enjoy live TV. Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions. Shop NOW TV & Streaming PREPAID MOBILE Simple. Easy. Flexible. No commitments. No credit checks. Exclusively for Xfinity or NOW Internet customers. Shop NOW Mobile",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "PREPAID TV & STREAMING",
+        "Save on streaming. Enjoy live TV.",
+        "Sports. Reality. Must-see movies. Whatever you’re into. Save on your favorite streaming subscriptions.",
+        "PREPAID MOBILE",
+        "Simple. Easy. Flexible.",
+        "No commitments. No credit checks. Exclusively for Xfinity or NOW Internet customers."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden marketing hx-w-full",
+      "innerText": "FAQ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "FAQ"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden hx-w-full",
+      "innerText": "Restrictions apply. Not available in all areas. Limited to NOW Internet service, speeds up to 200 Mbps/10 Mbps. Actual speeds vary and are not guaranteed. For factors affecting speed, visit xfinity.com/networkmanagement. Requires self-installation and activation of refurbished gateway. Payments must be made online only via credit, debit, or prepaid card. Autopay and paperless billing required. Pricing subject to change. Service limited to a single outlet and subject to Xfinity Residential Services Agreement (xfinity.com/policies). Xfinity 30-day money-back guarantee does not apply to service. Warranty/return information for NOW Internet equipment available at xfinity.com/support/articles/now-internet-faqs. NOW is a trademark of Comcast. © 2026 Comcast.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "sc-prism-modal sc-prism-modal-s",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "A consistent connection — backed by Xfinity.",
+    "Set up, power up, and use in minutes.",
+    "Requires Xfinity post-paid Internet or Xfinity TV. Includes Netflix Standard with ads ($7.99/mo), Peacock Premium with ads ($10.99/mo), and Apple TV+ ($9.99/mo). Price includes all applicable discounts. Taxes and fees extra. Pricing and programming subject to change. To access Peacock, Netflix, and Apple TV+, activation of an account for each service required. Subject to terms of use of each streaming service. Internet delivered service will count against any Xfinity data plan, if applicable.",
+    "Management of any existing subscriptions may be required to avoid multiple active subscriptions and corresponding charges. If you have an existing Netflix subscription in a bundle with a third party, manage your account to avoid multiple subscriptions. Existing paid Peacock or Apple TV+ subscriptions billed by a third party may continue unless and until you cancel. You may not receive any refunds/credits for overlapping subscription periods."
+  ],
+  "ctas": [
+    {
+      "label": "Add to cart",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Read More",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Add to cart",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Read More",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/internet-service/wifi?intcmp=ILC:ACQ:BAUP:NON:GEN:NOWWFP:COM:DIG:dev:103014556171",
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV & Streaming",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Shop NOW Mobile",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "xfinity.com/networkmanagement",
+      "href": "http://www.xfinity.com/networkmanagement",
+      "btn": false
+    },
+    {
+      "label": "xfinity.com/policies",
+      "href": "http://www.xfinity.com/policies",
+      "btn": false
+    },
+    {
+      "label": "xfinity.com/support/articles/now-internet-faqs",
+      "href": "https://www.xfinity.com/support/articles/now-internet-faqs",
+      "btn": false
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "xfinity.com/networkmanagement",
+      "href": "http://www.xfinity.com/networkmanagement",
+      "btn": false
+    },
+    {
+      "label": "xfinity.com/policies",
+      "href": "http://www.xfinity.com/policies",
+      "btn": false
+    },
+    {
+      "label": "xfinity.com/support/articles/now-internet-faqs",
+      "href": "https://www.xfinity.com/support/articles/now-internet-faqs",
+      "btn": false
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Yes, exit sales session",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "No, keep sales session",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "OK",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "close dialog",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Okay",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/internet-service/wifi",
+      "/support/articles/now-internet-faqs",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "http://www.xfinity.com/networkmanagement",
+      "http://www.xfinity.com/policies",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-price2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-pauseresume2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-network2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/icon-getstarted2.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/mar/cix-8421_now-brand-update/now-placements/Comparison-Chart_Logo-Mobile.png",
+        "alt": "NOW Internet",
+        "w": 279,
+        "h": 44,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2025/aug/cix-9069_now-mobile_back-to-school-refresh/5G-Home-Internet_Text-Trial.svg",
+        "alt": "",
+        "w": 284,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/check/ic_check_fill_dark_green_24.svg",
+        "alt": "Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/close/ic_close_fill_dark_inverse_24.svg",
+        "alt": "Not Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/check/ic_check_fill_dark_green_24.svg",
+        "alt": "Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/close/ic_close_fill_dark_inverse_24.svg",
+        "alt": "Not Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/check/ic_check_fill_dark_green_24.svg",
+        "alt": "Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/xds-icons/close/ic_close_fill_dark_inverse_24.svg",
+        "alt": "Not Included",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2024/nov/cix-7966_wicked-post-black-friday/streaming-carousel/Spacer_350.png",
+        "alt": "",
+        "w": 420,
+        "h": 353,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2024/nov/cix-7966_wicked-post-black-friday/streaming-carousel/Spacer_350.png",
+        "alt": "",
+        "w": 420,
+        "h": 353,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=5968871910954.015&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sun%2C%2028%20Jun%202026%2009%3A35%3A52%20GMT&n=-2d&b=NOW%20Internet%20-%20Prepaid%20Internet&.yp=12763&f=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Finternet&enc=UTF-8&yv=1.16.6&tagmgr=gtm%2Cadobe",
+        "alt": "dot image pixel",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&b=NOW%20Internet%20-%20Prepaid%20Internet&.yp=12763&f=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Finternet&enc=UTF-8&yv=1.16.6&et=custom&ec=ResiNowPageView&tagmgr=gtm%2Cadobe",
+        "alt": "dot image pixel",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/may/cix-8778_test-winner-now-enhanced-hero/InternetHero--desktop-min.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/crosssell-tvstreaming--mobile-min.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/oct/cix-9307_now-xfinity-microsite-refresh/crosssell-mobile--mobile-min.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=2024_000;rcb=15;ord=5349320331421;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616986~115938465~115938469~119027224~119576891~119576895;epver=2;dc_random=1782639351_BBH41GqMp6IIrmKecfpz6-YdAF6cWbJ_3Q;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fnow%2Finternet?",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/now/internet&ns=&cb=925340.6305529185",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=fd1f2cb3-2059-4005-87a4-ae9c8a23bd0b&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 303,
+    "ctaCount": 43,
+    "internalLinkCount": 4,
+    "externalLinkCount": 3,
+    "imageCount": 20
+  }
+}

@@ -1,0 +1,15 @@
+.rail{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+  gap:20px;
+  background:var(--xf-surface);
+  border-radius:var(--xf-radius);
+  padding:clamp(28px,4vw,44px);
+}
+.rail .rail-item{ text-align:center; display:flex; flex-direction:column; gap:4px; }
+.rail .rail-stat{ font-family:var(--xf-font-head); font-weight:700; font-size:clamp(1.75rem,3vw,2.5rem); color:var(--xf-violet); line-height:1; }
+.rail .rail-stat p{ margin:0; }
+.rail .rail-label{ color:var(--xf-muted); font-size:.95rem; }
+.rail .rail-label p{ margin:0; }
+.section.dark .rail{ background:rgba(255,255,255,.06); }
+.section.dark .rail .rail-label{ color:#c9ccd3; }

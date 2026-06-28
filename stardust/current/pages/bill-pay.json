@@ -1,0 +1,450 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:36:07.252Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:36:01.232Z",
+    "waitMode": "medium",
+    "waitMs": 5591,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "bill-pay",
+  "url": "https://www.xfinity.com/bill-pay",
+  "finalUrl": "https://www.xfinity.com/bill-pay",
+  "screenshot": "stardust/current/assets/screenshots/bill-pay.png",
+  "title": "Pay My Xfinity Bill Online - Comcast Bill Pay",
+  "metaDescription": "Pay your Xfinity bill anytime, on any device. Pay online or with the Xfinity app, or discover even more ways to pay with Quick Collect.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/bill-pay",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Easily pay your Xfinity bill online",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Simplify billing with the Xfinity app",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Explore more ways to pay",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark   w-full",
+      "innerText": "Easily pay your Xfinity bill online Make a payment now, or if you need more time to pay, explore our flexible payment options. Pay your bill Looking for Comcast Business? Pay your Comcast Business bill",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "headings": [
+        "Easily pay your Xfinity bill online"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40",
+      "innerText": "Simplify billing with the Xfinity app Manage your billing details, set up autopay, and more with the Xfinity app. Get the Xfinity app",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Simplify billing with the Xfinity app"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40",
+      "innerText": "Explore more ways to pay You can mail us a check using the information on your bill, or visit a Western Union® Quick Collect® location to pay with cash or money order. You’ll just need the account number. Find a location",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Explore more ways to pay"
+      ]
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "explore our flexible payment options",
+      "href": "https://www.xfinity.com/bill-pay/flexible-payment",
+      "btn": false
+    },
+    {
+      "label": "Pay your bill",
+      "href": "https://payments.xfinity.com/new",
+      "btn": true
+    },
+    {
+      "label": "Pay your Comcast Business bill",
+      "href": "https://business.comcast.com/payment/onetime/pay",
+      "btn": false
+    },
+    {
+      "label": "Get the Xfinity app",
+      "href": "https://www.xfinity.com/apps",
+      "btn": true
+    },
+    {
+      "label": "Find a location",
+      "href": "https://www.westernunion.com/global-services/find-locations?WUCountry=us&WULanguage=en",
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/bill-pay/flexible-payment",
+      "/apps",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "https://payments.xfinity.com/new",
+      "https://business.comcast.com/payment/onetime/pay",
+      "https://www.westernunion.com/global-services/find-locations?WUCountry=us&WULanguage=en",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=5813572659624.365&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=03233fcc-f51f-4f1a-9185-4adf6308af1d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=741804de-cb74-4be3-b21c-67ac5e9c254a&pt=Pay%20My%20Xfinity%20Bill%20Online%20-%20Comcast%20Bill%20Pay&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fbill-pay&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=03233fcc-f51f-4f1a-9185-4adf6308af1d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=741804de-cb74-4be3-b21c-67ac5e9c254a&pt=Pay%20My%20Xfinity%20Bill%20Online%20-%20Comcast%20Bill%20Pay&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fbill-pay&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280002&Ver=2&mid=a5096d59-3848-4719-baa5-bb6c634b9df7&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Pay%20My%20Xfinity%20Bill%20Online%20-%20Comcast%20Bill%20Pay&p=https%3A%2F%2Fwww.xfinity.com%2Fbill-pay&r=&lt=1354&evt=pageLoad&sv=2&asc=D&cdb=AQEZ&rn=246563",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_hero_desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_app_desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects/cix-8753-bill-pay-landing-page---fresh/Billpay_western-union_desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://cdn.cohesionapps.com/cohesion/xs1.html?xsid=a0ae4372-f62e-4e25-8599-ebc4e0ae2c17",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/bill-pay&ns=&cb=8862.598523195596",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini01s;rcb=1;ord=4112859145327;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938468~119027224~119527019~119576891~119576895;epver=2;dc_random=1782639363_U1xUtLgKWIaO0TovdMFxImHOmgCmC3XRCQ;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fbill-pay?",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "//s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3Dbe3febd7-e9e1-576d-d829-a3b664224cad%26type%3DUNKNOWN%26m%3D1&ex-fch=416613&ex-src=https://customer.xfinity.com/&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3DBE3FEBD7-E9E1-576D-D829-A3B664224CAD&cb=732324460867956700",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=b87ef440-6644-4ee4-9fa0-b2b220f2e5c1&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "40px 0px 0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "40px 0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 101,
+    "ctaCount": 23,
+    "internalLinkCount": 4,
+    "externalLinkCount": 4,
+    "imageCount": 7
+  }
+}

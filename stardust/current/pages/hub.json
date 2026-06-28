@@ -1,0 +1,696 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:47.763Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:41.659Z",
+    "waitMode": "medium",
+    "waitMs": 5841,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "hub",
+  "url": "https://www.xfinity.com/hub",
+  "finalUrl": "https://www.xfinity.com/hub",
+  "screenshot": "stardust/current/assets/screenshots/hub.png",
+  "title": "Discovery Hub - News & Technology",
+  "metaDescription": "The Xfinity Discovery Hub is your resource for Xfinity product news, technology education, and more. Learn about TV, internet, home security, and more...",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/hub",
+  "favicon": "https://www.xfinity.com/xfinity-hub-ui/favicon.ico",
+  "appleTouchIcon": "https://cdn.comcast.com/learn/-/media/common/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Entertainment",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Streaming this Summer: ‘Love Island USA’ Season 8",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Entertainment",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to Watch Soccer this Summer",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Mobile",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Why Xfinity Mobile Provides the Best Mobile Experience",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "What to Know About the New 5 Year Price Guarantee",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Experience",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Introducing Xfinity Membership Benefits",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to Choose a Home Internet Provider",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Internet",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "How to Choose a Home Internet Provider",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "",
+      "innerText": "Looking for email?You can now check your Comcast email by selecting your account icon in the navigation menu or click this Link. Discovery Hub Hub Home Internet Entertainment Free TV & Movies Mobile Smart Home",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "",
+      "innerText": "Mobile Xfinity Mobile Just Got Even Better: Meet the New Mobile Select and Mobile Plus Plans Entertainment Streaming this Summer: ‘Love Island USA’ Season 8 Entertainment How to Watch Soccer this Summer Mobile Why Xfinity Mobile Provides the Best Mobile Experience Internet What to Know About the New 5 Year Price Guarantee Experience Introducing Xfinity Membership Benefits Internet How to Choose a Home Internet Provider",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Entertainment",
+        "Streaming this Summer: ‘Love Island USA’ Season 8",
+        "Entertainment",
+        "How to Watch Soccer this Summer",
+        "Mobile",
+        "Why Xfinity Mobile Provides the Best Mobile Experience",
+        "Internet",
+        "What to Know About the New 5 Year Price Guarantee",
+        "Experience",
+        "Introducing Xfinity Membership Benefits",
+        "Internet",
+        "How to Choose a Home Internet Provider"
+      ]
+    }
+  ],
+  "body": [
+    "Entertainment Streaming this Summer: ‘Love Island USA’ Season 8",
+    "Entertainment How to Watch Soccer this Summer",
+    "Mobile Why Xfinity Mobile Provides the Best Mobile Experience",
+    "Internet What to Know About the New 5 Year Price Guarantee",
+    "Experience Introducing Xfinity Membership Benefits",
+    "Internet How to Choose a Home Internet Provider"
+  ],
+  "ctas": [
+    {
+      "label": "Link",
+      "href": "https://xfinityconnect.email.comcast.net/",
+      "btn": false
+    },
+    {
+      "label": "Hub Home",
+      "href": "https://www.xfinity.com/hub",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/hub/internet",
+      "btn": true
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/hub/tv-video",
+      "btn": true
+    },
+    {
+      "label": "Free TV & Movies",
+      "href": "https://www.xfinity.com/hub/free-tv-movies",
+      "btn": true
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/hub/mobile",
+      "btn": true
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/hub/smart-home",
+      "btn": true
+    },
+    {
+      "label": "Entertainment Streaming this Summer: ‘Love Island USA’ Season 8",
+      "href": "https://www.xfinity.com/hub/tv-video/what-to-stream",
+      "btn": false
+    },
+    {
+      "label": "Entertainment How to Watch Soccer this Summer",
+      "href": "https://www.xfinity.com/hub/tv-video/world-cup",
+      "btn": false
+    },
+    {
+      "label": "Mobile Why Xfinity Mobile Provides the Best Mobile Experience",
+      "href": "https://www.xfinity.com/hub/mobile/xfinity-best-mobile-experience",
+      "btn": false
+    },
+    {
+      "label": "Internet What to Know About the New 5 Year Price Guarantee",
+      "href": "https://www.xfinity.com/hub/internet/5-year-price-guarantee",
+      "btn": false
+    },
+    {
+      "label": "Experience Introducing Xfinity Membership Benefits",
+      "href": "https://www.xfinity.com/hub/experience/xfinity-membership",
+      "btn": false
+    },
+    {
+      "label": "Internet How to Choose a Home Internet Provider",
+      "href": "https://www.xfinity.com/hub/internet/home-internet-buying-guide",
+      "btn": false
+    },
+    {
+      "label": "Hub Home",
+      "href": "https://www.xfinity.com/hub",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "https://www.xfinity.com/hub/internet",
+      "btn": true
+    },
+    {
+      "label": "Entertainment",
+      "href": "https://www.xfinity.com/hub/tv-video",
+      "btn": true
+    },
+    {
+      "label": "Free TV & Movies",
+      "href": "https://www.xfinity.com/hub/free-tv-movies",
+      "btn": true
+    },
+    {
+      "label": "Mobile",
+      "href": "https://www.xfinity.com/hub/mobile",
+      "btn": true
+    },
+    {
+      "label": "Smart Home",
+      "href": "https://www.xfinity.com/hub/smart-home",
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/hub",
+      "/hub/internet",
+      "/hub/tv-video",
+      "/hub/free-tv-movies",
+      "/hub/mobile",
+      "/hub/smart-home",
+      "/hub/mobile/xfinity-mobile-plans",
+      "/hub/tv-video/what-to-stream",
+      "/hub/tv-video/world-cup",
+      "/hub/mobile/xfinity-best-mobile-experience",
+      "/hub/internet/5-year-price-guarantee",
+      "/hub/experience/xfinity-membership",
+      "/hub/internet/home-internet-buying-guide",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "https://xfinityconnect.email.comcast.net/",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFN_PhoneOutside.jpg",
+        "alt": "Mobile",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/loveisland16x9.jpg",
+        "alt": "Streaming this Summer: ‘Love Island USA’ Season 8",
+        "w": 662,
+        "h": 372,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/group-celebration.jpg",
+        "alt": "How to Watch Soccer this Summer",
+        "w": 642,
+        "h": 428,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_PhoneB_OCT25.jpg",
+        "alt": "Why Xfinity Mobile Provides the Best Mobile Experience",
+        "w": 675,
+        "h": 450,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2025/q2/5yg.png",
+        "alt": "What to Know About the New 5 Year Price Guarantee",
+        "w": 660,
+        "h": 530,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q1/XFNMembershipCard.png",
+        "alt": "Introducing Xfinity Membership Benefits",
+        "w": 540,
+        "h": 284,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_Lifestyle_Laptop.jpg",
+        "alt": "How to Choose a Home Internet Provider image",
+        "w": 632,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=469535566495.0585&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=f775273c-de80-43a4-94e6-cb15d9d43545&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Discovery%20Hub%20-%20News%20%26%20Technology&p=https%3A%2F%2Fwww.xfinity.com%2Fhub&r=&lt=1689&evt=pageLoad&sv=2&asc=D&cdb=AQEZ&rn=78441",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=bb8c2680-9cc0-4823-abad-5994d42cb06e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21d8c74d-d051-4acc-b6e7-228b55681582&pt=Discovery%20Hub%20-%20News%20%26%20Technology&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=bb8c2680-9cc0-4823-abad-5994d42cb06e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21d8c74d-d051-4acc-b6e7-228b55681582&pt=Discovery%20Hub%20-%20News%20%26%20Technology&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Fhub&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://cdn.cohesionapps.com/cohesion/xs1.html?xsid=a0ae4372-f62e-4e25-8599-ebc4e0ae2c17",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/hub&ns=&cb=823254.3819105634",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=20_4_003;rcb=3;ord=2058261455050;npa=1;auiddc=2098454930.1782639296;u17=https%3A%2F%2Fwww.xfinity.com%2Fhub;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938469~119027224~119576891~119576895;epver=2;dc_random=1782639344_V4VvNJ27l3DdiYMUpIIXJjDJiBiBFyJOjA;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Fhub?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=8249a222-cece-4537-9b0c-13857f7e6b10&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.comcast.com/assets/dotcom/hub/images/2026/q2/XFN_PhoneB_OCT25.jpg",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 113,
+    "ctaCount": 37,
+    "internalLinkCount": 15,
+    "externalLinkCount": 2,
+    "imageCount": 14
+  }
+}

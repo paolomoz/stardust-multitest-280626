@@ -1,0 +1,1122 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:14.258Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:07.658Z",
+    "waitMode": "medium",
+    "waitMs": 6250,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-digital-cable-tv",
+  "url": "https://www.xfinity.com/learn/digital-cable-tv",
+  "finalUrl": "https://www.xfinity.com/learn/digital-cable-tv",
+  "screenshot": "stardust/current/assets/screenshots/learn-digital-cable-tv.png",
+  "title": "Xfinity TV and Streaming - Xfinity Entertainment",
+  "metaDescription": "All the entertainment you want, in one place. Live TV, Sports, StreamStore and more. An unmatched viewing experience, Shop Xfinity Today!",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/digital-cable-tv",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Loading...",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Xfinity Entertainment",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "40px",
+        "lineHeight": "44px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Live TV",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "StreamStore",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "All your favorite streaming services at your fingertips with simplified billing.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Sports",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Always know where to watch your favorite teams and leagues.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "An unmatched viewing experience",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Whatever you want, we have it here",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Turn any screen into a TV",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Watch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "All the top apps in one place",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Add-on channels",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Add sports packages, premium channels like Max and Paramount Plus, and more to your plan",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Latino TV packages",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get your favorite Spanish-language channels and content",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "International",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Watch your favorite channels from countries across the globe",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Every match. Every goal. All year long with World Soccer Ticket.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Entertainment deals you’ll love",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  px-6 lg:px-16 theme-pad-16b lg:theme-pad-24b xl:theme-pad-24b",
+      "innerText": "Shopping from Change",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  patch-bg-grey-05 theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b md:theme-pad-32b",
+      "innerText": "Xfinity Entertainment Imagine all the entertainment you want, all in one place. It’s easy with Xfinity. Build your plan",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Xfinity Entertainment"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Live TV Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV. Explore Xfinity TV StreamStore All your favorite streaming services at your fingertips with simplified billing. Visit StreamStore Sports Always know where to watch your favorite teams and leagues. Explore Sports",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Live TV",
+        "Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.",
+        "StreamStore",
+        "All your favorite streaming services at your fingertips with simplified billing.",
+        "Sports",
+        "Always know where to watch your favorite teams and leagues."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full patch-bg-grey-05",
+      "innerText": "An unmatched viewing experience Award-winning Xfinity equipment lets you pair Xfinity entertainment with internet and mobile for unbeatable value.",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "An unmatched viewing experience"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "See it like you’re in the front row Feel like you’re in the stadium with Enhanced 4K for select games. Crisp quality, brighter colors, and immersive sound. All the action without changing the channel From clutch time to fourth-and-inches, watch multiple live events on one screen with Xfinity Multiview. Multiview requires an Xfinity 4K-compatible TV box. Viewing based on video subscription. The most powerful search engine? Your voice. Find that show everyone’s talking about across live TV, apps, On Demand, and your DVR library with the Xfinity Voice Remote. Learn about Voice Remote",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full patch-bg-grey-05",
+      "innerText": "Whatever you want, we have it here",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Whatever you want, we have it here"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full patch-bg-grey-05",
+      "innerText": "Turn any screen into a TV Watch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app. All the top apps in one place Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching.",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Turn any screen into a TV",
+        "Watch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app.",
+        "All the top apps in one place",
+        "Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full mx-auto Xjs3UpContainer patch-bg-grey-05",
+      "innerText": "Add-on channels Add sports packages, premium channels like Max and Paramount Plus, and more to your plan View add-ons Latino TV packages Get your favorite Spanish-language channels and content View Latino Packages International Watch your favorite channels from countries across the globe View International channels",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Add-on channels",
+        "Add sports packages, premium channels like Max and Paramount Plus, and more to your plan",
+        "Latino TV packages",
+        "Get your favorite Spanish-language channels and content",
+        "International",
+        "Watch your favorite channels from countries across the globe"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark  max-w-screen-2xl mx-auto w-full theme-pad-16b lg:theme-pad-24b xl:theme-pad-24b",
+      "innerText": "Every match. Every goal. All year long with World Soccer Ticket. Stream world soccer this summer in English and Spanish plus get year-round access to 1,500+ matches. Learn more Restrictions apply. Not available in all areas. Actual channel line-up may vary.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "headings": [
+        "Every match. Every goal. All year long with World Soccer Ticket."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "Xjs2UpContainer mx-auto w-full patch-bg-grey-05",
+      "innerText": "Entertainment deals you’ll love",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Entertainment deals you’ll love"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base full-width full-width light bg-material-neutral2-base",
+      "innerText": "Streaming Sports Latino Stack, save, stream. Discover, shop, and manage in one place. Get your must-have apps and watch it all on an included 4K stream box. Learn more Pick your favorite app bundle and save over 25% Discover a simple way to save on your favorite apps with a StreamSaver™ bundle, starting at $18/mo. Keep your profiles and watch history from your current app subscriptions. Build your plan Get 100+ live TV channels at your fingertips Live sports, breaking news, and must-see shows and movies. New YouTube TV customers can enjoy $10 off per month for their first year. Add to your plan Pricing & other info Promotional price available to new YouTube TV customers only. Terms, restrictions, and embargoes apply. 270+ channels for $20/mo Get NOW TV with 270+ live and on demand channels, 20 hours of cloud DVR, and Peacock Premium with ads. Shop NOW TV Taxes extra. Pricing subj. to change. Management of any existing Peacock subscription (currently, a $10.99/mo value) may be required to avoid multiple subscriptions and corresponding charges.",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [],
+  "ctas": [
+    {
+      "label": "Change",
+      "href": "#Change",
+      "btn": false
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder",
+      "btn": true
+    },
+    {
+      "label": "Explore Xfinity TV",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Visit StreamStore",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Explore Sports",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Learn about Voice Remote",
+      "href": "https://www.xfinity.com/support/articles/get-to-know-voice-remote",
+      "btn": true
+    },
+    {
+      "label": "View add-ons",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Latino Packages",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View International channels",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer",
+      "btn": true
+    },
+    {
+      "label": "Streaming",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Sports",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Latino",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Add to your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Get MLB Network",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=TV",
+      "btn": true
+    },
+    {
+      "label": "Shop NOW TV Latino",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop Xfinity Latino",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/digital-cable-tv",
+      "/digital/offers/plan-builder",
+      "/support/articles/get-to-know-voice-remote",
+      "/get-stream",
+      "/learn/xumostreambox",
+      "/learn/digital-cable-tv/sports/soccer",
+      "/learn/digital-cable-tv/streaming-services",
+      "/privacy/policy/cookienotice",
+      "/privacy/your-privacy-choices"
+    ],
+    "external": [
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-AddOn.png",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-Latino.png",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/Icon-International.png",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+        "alt": "",
+        "w": 357,
+        "h": 48,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 343,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 211,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Youtube-IMG-Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/streaming-tab/NOW-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card01_ASSET_PC.png",
+        "alt": "",
+        "w": 567,
+        "h": 284,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card02_ASSET_PC.png",
+        "alt": "",
+        "w": 567,
+        "h": 378,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card03_ASSET_PC.png",
+        "alt": "",
+        "w": 593,
+        "h": 395,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/NOWLatino-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/XLatino-IMG-Desktop.png",
+        "alt": "",
+        "w": 842,
+        "h": 421,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=7783942575964.763&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=aebf7ee5-0d74-482f-a8a2-274809233170&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f45dabaa-67f6-41d2-b963-4dc73c43cff5&pt=Xfinity%20TV%20and%20Streaming%20-%20Xfinity%20Entertainment&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdigital-cable-tv&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=aebf7ee5-0d74-482f-a8a2-274809233170&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f45dabaa-67f6-41d2-b963-4dc73c43cff5&pt=Xfinity%20TV%20and%20Streaming%20-%20Xfinity%20Entertainment&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdigital-cable-tv&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&cv=82%260&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=b82e2cac-1a11-4f52-8ad9-5a9ad2762c89&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Accept%20All%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f45dabaa-67f6-41d2-b963-4dc73c43cff5&pt=Xfinity%20TV%20and%20Streaming%20-%20Xfinity%20Entertainment&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdigital-cable-tv&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&cv=82%260&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=b82e2cac-1a11-4f52-8ad9-5a9ad2762c89&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Accept%20All%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f45dabaa-67f6-41d2-b963-4dc73c43cff5&pt=Xfinity%20TV%20and%20Streaming%20-%20Xfinity%20Entertainment&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdigital-cable-tv&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/desktop/NEW-Desktop-BG.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card1.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card2.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/NEW-Mobile-Card3.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide1-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide2-Desktop_compressed.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Carousel-Slide3-Desktop.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/Metablock_Card1_Mobile-new.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/Metablock_Card2_Mobile.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10448_world-cup-phase-2-fox-integration/TVPage-FullImage.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/youtube-tv-trial/Youtube-BG-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/streaming-tab/NOW-BG-Desktop.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card01_BG_PC.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card02_BG_PC.png",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10610_update-sports-and-news-tv-key-art/Entertainment_Card03_BG_PC.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/NOWLatino-BG-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/entertainment-tabs/latino-tab/XLatino-BG-Desktop.png"
+    ],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/learn/digital-cable-tv&ns=&cb=557171.6721289813",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini00v;rcb=4;ord=2086516558505;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~118012008~119027224~119576891~119576895;epver=2;dc_random=1782639310_c9Fu2YIKFqJnsGBU84MqeO_iH_MNKmNfvA;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdigital-cable-tv?",
+      "//s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3D0bb6df2e-665f-2f1f-6e74-d798c309b6d7%26type%3D5%26m%3D1&ex-fch=416613&ex-src=https://www.xfinity.com/learn/digital-cable-tv&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3D0BB6DF2E-665F-2F1F-6E74-D798C309B6D7&cb=765019474657545300",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0",
+      "https://cdn.cohesionapps.com/cohesion/xs1.html",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=380358fb-ebb2-417f-ae95-290eb11f45d8&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 64px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "56px 0px 40px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "padding": "0px 0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 9,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 10,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 507,
+    "ctaCount": 49,
+    "internalLinkCount": 9,
+    "externalLinkCount": 1,
+    "imageCount": 25
+  }
+}

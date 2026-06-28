@@ -1,0 +1,656 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:41.572Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:35.142Z",
+    "waitMode": "medium",
+    "waitMs": 6253,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-moving",
+  "url": "https://www.xfinity.com/learn/moving",
+  "finalUrl": "https://www.xfinity.com/learn/moving",
+  "screenshot": "stardust/current/assets/screenshots/learn-moving.png",
+  "title": "Xfinity Moving - Transfer Your Xfinity Service",
+  "metaDescription": "Moving? Transfer Xfinity services to your new address in just 3 steps! Check availability at your new home right now.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/moving",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Sign in to start your move as an Xfinity member",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Stay connected on the move",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get online between addresses with WiFi hotspots",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Even if your internet equipment is still packed away, connect with Xfinity WiFi hotspots whenever you need it. Included with Xfinity Internet at no extra charge.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Mobile moves with you",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get coverage you can count on and enjoy savings when you add Xfinity Mobile to your internet plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Your Cookie Preferences",
+      "id": "ot-pc-title",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20.8px",
+        "lineHeight": "31.2px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "id": "ot-category-title",
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary",
+      "id": "ot-header-id-1",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Analytics and Performance",
+      "id": "ot-header-id-2",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Personalized Advertising",
+      "id": "ot-header-id-4",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 4,
+      "text": "Functional",
+      "id": "ot-header-id-5",
+      "style": {
+        "fontFamily": "XfinityBrown, DMSans, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "20.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(76, 78, 84)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "New lair. Same-day WiFi. Get reliable, fiber-powered 300 Mbps WiFi that works right out of the box in your new home. No mayhem, and no contract — cancel anytime. $45/mo for 5 years Shop internet Pricing & other info Offer ends 7/21. New Xfinity Internet members. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Reliability: Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Sign in to start your move as an Xfinity member Look up your new address and see available deals to take with you on move-in day. Sign in",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Sign in to start your move as an Xfinity member"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "All-in internet plans with everything included Power your life on the most reliable WiFi with our best equipment and unlimited data included. Get an Xfinity Mobile line on us for one year Connect to the most reliable 5G network nationwide with a Mobile Select line, included with every Xfinity Internet plan 300 Mbps or faster. Self-install with the Xfinity app Easily activate services in your new home on the day of your move with same-day WiFi, and manage it all with the Xfinity app.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Shop internet Most reliable Wifi claim based on Opensignal Awards USA: Fixed Broadband Experience Report, May 2025. Xfinity Mobile utilizes the network with the highest RootMetrics® 5G reliability rankings 1H ‘24. WiFi not tested. Xfinity Mobile req's Xfinity Int.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-24b md:theme-pad-32b",
+      "innerText": "Stay connected on the move",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Stay connected on the move"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Get online between addresses with WiFi hotspots Even if your internet equipment is still packed away, connect with Xfinity WiFi hotspots whenever you need it. Included with Xfinity Internet at no extra charge. Available in select areas Xfinity Mobile moves with you Get coverage you can count on and enjoy savings when you add Xfinity Mobile to your internet plan.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Get online between addresses with WiFi hotspots",
+        "Even if your internet equipment is still packed away, connect with Xfinity WiFi hotspots whenever you need it. Included with Xfinity Internet at no extra charge.",
+        "Xfinity Mobile moves with you",
+        "Get coverage you can count on and enjoy savings when you add Xfinity Mobile to your internet plan."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-24b md:theme-pad-32b",
+      "innerText": "Frequently asked questions",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Frequently asked questions"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "What happens to my equipment when I move? You may be able to bring your equipment with you. If you need new equipment, you can schedule a professional installation, or we can show you how to install it yourself. Can I keep my plan and promotion? Offers vary by area, but if you can’t keep your current plan, you can shop for new offers. If you’re moving to an area where Xfinity doesn’t provide service, just return your equipment before you move. We’ll help you do that, too. How soon in advance can I schedule a move? You can schedule a move up to 30 days before your move date. If you qualify for self-installation, you can activate your services as soon as you move in. You can also schedule professional installation for as early as the next day if appointments are available. What if there’s time between when I move out and move in? You won’t be billed for any gaps in service. Plus, you can stay connected with Xfinity WiFi hotspots and streaming TV using the Xfinity Stream app. What do I do if my internet seems slow or spotty after I move? Make sure to activate your equipment with the Xfinity app at your new address to optimize internet reliability and speed. If you’re having issues, you can chat with us for more help. How do I get internet today with same-day delivery? Getting internet today is easier than you think. If your order is in an eligible ZIP code and all products are same-day eligible, your order will automatically be routed for same-day delivery — as long as it's placed before the cutoff time (3 p.m. local time). Placed your order after the cutoff? It will arrive the next day. If same-day delivery is not available, you may be able to pick up your equipment at an Xfinity store same-day.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  max-w-screen-2xl mx-auto w-full",
+      "innerText": "Discounts, early access, and more — just for being a member Kick off the weekend with fresh perks, discounts, and exclusives. Sign in and start enjoying. View all benefits",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Offer ends 7/21. New Xfinity Internet members. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Reliability: Xfinity Internet is powered by fiber and connected to premises by coaxial cable.",
+    "Look up your new address and see available deals to take with you on move-in day.",
+    "Getting internet today is easier than you think. If your order is in an eligible ZIP code and all products are same-day eligible, your order will automatically be routed for same-day delivery — as long as it's placed before the cutoff time (3 p.m. local time). Placed your order after the cutoff? It will arrive the next day.",
+    "If same-day delivery is not available, you may be able to pick up your equipment at an Xfinity store same-day."
+  ],
+  "ctas": [
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Sign in",
+      "href": "https://login.xfinity.com/login",
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "View all benefits",
+      "href": "https://www.xfinity.com/membership",
+      "btn": true
+    },
+    {
+      "label": "here",
+      "href": "https://www.xfinity.com/privacy/your-privacy-choices",
+      "btn": false
+    },
+    {
+      "label": "Cookie Policy.",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Accept All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.xfinity.com/privacy/policy/cookienotice",
+      "btn": false
+    },
+    {
+      "label": "Allow all",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "View Details",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Back Button",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Filter Icon",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Clear",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cancel",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Decline All",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Save Changes",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Cookie Settings",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Live chat",
+      "href": null,
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/digital/offers/plan-builder",
+      "/learn/moving",
+      "/learn/internet-service/wifi/hotspot-map-mobile",
+      "/learn/mobile/plan/savings-calculator/current",
+      "/membership",
+      "/privacy/your-privacy-choices",
+      "/privacy/policy/cookienotice"
+    ],
+    "external": [
+      "https://login.xfinity.com/login",
+      "https://www.onetrust.com/products/cookie-consent/"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_Wifi_Purple_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_5G_Purple_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_Verify%20number_Purple_40.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+        "alt": "Company Logo",
+        "w": 2042,
+        "h": 280,
+        "srcset": null
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53,
+        "srcset": null
+      },
+      {
+        "src": "https://navi.cohesionapps.com/rum?m=eyJydW1fdmVyc2lvbiI6InYyIiwiY2xpZW50X3ZlcnNpb24iOiJ2My43OC4wIiwiY2xpZW50X3NyYyI6Imh0dHBzOi8vY2RuLmNvaGVzaW9uYXBwcy5jb20vY29oZXNpb24vY29oZXNpb24tdG8ubWluLmpzIiwiY2xpZW50X3Byb3hpZWQiOmZhbHNlLCJjbGllbnRfdmFyaWFudCI6ImNvaGVzaW9uLXRvLm1pbi5qcyIsImNsaWVudF9wcmVjb25uZWN0IjpmYWxzZSwiY2xpZW50X3ByZWxvYWQiOmZhbHNlLCJjbGllbnRfZG93bmxvYWRfbXMiOjE2MCwiY2xpZW50X3JlYWR5X21zIjoxODksImNvbnNlbnRfY2hlY2tlZF9tcyI6MTY2LCJvbmV0cnVzdF9kZXRlY3RlZF9tcyI6MTg0LCJjb25zZW50X3JlYWR5X21zIjoxODQsInRhZ3VsYXJfc3RhcnRlZF9tcyI6MTg3LCJ1cmxfb3JpZ2luIjoiaHR0cHM6Ly93d3cueGZpbml0eS5jb20iLCJ1cmxfcGF0aCI6Ii9sZWFybi9tb3ZpbmciLCJtYWtlX3NvdXJjZSI6InNyY18zMldKYVBCbHNOM2tLamlnSGZRbkVTcDhQR3ciLCJwcmVhbXBfY29uZmlndXJlZCI6ZmFsc2UsInByZWFtcF9ib2R5X2F0dHIiOmZhbHNlLCJmdXNlX2NvbmZpZ3VyZWQiOmZhbHNlLCJ0YWdneV9jb25maWd1cmVkIjp0cnVlLCJtb25hcmNoX2NvbmZpZ3VyZWQiOmZhbHNlLCJjb25zZW50X3JlcXVpcmVkIjp0cnVlLCJjb25zZW50X21vZGVfdjIiOmZhbHNlLCJjb25zZW50X2Nvb2tpZV9jbGFzc2lmaWNhdGlvbiI6IkMwMDAyIiwiY29uc2VudF9tYXBwaW5nX2MwMDAxIjoiMSIsImNvbnNlbnRfbWFwcGluZ19jMDAwMiI6IjIiLCJjb25zZW50X21hcHBpbmdfYzAwMDMiOiI1IiwiY29uc2VudF9tYXBwaW5nX2MwMDA0IjoiNCIsImNvbnNlbnRfbWFwcGluZ19jMDAwNSI6IkMwMDA1Iiwib25ldHJ1c3RfZW5hYmxlZCI6dHJ1ZSwib25ldHJ1c3Rfb3B0aW4iOnRydWUsIm9uZXRydXN0X2RldGVjdGVkIjp0cnVlfQ%3D%3D",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=6503230565846.941&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280002&Ver=2&mid=a98f4186-88ec-42f8-b16e-a5cd53ede2fe&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20Moving%20-%20Transfer%20Your%20Xfinity%20Service&p=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fmoving&r=&lt=2077&evt=pageLoad&sv=2&asc=D&cdb=AQEZ&rn=283967",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=6d31fa51-a783-4e8a-9ffb-a03e0eaa7e4d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f1952d59-03c7-4cac-a688-6e3b9336be2e&pt=Xfinity%20Moving%20-%20Transfer%20Your%20Xfinity%20Service&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fmoving&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=6d31fa51-a783-4e8a-9ffb-a03e0eaa7e4d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f1952d59-03c7-4cac-a688-6e3b9336be2e&pt=Xfinity%20Moving%20-%20Transfer%20Your%20Xfinity%20Service&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fmoving&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Movers-Minions_Hero_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Movers_Metablock_Hotspots_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Movers_Metablock_XM_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Movers_Membership_Desktop-2.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 4,
+    "iframes": [
+      "https://cdn.cohesionapps.com/cohesion/xs1.html?xsid=a0ae4372-f62e-4e25-8599-ebc4e0ae2c17",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/learn/moving&ns=&cb=279176.7677726434",
+      "https://www.xfinity.com/va/static/xaui-pwa/storage.html",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini01u;rcb=5;ord=7989359149633;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zd9190932436xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938469~119027224~119576891~119576895;epver=2;dc_random=1782639338_9mkEdT2rhfAtmCsAYNt99d0MCu8x57St0g;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fmoving?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=f3f5aa3b-dbbf-4917-a0b4-b69e900fc9b6&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba",
+      "https://www.xfinity.com/learn/nuance/xfinityChat.html?IFRAME&nuance-frame-ac=0"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "80px 0px 40px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "80px 0px 40px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_Wifi_Purple_40.svg",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 645,
+    "ctaCount": 24,
+    "internalLinkCount": 7,
+    "externalLinkCount": 2,
+    "imageCount": 13
+  }
+}

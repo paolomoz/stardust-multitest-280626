@@ -1,0 +1,1377 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:35.044Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:28.402Z",
+    "waitMode": "medium",
+    "waitMs": 6479,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-deals-mobile",
+  "url": "https://www.xfinity.com/learn/deals/mobile",
+  "finalUrl": "https://www.xfinity.com/learn/deals/mobile",
+  "screenshot": "stardust/current/assets/screenshots/learn-deals-mobile.png",
+  "title": "Our Best Cell Phone Deals & Device Offers - Xfinity Mobile",
+  "metaDescription": "Shop our best deals on cell phones, devices, & mobile plans. Get deals on Apple, Samsung, Google Pixel and Motorola. Shop Xfinity Mobile.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/deals/mobile",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Xfinity Mobile Deals",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(90, 35, 185)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Shop by brand",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The latest devices at our greatest prices",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save up to $830 on the latest iPhone",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "$400 off eligible iPhone, no trade-in needed",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "New Mobile Plus line and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save up to $900 on the latest Samsung Galaxy phones",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save up to $830 on the latest Google Pixel phones",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get iPhone 17 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Samsung Galaxy S26 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(246, 246, 249)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Google Pixel 10 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Galaxy A37 5G on us, no trade-in needed",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "New Mobile Plus line and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get the new motorola razr on us",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Enjoy a $200 bonus for your eligible trade-in",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "On top of your trade-in credit when you upgrade to a new iPhone on an existing line. Device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Enjoy a $450 bonus for your eligible trade-in",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "On top of your trade-in credit when you upgrade to a new Samsung phone on an existing line. Device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Enjoy a $200 bonus for your eligible trade-in",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "On top of your trade-in credit when you upgrade to a new Google phone on an existing line. Device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Enjoy a $200 bonus for your eligible trade-in",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "On top of your trade-in credit when you upgrade to a new Motorola phone on an existing line. Device payment plan required.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get Apple Watch SE 3 on us",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Apple Watch. Requires new line and device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get $300 off Apple Watch Series 11",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Apple Watch. Requires new line and device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get $300 off Samsung Galaxy smartwatches",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Galaxy smartwatch. Requires new line and device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Get $300 off Google smartwatches",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Xfinity Diamond members can get $300 off any Pixel smartwatch. Requires new line and device payment plan.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save 50% on iPad (A16)​",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Save $250 on the 11-inch iPad with the superfast A16 chip.",
+      "id": null,
+      "style": {
+        "fontFamily": "DMSans, Helvetica, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(20, 20, 23)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "flex flex-col  justify-center  localization-container__height-default align-center lg:px-16 localization-container__alig",
+      "innerText": "Where do you live? Enter your address for the best offers Find my plan Already a member? Sign in.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b md:theme-pad-32b lg:theme-pad-40b",
+      "innerText": "Xfinity Mobile Deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Xfinity Mobile Deals"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  bg-material-neutral2-base",
+      "innerText": "Overview Plans Mobile Deals Shop Devices Bring Your Own Device Network",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Cut your mobile bill in half. Plus, try free for a year. No commitment. Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members. Shop plans Pricing & other info Compares 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra Only Xfinity includes device protection for life With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account. Shop plans Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Lifetime Device Protection: Applies to each phone while connected to Mobile Plus + eligible devices connected to your account. Coverage terms and conditions apply.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "",
+      "innerText": "Shop by brand Shop Apple Shop Samsung Shop Google Shop Motorola",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Shop by brand"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "transparent theme-pad-40t md:theme-pad-48t lg:theme-pad-56t",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-16b lg:theme-pad-24b xl:theme-pad-24b",
+      "innerText": "Watch your savings stack up with Xfinity",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  patch-bg-grey-05",
+      "innerText": "See how much you can save",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "The latest devices at our greatest prices Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21. Top deals Devices on us Member exclusives Watches & tablets Save up to $830 on the latest iPhone Qualifying trade-in, new Mobile Plus line, and device payment plan required. Pricing & other info $400 off eligible iPhone, no trade-in needed New Mobile Plus line and device payment plan required. Pricing & other info Save up to $900 on the latest Samsung Galaxy phones Qualifying trade-in, new Mobile Plus line, and device payment plan required. Pricing & other info Save up to $830 on the latest Google Pixel phones Qualifying trade-in, new Mobile Plus line, and device payment plan required. Pricing & other info Xfinity Internet required. Taxes & fees extra. Compare phone deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "The latest devices at our greatest prices",
+        "Explore offers for new and existing Xfinity Mobile members. If it's your first order, we'll cover the $25 activation fee for every line. Offers end 7/21.",
+        "Save up to $830 on the latest iPhone",
+        "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+        "$400 off eligible iPhone, no trade-in needed",
+        "New Mobile Plus line and device payment plan required.",
+        "Save up to $900 on the latest Samsung Galaxy phones",
+        "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+        "Save up to $830 on the latest Google Pixel phones",
+        "Qualifying trade-in, new Mobile Plus line, and device payment plan required.",
+        "Get iPhone 17 on us",
+        "Qualifying trade-in, new Mobile Plus line, and device payment plan required."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-24b md:theme-pad-32b lg:theme-pad-40b xl:theme-pad-40b",
+      "innerText": "Check out new phones",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "w-full mx-auto Xjs3UpContainer ",
+      "innerText": "Apple iPhone 17 Pro starting at $30 55 /mo Buy now For 36 months, 0% APR. Full price: $1,099.99 Samsung Galaxy S26+ starting at $30 55 /mo Buy now For 36 months, 0% APR. Full price: $1099.99 Google Pixel 10 Pro XL starting at $27 77 /mo Buy now For 36 months, 0% APR. Full price: $999.99",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Shop all phones",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-16b lg:theme-pad-24b xl:theme-pad-24b",
+      "innerText": "Shop tablets & smartwatches",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Apple Watch for them. Managed by you. Kids can make calls, send texts, or share location from their Apple Watch with cellular. And now you can manage it from your iPhone — no extra phone line needed. Shop Apple Pricing & other info iPad Pro. Built for Apple Intelligence. The new Apple M5 chip delivers next-level speed and AI power to fuel your creativity and workflows. Shop Apple Dream bigger Introducing the new iPad Air. Supercharged by the incredibly fast Apple M2 chip and featuring a stunning Liquid Retina display, new landscape camera, and all-day battery life. Shop Apple The ultimate way to watch your health Apple Watch Series 11 brings you invaluable health insights including hypertension notifications and sleep score. Shop Apple The latest Samsung Galaxy Watches are here Galaxy Watch8 is your health coach in a sleek and sporty package. Or go with Galaxy Watch8 Classic for impressive performance and iconic style. Shop Samsung Precision crafted. Performance ready. The Pixel Watch 4 with Gemini. Precision-crafted to redefine performance for your health and fitness. Shop Google Power for all you do Samsung Galaxy Tab A11+ 5G moves with your family’s day from work to play and every moment between. Shop Samsung",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Learn more about tablets Learn more about smartwatches",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Cut your mobile bill in half. Plus, try free for a year. No commitment.",
+    "Only Xfinity includes device protection for life",
+    "Kids can make calls, send texts, or share location from their Apple Watch with cellular. And now you can manage it from your iPhone — no extra phone line needed.",
+    "The new Apple M5 chip delivers next-level speed and AI power to fuel your creativity and workflows.",
+    "Apple Watch Series 11 brings you invaluable health insights including hypertension notifications and sleep score.",
+    "The Pixel Watch 4 with Gemini. Precision-crafted to redefine performance for your health and fitness."
+  ],
+  "ctas": [
+    {
+      "label": "Find my plan",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Sign in",
+      "href": "https://login.xfinity.com/login?",
+      "btn": false
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/mobile",
+      "btn": true
+    },
+    {
+      "label": "Plans",
+      "href": "https://www.xfinity.com/learn/mobile/plan",
+      "btn": true
+    },
+    {
+      "label": "Mobile Deals",
+      "href": "https://www.xfinity.com/learn/deals/mobile",
+      "btn": true
+    },
+    {
+      "label": "Shop Devices",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones",
+      "btn": true
+    },
+    {
+      "label": "Bring Your Own Device",
+      "href": "https://www.xfinity.com/learn/mobile/byod",
+      "btn": true
+    },
+    {
+      "label": "Network",
+      "href": "https://www.xfinity.com/learn/mobile/network-coverage",
+      "btn": true
+    },
+    {
+      "label": "Shop plans",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop plans",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/learn/deals/mobile/apple",
+      "btn": false
+    },
+    {
+      "label": "Shop Samsung",
+      "href": "https://www.xfinity.com/learn/deals/mobile/samsung",
+      "btn": false
+    },
+    {
+      "label": "Shop Google",
+      "href": "https://www.xfinity.com/learn/deals/mobile/google",
+      "btn": false
+    },
+    {
+      "label": "Shop Motorola",
+      "href": "https://www.xfinity.com/learn/deals/mobile/motorola",
+      "btn": false
+    },
+    {
+      "label": "See how much you can save",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/phone",
+      "btn": true
+    },
+    {
+      "label": "Top deals",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Devices on us",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Member exclusives",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Watches & tablets",
+      "href": null,
+      "btn": false
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Compare phone deals",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/phone?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:NaviSavingsCalcMerch:595",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Compare phone deals",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/phone?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:NaviSavingsCalcMerch:595",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Compare phone deals",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/phone?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:NaviSavingsCalcMerch:595",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Compare phone deals",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/phone?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:XFM:COM:NA:NaviSavingsCalcMerch:595",
+      "btn": true
+    },
+    {
+      "label": "Buy now",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones/iphone-17-pro",
+      "btn": true
+    },
+    {
+      "label": "Buy now",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones/galaxy-s26plus",
+      "btn": true
+    },
+    {
+      "label": "Buy now",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones/pixel-10-pro-xl",
+      "btn": true
+    },
+    {
+      "label": "Shop all phones",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones",
+      "btn": true
+    },
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/digital/mobile/smart-watches/brand/apple",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/digital/mobile/tablets/brand/apple",
+      "btn": true
+    },
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/digital/mobile/tablets/brand/apple",
+      "btn": true
+    },
+    {
+      "label": "Shop Apple",
+      "href": "https://www.xfinity.com/digital/mobile/smart-watches/watch-series-11-aluminum-42mm",
+      "btn": true
+    },
+    {
+      "label": "Shop Samsung",
+      "href": "https://www.xfinity.com/digital/mobile/smart-watches/brand/samsung",
+      "btn": true
+    },
+    {
+      "label": "Shop Google",
+      "href": "https://www.xfinity.com/digital/mobile/smart-watches/pixel-watch-4-41mm",
+      "btn": true
+    },
+    {
+      "label": "Shop Samsung",
+      "href": "https://www.xfinity.com/digital/mobile/tablets/galaxy-tab-a11plus-5g",
+      "btn": true
+    },
+    {
+      "label": "Learn more about tablets",
+      "href": "https://www.xfinity.com/learn/mobile/tablets",
+      "btn": true
+    },
+    {
+      "label": "Learn more about smartwatches",
+      "href": "https://www.xfinity.com/learn/mobile/smartwatches",
+      "btn": true
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/mobile",
+      "/learn/mobile/plan",
+      "/learn/deals/mobile",
+      "/digital/mobile/cell-phones",
+      "/learn/mobile/byod",
+      "/learn/mobile/network-coverage",
+      "/digital/offers/plan-builder",
+      "/learn/deals/mobile/apple",
+      "/learn/deals/mobile/samsung",
+      "/learn/deals/mobile/google",
+      "/learn/deals/mobile/motorola",
+      "/learn/mobile/plan/savings-calculator/phone",
+      "/digital/mobile/cell-phones/brand/apple",
+      "/digital/mobile/cell-phones/brand/samsung",
+      "/digital/mobile/cell-phones/brand/google",
+      "/digital/mobile/cell-phones/iphone-17",
+      "/digital/mobile/cell-phones/galaxy-s26",
+      "/digital/mobile/cell-phones/pixel-10",
+      "/digital/mobile/cell-phones/galaxy-a37-5g",
+      "/digital/mobile/cell-phones/razr-2026",
+      "/digital/mobile/cell-phones/brand/motorola",
+      "/digital/mobile/tablets/ipad-a16",
+      "/digital/mobile/cell-phones/iphone-17-pro",
+      "/digital/mobile/cell-phones/galaxy-s26plus",
+      "/digital/mobile/cell-phones/pixel-10-pro-xl",
+      "/digital/mobile/smart-watches/brand/apple",
+      "/digital/mobile/tablets/brand/apple",
+      "/digital/mobile/smart-watches/watch-series-11-aluminum-42mm",
+      "/digital/mobile/smart-watches/brand/samsung",
+      "/digital/mobile/smart-watches/pixel-watch-4-41mm",
+      "/digital/mobile/tablets/galaxy-tab-a11plus-5g",
+      "/learn/mobile/tablets",
+      "/learn/mobile/smartwatches"
+    ],
+    "external": [
+      "https://login.xfinity.com/login?",
+      "https://customer.xfinity.com/membership"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6651_xmld-mobile-deals-page/hoverNav_apple--desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6651_xmld-mobile-deals-page/hoverNav_samsung--desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6651_xmld-mobile-deals-page/hoverNav_google--desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-6488_xm-com-learn-deprecation/cix-6651_xmld-mobile-deals-page/hoverNav_motorola--desktop.png",
+        "alt": "",
+        "w": 440,
+        "h": 618,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/10-10_xm-refresh/xmld_device-bau/3up__phones-apple--desktop.png",
+        "alt": "",
+        "w": 843,
+        "h": 640,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10175_3-24_xm-offer-extension/3up__phones-samsung--desktop.png",
+        "alt": "",
+        "w": 843,
+        "h": 640,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/10-10_xm-refresh/xmld_device-bau/3up__phones-Google--desktop.png",
+        "alt": "",
+        "w": 844,
+        "h": 640,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_Apple-StandAlone-Watch_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_iPad-Pro_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_iPadAir_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_Watch-Series-11_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_Galaxy-Smartwatch_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_PixelWatch-4_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/npi_samsung-motorola_bau-offers/Carousel_Samsung-Galaxy-Tab-11Plus_Device_Desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 420,
+        "srcset": null
+      },
+      {
+        "src": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=16&buzz_key=nbcu&value=&segment_key=nbcu-16&account_id=2&order=&ord=1782639330",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=8113882295691.671&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=3527a953-60a8-4eec-81cb-26fd73fc97c2&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Our%20Best%20Cell%20Phone%20Deals%20%26%20Device%20Offers%20-%20Xfinity%20Mobile&p=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile&r=&lt=2387&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=904816",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=729574ae-a320-4097-8634-eef52d65e144&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f0e96c8-1a6d-4743-9a7c-249061a76f67&pt=Our%20Best%20Cell%20Phone%20Deals%20%26%20Device%20Offers%20-%20Xfinity%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=729574ae-a320-4097-8634-eef52d65e144&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f0e96c8-1a6d-4743-9a7c-249061a76f67&pt=Our%20Best%20Cell%20Phone%20Deals%20%26%20Device%20Offers%20-%20Xfinity%20Mobile&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/repeating-components/Cut-Your-Mobile-Bill-Half_Banner-Desktop1.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10637_slt-high-priority-ask_xm-messaging-test/Test3-Banner_Device-Protection-MobilePlus_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Featured_830-off-iphone_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Featured_400-off-iPhone_Desktop2.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Featured_900-off-Galaxy_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Featured_Pixel-10-Pro-XL-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Free-Devices_Phone-17-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Free-Devices_Galaxy-S26-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Free-Devices_Pixel-10-Pro-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Free-Devices_Galaxy-A37-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Free-Devices_Motorola-razr-on-us_Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_Membership_200%20Apple-Plus-Up_VF-Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_450-bonus-on-Galaxy-Z-Fold7_VF-Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_Membership-400-Google-Plus-Up_VF-Mobile.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_Membership_200-Motorola-Plus-Up_VF-Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_SMartwatch-Tablet_Apple-Watch-SE-3-on-us_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Smartwatch-Tablets_300-off-Apple-Watch-Series-11_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel-Smartwatch-Tablet_300-off-Samsung-Smartwatch_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_Smartwatch-Tablet_300-off-Google-Smartwatch_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10548_xm-6-22-device-offer-refresh/new_enhancement-tabs_oem-carousel/NEWCarousel_Smartwatch-Tablet_50-off-iPad_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_Apple-StandAlone-Watch_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_iPad-Pro_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_iPadAir_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_Watch-Series-11_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/july/samsung_galaxy-z-series-q3-np_pre-order/carousel-components/Carousel_Galazy-Z-Series_Galaxy-Watch8-Series_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/cix-9570_android-tablets_byo_stand-alone-watch_por/cix-9570_stand-alone-watch/BAU_PixelWatch-4_BG_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/dec/npi_samsung-motorola_bau-offers/Carousel_Samsung-Galaxy-Tab-11Plus_BG_Desktop.png"
+    ],
+    "videos": [],
+    "inlineSvgCount": 1,
+    "iframes": [
+      "https://www.xfinity.com/learn/mobile/plan/savings-calculator/embedded/phone/compare?plan_id=756a6f3853aa5b1bb6b85cbd6df169f7&cur_tier_bin=3&num_lines=1&compared_other_plans_tier=3&tradeInPhoneId=0462917728d738c327b6f4464d5f5004&newPhoneId=c53c245afb62d90516dcdbebb659b16a&compared_plan_name_group=Unlimited",
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/learn/deals/mobile&ns=&cb=151083.36437505388",
+      "https://s.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3D52e0ebca-7e17-489f-ffd7-2b7464fbf7e8%26type%3D5%26m%3D1&ex-fch=416613&ex-src=https://www.xfinity.com/learn/mobile-service&ex-hargs=v%3D1.0%3Bc%3D8324316060801%3Bp%3D52E0EBCA-7E17-489F-FFD7-2B7464FBF7E8&cb=239482319361028700",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=75b0849f-e4fd-46c4-8aef-42364a7053a7&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini02h;rcb=3;ord=8439725193716;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115616985~115938465~115938469~118395334~119027224~119576891~119576895;epver=2;dc_random=1782639331_bQNR7lHnwVa2PrEL6ImMiQBswWdKtj5Uqw;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Fmobile?"
+    ]
+  },
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "fields": []
+    }
+  ],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "24px 64px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "56px 0px 40px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "56px 0px 0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 9,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 0px 40px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": null,
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 604,
+    "ctaCount": 57,
+    "internalLinkCount": 33,
+    "externalLinkCount": 2,
+    "imageCount": 22
+  }
+}

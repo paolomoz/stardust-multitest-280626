@@ -1,0 +1,956 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-28T09:35:28.312Z",
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-28T09:35:21.957Z",
+    "waitMode": "medium",
+    "waitMs": 6077,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "fetchTechnique": "headed-chrome (akamai bot-mgmt fallback)"
+  },
+  "slug": "learn-deals-internet",
+  "url": "https://www.xfinity.com/learn/deals/internet",
+  "finalUrl": "https://www.xfinity.com/learn/deals/internet",
+  "screenshot": "stardust/current/assets/screenshots/learn-deals-internet.png",
+  "title": "Xfinity Internet Deals and Promotions",
+  "metaDescription": "Shop the latest deals on Xfinity Internet! Choose the right package for you and get reliably fast Internet speeds.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null,
+    "siteName": null
+  },
+  "themeColor": "#000000",
+  "language": "en",
+  "canonical": "https://www.xfinity.com/learn/deals/internet",
+  "favicon": "https://www.xfinity.com/xfinity-learn-ui/favicon.ico",
+  "appleTouchIcon": "https://www.xfinity.com/xfinity-learn-ui/images/favicon/apple-touch-icon.png",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Xfinity Internet Deals",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(90, 35, 185)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Or get 300 Mbps WiFi, $40/mo for 1 year",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Extras with every plan. Starting at just $45/month.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "New home, same great service. Make your move with Xfinity.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "20px",
+        "lineHeight": "26px",
+        "letterSpacing": "-0.02px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Streaming, simplified. Streaming apps plus Gig WiFi all in one.",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "42px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "There’s even more to love from Xfinity",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions",
+      "id": null,
+      "style": {
+        "fontFamily": "XSans, DMSans, Helvetica, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "32px",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.04px",
+        "color": "rgb(20, 20, 23)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "role": "header",
+      "tag": "header",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "patch-bg-grey-05 theme-pad-16t lg:theme-pad-24t xl:theme-pad-24t",
+      "innerText": "",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  px-6 lg:px-16",
+      "innerText": "Shopping from Change",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t theme-pad-24b",
+      "innerText": "Xfinity Internet Deals",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Xfinity Internet Deals"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "bg-material-neutral2-base theme-pad-24b",
+      "innerText": "Overview Internet Internet + Mobile Internet + TV Build your own",
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "Same-day WiFi. Instant online magic. Pick up your WiFi equipment today, or see if same-day delivery is available at checkout. Plus, unleash monster savings on reliable, fiber-powered 300 Mbps internet with no contract and a 5-Year Price Guarantee. $45/mo for 5 years Shop internet Pricing & other info Or get 300 Mbps WiFi, $40/mo for 1 year Speed built for work and play. WiFi equipment and unlimited data included. Still no contract. Pricing & other info Shop internet",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Or get 300 Mbps WiFi, $40/mo for 1 year"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Offer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Xfinity Mobile req's Xfinity Internet.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-jss-meta-block-section hx-overflow-hidden hx-w-full hx-relative hx-isolate hx-grid",
+      "innerText": "Extras with every plan. Starting at just $45/month. Xfinity members get more, with WiFi equipment & unlimited data included.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Extras with every plan. Starting at just $45/month."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "300 Mbps $45/mo for 5 years 5-Year Price Guarantee. Cancel anytime. Simple, seamless WiFi with 99% reliability​ A free Xfinity Mobile line for 1 year No annual contract Build your plan Pricing & other info 500 Mbps $60/mo for 5 years 5-Year Price Guarantee. Cancel anytime. Fast, consistent speed — even at peak hours A free Xfinity Mobile line for 1 year No annual contract Build your plan Pricing & other info 1 Gig $70/mo for 5 years 5-Year Price Guarantee. Cancel anytime. The most reliable, fiber-powered WiFi A free Xfinity Mobile line for 1 year Peacock Premium for 2 years ($10.99/mo value) No annual contract Build your plan Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "Offer ends 7/21/26. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Opensignal Awards USA: Fixed Broadband Experience Report, May 2025; XB6+. Xfinity Internet is powered by fiber and connected to premises by coaxial cable. Peacock Premium: $10.99/mo value. Must activate within first 90 days. Xfinity Mobile req's Xfinity Internet.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base dark  max-w-screen-2xl mx-auto w-full theme-pad-24t md:theme-pad-32t lg:theme-pad-40t xl:theme-pad-40t",
+      "innerText": "Student WiFi packed with perks Go for Gig WiFi and get a $200 prepaid Mastercard, just for students. Plus, Peacock Premium for 2 years. See student offers Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "section",
+      "cls": "hx-w-full hx-@container/hx-layout",
+      "innerText": "New home, same great service. Make your move with Xfinity. Transfer your service, explore new plans, and get connected at your new address as soon as the same day. Start your move",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "New home, same great service. Make your move with Xfinity."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-56t",
+      "innerText": "Streaming, simplified. Streaming apps plus Gig WiFi all in one.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Streaming, simplified. Streaming apps plus Gig WiFi all in one."
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Gig WiFi so reliable you can host the world. $70/mo for 5 years. Includes Peacock Premium for streaming the beautiful game this summer. See more ways to watch in English and Spanish. See how to watch Pricing & other info Offer ends 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req'd. Taxes and fees extra and subj. to change. Peacock Premium: $10.99/mo value. Must activate within first 90 days. Pick your favorite app bundle Save over 25% with a StreamSaver™ bundle, starting at $18/mo. With Peacock Premium (with ads), Netflix Standard with ads, Apple TV, Disney+, Hulu Bundle (with ads), and HBO Max Basic With Ads. Build your plan Xfinity Internet or TV req’d. Management of existing subscriptions may be required to avoid multiple subscriptions and duplicate charges; third-party billed subscriptions continue until canceled. Restrictions apply. Not available in all areas. Taxes and fees extra. Savings compares StreamSaver bundle ($22/mo) vs. Peacock Premium (with ads) ($10.99/mo), Netflix Standard with ads ($8.99/mo), and HBO Max Basic With Ads ($10.99/mo).",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "There’s even more to love from Xfinity",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "There’s even more to love from Xfinity"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Stack, save, stream. Discover, shop, and manage in one place. Get your must-have apps and watch it all on an included 4K stream box. Learn more Pick your favorite app bundle and save over 25% Discover a simple way to save on your favorite apps with a StreamSaver™ bundle, starting at $18/mo. Keep your profiles and watch history from your current app subscriptions. Build your plan Cut your mobile bill in half. Plus, try free for a year. No commitment. Only with Xfinity Mobile can you get a Mobile Select line on us for a year, exclusively for Xfinity Internet members. Calculate savings Pricing & other info Savings comparison based on 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 (as of 03/24/26). Taxes & fees extra. Only Xfinity includes device protection for life With Mobile Plus, enjoy lifetime protection for your phone and every eligible tablet and smartwatch on your account. Protect my devices Pricing & other info Free 5G phone. For real. Get a free premium 5G phone with our Mobile Plus plan. Qualifying trade-in and device payment plan required. Offer ends 6/21. Shop phones Pricing & other info Low cost. High speed. Still under $15/mo. Available for eligible households and includes unlimited data and equipment. See if you qualify. Check eligibility Restrictions apply. Not available in all areas. Limited to residential customers meeting certain eligibility criteria. Subject to Internet Essentials program terms and conditions. Advertised price applies to a single outlet. Actual speeds vary and are not guaranteed. Your service matters — enjoy Xfinity military discounts We're proud to offer exclusive discounts and perks to our members who serve, including 2 years of Xfinity Mobile on us, and more. Explore military discounts Xfinity Mobile requires Xfinity Internet. Taxes & fees extra. All-in monthly prices on internet, mobile, and TV A new kind of simple. No hidden fees. Unlimited Data. A network that works. Get started fast. Learn more about NOW",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "mx-auto w-full  ",
+      "innerText": "StreamSaver savings compares StreamSaver ($22/mo) vs. Netflix Standard with Ads ($8.99/mo), Apple TV ($12.99/mo), and Peacock Premium (with ads) ($10.99/mo). NOW StreamSaver™, NOW TV, and NOW TV Latino: Peacock Premium (with ads) (currently $10.99/mo. value) and ViX Premium with ads (currently $6.99/mo. value) included with NOW TV Latino. Management of existing subscriptions may be required to avoid multiple active subscriptions and corresponding charges. Third-party billed subscriptions continue until canceled. Activation of an account for each service required.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "Make moving feel like magic Set up or transfer Xfinity services to your new address in just 3 steps. Look up your new address Get online—fast Easily activate your services and connect in your new home on the day of your move with the Xfinity app. Give your connectivity a boost Get internet and save on your bill when you add Xfinity Mobile on the most reliable 5G network. Safe. Secure. Solid. We’ll help protect your devices with Advanced Security, included at no extra cost. Magically boosted speeds with WiFi PowerBoost Get speeds up to a gig at home and on millions of hotspots nationwide. Learn more Pricing & other info",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "text-neutral-base light  theme-pad-40t md:theme-pad-48t lg:theme-pad-64t xl:theme-pad-80t theme-pad-16b lg:theme-pad-24b",
+      "innerText": "Frequently asked questions",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": [
+        "Frequently asked questions"
+      ]
+    },
+    {
+      "role": "section",
+      "tag": "div",
+      "cls": "hx-w-full hx-overflow-x-hidden",
+      "innerText": "How do I get the best deal on Xfinity home internet? The best way to get a great deal on Xfinity home internet is to lock in long-term savings with our 5-Year Price Guarantee. Our 1 Gig plan is a great value. It currently includes Peacock Premium for 24 months ($10.99/mo value) — giving you hit movies, live sports, and exclusive shows at no extra cost. Peacock Premium must be activated within first 90 days. What discounts does Xfinity offer on home internet? Xfinity offers lots of ways to save on internet. Our 5-Year Price Guarantee lets you lock in one price for five years on different speeds. We offer savings programs like student offers and Internet Essentials — making high-speed internet more accessible and affordable for qualifying households. Does Xfinity offer home internet and streaming deals? Yes, you can bundle streaming apps and add them to your Xfinity home internet. StreamSaver™ lets you bundle apps like Netflix, Apple TV, and Peacock starting at just $18/mo. This saves you over 25% compared to paying for them all separately. Plus our 1 Gig and faster speed plans currently include Peacock Premium for 24 months at no extra cost—giving you hit movies, exclusive shows, and live sports. Peacock Premium must be activated within first 90 days. Restrictions apply. Pricing subject to change. Management of existing subscriptions may be required to avoid multiple subscriptions and duplicate charges; third-party billed subscriptions continue until canceled. How does the 5-Year Price Guarantee save me money? Your 5-year internet pricing is the best choice for long-term savings. With these plans, you save considerably from years 2-5, whereas our 1-year plans offer the lowest price for a single year. If you’re confident that you’ll remain in your residence for longer than a year, the 5-year plan is probably the best. You can keep your 5-year price guarantee when you move to a new home, as long as the new place is still serviceable by Xfinity. None of our plans require an annual contract, so the 5-year price guarantee is a commitment from Xfinity — you can cancel anytime if you need to. How much can I save with the 5-Year Price Guarantee? Once your promotional period ends, your internet plan cost changes to the then-Everyday Pricing rate. The costs for Everyday Pricing below are the current rates and are subject to change, and the savings compare the 5-year plan to the 1-year plan for each speed. 300 Mbps — save over $1,600 over 5 years • $40/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $80/mo • $45/mo for 60 months with 5-year plan 500 Mbps — save over $1,500 over 5 years • $50/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $95/mo) • $55/mo for 60 months with 5-year plan 1 Gig — save $1,800 over 5 years • $60/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $110/mo) • $70/mo for 60 months with 5-year plan 1.2/2 Gig — save $1,800 over 5 years • $90/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $140/mo) • $100/mo for 60 months with 5-year plan Offers end 7/21. New Xfinity Internet customers. Restrictions apply. Autopay w/ stored bank account and paperless billing req’d. Taxes and fees extra and subj. to change. Can I add Xfinity Mobile to an Xfinity home internet plan to save more? Yes. When you bundle your Xfinity home internet with Xfinity Mobile, you get savings the big wireless carriers can't match. Depending on the plan, you can save up to $45 a month compared to Verizon or AT&T, and up to $32 a month compared to T-Mobile. Many of our current home internet deals include one free line of Xfinity Mobile Select for a full year. You can keep your current phone, have it run on the nation's most reliable 5G network, and manage your home internet and wireless service on the Xfinity app—all with zero annual contracts. Savings comparison based on 1 line of Xfinity Mobile Select vs 1 line of T-Mobile Essentials, Verizon Unlimited Welcome, and AT&T Extra 2.0 as of 04/22/26. Taxes & fees extra. Xfinity Mobile utilizes the most reliable 5G network based on RootMetrics® State of the Mobile Union report, United States, 2H 2025. RootMetrics rankings are not an endorsement of Xfinity Mobile. Do home internet deals require a long-term contract? No. Our 5-Year Price Guarantee comes with no annual contracts and no early termination fees. You get the benefit of a locked-in, discounted price with the freedom to change or cancel your home internet plan whenever you want without a penalty. Are internet deals only for new customers? We have a lot of great offers for different customers. If you're a member, the best way to find personalized deals is to sign in to the Xfinity app or your online account dashboard to check out your offers. Are there hidden fees with promotional offers? Our pricing is transparent so there will be no surprises on your bill. When you lock in our offers, it locks in your base monthly rate. Our latest internet plans include WiFi equipment and unlimited data in the cost, so you won't have surprise rental fees or data overages.",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "cls": "",
+      "innerText": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "headings": []
+    }
+  ],
+  "body": [
+    "Speed built for work and play. WiFi equipment and unlimited data included. Still no contract.",
+    "Transfer your service, explore new plans, and get connected at your new address as soon as the same day.",
+    "The best way to get a great deal on Xfinity home internet is to lock in long-term savings with our 5-Year Price Guarantee.",
+    "Our 1 Gig plan is a great value. It currently includes Peacock Premium for 24 months ($10.99/mo value) — giving you hit movies, live sports, and exclusive shows at no extra cost.",
+    "Yes, you can bundle streaming apps and add them to your Xfinity home internet. StreamSaver™ lets you bundle apps like Netflix, Apple TV, and Peacock starting at just $18/mo. This saves you over 25% compared to paying for them all separately.",
+    "Plus our 1 Gig and faster speed plans currently include Peacock Premium for 24 months at no extra cost—giving you hit movies, exclusive shows, and live sports.",
+    "Your 5-year internet pricing is the best choice for long-term savings. With these plans, you save considerably from years 2-5, whereas our 1-year plans offer the lowest price for a single year.",
+    "If you’re confident that you’ll remain in your residence for longer than a year, the 5-year plan is probably the best. You can keep your 5-year price guarantee when you move to a new home, as long as the new place is still serviceable by Xfinity. None of our plans require an annual contract, so the 5-year price guarantee is a commitment from Xfinity — you can cancel anytime if you need to.",
+    "Once your promotional period ends, your internet plan cost changes to the then-Everyday Pricing rate. The costs for Everyday Pricing below are the current rates and are subject to change, and the savings compare the 5-year plan to the 1-year plan for each speed.",
+    "300 Mbps — save over $1,600 over 5 years",
+    "• $40/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $80/mo",
+    "• $45/mo for 60 months with 5-year plan",
+    "500 Mbps — save over $1,500 over 5 years",
+    "• $50/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $95/mo)",
+    "• $55/mo for 60 months with 5-year plan",
+    "1 Gig — save $1,800 over 5 years",
+    "• $60/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $110/mo)",
+    "• $70/mo for 60 months with 5-year plan",
+    "1.2/2 Gig — save $1,800 over 5 years",
+    "• $90/mo for 12 months with 1-year plan (then Everyday Pricing applies, currently $140/mo)",
+    "• $100/mo for 60 months with 5-year plan",
+    "Yes. When you bundle your Xfinity home internet with Xfinity Mobile, you get savings the big wireless carriers can't match. Depending on the plan, you can save up to $45 a month compared to Verizon or AT&T, and up to $32 a month compared to T-Mobile.",
+    "Many of our current home internet deals include one free line of Xfinity Mobile Select for a full year. You can keep your current phone, have it run on the nation's most reliable 5G network, and manage your home internet and wireless service on the Xfinity app—all with zero annual contracts."
+  ],
+  "ctas": [
+    {
+      "label": "Change",
+      "href": "#Change",
+      "btn": false
+    },
+    {
+      "label": "Overview",
+      "href": "https://www.xfinity.com/learn/deals",
+      "btn": true
+    },
+    {
+      "label": "Internet",
+      "href": "/learn/deals/internet",
+      "btn": true
+    },
+    {
+      "label": "Internet + Mobile",
+      "href": "/learn/deals/internet-and-mobile",
+      "btn": true
+    },
+    {
+      "label": "Internet + TV",
+      "href": "/learn/deals/internet-and-tv",
+      "btn": true
+    },
+    {
+      "label": "Build your own",
+      "href": "https://www.xfinity.com/planbuilder",
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2263",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": null,
+      "btn": true
+    },
+    {
+      "label": "Shop internet",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET?intcmp=ILC:NA:ACQ:BAUP:PRO:GEN:HIS:COM:NA:623CTA:2264",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "See student offers",
+      "href": "https://www.xfinity.com/student",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Start your move",
+      "href": "https://www.xfinity.com/learn/moving",
+      "btn": true
+    },
+    {
+      "label": "See how to watch",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/sports/soccer",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/digital-cable-tv/streaming-services",
+      "btn": true
+    },
+    {
+      "label": "Build your plan",
+      "href": "https://www.xfinity.com/digital/offers/plan-builder?drawer=INTERNET",
+      "btn": true
+    },
+    {
+      "label": "Calculate savings",
+      "href": "https://www.xfinity.com/learn/mobile/plan/savings-calculator/current",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Protect my devices",
+      "href": "https://www.xfinity.com/learn/protection-plans",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Shop phones",
+      "href": "https://www.xfinity.com/digital/mobile/cell-phones",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "Check eligibility",
+      "href": "https://apply.internetessentials.com/",
+      "btn": true
+    },
+    {
+      "label": "Explore military discounts",
+      "href": "https://military.xfinity.com/",
+      "btn": true
+    },
+    {
+      "label": "Learn more about NOW",
+      "href": "https://www.xfinity.com/now",
+      "btn": true
+    },
+    {
+      "label": "Look up your new address",
+      "href": "https://login.xfinity.com/login",
+      "btn": true
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.xfinity.com/learn/mobile/wifi-powerboost",
+      "btn": true
+    },
+    {
+      "label": "Pricing & other info",
+      "href": "#Pricing&otherinfo",
+      "btn": true
+    },
+    {
+      "label": "student offers",
+      "href": "https://www.xfinity.com/student",
+      "btn": false
+    },
+    {
+      "label": "Internet Essentials",
+      "href": "https://www.xfinity.com/learn/internet-service/internet-essentials",
+      "btn": false
+    },
+    {
+      "label": "your online account dashboard",
+      "href": "https://www.xfinity.com/buy/plan/account?Referer=https://www.xfinity.com/buy/plan/offersfilter",
+      "btn": false
+    }
+  ],
+  "links": {
+    "internal": [
+      "/learn/deals/internet",
+      "/learn/deals",
+      "/learn/deals/internet-and-mobile",
+      "/learn/deals/internet-and-tv",
+      "/planbuilder",
+      "/digital/offers/plan-builder",
+      "/student",
+      "/learn/moving",
+      "/learn/digital-cable-tv/sports/soccer",
+      "/learn/digital-cable-tv/streaming-services",
+      "/learn/mobile/plan/savings-calculator/current",
+      "/learn/protection-plans",
+      "/digital/mobile/cell-phones",
+      "/now",
+      "/learn/mobile/wifi-powerboost",
+      "/learn/internet-service/internet-essentials",
+      "/buy/plan/account"
+    ],
+    "external": [
+      "https://apply.internetessentials.com/",
+      "https://military.xfinity.com/",
+      "https://login.xfinity.com/login"
+    ]
+  },
+  "media": {
+    "imgs": [
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/Icon_Check_Purple_24.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.comcast.com/assets/dotcom/projects_3/2026/may/cix-10467_movers_refresh_2-0/movers-page/Icon_Box_Purple.svg",
+        "alt": "",
+        "w": 40,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/Spacer.png",
+        "alt": "",
+        "w": 709,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+        "alt": "",
+        "w": 357,
+        "h": 48,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamsaver-cards/SS--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 253,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--IMG--Desktop.png",
+        "alt": "",
+        "w": 421,
+        "h": 211,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/ie_logo_white_rgb.svg",
+        "alt": "",
+        "w": 119,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_SPACER_DT.png",
+        "alt": "",
+        "w": 420,
+        "h": 105,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_SPACER_DT.png",
+        "alt": "",
+        "w": 420,
+        "h": 105,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/NOW_Vector_Logo_Gradient_RGB.svg",
+        "alt": "",
+        "w": 85,
+        "h": 40,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_SPACER_DT.png",
+        "alt": "",
+        "w": 420,
+        "h": 105,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/movingCarousel__card1image--desktop.png",
+        "alt": "",
+        "w": 840,
+        "h": 561,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/card3-desktop-410tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 410,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/card3-desktop-410tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 410,
+        "srcset": null
+      },
+      {
+        "src": "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/card3-desktop-410tall.png",
+        "alt": "",
+        "w": 420,
+        "h": 410,
+        "srcset": null
+      },
+      {
+        "src": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=15&buzz_key=nbcu&value=&segment_key=nbcu-15&account_id=2&order=&ord=1782639324",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://d.agkn.com/pixel/10533/?che=4982913772786.062&aauid=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://www.facebook.com/tr?id=3570459783026493&ev=PageView&cd[order_id]=73680185235348716144602679908397913221",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://bat.bing.net/action/0?ti=5280004&Ver=2&mid=ac66d9af-e870-4d1a-a4ef-7f43d7a8c959&bo=2&pi=918639831&lg=en-GB&sw=1440&sh=900&sc=30&nwd=1&tl=Xfinity%20Internet%20Deals%20and%20Promotions&p=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Finternet&r=&lt=1849&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=106790",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "srcset": null
+      },
+      {
+        "src": "https://t.co/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=b9a449ac-caab-4a63-9d0b-2ed5093a8b37&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf8bb0d9-685b-4584-b4a7-741e32db3b6e&pt=Xfinity%20Internet%20Deals%20and%20Promotions&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      },
+      {
+        "src": "https://analytics.twitter.com/i/adsct?bci=3&dv=Europe%2FRome%26en-GB%26Google%20Inc.%26MacIntel%26127%261440%26900%2612%2630%261440%26900%260%26na&eci=2&event_id=b9a449ac-caab-4a63-9d0b-2ed5093a8b37&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf8bb0d9-685b-4584-b4a7-741e32db3b6e&pt=Xfinity%20Internet%20Deals%20and%20Promotions&tw_document_href=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Finternet&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&twpid=tw.1782639296293.810152849310002447&txn_id=nuptm&type=javascript&version=2.3.53",
+        "alt": "",
+        "w": 1,
+        "h": 1,
+        "srcset": null
+      }
+    ],
+    "cssBackgrounds": [
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10376_ignite-minions-digital-merchandising/Minions-Ignite_HSD-Hero_Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9367_xlr8-value-segment-merchandising/XLR8-ValueSeg_HSD_Desktop.jpg",
+      "https://assets.comcast.com/assets/dotcom/projects_3/2026/june/cix-10432_6-15-student-exclusive-offer/Student-Offer-2026_Banner_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/may/cix-10262_soccer-page-updates-and-secondary-placements-for-world-cup/learn-placements/WorldCup_Homepage-Banner_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamsaver-banner/StreamSaver-Banner-BG-Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamsaver-cards/SS--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card2--BG--Desktop.png",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9924_hsd-deals-page/Cut-your-mobile-bill-in-half_Card_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9924_hsd-deals-page/Device-Protection_Card_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/feb/cix-9994_xm_2-25_refresh/xfinity-offers/HSD-Deals-Carousel_Card1_5G-Free-Phone_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_IE_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_Military_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2025/oct/cix-9380_wicked-imc-support/hsd-deals-carousel/HSD-Deals_Carousel_NOW_Desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/movingCarousel__intro--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/movingCarousel__card1--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/movingCarousel__card2--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_2/cix-7506_new-branding-good-stuff-page-refreshes/movers-carousel/movingCarousel__card3--desktop.jpg",
+      "https://assets.xfinity.com/assets/dotcom/projects_3/2026/apr/cix-9715_xm-mobile-plan-8-0-learn-journey-revamp/cix-9924_hsd-deals-page/Wifi-PowerBoost_Card_Desktop.jpg"
+    ],
+    "videos": [],
+    "inlineSvgCount": 0,
+    "iframes": [
+      "https://servedby.flashtalking.com/container/12345;91797;9487;iframe/?U6=c8e39b65-07db-4a41-bc24-eb6d2aa31f82&ft_referrer=https%3A//www.xfinity.com/learn/deals/internet&ns=&cb=256297.8131057012",
+      "https://4053494.fls.doubleclick.net/activityi;src=4053494;type=comca517;cat=xfini00p;rcb=15;ord=9312191607170;npa=1;auiddc=2098454930.1782639296;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B149.0.7827.199%7CChromium%3B149.0.7827.199%7CNot)A%253BBrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=10.15.7;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe66o1v9190932436za200zb895322993zd895322993xec;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938465~115938468~118012007~119027224~119576891~119576895;epver=2;dc_random=1782639324_scC2QiZRFBOCx8noSl2kD-XUsmdZ8VFf6g;_dc_test=1;~oref=https%3A%2F%2Fwww.xfinity.com%2Flearn%2Fdeals%2Finternet?",
+      "https://tr.snapchat.com/cm/i?pid=4c367ec5-94d5-4a20-92d3-470c2788b655&u_scsid=fc049cfd-a98f-4954-95fc-3a36f6226592&u_sclid=e0f62410-446d-4ec1-a39d-a7bd05a934ba"
+    ]
+  },
+  "forms": [],
+  "perSectionStyle": [
+    {
+      "i": 0,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "24px 0px 0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 1,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 64px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 2,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "56px 0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 3,
+      "bg": "rgb(246, 246, 249)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px 0px 24px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 4,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 5,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 6,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 7,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 8,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 9,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 246, 249)",
+      "padding": "40px 0px 0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 10,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    },
+    {
+      "i": 11,
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(20, 20, 23)",
+      "padding": "56px 0px 0px",
+      "fontFamily": "DMSans, Helvetica, sans-serif"
+    }
+  ],
+  "logoCandidate": "https://assets.xfinity.com/assets/dotcom/projects_3/2026/march/cix-10087_streamsaver-2dot0-secondary-placements/streamstore-and-streamsaver-combo-cards/Card1--Eyebrow--Desktop.png",
+  "logoSvg": false,
+  "stats": {
+    "wordCount": 1992,
+    "ctaCount": 39,
+    "internalLinkCount": 17,
+    "externalLinkCount": 3,
+    "imageCount": 36
+  }
+}

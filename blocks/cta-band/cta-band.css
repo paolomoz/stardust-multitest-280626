@@ -1,0 +1,16 @@
+.cta-band{ background:var(--xf-grad); border-radius:var(--xf-radius); }
+.cta-band.dark{ background:var(--xf-black); }
+.cta-band .cta-band-inner{
+  padding:clamp(40px,6vw,72px) clamp(24px,5vw,64px);
+  text-align:center;
+  color:#fff;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:10px;
+}
+.cta-band .cta-band-inner h2{ color:#fff; margin:0; max-width:20ch; }
+.cta-band .cta-band-inner p{ color:rgba(255,255,255,.92); font-size:1.125rem; margin:0; max-width:52ch; }
+.cta-band .cta-band-inner .btn-group{ justify-content:center; margin-top:1rem; }
+.cta-band .cta-band-inner a.btn{ background:#fff; color:var(--xf-ink); border-color:#fff; }
+.cta-band .cta-band-inner a.btn:hover{ background:var(--xf-ink); color:#fff; border-color:var(--xf-ink); }

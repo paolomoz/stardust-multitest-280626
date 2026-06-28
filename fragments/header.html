@@ -1,0 +1,56 @@
+<style>
+  header.header{--xf-violet:#5A23B9;--xf-magenta:#9013FE;position:sticky;top:0;z-index:100;background:#000;color:#fff;font-family:"DM Sans",arial,sans-serif;}
+  header.header .xf-nav{max-width:1320px;margin:0 auto;display:flex;align-items:center;gap:28px;padding:0 24px;height:72px;}
+  header.header .xf-logo{display:inline-flex;align-items:center;gap:0;text-decoration:none;color:#fff;flex:0 0 auto;}
+  header.header .xf-logo svg{display:block;height:26px;width:auto;}
+  header.header .xf-links{display:flex;align-items:center;gap:4px;flex:1 1 auto;list-style:none;margin:0;padding:0;}
+  header.header .xf-links>li>a{display:inline-block;color:#fff;text-decoration:none;font-weight:500;font-size:15px;padding:10px 14px;border-radius:8px;transition:background .15s ease;white-space:nowrap;}
+  header.header .xf-links>li>a:hover{background:rgba(255,255,255,.12);text-decoration:none;}
+  header.header .xf-actions{display:flex;align-items:center;gap:10px;flex:0 0 auto;}
+  header.header .xf-actions a.xf-signin{color:#fff;font-weight:500;font-size:14px;text-decoration:none;padding:8px 12px;}
+  header.header .xf-actions a.xf-cta{background:#fff;color:#000;font-weight:600;font-size:14px;text-decoration:none;padding:11px 20px;border-radius:999px;}
+  header.header .xf-actions a.xf-cta:hover{background:var(--xf-violet);color:#fff;}
+  header.header .xf-burger{display:none;background:none;border:0;color:#fff;font-size:26px;line-height:1;padding:6px 10px;}
+  header.header #xf-mobile{display:none;}
+  @media (max-width:1080px){
+    header.header .xf-links,header.header .xf-actions .xf-signin{display:none;}
+    header.header .xf-burger{display:inline-block;}
+    header.header #xf-mobile:target{display:block;}
+    header.header #xf-mobile{background:#111;padding:8px 0;}
+    header.header #xf-mobile ul{list-style:none;margin:0;padding:0;}
+    header.header #xf-mobile a{display:block;color:#fff;text-decoration:none;padding:12px 24px;font-size:16px;border-top:1px solid rgba(255,255,255,.08);}
+  }
+</style>
+<nav class="xf-nav" aria-label="Main">
+  <a class="xf-logo" href="/xfinity" aria-label="Xfinity home">
+    <svg viewBox="0 0 132 30" role="img" aria-label="Xfinity">
+      <text x="0" y="23" font-family="'DM Sans',arial,sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5" fill="#fff">x</text>
+      <text x="15" y="23" font-family="'DM Sans',arial,sans-serif" font-size="26" font-weight="600" letter-spacing="0.2" fill="#fff">finity</text>
+      <circle cx="9.5" cy="6" r="2.6" fill="#9013FE"/>
+    </svg>
+  </a>
+  <ul class="xf-links">
+    <li><a href="/xfinity/learn/internet-service">Internet</a></li>
+    <li><a href="/xfinity/learn/mobile">Mobile</a></li>
+    <li><a href="/xfinity/learn/digital-cable-tv">TV &amp; Streaming</a></li>
+    <li><a href="/xfinity/learn/home-security">Home Security</a></li>
+    <li><a href="/xfinity/learn/deals">Deals</a></li>
+    <li><a href="/xfinity/hub">Discover</a></li>
+  </ul>
+  <div class="xf-actions">
+    <a class="xf-signin" href="/xfinity/bill-pay">Sign in</a>
+    <a class="xf-cta" href="/xfinity/learn/deals">Shop deals</a>
+    <a class="xf-burger" href="#xf-mobile" aria-label="Open menu">&#9776;</a>
+  </div>
+</nav>
+<div id="xf-mobile">
+  <ul>
+    <li><a href="/xfinity/learn/internet-service">Internet</a></li>
+    <li><a href="/xfinity/learn/mobile">Mobile</a></li>
+    <li><a href="/xfinity/learn/digital-cable-tv">TV &amp; Streaming</a></li>
+    <li><a href="/xfinity/learn/home-security">Home Security</a></li>
+    <li><a href="/xfinity/learn/deals">Deals</a></li>
+    <li><a href="/xfinity/hub">Discover</a></li>
+    <li><a href="/xfinity/bill-pay">Sign in &amp; Pay Bill</a></li>
+  </ul>
+</div>
