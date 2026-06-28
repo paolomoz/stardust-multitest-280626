@@ -1,0 +1,78 @@
+<style>
+header.header { background: #fff; }
+header.header .trust { background: var(--surface-alt); border-bottom: 1px solid var(--border); font-size: 13.5px; color: var(--muted); }
+header.header .trust .wrap { display: flex; align-items: center; gap: 10px; padding-block: 8px; flex-wrap: wrap; }
+header.header .trust strong { color: var(--navy); font-weight: 700; }
+header.header .util { font-size: 14px; border-bottom: 1px solid var(--border); }
+header.header .util .wrap { display: flex; gap: 22px; padding-block: 9px; align-items: center; }
+header.header .util a { color: var(--text); text-decoration: none; }
+header.header .util a:hover { color: var(--link); }
+header.header .util .seg { font-weight: 600; }
+header.header .util .right { margin-left: auto; display: flex; gap: 20px; }
+header.header .masthead .wrap { display: flex; align-items: center; gap: 28px; padding-block: 16px; }
+header.header .logo { color: var(--navy); display: flex; align-items: center; text-decoration: none; }
+header.header .logo svg { height: 22px; width: auto; }
+header.header .search { margin-left: auto; display: flex; align-items: center; border: 1.5px solid var(--border); border-radius: 6px; overflow: hidden; max-width: 280px; flex: 1 1 200px; }
+header.header .search input { border: 0; padding: 9px 12px; font: inherit; font-size: 15px; flex: 1; min-width: 0; background: #fff; }
+header.header .search input:focus { outline: none; }
+header.header .search button { border: 0; background: var(--surface); padding: 9px 14px; cursor: pointer; color: var(--navy); font-size: 15px; }
+header.header .mainnav { border-top: 1px solid var(--border); }
+header.header .mainnav .wrap { display: flex; gap: 4px; flex-wrap: wrap; padding-block: 4px; }
+header.header .mainnav a { color: var(--text); text-decoration: none; font-weight: 600; font-size: 15.5px; padding: 12px 14px; border-radius: 6px; }
+header.header .mainnav a:hover { background: var(--surface); color: var(--navy); }
+header.header #boa-nav-toggle { position: absolute; opacity: 0; pointer-events: none; }
+header.header .burger { display: none; }
+@media (width <= 980px) {
+  header.header .util .seg:not(:first-child), header.header .util .right a:nth-child(n+3) { display: none; }
+  header.header .burger { display: flex; flex-direction: column; gap: 5px; margin-left: auto; cursor: pointer; padding: 8px; }
+  header.header .burger span { display: block; width: 24px; height: 2px; background: var(--navy); }
+  header.header .mainnav .wrap { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; padding-block: 0; flex-direction: column; gap: 0; }
+  header.header #boa-nav-toggle:checked ~ .mainnav .wrap { max-height: 520px; padding-block: 4px; }
+  header.header .mainnav a { width: 100%; }
+}
+@media (width <= 640px) {
+  header.header .search { max-width: 100%; order: 3; flex-basis: 100%; }
+  header.header .masthead .wrap { flex-wrap: wrap; }
+}
+</style>
+<input type="checkbox" id="boa-nav-toggle" aria-hidden="true">
+<div class="trust">
+  <div class="wrap"><span>Bank of America deposit products:</span> <strong>FDIC</strong> <span>FDIC-Insured &mdash; Backed by the full faith and credit of the U.S. Government</span></div>
+</div>
+<div class="util">
+  <div class="wrap">
+    <a class="seg" href="/bankofamerica" aria-current="page">Personal</a>
+    <a class="seg" href="/bankofamerica/wealth-management">Wealth Management</a>
+    <a class="seg" href="/bankofamerica/smallbusiness">Business</a>
+    <a class="seg" href="/bankofamerica/corporations-institutions">Corporations &amp; Institutions</a>
+    <span class="right">
+      <a href="/bankofamerica/security-center/overview">Security</a>
+      <a href="/bankofamerica/about">About Us</a>
+      <a href="/bankofamerica/contact-us">Contact Us</a>
+      <a href="/bankofamerica/help/overview">Help</a>
+    </span>
+  </div>
+</div>
+<div class="masthead">
+  <div class="wrap">
+    <a class="logo" href="/bankofamerica" aria-label="Bank of America home">
+      <svg viewBox="0 0 231 24" height="22" fill="currentColor" aria-hidden="true" role="img"><text x="0" y="18" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="0.5">BANK OF AMERICA</text></svg>
+    </a>
+    <div class="search" role="search">
+      <input type="search" placeholder="Search" aria-label="Search bankofamerica.com">
+      <button type="button" aria-label="Search">&#128269;</button>
+    </div>
+    <label class="burger" for="boa-nav-toggle" aria-label="Toggle navigation"><span></span><span></span><span></span></label>
+  </div>
+</div>
+<nav class="mainnav" aria-label="Primary">
+  <div class="wrap">
+    <a href="/bankofamerica/deposits/checking/checking-accounts">Checking</a>
+    <a href="/bankofamerica/deposits/savings/savings-accounts">Savings &amp; CDs</a>
+    <a href="/bankofamerica/credit-cards">Credit Cards</a>
+    <a href="/bankofamerica/mortgage/home-mortgage">Home Loans</a>
+    <a href="/bankofamerica/auto-loans">Auto Loans</a>
+    <a href="/bankofamerica/merrill-investing">Merrill Investing</a>
+    <a href="/bankofamerica/better-money-habits">Better Money Habits</a>
+  </div>
+</nav>

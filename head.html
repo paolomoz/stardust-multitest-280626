@@ -1,9 +1,16 @@
-<meta
-  http-equiv="Content-Security-Policy"
-  content="script-src 'nonce-aem' 'strict-dynamic' 'unsafe-inline' http: https:; base-uri 'self'; object-src 'none';"
-  move-to-http-header="true"
->
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<script nonce="aem" src="/scripts/aem.js" type="module"></script>
-<script nonce="aem" src="/scripts/scripts.js" type="module"></script>
 <link rel="stylesheet" href="/styles/styles.css"/>
+<script src="/scripts/scripts.js" type="module"></script>
+<script src="/scripts/ak.js" type="module"></script>
+<meta name="theme-color" content="#012169"/>
+<link rel="icon" href="/icons/favicon.svg"/>
+<link rel="apple-touch-icon" href="/icons/favicon.svg"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "BankOrCreditUnion", "@id": "https://www.bankofamerica.com/#organization", "name": "Bank of America", "legalName": "Bank of America Corporation", "url": "https://www.bankofamerica.com/", "logo": "/icons/favicon.svg", "sameAs": ["https://www.facebook.com/BankofAmerica","https://www.instagram.com/bankofamerica/","https://www.youtube.com/bankofamerica","https://x.com/BankofAmerica"] },
+    { "@type": "WebSite", "@id": "https://www.bankofamerica.com/#website", "name": "Bank of America", "url": "https://www.bankofamerica.com/", "publisher": { "@id": "https://www.bankofamerica.com/#organization" } }
+  ]
+}
+</script>

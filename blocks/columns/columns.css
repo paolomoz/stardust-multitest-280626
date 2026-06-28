@@ -1,33 +1,11 @@
-.columns > div {
-  display: flex;
-  flex-direction: column;
-}
+.columns .columns-split { display: grid; grid-template-columns: 1fr 1fr; gap: 44px; align-items: center; }
+.columns .columns-copy h2 { font-size: clamp(1.5rem, 2.4vw, 2.1rem); color: var(--navy); margin-bottom: 14px; }
+.columns .columns-copy h2::before { content: ""; display: block; width: 48px; height: 4px; background: var(--red); border-radius: 2px; margin-bottom: 18px; }
+.columns .columns-text { color: var(--muted); font-size: 18px; margin-bottom: 22px; }
+.columns .columns-media img { border-radius: var(--radius); width: 100%; aspect-ratio: 16 / 10; object-fit: cover; box-shadow: var(--shadow-sm); }
 
-.columns img {
-  width: 100%;
-}
-
-.columns > div > div {
-  order: 1;
-}
-
-.columns > div > .columns-img-col {
-  order: 0;
-}
-
-.columns > div > .columns-img-col img {
-  display: block;
-}
-
-@media (width >= 900px) {
-  .columns > div {
-    align-items: center;
-    flex-direction: unset;
-    gap: 24px;
-  }
-
-  .columns > div > div {
-    flex: 1;
-    order: unset;
-  }
+@media (width <= 980px) {
+  .columns .columns-split { grid-template-columns: 1fr; gap: 28px; }
+  .columns .columns-media { order: -1; }
+  .columns.reverse .columns-media { order: -1; }
 }

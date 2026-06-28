@@ -1,0 +1,18 @@
+.cta-band .cta-band-inner {
+  background: var(--navy); color: #fff; border-radius: var(--radius);
+  padding: 44px; text-align: center;
+}
+.cta-band .cta-band-inner h2 { font-size: 1.7rem; margin-bottom: 10px; }
+.cta-band .cta-band-text { opacity: 0.9; margin-bottom: 22px; max-width: 560px; margin-inline: auto; }
+
+/* CTA on navy: white button, navy text */
+.cta-band .cta-band-inner a.btn,
+.cta-band .cta-band-inner p.button-container a {
+  background: #fff; color: var(--navy); border-color: #fff;
+}
+.cta-band .cta-band-inner a.btn:hover,
+.cta-band .cta-band-inner p.button-container a:hover { background: var(--surface); }
+
+@media (width <= 640px) {
+  .cta-band .cta-band-inner { padding: 32px 22px; }
+}
