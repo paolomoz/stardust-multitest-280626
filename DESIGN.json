@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "colors": {
+    "navy": "#012169",
+    "red": "#e31837",
+    "heroBlue": "#1668c9",
+    "heroBlueDeep": "#0a3bb0",
+    "link": "#1564bf",
+    "background": "#ffffff",
+    "surface": "#f4f6f8",
+    "surfaceAlt": "#eef1f5",
+    "text": "#1a1a1a",
+    "textMuted": "#5a6470",
+    "border": "#d4dae1"
+  },
+  "typography": {
+    "heading": "'Helvetica Neue', Arial, system-ui, sans-serif",
+    "body": "system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif",
+    "scaleRatio": 1.25
+  },
+  "rounded": "12px",
+  "spacing": { "base": "4pt", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "extensions": {
+    "mode": "A-brand-faithful",
+    "brandSignal": "signal-strong",
+    "divergence": {
+      "seed": { "decade": "2025-now", "register": "civic-institutional", "ground_family": "stark-white", "ground_family_override": "brand-faithful" },
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "brand_faithful_inversions": ["pure navy #012169 retained", "pure red #e31837 retained (hex format)", "stark-white ground retained"]
+    },
+    "componentStyle": {
+      "buttons": "primary navy pill; secondary white pill w/ navy border; link CTA underlined blue",
+      "cards": "white, 12px radius, soft shadow, image-top",
+      "inputs": "6px radius, navy focus ring",
+      "dualCTAPattern": "primary pill + secondary text-link (not two equal pills)"
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "utility nav + main product nav + search + sign-in", "position": "top, sticky-eligible" },
+      "footer": { "purpose": "product columns + legal + FDIC + copyright", "position": "bottom" },
+      "trust-strip": { "purpose": "FDIC + equal-housing signalling", "position": "above-header or footer" },
+      "cta-band": { "purpose": "full-bleed navy/blue conversion band", "position": "section" }
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "home hero credit-card showcase + Open an account / Apply CTAs", "preserveAs": "first-viewport", "scope": "site-wide", "mutability": "movable" },
+      { "signal": "audience-routing", "evidence": "utility nav Personal/Wealth/Business/Corporations", "preserveAs": "header", "scope": "site-wide", "mutability": "locked" },
+      { "signal": "trust-affordance", "evidence": "FDIC trust strip + security center links", "preserveAs": "persistent", "scope": "site-wide", "mutability": "locked" }
+    ],
+    "motion": {
+      "register": "arrival",
+      "registerRationale": "PRODUCT.md Brand Personality: civic-formal + institutional",
+      "durations": { "enter": 420, "stagger": 80 }
+    },
+    "voice": {
+      "do": ["Lead with the benefit", "Plain language", "Concrete numbers", "Reassure on safety"],
+      "dont": ["Hype/slang", "Vague claims", "Fabricated offers", "Dark-pattern disclosure"]
+    },
+    "metadata": {
+      "siteName": "Bank of America",
+      "themeColor": "#012169",
+      "locale": "en-US"
+    }
+  },
+  "narrative": {
+    "northStar": "Unmistakably Bank of America, executed cleanly for 2026.",
+    "overview": "Faithful, modernized consumer-banking surface: navy/red flagscape identity, royal-blue hero bands, card-grid IA, persistent trust signalling.",
+    "rules": ["One h1 per page", "Red used sparingly as accent only", "White text on navy/blue bands", "Real photography only"]
+  }
+}
